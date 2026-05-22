@@ -7,18 +7,34 @@ const fs = require('fs');
 const path = require('path');
 
 const CHANNELS = {
-  rybar:          { name: 'Rybar',                  bias: 'pro-russian' },
-  boris_rozhin:   { name: 'Colonel Cassad',         bias: 'pro-russian' },
-  dva_majors:     { name: 'Two Majors',             bias: 'pro-russian' },
-  RVvoenkor:      { name: 'War Correspondents',     bias: 'pro-russian' },
-  voenkorKotenok: { name: 'Voenkor Kotenok',        bias: 'pro-russian' },
-  milinfolive:    { name: 'Military Informant',     bias: 'pro-russian' },
-  swodki:         { name: 'SWODKI',                 bias: 'pro-russian' },
-  sashakots:      { name: 'Sasha Kots',             bias: 'pro-russian' },
-  DeepStateUA:    { name: 'DeepState UA',           bias: 'pro-ukrainian' },
-  OperativnoZSU:  { name: 'Operativno ZSU',         bias: 'pro-ukrainian' },
-  ssternenko:     { name: 'Sternenko',              bias: 'pro-ukrainian' },
-  GeoConfirmed:   { name: 'GeoConfirmed',           bias: 'neutral' },
+  // Russian / pro-Russian (weighted higher)
+  rybar:                { name: 'Rybar',                bias: 'pro-russian',   weight: 3 },
+  WarGonzo:             { name: 'WarGonzo',             bias: 'pro-russian',   weight: 3 },
+  readovkanews:         { name: 'Readovka',             bias: 'pro-russian',   weight: 3 },
+  mash:                 { name: 'Mash',                 bias: 'pro-russian',   weight: 3 },
+  mod_russia:           { name: 'Russian MOD',          bias: 'pro-russian',   weight: 3 },
+  boris_rozhin:         { name: 'Colonel Cassad',       bias: 'pro-russian',   weight: 2 },
+  dva_majors:           { name: 'Two Majors',           bias: 'pro-russian',   weight: 2 },
+  RVvoenkor:            { name: 'War Correspondents',   bias: 'pro-russian',   weight: 2 },
+  voenkorKotenok:       { name: 'Voenkor Kotenok',      bias: 'pro-russian',   weight: 2 },
+  milinfolive:          { name: 'Military Informant',   bias: 'pro-russian',   weight: 2 },
+  swodki:               { name: 'SWODKI',               bias: 'pro-russian',   weight: 2 },
+  sashakots:            { name: 'Sasha Kots',           bias: 'pro-russian',   weight: 2 },
+  epoddubny:            { name: 'Yevgeny Poddubny',     bias: 'pro-russian',   weight: 2 },
+  SolovievLive:         { name: 'Solovyov Live',        bias: 'pro-russian',   weight: 2 },
+  rusvesnasu:           { name: 'Russian Spring',       bias: 'pro-russian',   weight: 1 },
+  anna_news:            { name: 'Anna News',            bias: 'pro-russian',   weight: 1 },
+  grey_zone:            { name: 'Grey Zone',            bias: 'pro-russian',   weight: 1 },
+  oldminer:             { name: 'Old Miner',            bias: 'pro-russian',   weight: 1 },
+  ukraina_ru:           { name: 'Ukraina.ru',           bias: 'pro-russian',   weight: 1 },
+  // Ukrainian for cross-reference
+  DeepStateUA:          { name: 'DeepState UA',         bias: 'pro-ukrainian', weight: 1 },
+  OperativnoZSU:        { name: 'Operativno ZSU',       bias: 'pro-ukrainian', weight: 1 },
+  ssternenko:           { name: 'Sternenko',            bias: 'pro-ukrainian', weight: 1 },
+  V_Zelenskiy_official: { name: 'Zelensky Official',    bias: 'pro-ukrainian', weight: 1 },
+  // Neutral
+  GeoConfirmed:         { name: 'GeoConfirmed',         bias: 'neutral',       weight: 1 },
+  vchkogpu:             { name: 'VChK-OGPU',            bias: 'neutral',       weight: 1 },
 };
 
 const LOCATION_MAP = {
@@ -117,8 +133,10 @@ async function fetchChannel(channelId, channelInfo) {
         source: `Telegram: ${channelInfo.name}`,
         metadata: {
           telegramChannel: channelId,
+          telegramChannelName: channelInfo.name,
           telegramPostId: postId,
           bias: channelInfo.bias,
+          weight: channelInfo.weight || 1,
           telegramUrl: `https://t.me/${postId}`,
         },
         lastUpdated: new Date().toISOString(),

@@ -7,12 +7,18 @@ const fs = require('fs');
 const path = require('path');
 
 const CHANNELS = {
-  rybar:        { name: 'Rybar',             bias: 'pro-russian' },
-  boris_rozhin: { name: 'Colonel Cassad',    bias: 'pro-russian' },
-  dva_majors:   { name: 'Two Majors',        bias: 'pro-russian' },
-  RVvoenkor:    { name: 'War Correspondents', bias: 'pro-russian' },
-  GeoConfirmed: { name: 'GeoConfirmed',      bias: 'neutral' },
-  DeepStateUA:  { name: 'DeepState UA',      bias: 'pro-ukrainian' },
+  rybar:          { name: 'Rybar',                  bias: 'pro-russian' },
+  boris_rozhin:   { name: 'Colonel Cassad',         bias: 'pro-russian' },
+  dva_majors:     { name: 'Two Majors',             bias: 'pro-russian' },
+  RVvoenkor:      { name: 'War Correspondents',     bias: 'pro-russian' },
+  voenkorKotenok: { name: 'Voenkor Kotenok',        bias: 'pro-russian' },
+  milinfolive:    { name: 'Military Informant',     bias: 'pro-russian' },
+  swodki:         { name: 'SWODKI',                 bias: 'pro-russian' },
+  sashakots:      { name: 'Sasha Kots',             bias: 'pro-russian' },
+  DeepStateUA:    { name: 'DeepState UA',           bias: 'pro-ukrainian' },
+  OperativnoZSU:  { name: 'Operativno ZSU',         bias: 'pro-ukrainian' },
+  ssternenko:     { name: 'Sternenko',              bias: 'pro-ukrainian' },
+  GeoConfirmed:   { name: 'GeoConfirmed',           bias: 'neutral' },
 };
 
 const LOCATION_MAP = {

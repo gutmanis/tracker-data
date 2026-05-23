@@ -352,5 +352,14 @@
       "warRelated": 2026,
       "timeS": "294.8"
     }
-  ]
+  ],
+  "afterStrictFilter": {
+    "total": 62161,
+    "dropped": 11249,
+    "dropReasons": {
+      "other_conflict": 10777,
+      "noise_pattern": 98,
+      "ad_spam": 374
+    }
+  }
 }

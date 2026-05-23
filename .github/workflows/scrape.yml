@@ -2,7 +2,9 @@ name: Scrape and Update Data
 
 on:
   schedule:
-    - cron: '0 */6 * * *'   # Every 6 hours
+    # Every 2 hours — fast enough to catch the busiest channels (TASS/Solovyov/Cassad ~100 posts/day)
+    # where the 20-post preview window only spans ~2.5 hours
+    - cron: '0 */2 * * *'
   workflow_dispatch:          # Manual trigger from GitHub UI
 
 jobs:

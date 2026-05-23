@@ -1,0 +1,356 @@
+{
+  "runAt": "2026-05-23T19:05:27.629Z",
+  "cutoff": "2026-01-01T00:00:00.000Z",
+  "totalEvents": 73410,
+  "durationMinutes": "175.7",
+  "channels": [
+    {
+      "channel": "rybar",
+      "posts": 2893,
+      "warRelated": 2331,
+      "timeS": "220.5"
+    },
+    {
+      "channel": "WarGonzo",
+      "posts": 1383,
+      "warRelated": 1107,
+      "timeS": "129.4"
+    },
+    {
+      "channel": "readovkanews",
+      "posts": 4123,
+      "warRelated": 1381,
+      "timeS": "286.7"
+    },
+    {
+      "channel": "mash",
+      "posts": 2444,
+      "warRelated": 744,
+      "timeS": "167.4"
+    },
+    {
+      "channel": "mod_russia",
+      "posts": 3049,
+      "warRelated": 2397,
+      "timeS": "204.1"
+    },
+    {
+      "channel": "yurasumy",
+      "posts": 1269,
+      "warRelated": 781,
+      "timeS": "86.8"
+    },
+    {
+      "channel": "shot_shot",
+      "posts": 2886,
+      "warRelated": 855,
+      "timeS": "280.6"
+    },
+    {
+      "channel": "intelslava",
+      "posts": 5516,
+      "warRelated": 2785,
+      "timeS": "351.8"
+    },
+    {
+      "channel": "tass_agency",
+      "posts": 9518,
+      "warRelated": 2217,
+      "timeS": "445.7"
+    },
+    {
+      "channel": "rian_ru",
+      "posts": 7927,
+      "warRelated": 2470,
+      "timeS": "411.3"
+    },
+    {
+      "channel": "boris_rozhin",
+      "posts": 7007,
+      "warRelated": 4014,
+      "timeS": "646.1"
+    },
+    {
+      "channel": "dva_majors",
+      "posts": 4532,
+      "warRelated": 3199,
+      "timeS": "435.8"
+    },
+    {
+      "channel": "RVvoenkor",
+      "posts": 5996,
+      "warRelated": 3620,
+      "timeS": "631.0"
+    },
+    {
+      "channel": "voenkorKotenok",
+      "posts": 2115,
+      "warRelated": 1303,
+      "timeS": "127.3"
+    },
+    {
+      "channel": "milinfolive",
+      "posts": 3644,
+      "warRelated": 2380,
+      "timeS": "543.1"
+    },
+    {
+      "channel": "swodki",
+      "posts": 6016,
+      "warRelated": 3452,
+      "timeS": "512.5"
+    },
+    {
+      "channel": "sashakots",
+      "posts": 1868,
+      "warRelated": 1376,
+      "timeS": "156.8"
+    },
+    {
+      "channel": "epoddubny",
+      "posts": 1293,
+      "warRelated": 970,
+      "timeS": "92.9"
+    },
+    {
+      "channel": "SolovievLive",
+      "posts": 8743,
+      "warRelated": 3871,
+      "timeS": "491.6"
+    },
+    {
+      "channel": "Sladkov_plus",
+      "posts": 456,
+      "warRelated": 255,
+      "timeS": "28.1"
+    },
+    {
+      "channel": "voenacher",
+      "posts": 2371,
+      "warRelated": 1527,
+      "timeS": "229.4"
+    },
+    {
+      "channel": "zakharprilepin",
+      "posts": 795,
+      "warRelated": 367,
+      "timeS": "49.2"
+    },
+    {
+      "channel": "warfakes",
+      "posts": 793,
+      "warRelated": 417,
+      "timeS": "128.5"
+    },
+    {
+      "channel": "SergeyKolyasnikov",
+      "posts": 2545,
+      "warRelated": 922,
+      "timeS": "244.3"
+    },
+    {
+      "channel": "rsotmdivision",
+      "posts": 0,
+      "warRelated": 0,
+      "timeS": "0.4"
+    },
+    {
+      "channel": "strelkovii",
+      "posts": 144,
+      "warRelated": 116,
+      "timeS": "7.8"
+    },
+    {
+      "channel": "rt_russian",
+      "posts": 0,
+      "warRelated": 0,
+      "timeS": "0.4"
+    },
+    {
+      "channel": "margaritasimonyan",
+      "posts": 285,
+      "warRelated": 51,
+      "timeS": "20.6"
+    },
+    {
+      "channel": "medvedev_telegram",
+      "posts": 21,
+      "warRelated": 6,
+      "timeS": "1.1"
+    },
+    {
+      "channel": "rusbrief",
+      "posts": 0,
+      "warRelated": 0,
+      "timeS": "0.1"
+    },
+    {
+      "channel": "tassagency_en",
+      "posts": 8946,
+      "warRelated": 3761,
+      "timeS": "491.8"
+    },
+    {
+      "channel": "rusvesnasu",
+      "posts": 448,
+      "warRelated": 176,
+      "timeS": "37.6"
+    },
+    {
+      "channel": "anna_news",
+      "posts": 3151,
+      "warRelated": 1873,
+      "timeS": "201.8"
+    },
+    {
+      "channel": "grey_zone",
+      "posts": 0,
+      "warRelated": 0,
+      "timeS": "0.3"
+    },
+    {
+      "channel": "oldminer",
+      "posts": 0,
+      "warRelated": 0,
+      "timeS": "0.4"
+    },
+    {
+      "channel": "ukraina_ru",
+      "posts": 0,
+      "warRelated": 0,
+      "timeS": "0.2"
+    },
+    {
+      "channel": "rusich_army",
+      "posts": 1410,
+      "warRelated": 815,
+      "timeS": "83.4"
+    },
+    {
+      "channel": "vrogov",
+      "posts": 1470,
+      "warRelated": 1125,
+      "timeS": "96.5"
+    },
+    {
+      "channel": "aleksandr_skif",
+      "posts": 125,
+      "warRelated": 65,
+      "timeS": "6.7"
+    },
+    {
+      "channel": "vysokygovorit",
+      "posts": 900,
+      "warRelated": 525,
+      "timeS": "52.6"
+    },
+    {
+      "channel": "smotri_z",
+      "posts": 3479,
+      "warRelated": 2755,
+      "timeS": "168.9"
+    },
+    {
+      "channel": "rlz_the_kraken",
+      "posts": 2355,
+      "warRelated": 787,
+      "timeS": "174.0"
+    },
+    {
+      "channel": "talipovonline",
+      "posts": 1,
+      "warRelated": 0,
+      "timeS": "0.2"
+    },
+    {
+      "channel": "brussinf",
+      "posts": 250,
+      "warRelated": 147,
+      "timeS": "14.8"
+    },
+    {
+      "channel": "ramzayiegokomanda",
+      "posts": 5800,
+      "warRelated": 3629,
+      "timeS": "428.7"
+    },
+    {
+      "channel": "RtrDonetsk",
+      "posts": 2320,
+      "warRelated": 1927,
+      "timeS": "119.6"
+    },
+    {
+      "channel": "dshrg2",
+      "posts": 301,
+      "warRelated": 115,
+      "timeS": "27.9"
+    },
+    {
+      "channel": "southfronteng",
+      "posts": 1395,
+      "warRelated": 1034,
+      "timeS": "215.6"
+    },
+    {
+      "channel": "SputnikLive",
+      "posts": 0,
+      "warRelated": 0,
+      "timeS": "0.4"
+    },
+    {
+      "channel": "lifenews_media",
+      "posts": 0,
+      "warRelated": 0,
+      "timeS": "0.2"
+    },
+    {
+      "channel": "DeepStateUA",
+      "posts": 464,
+      "warRelated": 416,
+      "timeS": "34.0"
+    },
+    {
+      "channel": "OperativnoZSU",
+      "posts": 8072,
+      "warRelated": 3530,
+      "timeS": "538.5"
+    },
+    {
+      "channel": "ssternenko",
+      "posts": 3057,
+      "warRelated": 1411,
+      "timeS": "305.3"
+    },
+    {
+      "channel": "V_Zelenskiy_official",
+      "posts": 329,
+      "warRelated": 218,
+      "timeS": "26.6"
+    },
+    {
+      "channel": "ukrpravda_news",
+      "posts": 4687,
+      "warRelated": 2161,
+      "timeS": "288.3"
+    },
+    {
+      "channel": "GeoConfirmed",
+      "posts": 0,
+      "warRelated": 0,
+      "timeS": "0.4"
+    },
+    {
+      "channel": "vchkogpu",
+      "posts": 0,
+      "warRelated": 0,
+      "timeS": "0.2"
+    },
+    {
+      "channel": "meduzalive",
+      "posts": 5833,
+      "warRelated": 2026,
+      "timeS": "294.8"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+# Backfill produces all.json which exceeds GitHub's 100MB file limit.
+# Use monthly archives in events/archive/ instead.
+events/all.json
+node_modules/

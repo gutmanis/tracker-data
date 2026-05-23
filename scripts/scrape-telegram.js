@@ -7,34 +7,73 @@ const fs = require('fs');
 const path = require('path');
 
 const CHANNELS = {
-  // Russian / pro-Russian (weighted higher)
+  // ===== Tier 1 — Top Russian channels (1M+ subs) =====
   rybar:                { name: 'Rybar',                bias: 'pro-russian',   weight: 3 },
   WarGonzo:             { name: 'WarGonzo',             bias: 'pro-russian',   weight: 3 },
   readovkanews:         { name: 'Readovka',             bias: 'pro-russian',   weight: 3 },
   mash:                 { name: 'Mash',                 bias: 'pro-russian',   weight: 3 },
   mod_russia:           { name: 'Russian MOD',          bias: 'pro-russian',   weight: 3 },
+  yurasumy:             { name: 'Yuriy Podolyaka',      bias: 'pro-russian',   weight: 3 },
+  shot_shot:            { name: 'SHOT',                 bias: 'pro-russian',   weight: 3 },
+  intelslava:           { name: 'Intel Slava Z',        bias: 'pro-russian',   weight: 3 },
+  tass_agency:          { name: 'TASS',                 bias: 'pro-russian',   weight: 3 },
+  rian_ru:              { name: 'RIA Novosti',          bias: 'pro-russian',   weight: 3 },
+
+  // ===== Tier 2 — Major milbloggers =====
   boris_rozhin:         { name: 'Colonel Cassad',       bias: 'pro-russian',   weight: 2 },
   dva_majors:           { name: 'Two Majors',           bias: 'pro-russian',   weight: 2 },
-  RVvoenkor:            { name: 'War Correspondents',   bias: 'pro-russian',   weight: 2 },
+  RVvoenkor:            { name: 'Operation Z (RV)',     bias: 'pro-russian',   weight: 2 },
   voenkorKotenok:       { name: 'Voenkor Kotenok',      bias: 'pro-russian',   weight: 2 },
   milinfolive:          { name: 'Military Informant',   bias: 'pro-russian',   weight: 2 },
   swodki:               { name: 'SWODKI',               bias: 'pro-russian',   weight: 2 },
-  sashakots:            { name: 'Sasha Kots',           bias: 'pro-russian',   weight: 2 },
-  epoddubny:            { name: 'Yevgeny Poddubny',     bias: 'pro-russian',   weight: 2 },
+  sashakots:            { name: 'Kotsnews',             bias: 'pro-russian',   weight: 2 },
+  epoddubny:            { name: 'Poddubny ZOV',         bias: 'pro-russian',   weight: 2 },
   SolovievLive:         { name: 'Solovyov Live',        bias: 'pro-russian',   weight: 2 },
+  Sladkov_plus:         { name: 'Sladkov +',            bias: 'pro-russian',   weight: 2 },
+  voenacher:            { name: 'Turned on Z War',      bias: 'pro-russian',   weight: 2 },
+  zakharprilepin:       { name: 'Zakhar Prilepin',      bias: 'pro-russian',   weight: 2 },
+  warfakes:             { name: 'War on Fakes',         bias: 'pro-russian',   weight: 2 },
+  SergeyKolyasnikov:    { name: 'Zergulio',             bias: 'pro-russian',   weight: 2 },
+  rsotmdivision:        { name: 'RSOTM',                bias: 'pro-russian',   weight: 2 },
+  strelkovii:           { name: 'Strelkov',             bias: 'pro-russian',   weight: 2 },
+  rt_russian:           { name: 'RT Russian',           bias: 'pro-russian',   weight: 2 },
+  margaritasimonyan:    { name: 'Margarita Simonyan',   bias: 'pro-russian',   weight: 2 },
+  medvedev_telegram:    { name: 'Dmitry Medvedev',      bias: 'pro-russian',   weight: 2 },
+  rusbrief:             { name: 'BRIEF',                bias: 'pro-russian',   weight: 2 },
+  tassagency_en:        { name: 'TASS English',         bias: 'pro-russian',   weight: 2 },
+
+  // ===== Tier 3 — Smaller specialized =====
   rusvesnasu:           { name: 'Russian Spring',       bias: 'pro-russian',   weight: 1 },
   anna_news:            { name: 'Anna News',            bias: 'pro-russian',   weight: 1 },
   grey_zone:            { name: 'Grey Zone',            bias: 'pro-russian',   weight: 1 },
   oldminer:             { name: 'Old Miner',            bias: 'pro-russian',   weight: 1 },
   ukraina_ru:           { name: 'Ukraina.ru',           bias: 'pro-russian',   weight: 1 },
-  // Ukrainian for cross-reference
+  rusich_army:          { name: 'Archangel SpN Z',      bias: 'pro-russian',   weight: 1 },
+  vrogov:               { name: 'Vladimir Rogov',       bias: 'pro-russian',   weight: 1 },
+  aleksandr_skif:       { name: 'Khodakovsky',          bias: 'pro-russian',   weight: 1 },
+  vysokygovorit:        { name: 'Older than Edda',      bias: 'pro-russian',   weight: 1 },
+  smotri_z:             { name: 'Come and See',         bias: 'pro-russian',   weight: 1 },
+  rlz_the_kraken:       { name: 'Release the Kraken',   bias: 'pro-russian',   weight: 1 },
+  talipovonline:        { name: 'TalipoV Online',       bias: 'pro-russian',   weight: 1 },
+  brussinf:             { name: 'Call Sign Bruce',      bias: 'pro-russian',   weight: 1 },
+  ramzayiegokomanda:    { name: 'Ramzai',               bias: 'pro-russian',   weight: 1 },
+  RtrDonetsk:           { name: 'Reporter Rudenko',     bias: 'pro-russian',   weight: 1 },
+  dshrg2:               { name: 'DSHRG Rusich',         bias: 'pro-russian',   weight: 1 },
+  southfronteng:        { name: 'SouthFront',           bias: 'pro-russian',   weight: 1 },
+  SputnikLive:          { name: 'Sputnik Live',         bias: 'pro-russian',   weight: 1 },
+  lifenews_media:       { name: 'Life News',            bias: 'pro-russian',   weight: 1 },
+
+  // ===== Ukrainian (cross-reference) =====
   DeepStateUA:          { name: 'DeepState UA',         bias: 'pro-ukrainian', weight: 1 },
   OperativnoZSU:        { name: 'Operativno ZSU',       bias: 'pro-ukrainian', weight: 1 },
   ssternenko:           { name: 'Sternenko',            bias: 'pro-ukrainian', weight: 1 },
   V_Zelenskiy_official: { name: 'Zelensky Official',    bias: 'pro-ukrainian', weight: 1 },
-  // Neutral
+  ukrpravda_news:       { name: 'Ukrainska Pravda',     bias: 'pro-ukrainian', weight: 1 },
+
+  // ===== Neutral / Independent =====
   GeoConfirmed:         { name: 'GeoConfirmed',         bias: 'neutral',       weight: 1 },
   vchkogpu:             { name: 'VChK-OGPU',            bias: 'neutral',       weight: 1 },
+  meduzalive:           { name: 'Meduza',               bias: 'neutral',       weight: 1 },
 };
 
 const LOCATION_MAP = {

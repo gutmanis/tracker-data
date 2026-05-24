@@ -1,5 +1,955 @@
 [
   {
+    "id": "tg-readovkanews-110694",
+    "type": "battle",
+    "title": "Перед Суперфиналом Кубка России пройдет минута молчания в память о жертвах терак",
+    "description": "Перед Суперфиналом Кубка России пройдет минута молчания в память о жертвах теракта в Старобельске\n\nВ ней примут участие футболисты «Краснодара» и «Спартака», а также более 70 тыс болельщиков, которые соберутся в «Лужниках», сообщили в Российском футбольном союзе. Минута молчания пройдет в память о жертвах, погибших в результате атаки ВСУ на колледж в Старобельске ЛНР.\n\nПо последним данным, в результате атаки на колледж погиб 21 ребенок, еще более 60 детей пострадали.\n\n🎉 Подписывайся на Readovka",
+    "location": {
+      "lat": 49.2786,
+      "lng": 38.9069
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-24T13:57:39+00:00",
+    "source": "Telegram: Readovka",
+    "metadata": {
+      "telegramChannel": "readovkanews",
+      "telegramChannelName": "Readovka",
+      "telegramPostId": "readovkanews/110694",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/readovkanews/110694",
+      "region": "Luhansk Oblast"
+    },
+    "lastUpdated": "2026-05-24T15:06:51.965Z",
+    "createdAt": "2026-05-24T15:06:51.965Z"
+  },
+  {
+    "id": "tg-mash-74557",
+    "type": "strategic",
+    "title": "13 машин столкнулись на Ярославском шоссе в Подмосковье в районе посёлка Лесной ",
+    "description": "13 машин столкнулись на Ярославском шоссе в Подмосковье в районе посёлка Лесной — водитель грузовика потерял управление и выехал на встречку. \n\nПострадавшим потребовалась медицинская помощь, на трассе образовалась огромная пробка.\n\nUPD. Один человек погиб, шестеро обратились за помощью к медикам.\n\n❗ Не грузятся фото и видео? Читайте нас в MAX",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-24T14:59:08+00:00",
+    "source": "Telegram: Mash",
+    "metadata": {
+      "telegramChannel": "mash",
+      "telegramChannelName": "Mash",
+      "telegramPostId": "mash/74557",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/mash/74557",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-05-24T15:06:53.805Z",
+    "createdAt": "2026-05-24T15:06:53.805Z"
+  },
+  {
+    "id": "tg-mod_russia-63920",
+    "type": "strategic",
+    "title": "События недели в воскресном дайджесте.",
+    "description": "События недели в воскресном дайджесте.\n\n#СобытияНедели\n▫️ Канал Минобороны России в MAКС – источник мощных новостей.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-24T14:15:26+00:00",
+    "source": "Telegram: Russian MOD",
+    "metadata": {
+      "telegramChannel": "mod_russia",
+      "telegramChannelName": "Russian MOD",
+      "telegramPostId": "mod_russia/63920",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/mod_russia/63920",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-05-24T15:06:55.658Z",
+    "createdAt": "2026-05-24T15:06:55.658Z"
+  },
+  {
+    "id": "tg-mod_russia-63929",
+    "type": "civilian_attack",
+    "title": "Иностранные журналисты прибыли в Старобельск, чтобы воочию увидеть место трагеди",
+    "description": "Иностранные журналисты прибыли в Старобельск, чтобы воочию увидеть место трагедии — террористического удара по зданию общежития, где мирно спали студенты колледжа, преимущественно дети. Вследствие теракта погиб 21 человек, абсолютное большинство из них — совсем молодые девушки. Как отметила Уполномоченный по правам человека в РФ Яна Лантратова, их будут хоронить в подвенечных платьях. \n\nСреди прибывших журналистов — представители 19 стран, в том числе США, Германии, Финляндии, Бразилии, Турции. ",
+    "location": {
+      "lat": 50.4501,
+      "lng": 30.5234
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-24T14:51:01+00:00",
+    "source": "Telegram: Russian MOD",
+    "metadata": {
+      "telegramChannel": "mod_russia",
+      "telegramChannelName": "Russian MOD",
+      "telegramPostId": "mod_russia/63929",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/mod_russia/63929",
+      "region": "Kyiv"
+    },
+    "lastUpdated": "2026-05-24T15:06:55.658Z",
+    "createdAt": "2026-05-24T15:06:55.658Z"
+  },
+  {
+    "id": "tg-yurasumy-27953",
+    "type": "strategic",
+    "title": "В Старобельске продолжается ликвидация последствий чудовищного удара ВСУ",
+    "description": "В Старобельске продолжается ликвидация последствий чудовищного удара ВСУ\n\nМы сейчас на месте с уполномоченным по правам человека в ЛНР Анной Сорокой, уполномоченным по правам ребёнка в ЛНР Инной Швенк и ректором Луганского государственного педагогического университета Жанной Марфиной.\n\nРаботают спасатели, медики, психологи МЧС и Минпросвещения, волонтёры и общественники. Для родственников пострадавших организованы пункты временного размещения, обеспечено горячее питание и психологическая помощь.",
+    "location": {
+      "lat": 50.4501,
+      "lng": 30.5234
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-24T14:39:57+00:00",
+    "source": "Telegram: Yuriy Podolyaka",
+    "metadata": {
+      "telegramChannel": "yurasumy",
+      "telegramChannelName": "Yuriy Podolyaka",
+      "telegramPostId": "yurasumy/27953",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/yurasumy/27953",
+      "region": "Kyiv"
+    },
+    "lastUpdated": "2026-05-24T15:06:57.485Z",
+    "createdAt": "2026-05-24T15:06:57.485Z"
+  },
+  {
+    "id": "tg-intelslava-88141",
+    "type": "strike",
+    "title": "🇷🇺🇺🇦large modern logistics complex FIM Service (\"Chaika\") in the village of ",
+    "description": "🇷🇺🇺🇦large modern logistics complex FIM Service (\"Chaika\") in the village of the same name on the western outskirts of Kyiv was destroyed. \n\nInterestingly, just across the road is located the \"Chaika\" sports airfield, where since at least 2024, the Armed Forces of Ukraine have been actively erecting fortifications and deploying air defense positions.\n\nThis may indicate that the airfield was also one of the targets of the night strike, either as a drone launch site or as an air defense area.",
+    "location": {
+      "lat": 50.4501,
+      "lng": 30.5234
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-24T14:52:02+00:00",
+    "source": "Telegram: Intel Slava Z",
+    "metadata": {
+      "telegramChannel": "intelslava",
+      "telegramChannelName": "Intel Slava Z",
+      "telegramPostId": "intelslava/88141",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/intelslava/88141",
+      "region": "Kyiv"
+    },
+    "lastUpdated": "2026-05-24T15:07:01.193Z",
+    "createdAt": "2026-05-24T15:07:01.193Z"
+  },
+  {
+    "id": "tg-tass_agency-377327",
+    "type": "strategic",
+    "title": "▶️ Удар ВСУ по учебному корпусу и общежитию в Старобельске мог быть связан с жел",
+    "description": "▶️ Удар ВСУ по учебному корпусу и общежитию в Старобельске мог быть связан с желанием уничтожить русский язык. Таким мнением с ТАСС поделился греческий журналист Димитрис Ляцос.\n\nВидео: Евгений Мартынов/ТАСС\n\n✔ Подпишись на ТАСС в \"Максе\"",
+    "location": {
+      "lat": 49.2786,
+      "lng": 38.9069
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-24T13:43:28+00:00",
+    "source": "Telegram: TASS",
+    "metadata": {
+      "telegramChannel": "tass_agency",
+      "telegramChannelName": "TASS",
+      "telegramPostId": "tass_agency/377327",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/tass_agency/377327",
+      "region": "Luhansk Oblast"
+    },
+    "lastUpdated": "2026-05-24T15:07:02.934Z",
+    "createdAt": "2026-05-24T15:07:02.934Z"
+  },
+  {
+    "id": "tg-tass_agency-377330",
+    "type": "battle",
+    "title": "📹 При атаке ВСУ на колледж в Старобельске пострадали больше 60 детей, заявила Л",
+    "description": "📹 При атаке ВСУ на колледж в Старобельске пострадали больше 60 детей, заявила Лантратова.  По ее словам, ВСУ ждали, когда дети начнут выбегать из общежития в Старобельске ЛНР, для нанесения ударов.  Видео: Евгений Мартынов/Александр Река/ТАСС  ✔ Подпишись…",
+    "location": {
+      "lat": 49.2786,
+      "lng": 38.9069
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-24T13:58:35+00:00",
+    "source": "Telegram: TASS",
+    "metadata": {
+      "telegramChannel": "tass_agency",
+      "telegramChannelName": "TASS",
+      "telegramPostId": "tass_agency/377330",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/tass_agency/377330",
+      "region": "Luhansk Oblast"
+    },
+    "lastUpdated": "2026-05-24T15:07:02.934Z",
+    "createdAt": "2026-05-24T15:07:02.934Z"
+  },
+  {
+    "id": "tg-tass_agency-377332",
+    "type": "strategic",
+    "title": "▶️ Такие проявления фашизма, как при ударе по колледжу в ЛНР, недопустимы в XXI ",
+    "description": "▶️ Такие проявления фашизма, как при ударе по колледжу в ЛНР, недопустимы в XXI веке, заявил Пасечник.\n\nВидео: Евгений Мартынов/ТАСС\n\n✔ Подпишись на ТАСС в \"Максе\"",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-24T14:30:51+00:00",
+    "source": "Telegram: TASS",
+    "metadata": {
+      "telegramChannel": "tass_agency",
+      "telegramChannelName": "TASS",
+      "telegramPostId": "tass_agency/377332",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/tass_agency/377332",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-05-24T15:07:02.934Z",
+    "createdAt": "2026-05-24T15:07:02.934Z"
+  },
+  {
+    "id": "tg-boris_rozhin-211841",
+    "type": "strategic",
+    "title": "Ещё кадры серии ударов в Киеве накануне.",
+    "description": "Ещё кадры серии ударов в Киеве накануне.",
+    "location": {
+      "lat": 50.4501,
+      "lng": 30.5234
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-24T14:10:09+00:00",
+    "source": "Telegram: Colonel Cassad",
+    "metadata": {
+      "telegramChannel": "boris_rozhin",
+      "telegramChannelName": "Colonel Cassad",
+      "telegramPostId": "boris_rozhin/211841",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/boris_rozhin/211841",
+      "region": "Kyiv"
+    },
+    "lastUpdated": "2026-05-24T15:07:06.572Z",
+    "createdAt": "2026-05-24T15:07:06.572Z"
+  },
+  {
+    "id": "tg-boris_rozhin-211842",
+    "type": "strike",
+    "title": "Одна из ракет ракета во время ночных ударов  пробила асфальт и влетела прямо в п",
+    "description": "Одна из ракет ракета во время ночных ударов  пробила асфальт и влетела прямо в подземный паркинг в Киеве.",
+    "location": {
+      "lat": 50.4501,
+      "lng": 30.5234
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-24T14:17:49+00:00",
+    "source": "Telegram: Colonel Cassad",
+    "metadata": {
+      "telegramChannel": "boris_rozhin",
+      "telegramChannelName": "Colonel Cassad",
+      "telegramPostId": "boris_rozhin/211842",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/boris_rozhin/211842",
+      "region": "Kyiv"
+    },
+    "lastUpdated": "2026-05-24T15:07:06.572Z",
+    "createdAt": "2026-05-24T15:07:06.572Z"
+  },
+  {
+    "id": "tg-dva_majors-93455",
+    "type": "strategic",
+    "title": "✍️ВЗГЛЯД ОТ АРХАНГЕЛОВ.",
+    "description": "✍️ВЗГЛЯД ОТ АРХАНГЕЛОВ.\nНЕДЕЛЯ БОЛЬШИХ УДАРОВ\nБЭКИ, НАРЫ и РАЗВИТИЕ БПЛА.\n\n▪️ УДАР ВСУ ПО СТАРОБЕЛЬСКУ.\n\n▪️ УДАР ВС РФ\n«ОРЕШНИКОМ».\n\n▪️ НОВЫЕ БЭКИ У ВСУ.\n\n▪️ ИНФОРМАЦИОННАЯ ВОЙНА, ПОЧЕМУ ОТСТАЕМ?\n\n▪️ НАШ РАСЧЕТ БПЛА ПОПАЛ ПО БЛОГЕРУ ВСУ.\n\nНе забудьте подписаться на наш канал - @arxspn\nЕсли здесь видео не грузит,  смотрите в МАХ - max.ru/arx_spn",
+    "location": {
+      "lat": 49.2786,
+      "lng": 38.9069
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-24T15:00:22+00:00",
+    "source": "Telegram: Two Majors",
+    "metadata": {
+      "telegramChannel": "dva_majors",
+      "telegramChannelName": "Two Majors",
+      "telegramPostId": "dva_majors/93455",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/dva_majors/93455",
+      "region": "Luhansk Oblast"
+    },
+    "lastUpdated": "2026-05-24T15:07:08.431Z",
+    "createdAt": "2026-05-24T15:07:08.431Z"
+  },
+  {
+    "id": "tg-dva_majors-93456",
+    "type": "strategic",
+    "title": "Обзор новой книги по ФИЗО&#33; 🥋🥊🏋️‍♀️ Подробно рассказал о содержании книги.",
+    "description": "Обзор новой книги по ФИЗО&#33; 🥋🥊🏋️‍♀️ Подробно рассказал о содержании книги. На всякий случай дублирую:\n\n🦾 Строение мышц\n🏆 Как организм реагирует на физнагрузку\n📖 Принципы тренировок \n🧬 Как составить тренировочную программу\n🏋️‍♀️ Как развивать физические качества\n🤸‍♀️ Разминка\n 🧘‍♂️ Заминка \n⛹️ Бег\n🏋️‍♀️ Качалка\n🏊‍♀️ Плавание\n🥌 Кроссфит\n🚴 Велосипед\n🦠 Восстановление (питание, спортпит, витамины, анализы, биохакинг и т.д.)\n💣 ФИЗО в армии (УФЗ, спорт-массовые, тренировки, в ходе по",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-24T15:00:41+00:00",
+    "source": "Telegram: Two Majors",
+    "metadata": {
+      "telegramChannel": "dva_majors",
+      "telegramChannelName": "Two Majors",
+      "telegramPostId": "dva_majors/93456",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/dva_majors/93456",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-05-24T15:07:08.431Z",
+    "createdAt": "2026-05-24T15:07:08.431Z"
+  },
+  {
+    "id": "tg-RVvoenkor-115722",
+    "type": "strategic",
+    "title": "‼️🇺🇦💥 Здание Командования Сухопутных войск ВСУ в Киеве превратилось в труху п",
+    "description": "‼️🇺🇦💥 Здание Командования Сухопутных войск ВСУ в Киеве превратилось в труху после ночных ударов\n\n▪️Также сильно повреждено соседнее здание Командования сил поддержки ВСУ.\n⚠️Подписаться на RV: MAX | t.me/RVvoenkor",
+    "location": {
+      "lat": 50.4501,
+      "lng": 30.5234
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-24T13:59:58+00:00",
+    "source": "Telegram: Operation Z (RV)",
+    "metadata": {
+      "telegramChannel": "RVvoenkor",
+      "telegramChannelName": "Operation Z (RV)",
+      "telegramPostId": "RVvoenkor/115722",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/RVvoenkor/115722",
+      "region": "Kyiv"
+    },
+    "lastUpdated": "2026-05-24T15:07:10.332Z",
+    "createdAt": "2026-05-24T15:07:10.332Z"
+  },
+  {
+    "id": "tg-milinfolive-172937",
+    "type": "strategic",
+    "title": "Как заявляется, на видео последствия удара по территории Командования сухопутных",
+    "description": "Как заявляется, на видео последствия удара по территории Командования сухопутных войск Украины в Киеве по адресу улица Дегтяревская, 19/7.\n\nЕсли открыть архивные снимки данной воинской части, то общая архитектура зданий на них и на видео фактически идентична, но конкретное место съемки на территории установить пока сложно.\n\nСудя по видео, разрушения зданий на территории объекта серьезные, но учитывая заведомое предупреждение и ночное время удара, маловероятно, что внутри в этот момент располагал",
+    "location": {
+      "lat": 50.4501,
+      "lng": 30.5234
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-24T14:07:21+00:00",
+    "source": "Telegram: Military Informant",
+    "metadata": {
+      "telegramChannel": "milinfolive",
+      "telegramChannelName": "Military Informant",
+      "telegramPostId": "milinfolive/172937",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/milinfolive/172937",
+      "region": "Kyiv"
+    },
+    "lastUpdated": "2026-05-24T15:07:14.220Z",
+    "createdAt": "2026-05-24T15:07:14.220Z"
+  },
+  {
+    "id": "tg-milinfolive-172941",
+    "type": "strike",
+    "title": "Уничтоженный крупный современный логистический комплекс FIM Service (\"Чайки\") в ",
+    "description": "Уничтоженный крупный современный логистический комплекс FIM Service (\"Чайки\") в одноименном селе на западной окраине Киева. \n\nИнтересно, что буквально через дорогу располагается спортивный аэродром \"Чайка\", где как минимум с 2024 года ВСУ стали активно возводить укрепления и размещать позиции ПВО (фото 3-4).\n\nЭто может говорить о том, что аэродром также являлся одной из целей ночного удара либо как объект по запуску дронов, либо как район ПВО.\n\nВоенный Осведомитель",
+    "location": {
+      "lat": 50.4501,
+      "lng": 30.5234
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-24T14:44:58+00:00",
+    "source": "Telegram: Military Informant",
+    "metadata": {
+      "telegramChannel": "milinfolive",
+      "telegramChannelName": "Military Informant",
+      "telegramPostId": "milinfolive/172941",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/milinfolive/172941",
+      "region": "Kyiv"
+    },
+    "lastUpdated": "2026-05-24T15:07:14.220Z",
+    "createdAt": "2026-05-24T15:07:14.220Z"
+  },
+  {
+    "id": "tg-swodki-586841",
+    "type": "strategic",
+    "title": "Потихонечку всплывают подробности ночного удара по Киеву . ",
+    "description": "Потихонечку всплывают подробности ночного удара по Киеву . \n\nВидео разбитого штаба Сухопутных войск в Киеве\n\nВ украинских каналах публикуют кадры, на которых, здание Командования Сухопутных войск ВСУ. Оно расположенно на улице Дегтярёвской. Рядом также пострадало здание командования Сил поддержки ВСУ, расположенное рядом.",
+    "location": {
+      "lat": 50.4501,
+      "lng": 30.5234
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-24T14:30:40+00:00",
+    "source": "Telegram: SWODKI",
+    "metadata": {
+      "telegramChannel": "swodki",
+      "telegramChannelName": "SWODKI",
+      "telegramPostId": "swodki/586841",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/swodki/586841",
+      "region": "Kyiv"
+    },
+    "lastUpdated": "2026-05-24T15:07:15.999Z",
+    "createdAt": "2026-05-24T15:07:15.999Z"
+  },
+  {
+    "id": "tg-swodki-586842",
+    "type": "strategic",
+    "title": "«Склад» 10 тыс кв.м полыхает в Киеве после удара .",
+    "description": "«Склад» 10 тыс кв.м полыхает в Киеве после удара .\n\nХорошие видимо горючие «вещи» хранили , но скорее всего не соблюдали ТБ . Кто то покурил …",
+    "location": {
+      "lat": 50.4501,
+      "lng": 30.5234
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-24T14:35:32+00:00",
+    "source": "Telegram: SWODKI",
+    "metadata": {
+      "telegramChannel": "swodki",
+      "telegramChannelName": "SWODKI",
+      "telegramPostId": "swodki/586842",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/swodki/586842",
+      "region": "Kyiv"
+    },
+    "lastUpdated": "2026-05-24T15:07:15.999Z",
+    "createdAt": "2026-05-24T15:07:15.999Z"
+  },
+  {
+    "id": "tg-swodki-586843",
+    "type": "battle",
+    "title": "ЛВДС «Второво» горит.",
+    "description": "ЛВДС «Второво» горит.\n\nАтакован украинскими БПЛА.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-24T14:40:23+00:00",
+    "source": "Telegram: SWODKI",
+    "metadata": {
+      "telegramChannel": "swodki",
+      "telegramChannelName": "SWODKI",
+      "telegramPostId": "swodki/586843",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/swodki/586843",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-05-24T15:07:15.999Z",
+    "createdAt": "2026-05-24T15:07:15.999Z"
+  },
+  {
+    "id": "tg-swodki-586852",
+    "type": "strike",
+    "title": "Для понимания масштаба ударов по зданиям СБУ. ",
+    "description": "Для понимания масштаба ударов по зданиям СБУ. \n\n22 мая удар по зданию Управления СБУ в Николаевской области. \n\nВ российских телеграм-каналах опубликовали, что удар пришелся по зданию СБУ в момент некого закрытого совещания. \n\nЭта же информация массово разошлась по российским СМИ. В ряде постов утверждалось, что удар был нанесен очень точечно и репутационно. \n\nНекоторые писали о присутствии офицеров и иностранных советников, которые пострадали. \n\nВот реальная информация о том, какие ужасающие раз",
+    "location": {
+      "lat": 46.975,
+      "lng": 31.9946
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-24T14:46:52+00:00",
+    "source": "Telegram: SWODKI",
+    "metadata": {
+      "telegramChannel": "swodki",
+      "telegramChannelName": "SWODKI",
+      "telegramPostId": "swodki/586852",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/swodki/586852",
+      "region": "Mykolaiv Oblast"
+    },
+    "lastUpdated": "2026-05-24T15:07:15.999Z",
+    "createdAt": "2026-05-24T15:07:15.999Z"
+  },
+  {
+    "id": "tg-swodki-586857",
+    "type": "strategic",
+    "title": "И еще одно. ",
+    "description": "И еще одно. \n\nПочему Киеву не приходится убеждать в эффективности своих ударов, когда они лупят по тем же НПЗ в Ленинградской области? \n\nПочему им не надо убеждать в эффективности своих ударов по флоту Российской Федерации? \n\nИм не надо убеждать в том, что ликвидация генералитета прямо в Москве - это эффективно? \n\nПочему им не надо утверждать, что прилеты по военным центрам эффективны? \n\nДа потому что всегда существуют данные контроля, которые сразу же выдаются вместе с прилетами. \n\nПотому что в",
+    "location": {
+      "lat": 50.4501,
+      "lng": 30.5234
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-24T14:52:03+00:00",
+    "source": "Telegram: SWODKI",
+    "metadata": {
+      "telegramChannel": "swodki",
+      "telegramChannelName": "SWODKI",
+      "telegramPostId": "swodki/586857",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/swodki/586857",
+      "region": "Kyiv"
+    },
+    "lastUpdated": "2026-05-24T15:07:15.999Z",
+    "createdAt": "2026-05-24T15:07:15.999Z"
+  },
+  {
+    "id": "tg-swodki-586859",
+    "type": "strategic",
+    "title": "➡️ Александр Дугин ",
+    "description": "➡️ Александр Дугин \n\nСудя по настроениям общества, наш ночной удар никого ни в чем не убедил. Увы. Это, на самом деле, плохо. Может быть он был очень успешным и основательным. Этого нельзя исключить. Но символическая-то сторона... Она-то где? Точно надо показывать снимки из космоса, дымящиеся развалины дома Зеленского, уши Миндича ... что-угодно, но что-то надо. И у всех только копятся и копятся претензии — прицельно, почти лазерно копятся. И не только к Западу и прямым врагам.&nbsp; \nНа той сто",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-24T14:55:47+00:00",
+    "source": "Telegram: SWODKI",
+    "metadata": {
+      "telegramChannel": "swodki",
+      "telegramChannelName": "SWODKI",
+      "telegramPostId": "swodki/586859",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/swodki/586859",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-05-24T15:07:15.999Z",
+    "createdAt": "2026-05-24T15:07:15.999Z"
+  },
+  {
+    "id": "tg-sashakots-61918",
+    "type": "civilian_attack",
+    "title": "Тут режиссёр Звягинцев, если вы ещё помните такого, со сцены Каннского фестиваля",
+    "description": "Тут режиссёр Звягинцев, если вы ещё помните такого, со сцены Каннского фестиваля обратился к Владимиру Путину. Призвал его остановить войну на Украине и заявил, что именно российский президент буквально единственный человек, который может эту войну остановить, и который несёт за неё полную ответственность и, конечно, только он во всем виноват.\n\nОставим в стороне художественные таланты товарища Звягинцева, который всю жизнь снимал на государственные деньги фильмы про \"Рашку-говняшку\", натужно пыт",
+    "location": {
+      "lat": 48.0159,
+      "lng": 37.8028
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-24T14:31:26+00:00",
+    "source": "Telegram: Kotsnews",
+    "metadata": {
+      "telegramChannel": "sashakots",
+      "telegramChannelName": "Kotsnews",
+      "telegramPostId": "sashakots/61918",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/sashakots/61918",
+      "region": "Donetsk Oblast"
+    },
+    "lastUpdated": "2026-05-24T15:07:17.852Z",
+    "createdAt": "2026-05-24T15:07:17.852Z"
+  },
+  {
+    "id": "tg-SolovievLive-369865",
+    "type": "battle",
+    "title": "❗️ При атаке ВСУ на колледж в Старобельске пострадали 65 детей, сообщил глава ЛН",
+    "description": "❗️ При атаке ВСУ на колледж в Старобельске пострадали 65 детей, сообщил глава ЛНР Леонид Пасечник.",
+    "location": {
+      "lat": 49.2786,
+      "lng": 38.9069
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-24T14:00:36+00:00",
+    "source": "Telegram: Solovyov Live",
+    "metadata": {
+      "telegramChannel": "SolovievLive",
+      "telegramChannelName": "Solovyov Live",
+      "telegramPostId": "SolovievLive/369865",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/SolovievLive/369865",
+      "region": "Luhansk Oblast"
+    },
+    "lastUpdated": "2026-05-24T15:07:21.615Z",
+    "createdAt": "2026-05-24T15:07:21.615Z"
+  },
+  {
+    "id": "tg-SergeyKolyasnikov-78506",
+    "type": "strategic",
+    "title": "Раздался вой из петушиного угла. Европейские демократии дружно осудили удар ВС Р",
+    "description": "Раздался вой из петушиного угла. Европейские демократии дружно осудили удар ВС РФ по свинарнику.\n\nУдар по Старобельску на Западе традиционно \"не заметили\". Также, как много лет \"не замечали\" геноцид на Донбассе:\n\n⚡️На Донбассе происходит геноцид — это, конечно, смешно (с) канцлер Германии Олаф Шольц.  \n⚡️Это не геноцид, не тот случай (c) генсек ООН Антониу Гутерриш.  \n⚡️Заявления о геноциде на Донбассе лишены каких-либо оснований (с) Нед Прайс, госдеп США.",
+    "location": {
+      "lat": 49.2786,
+      "lng": 38.9069
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-24T14:50:18+00:00",
+    "source": "Telegram: Zergulio",
+    "metadata": {
+      "telegramChannel": "SergeyKolyasnikov",
+      "telegramChannelName": "Zergulio",
+      "telegramPostId": "SergeyKolyasnikov/78506",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/SergeyKolyasnikov/78506",
+      "region": "Luhansk Oblast"
+    },
+    "lastUpdated": "2026-05-24T15:07:31.058Z",
+    "createdAt": "2026-05-24T15:07:31.058Z"
+  },
+  {
+    "id": "tg-tassagency_en-83739",
+    "type": "strike",
+    "title": "Aftermath of the May 22 Ukrainian drone attack on a college in the city of Staro",
+    "description": "Aftermath of the May 22 Ukrainian drone attack on a college in the city of Starobelsk in the Lugansk People’s Republic (LPR).\n\nVideo: Alexander Reka/TASS",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-24T13:52:01+00:00",
+    "source": "Telegram: TASS English",
+    "metadata": {
+      "telegramChannel": "tassagency_en",
+      "telegramChannelName": "TASS English",
+      "telegramPostId": "tassagency_en/83739",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/tassagency_en/83739",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-05-24T15:07:44.296Z",
+    "createdAt": "2026-05-24T15:07:44.296Z"
+  },
+  {
+    "id": "tg-tassagency_en-83740",
+    "type": "strategic",
+    "title": "Thirty-three vessels, including tankers, container and other commercial ships, p",
+    "description": "Thirty-three vessels, including tankers, container and other commercial ships, passed through the Strait of Hormuz in the past 24 hours, the naval forces of the Islamic Revolutionary Guard Corps (IRGC, elite units of the Iranian army) said.\n\nAccording to the statement as cited by the Fars news agency, the ships sailed through the strait “upon receiving permits” and “in coordination with the IRGC Navy.”",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-24T14:19:01+00:00",
+    "source": "Telegram: TASS English",
+    "metadata": {
+      "telegramChannel": "tassagency_en",
+      "telegramChannelName": "TASS English",
+      "telegramPostId": "tassagency_en/83740",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/tassagency_en/83740",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-05-24T15:07:44.296Z",
+    "createdAt": "2026-05-24T15:07:44.296Z"
+  },
+  {
+    "id": "tg-anna_news-92220",
+    "type": "strike",
+    "title": "⚡️Уникальные кадры воздушного боя в Запорожской области передает военкор ANNA Ne",
+    "description": "⚡️Уникальные кадры воздушного боя в Запорожской области передает военкор ANNA News Мария Коледа.\n\nНа кадрах видно поражение разведывательного дрона «Шарк» (Shark) ВСУ. Это корректировщик огня дальнобойной артиллерии и РСЗО HIMARS стоимостью около &#036;50 тыс. \n\n❗️Появление такого беспилотного самолета означает скорый удар HIMARS боевиками вглубь территории России.\n\nСегодня ночью бойцы отряда БАРС-32 имени Павла Судоплатова использовали недорогой FPV-дрон-перехватчик и не только мастерски протар",
+    "location": {
+      "lat": 47.8388,
+      "lng": 35.1396
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-24T14:17:57+00:00",
+    "source": "Telegram: Anna News",
+    "metadata": {
+      "telegramChannel": "anna_news",
+      "telegramChannelName": "Anna News",
+      "telegramPostId": "anna_news/92220",
+      "bias": "pro-russian",
+      "weight": 1,
+      "telegramUrl": "https://t.me/anna_news/92220",
+      "region": "Zaporizhia Oblast"
+    },
+    "lastUpdated": "2026-05-24T15:07:47.985Z",
+    "createdAt": "2026-05-24T15:07:47.985Z"
+  },
+  {
+    "id": "tg-vrogov-24734",
+    "type": "civilian_attack",
+    "title": "❗️🇷🇺 Чтобы сохранить своё имущество",
+    "description": "❗️🇷🇺 Чтобы сохранить своё имущество\n\nВажно напомнить жителям новых субъектов РФ, что до 1 июля 2026 года гражданам России необходимо подать документы для регистрации прав на объекты недвижимости в Росреестр. \n\nДокументы можно подать на бумажном носителе в офисах МФЦ или в филиале ППК «Роскадастр» по предварительной записи.\n\nКонтактные данные:\n\n🔺МФЦ Запорожской области:\n&nbsp; – Телефон: +7(990)133-33-33\n&nbsp; – Чат-бот в МАХ: ссылка\n\n🔺Филиал ППК «Роскадастр»:\n&nbsp; – Телефоны: +7(990)240-7",
+    "location": {
+      "lat": 47.8388,
+      "lng": 35.1396
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-24T13:51:59+00:00",
+    "source": "Telegram: Vladimir Rogov",
+    "metadata": {
+      "telegramChannel": "vrogov",
+      "telegramChannelName": "Vladimir Rogov",
+      "telegramPostId": "vrogov/24734",
+      "bias": "pro-russian",
+      "weight": 1,
+      "telegramUrl": "https://t.me/vrogov/24734",
+      "region": "Zaporizhia Oblast"
+    },
+    "lastUpdated": "2026-05-24T15:07:57.610Z",
+    "createdAt": "2026-05-24T15:07:57.610Z"
+  },
+  {
+    "id": "tg-smotri_z-55557",
+    "type": "battle",
+    "title": "❗️При атаке ВСУ на колледж в Старобельске пострадали 65 детей, сообщил Пасечник",
+    "description": "❗️При атаке ВСУ на колледж в Старобельске пострадали 65 детей, сообщил Пасечник\n\n✅ «Иди и смотри» в MAX",
+    "location": {
+      "lat": 49.2786,
+      "lng": 38.9069
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-24T14:06:22+00:00",
+    "source": "Telegram: Come and See",
+    "metadata": {
+      "telegramChannel": "smotri_z",
+      "telegramChannelName": "Come and See",
+      "telegramPostId": "smotri_z/55557",
+      "bias": "pro-russian",
+      "weight": 1,
+      "telegramUrl": "https://t.me/smotri_z/55557",
+      "region": "Luhansk Oblast"
+    },
+    "lastUpdated": "2026-05-24T15:08:02.967Z",
+    "createdAt": "2026-05-24T15:08:02.967Z"
+  },
+  {
+    "id": "tg-smotri_z-55558",
+    "type": "strategic",
+    "title": "🔥Экипажи танков Т-90М «Прорыв» 25-й общевойсковой армии группировки войск «Запа",
+    "description": "🔥Экипажи танков Т-90М «Прорыв» 25-й общевойсковой армии группировки войск «Запад» уничтожили замаскированные блиндажи, опорные пункты и живую силу подразделений ВСУ в зоне СВО на Краснолиманском направлении\n\nВидео: Минобороны России\n\n✅ «Иди и смотри» в MAX",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-24T15:03:34+00:00",
+    "source": "Telegram: Come and See",
+    "metadata": {
+      "telegramChannel": "smotri_z",
+      "telegramChannelName": "Come and See",
+      "telegramPostId": "smotri_z/55558",
+      "bias": "pro-russian",
+      "weight": 1,
+      "telegramUrl": "https://t.me/smotri_z/55558",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-05-24T15:08:02.967Z",
+    "createdAt": "2026-05-24T15:08:02.967Z"
+  },
+  {
+    "id": "tg-rlz_the_kraken-86356",
+    "type": "strike",
+    "title": "🚀 Помимо Орешника, применение которого официально подтвердили в МО РФ, в сегодн",
+    "description": "🚀 Помимо Орешника, применение которого официально подтвердили в МО РФ, в сегодняшних ударах по столице остатков Украины участвовали и Patriotы: сразу несколько ракет вылетели из комплексов и, не найдя кого сбить, упали где-то на своей территории.\n\n👌 Всё логично. Просроченному узурпатору поставляют просроченные ракеты\n\n🤩Кракен следит за ходом СВО&#33; Подпишись&#33;",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-24T15:04:50+00:00",
+    "source": "Telegram: Release the Kraken",
+    "metadata": {
+      "telegramChannel": "rlz_the_kraken",
+      "telegramChannelName": "Release the Kraken",
+      "telegramPostId": "rlz_the_kraken/86356",
+      "bias": "pro-russian",
+      "weight": 1,
+      "telegramUrl": "https://t.me/rlz_the_kraken/86356",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-05-24T15:08:04.838Z",
+    "createdAt": "2026-05-24T15:08:04.838Z"
+  },
+  {
+    "id": "tg-RtrDonetsk-35777",
+    "type": "strike",
+    "title": "Отражение ночного налёта вражеских дронов в небе над ДНР бойцами мобильной огнев",
+    "description": "Отражение ночного налёта вражеских дронов в небе над ДНР бойцами мобильной огневой группы 9-й отдельной гвардейской мотострелковой бригады 51-й гвардейской общевойсковой армии группировки войск «Центр»\n\nВоеннослужащие МОГ, используя тяжёлое стрелковое вооружение, оборудованное тепловизионными приборами, и переносные зенитно-ракетные комплексы, регулярно отражают налёты беспилотников ВСУ, что позволяет контролировать воздушное пространство над территорией Республики.\n\nО боевой работе рассказал ст",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-24T14:41:01+00:00",
+    "source": "Telegram: Reporter Rudenko",
+    "metadata": {
+      "telegramChannel": "RtrDonetsk",
+      "telegramChannelName": "Reporter Rudenko",
+      "telegramPostId": "RtrDonetsk/35777",
+      "bias": "pro-russian",
+      "weight": 1,
+      "telegramUrl": "https://t.me/RtrDonetsk/35777",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-05-24T15:08:12.132Z",
+    "createdAt": "2026-05-24T15:08:12.132Z"
+  },
+  {
+    "id": "tg-operativnoZSU-211708",
+    "type": "battle",
+    "title": "Вже 81 постраждалий у Києві внаслідок масованої атаки ворога.",
+    "description": "Вже 81 постраждалий у Києві внаслідок масованої атаки ворога.\n\nСтанція метро «Лукʼянівська» відновила роботу, але вхід та вихід у напрямку ТЦ «Квадрат» залишаються тимчасово зачиненими.\n\nhttps://t.me/operativnoZSU/",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-24T14:08:41+00:00",
+    "source": "Telegram: Operativno ZSU",
+    "metadata": {
+      "telegramChannel": "OperativnoZSU",
+      "telegramChannelName": "Operativno ZSU",
+      "telegramPostId": "operativnoZSU/211708",
+      "bias": "pro-ukrainian",
+      "weight": 1,
+      "telegramUrl": "https://t.me/operativnoZSU/211708",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-05-24T15:08:23.797Z",
+    "createdAt": "2026-05-24T15:08:23.797Z"
+  },
+  {
+    "id": "tg-ssternenko-58675",
+    "type": "battle",
+    "title": "Наслідки атаки «Орєшніка».  У Білій Церкві пошкоджено гаражний кооператив. За по",
+    "description": "Наслідки атаки «Орєшніка».  У Білій Церкві пошкоджено гаражний кооператив. За повідомленням ДСНС, горіли три гаражі.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-24T13:51:56+00:00",
+    "source": "Telegram: Sternenko",
+    "metadata": {
+      "telegramChannel": "ssternenko",
+      "telegramChannelName": "Sternenko",
+      "telegramPostId": "ssternenko/58675",
+      "bias": "pro-ukrainian",
+      "weight": 1,
+      "telegramUrl": "https://t.me/ssternenko/58675",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-05-24T15:08:25.685Z",
+    "createdAt": "2026-05-24T15:08:25.685Z"
+  },
+  {
+    "id": "tg-ssternenko-58676",
+    "type": "strategic",
+    "title": "Безперервний карнавал🕺",
+    "description": "Безперервний карнавал🕺\n\nВПРК 93-ї ОМБр показують вам кадри знищення кацапа в шортах. Такі удари дуже подобаються не тільки нам, а й навіть тимчасово живому Царьову. \n\nНасолоджуйтесь&#33;\nІ на Секретний Русоріз донатьте&#33;",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-24T15:06:01+00:00",
+    "source": "Telegram: Sternenko",
+    "metadata": {
+      "telegramChannel": "ssternenko",
+      "telegramChannelName": "Sternenko",
+      "telegramPostId": "ssternenko/58676",
+      "bias": "pro-ukrainian",
+      "weight": 1,
+      "telegramUrl": "https://t.me/ssternenko/58676",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-05-24T15:08:25.685Z",
+    "createdAt": "2026-05-24T15:08:25.685Z"
+  },
+  {
+    "id": "tg-meduzalive-142719",
+    "type": "battle",
+    "title": "Украинский телеканал показал место удара «Орешником»",
+    "description": "Украинский телеканал показал место удара «Орешником»\n\nРоссия ударила «Орешником» по городу Белая Церковь в 80 километрах от Киева. \n\nВ областной прокуратуре сообщили, что в результате ночной атаки в Белоцерковском районе повреждены гаражный кооператив и здания предприятия.\n\nВидео: «Суспільне»\n\n@meduzalive",
+    "location": {
+      "lat": 50.4501,
+      "lng": 30.5234
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-24T13:45:01+00:00",
+    "source": "Telegram: Meduza",
+    "metadata": {
+      "telegramChannel": "meduzalive",
+      "telegramChannelName": "Meduza",
+      "telegramPostId": "meduzalive/142719",
+      "bias": "neutral",
+      "weight": 1,
+      "telegramUrl": "https://t.me/meduzalive/142719",
+      "region": "Kyiv"
+    },
+    "lastUpdated": "2026-05-24T15:08:35.070Z",
+    "createdAt": "2026-05-24T15:08:35.070Z"
+  },
+  {
+    "id": "tg-meduzalive-142722",
+    "type": "strike",
+    "title": "Макрон созвонился с Лукашенко впервые за четыре года",
+    "description": "Макрон созвонился с Лукашенко впервые за четыре года\n\nРазговор прошел по инициативе французской стороны, сообщила пресс-служба Лукашенко. Стороны обсудили «региональные проблемы и взаимоотношения Беларуси с ЕС и Францией в частности».\n\nФранция пока не комментировала это сообщение.\n\nВ последний раз Макрон говорил с Лукашенко 26 февраля 2022 года — через несколько дней после начала российского вторжения в Украину. Тогда президент Франции написал, что «попросил Александра Лукашенко обеспечить вывод",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-24T15:06:10+00:00",
+    "source": "Telegram: Meduza",
+    "metadata": {
+      "telegramChannel": "meduzalive",
+      "telegramChannelName": "Meduza",
+      "telegramPostId": "meduzalive/142722",
+      "bias": "neutral",
+      "weight": 1,
+      "telegramUrl": "https://t.me/meduzalive/142722",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-05-24T15:08:35.070Z",
+    "createdAt": "2026-05-24T15:08:35.070Z"
+  },
+  {
     "id": "tg-rybar-80547",
     "type": "strike",
     "title": "📝Перехватчики для ВСУ📝",

@@ -76,34 +76,111 @@ const CHANNELS = {
   meduzalive:           { name: 'Meduza',               bias: 'neutral',       weight: 1 },
 };
 
+// Each entry has lat/lng + regionName so the app can show oblast labels & map filtering works
 const LOCATION_MAP = {
-  'kyiv': { lat: 50.4501, lng: 30.5234 }, 'київ': { lat: 50.4501, lng: 30.5234 }, 'киев': { lat: 50.4501, lng: 30.5234 },
-  'kharkiv': { lat: 49.9935, lng: 36.2304 }, 'харків': { lat: 49.9935, lng: 36.2304 }, 'харьков': { lat: 49.9935, lng: 36.2304 },
-  'odesa': { lat: 46.4825, lng: 30.7233 }, 'одеса': { lat: 46.4825, lng: 30.7233 }, 'одесса': { lat: 46.4825, lng: 30.7233 },
-  'donetsk': { lat: 48.0159, lng: 37.8028 }, 'донецк': { lat: 48.0159, lng: 37.8028 }, 'донецьк': { lat: 48.0159, lng: 37.8028 },
-  'luhansk': { lat: 48.5740, lng: 39.3078 }, 'луганск': { lat: 48.5740, lng: 39.3078 }, 'луганськ': { lat: 48.5740, lng: 39.3078 },
-  'bakhmut': { lat: 48.5953, lng: 38.0003 }, 'бахмут': { lat: 48.5953, lng: 38.0003 }, 'артемовск': { lat: 48.5953, lng: 38.0003 },
-  'pokrovsk': { lat: 48.2833, lng: 37.1833 }, 'покровск': { lat: 48.2833, lng: 37.1833 },
-  'avdiivka': { lat: 48.1397, lng: 37.7481 }, 'авдіївка': { lat: 48.1397, lng: 37.7481 }, 'авдеевка': { lat: 48.1397, lng: 37.7481 },
-  'zaporizhzhia': { lat: 47.8388, lng: 35.1396 }, 'запоріжжя': { lat: 47.8388, lng: 35.1396 }, 'запорожье': { lat: 47.8388, lng: 35.1396 },
-  'kherson': { lat: 46.6354, lng: 32.6169 }, 'херсон': { lat: 46.6354, lng: 32.6169 },
-  'crimea': { lat: 44.9521, lng: 34.1024 }, 'крим': { lat: 44.9521, lng: 34.1024 }, 'крым': { lat: 44.9521, lng: 34.1024 },
-  'mariupol': { lat: 47.0951, lng: 37.5494 }, 'маріуполь': { lat: 47.0951, lng: 37.5494 }, 'мариуполь': { lat: 47.0951, lng: 37.5494 },
-  'kupiansk': { lat: 49.7139, lng: 37.6167 }, 'купянск': { lat: 49.7139, lng: 37.6167 },
-  'toretsk': { lat: 48.3947, lng: 37.8484 }, 'торецк': { lat: 48.3947, lng: 37.8484 },
-  'sumy': { lat: 50.9077, lng: 34.7981 }, 'суми': { lat: 50.9077, lng: 34.7981 }, 'сумы': { lat: 50.9077, lng: 34.7981 },
-  'kursk': { lat: 51.7373, lng: 36.1874 }, 'курск': { lat: 51.7373, lng: 36.1874 },
-  'dnipro': { lat: 48.4647, lng: 35.0462 }, 'дніпро': { lat: 48.4647, lng: 35.0462 },
-  'melitopol': { lat: 46.8489, lng: 35.3653 }, 'мелітополь': { lat: 46.8489, lng: 35.3653 },
-  'vuhledar': { lat: 47.7747, lng: 37.2519 }, 'вугледар': { lat: 47.7747, lng: 37.2519 },
+  // Kyiv
+  'kyiv': { lat: 50.4501, lng: 30.5234, regionName: 'Kyiv' },
+  'київ': { lat: 50.4501, lng: 30.5234, regionName: 'Kyiv' },
+  'киев': { lat: 50.4501, lng: 30.5234, regionName: 'Kyiv' },
+  'киева': { lat: 50.4501, lng: 30.5234, regionName: 'Kyiv' },
+  'киеву': { lat: 50.4501, lng: 30.5234, regionName: 'Kyiv' },
+  // Kharkiv
+  'kharkiv': { lat: 49.9935, lng: 36.2304, regionName: 'Kharkiv Oblast' },
+  'харків': { lat: 49.9935, lng: 36.2304, regionName: 'Kharkiv Oblast' },
+  'харьков': { lat: 49.9935, lng: 36.2304, regionName: 'Kharkiv Oblast' },
+  // Odesa
+  'odesa': { lat: 46.4825, lng: 30.7233, regionName: 'Odesa Oblast' },
+  'одеса': { lat: 46.4825, lng: 30.7233, regionName: 'Odesa Oblast' },
+  'одесса': { lat: 46.4825, lng: 30.7233, regionName: 'Odesa Oblast' },
+  // Donetsk
+  'donetsk': { lat: 48.0159, lng: 37.8028, regionName: 'Donetsk Oblast' },
+  'донецк': { lat: 48.0159, lng: 37.8028, regionName: 'Donetsk Oblast' },
+  'донецьк': { lat: 48.0159, lng: 37.8028, regionName: 'Donetsk Oblast' },
+  // Luhansk
+  'luhansk': { lat: 48.5740, lng: 39.3078, regionName: 'Luhansk Oblast' },
+  'луганск': { lat: 48.5740, lng: 39.3078, regionName: 'Luhansk Oblast' },
+  'луганськ': { lat: 48.5740, lng: 39.3078, regionName: 'Luhansk Oblast' },
+  // Bakhmut
+  'bakhmut': { lat: 48.5953, lng: 38.0003, regionName: 'Donetsk Oblast' },
+  'бахмут': { lat: 48.5953, lng: 38.0003, regionName: 'Donetsk Oblast' },
+  'артемовск': { lat: 48.5953, lng: 38.0003, regionName: 'Donetsk Oblast' },
+  // Pokrovsk
+  'pokrovsk': { lat: 48.2833, lng: 37.1833, regionName: 'Donetsk Oblast' },
+  'покровск': { lat: 48.2833, lng: 37.1833, regionName: 'Donetsk Oblast' },
+  // Avdiivka
+  'avdiivka': { lat: 48.1397, lng: 37.7481, regionName: 'Donetsk Oblast' },
+  'авдіївка': { lat: 48.1397, lng: 37.7481, regionName: 'Donetsk Oblast' },
+  'авдеевка': { lat: 48.1397, lng: 37.7481, regionName: 'Donetsk Oblast' },
+  // Zaporizhzhia
+  'zaporizhzhia': { lat: 47.8388, lng: 35.1396, regionName: 'Zaporizhia Oblast' },
+  'запоріжжя': { lat: 47.8388, lng: 35.1396, regionName: 'Zaporizhia Oblast' },
+  'запорожье': { lat: 47.8388, lng: 35.1396, regionName: 'Zaporizhia Oblast' },
+  'запорож': { lat: 47.8388, lng: 35.1396, regionName: 'Zaporizhia Oblast' },
+  // Kherson
+  'kherson': { lat: 46.6354, lng: 32.6169, regionName: 'Kherson Oblast' },
+  'херсон': { lat: 46.6354, lng: 32.6169, regionName: 'Kherson Oblast' },
+  // Crimea
+  'crimea': { lat: 44.9521, lng: 34.1024, regionName: 'Crimea' },
+  'крим': { lat: 44.9521, lng: 34.1024, regionName: 'Crimea' },
+  'крым': { lat: 44.9521, lng: 34.1024, regionName: 'Crimea' },
+  // Sevastopol
+  'sevastopol': { lat: 44.6166, lng: 33.5254, regionName: 'Sevastopol' },
+  'севастопол': { lat: 44.6166, lng: 33.5254, regionName: 'Sevastopol' },
+  // Mariupol
+  'mariupol': { lat: 47.0951, lng: 37.5494, regionName: 'Donetsk Oblast' },
+  'маріуполь': { lat: 47.0951, lng: 37.5494, regionName: 'Donetsk Oblast' },
+  'мариуполь': { lat: 47.0951, lng: 37.5494, regionName: 'Donetsk Oblast' },
+  // Kupiansk
+  'kupiansk': { lat: 49.7139, lng: 37.6167, regionName: 'Kharkiv Oblast' },
+  'купянск': { lat: 49.7139, lng: 37.6167, regionName: 'Kharkiv Oblast' },
+  'купʼянськ': { lat: 49.7139, lng: 37.6167, regionName: 'Kharkiv Oblast' },
+  // Toretsk
+  'toretsk': { lat: 48.3947, lng: 37.8484, regionName: 'Donetsk Oblast' },
+  'торецк': { lat: 48.3947, lng: 37.8484, regionName: 'Donetsk Oblast' },
+  // Sumy
+  'sumy': { lat: 50.9077, lng: 34.7981, regionName: 'Sumy Oblast' },
+  'суми': { lat: 50.9077, lng: 34.7981, regionName: 'Sumy Oblast' },
+  'сумы': { lat: 50.9077, lng: 34.7981, regionName: 'Sumy Oblast' },
+  // Kursk
+  'kursk': { lat: 51.7373, lng: 36.1874, regionName: 'Kursk Oblast' },
+  'курск': { lat: 51.7373, lng: 36.1874, regionName: 'Kursk Oblast' },
+  // Belgorod
+  'belgorod': { lat: 50.5945, lng: 36.5872, regionName: 'Belgorod Oblast' },
+  'белгород': { lat: 50.5945, lng: 36.5872, regionName: 'Belgorod Oblast' },
+  // Dnipro
+  'dnipro': { lat: 48.4647, lng: 35.0462, regionName: 'Dnipropetrovsk Oblast' },
+  'дніпро': { lat: 48.4647, lng: 35.0462, regionName: 'Dnipropetrovsk Oblast' },
+  'днепр': { lat: 48.4647, lng: 35.0462, regionName: 'Dnipropetrovsk Oblast' },
+  // Mykolaiv
+  'mykolaiv': { lat: 46.9750, lng: 31.9946, regionName: 'Mykolaiv Oblast' },
+  'миколаїв': { lat: 46.9750, lng: 31.9946, regionName: 'Mykolaiv Oblast' },
+  'николаев': { lat: 46.9750, lng: 31.9946, regionName: 'Mykolaiv Oblast' },
+  // Melitopol
+  'melitopol': { lat: 46.8489, lng: 35.3653, regionName: 'Zaporizhia Oblast' },
+  'мелітополь': { lat: 46.8489, lng: 35.3653, regionName: 'Zaporizhia Oblast' },
+  'мелитополь': { lat: 46.8489, lng: 35.3653, regionName: 'Zaporizhia Oblast' },
+  // Vuhledar
+  'vuhledar': { lat: 47.7747, lng: 37.2519, regionName: 'Donetsk Oblast' },
+  'вугледар': { lat: 47.7747, lng: 37.2519, regionName: 'Donetsk Oblast' },
+  'угледар': { lat: 47.7747, lng: 37.2519, regionName: 'Donetsk Oblast' },
+  // Starobielsk
+  'starobielsk': { lat: 49.2786, lng: 38.9069, regionName: 'Luhansk Oblast' },
+  'старобельск': { lat: 49.2786, lng: 38.9069, regionName: 'Luhansk Oblast' },
+  // Lviv
+  'lviv': { lat: 49.8397, lng: 24.0297, regionName: 'Lviv Oblast' },
+  'львов': { lat: 49.8397, lng: 24.0297, regionName: 'Lviv Oblast' },
+  // Bila Tserkva (in Kyiv Oblast)
+  'белой церкви': { lat: 49.7967, lng: 30.1126, regionName: 'Kyiv Oblast' },
+  'бєлой церкви': { lat: 49.7967, lng: 30.1126, regionName: 'Kyiv Oblast' },
+  'bila tserkva': { lat: 49.7967, lng: 30.1126, regionName: 'Kyiv Oblast' },
 };
 
 function inferLocation(text) {
   const lower = text.toLowerCase();
-  for (const [kw, coords] of Object.entries(LOCATION_MAP)) {
-    if (lower.includes(kw)) return coords;
+  for (const [kw, hit] of Object.entries(LOCATION_MAP)) {
+    if (lower.includes(kw)) return hit;
   }
-  return { lat: 48.5, lng: 37.0 }; // Default: center of conflict zone
+  return { lat: 48.5, lng: 37.0, regionName: 'Unspecified' };
 }
 
 function inferEventType(text) {
@@ -160,12 +237,13 @@ async function fetchChannel(channelId, channelInfo) {
       const dateMatch = block.match(/datetime="([^"]+)"/);
       const date = dateMatch ? dateMatch[1] : new Date().toISOString();
 
+      const loc = inferLocation(text);
       events.push({
         id: `tg-${postId.replace('/', '-')}`,
         type: inferEventType(text),
         title: text.split('\n')[0].substring(0, 80),
         description: text.substring(0, 500),
-        location: inferLocation(text),
+        location: { lat: loc.lat, lng: loc.lng },
         status: 'developing',
         severity: 5,
         startDate: date,
@@ -177,6 +255,7 @@ async function fetchChannel(channelId, channelInfo) {
           bias: channelInfo.bias,
           weight: channelInfo.weight || 1,
           telegramUrl: `https://t.me/${postId}`,
+          region: loc.regionName,
         },
         lastUpdated: new Date().toISOString(),
         createdAt: new Date().toISOString(),

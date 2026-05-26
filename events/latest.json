@@ -1,5 +1,355 @@
 [
   {
+    "id": "tg-shot_shot-95835",
+    "type": "strike",
+    "title": "Около 90 дронов рухнули в воду во время шоу в австралийском Сиднее. ",
+    "description": "Около 90 дронов рухнули в воду во время шоу в австралийском Сиднее. \n\nВо время красочного мероприятия в рамках фестиваля света и музыки Vivid Sydney у организаторов что-то пошло не так: десятки беспилотников вдруг начали терять управление и падать в гавань Дарлинг на глазах у изумлëнных зрителей. В итоге шоу пришлось отменить. \n\nПредварительно, причиной провала стал неожиданный сбой радиочастот после взлëта — часть дронов сначала автоматически перешла в режим аварийной посадки, а затем и вовсе о",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-26T22:26:13+00:00",
+    "source": "Telegram: SHOT",
+    "metadata": {
+      "telegramChannel": "shot_shot",
+      "telegramChannelName": "SHOT",
+      "telegramPostId": "shot_shot/95835",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/shot_shot/95835",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-05-26T23:13:06.598Z",
+    "createdAt": "2026-05-26T23:13:06.598Z"
+  },
+  {
+    "id": "tg-intelslava-88197",
+    "type": "strike",
+    "title": "🇱🇧🇮🇱A fully loaded infantry armored vehicle, the HMMWV, fell victim to a Hez",
+    "description": "🇱🇧🇮🇱A fully loaded infantry armored vehicle, the HMMWV, fell victim to a Hezbollah FPV drone.   A couple of IDF soldiers managed to jump out of the vehicle before being hit, but the rest were less fortunate.   @Intelslava",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-26T21:54:24+00:00",
+    "source": "Telegram: Intel Slava Z",
+    "metadata": {
+      "telegramChannel": "intelslava",
+      "telegramChannelName": "Intel Slava Z",
+      "telegramPostId": "intelslava/88197",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/intelslava/88197",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-05-26T23:13:08.401Z",
+    "createdAt": "2026-05-26T23:13:08.401Z"
+  },
+  {
+    "id": "tg-tass_agency-377681",
+    "type": "battle",
+    "title": "🚨 В Севастополе военные отражают атаку ВСУ, сбиты семь БПЛА, сообщил губернатор",
+    "description": "🚨 В Севастополе военные отражают атаку ВСУ, сбиты семь БПЛА, сообщил губернатор региона.",
+    "location": {
+      "lat": 44.6166,
+      "lng": 33.5254
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-26T21:58:44+00:00",
+    "source": "Telegram: TASS",
+    "metadata": {
+      "telegramChannel": "tass_agency",
+      "telegramChannelName": "TASS",
+      "telegramPostId": "tass_agency/377681",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/tass_agency/377681",
+      "region": "Sevastopol"
+    },
+    "lastUpdated": "2026-05-26T23:13:10.156Z",
+    "createdAt": "2026-05-26T23:13:10.156Z"
+  },
+  {
+    "id": "tg-boris_rozhin-212084",
+    "type": "battle",
+    "title": "В Севастополе военные продолжают отражать атаку ВСУ, работает ПВО и мобильные ог",
+    "description": "В Севастополе военные продолжают отражать атаку ВСУ, работает ПВО и мобильные огневые группы. Уже сбито 14 БПЛА в районе Северной стороны, Севастопольской бухты и бухты Омега.",
+    "location": {
+      "lat": 44.6166,
+      "lng": 33.5254
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-26T22:02:08+00:00",
+    "source": "Telegram: Colonel Cassad",
+    "metadata": {
+      "telegramChannel": "boris_rozhin",
+      "telegramChannelName": "Colonel Cassad",
+      "telegramPostId": "boris_rozhin/212084",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/boris_rozhin/212084",
+      "region": "Sevastopol"
+    },
+    "lastUpdated": "2026-05-26T23:13:13.715Z",
+    "createdAt": "2026-05-26T23:13:13.715Z"
+  },
+  {
+    "id": "tg-boris_rozhin-212085",
+    "type": "strategic",
+    "title": "Ростех передал армии очередную партию Су-35С.",
+    "description": "Ростех передал армии очередную партию Су-35С.\n\nНаша ОАК поставила ВКС России новые многофункциональные истребители поколения 4++ Су-35С.\n\nМашины предназначены для завоевания превосходства в воздухе, а также для поражения объектов наземной инфраструктуры, расположенных на значительном удалении от аэродрома базирования.\n\n«Су-35С – это маневренный многофункциональный истребитель. Данная техника работает без нареканий, экипажу удобно ею управлять. Мы выполняем на данном самолете различные задачи: пе",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-26T23:11:01+00:00",
+    "source": "Telegram: Colonel Cassad",
+    "metadata": {
+      "telegramChannel": "boris_rozhin",
+      "telegramChannelName": "Colonel Cassad",
+      "telegramPostId": "boris_rozhin/212085",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/boris_rozhin/212085",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-05-26T23:13:13.715Z",
+    "createdAt": "2026-05-26T23:13:13.715Z"
+  },
+  {
+    "id": "tg-RVvoenkor-115851",
+    "type": "battle",
+    "title": "‼️🇷🇺🏴‍☠В Севастополе военные продолжают отражать атаку ВСУ. ",
+    "description": "‼️🇷🇺🏴‍☠В Севастополе военные продолжают отражать атаку ВСУ. \n\n▪️Уже сбито 14 БПЛА в районе Северной стороны, Севастопольской бухты и бухты Омега. \n▪️По решению оперативного штаба, изменён порядок подачи сигнала воздушной тревоги. Теперь он звучит 3 раза и затем прекращается. Такое решение принято для того, чтобы громкий и продолжительный звук сирены не мешал работе ПВО и мобильных огневых групп.\n▪️Это вовсе не означает, что угроза миновала или тревога отменена. Следите за официальными сообщен",
+    "location": {
+      "lat": 44.6166,
+      "lng": 33.5254
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-26T21:54:11+00:00",
+    "source": "Telegram: Operation Z (RV)",
+    "metadata": {
+      "telegramChannel": "RVvoenkor",
+      "telegramChannelName": "Operation Z (RV)",
+      "telegramPostId": "RVvoenkor/115851",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/RVvoenkor/115851",
+      "region": "Sevastopol"
+    },
+    "lastUpdated": "2026-05-26T23:13:17.387Z",
+    "createdAt": "2026-05-26T23:13:17.387Z"
+  },
+  {
+    "id": "tg-voenkorKotenok-72528",
+    "type": "battle",
+    "title": "ВСУ в эти часы пытаются бить по Севастополю.",
+    "description": "ВСУ в эти часы пытаются бить по Севастополю.\n\nВ районе Северной стороны, Севастопольской бухты и бухты Омега сбиты уже 14 украинских БПЛА самолетного типа.\n\nАтака продолжается.\n\nПодпишись в MAX\n@voenkorKotenok",
+    "location": {
+      "lat": 44.6166,
+      "lng": 33.5254
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-26T22:03:13+00:00",
+    "source": "Telegram: Voenkor Kotenok",
+    "metadata": {
+      "telegramChannel": "voenkorKotenok",
+      "telegramChannelName": "Voenkor Kotenok",
+      "telegramPostId": "voenkorKotenok/72528",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/voenkorKotenok/72528",
+      "region": "Sevastopol"
+    },
+    "lastUpdated": "2026-05-26T23:13:19.220Z",
+    "createdAt": "2026-05-26T23:13:19.220Z"
+  },
+  {
+    "id": "tg-swodki-587462",
+    "type": "strike",
+    "title": "Сбитый БПЛА Шахед с встроенной ракетой Р-60 —  класса «воздух-воздух» ..",
+    "description": "Сбитый БПЛА Шахед с встроенной ракетой Р-60 —  класса «воздух-воздух» ..",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-26T22:05:06+00:00",
+    "source": "Telegram: SWODKI",
+    "metadata": {
+      "telegramChannel": "swodki",
+      "telegramChannelName": "SWODKI",
+      "telegramPostId": "swodki/587462",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/swodki/587462",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-05-26T23:13:22.918Z",
+    "createdAt": "2026-05-26T23:13:22.918Z"
+  },
+  {
+    "id": "tg-swodki-587464",
+    "type": "strike",
+    "title": "А вот и \"пруф\".",
+    "description": "А вот и \"пруф\".\n\nКСИР выложил на своих ресурсах кадры поражения американского MQ-9 Reaper.\n\nЗаявляется, что американский дрон был сбит в районе острова Кешм.\n\n\"Военкор Котенок\"",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-26T22:35:06+00:00",
+    "source": "Telegram: SWODKI",
+    "metadata": {
+      "telegramChannel": "swodki",
+      "telegramChannelName": "SWODKI",
+      "telegramPostId": "swodki/587464",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/swodki/587464",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-05-26T23:13:22.918Z",
+    "createdAt": "2026-05-26T23:13:22.918Z"
+  },
+  {
+    "id": "tg-SolovievLive-370178",
+    "type": "strike",
+    "title": "Helsingin Sanomat: Стубб предложил вести диалог с Россией через институты ЕС",
+    "description": "Helsingin Sanomat: Стубб предложил вести диалог с Россией через институты ЕС\n\nПрезидент Финляндии Александр Стубб высказался о возможных переговорах с Россией по украинскому кризису. Он считает, что первый контакт должен идти через структуры Евросоюза, а не через отдельные государства. При этом Стубб не стал настаивать на своей собственной кандидатуре.\n\n«Если диалог с Россией будет начат, очень важно, чтобы первый контакт состоялся со стороны Евросоюза и институтов ЕС», — заявил Стубб на меропри",
+    "location": {
+      "lat": 50.4501,
+      "lng": 30.5234
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-26T22:15:12+00:00",
+    "source": "Telegram: Solovyov Live",
+    "metadata": {
+      "telegramChannel": "SolovievLive",
+      "telegramChannelName": "Solovyov Live",
+      "telegramPostId": "SolovievLive/370178",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/SolovievLive/370178",
+      "region": "Kyiv"
+    },
+    "lastUpdated": "2026-05-26T23:13:28.350Z",
+    "createdAt": "2026-05-26T23:13:28.350Z"
+  },
+  {
+    "id": "tg-SolovievLive-370180",
+    "type": "strike",
+    "title": "КНДР проверила точность попадания тактической крылатой ракеты, управляемой ИИ, п",
+    "description": "КНДР проверила точность попадания тактической крылатой ракеты, управляемой ИИ, пишет ЦТАК.\n\nНовая северокорейская тактическая крылатая ракета оснащена сверхточной навигационной системой, соответствующей контуру местности, добавили в агентстве.\n\n🇷🇺 Подпишись на Соловьёва&#33;",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-26T22:40:10+00:00",
+    "source": "Telegram: Solovyov Live",
+    "metadata": {
+      "telegramChannel": "SolovievLive",
+      "telegramChannelName": "Solovyov Live",
+      "telegramPostId": "SolovievLive/370180",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/SolovievLive/370180",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-05-26T23:13:28.350Z",
+    "createdAt": "2026-05-26T23:13:28.350Z"
+  },
+  {
+    "id": "tg-tassagency_en-83958",
+    "type": "strike",
+    "title": "❗️Conflict Overview: Day 88",
+    "description": "❗️Conflict Overview: Day 88\n\n▪️Iranian Supreme Leader Ayatollah Mojtaba Khamenei said that the United States will no longer be able to use Middle Eastern countries as shields for its bases or have any safe place in the region.\n\n▪️Iranian Parliament National Security Committee Chairman Ebrahim Azizi said that the future of negotiations between Iran and the United States depends on whether Washington takes steps to build trust.\n\n▪️Iranian military spokesman Ebrahim Zolfaghari said the oil price co",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-26T22:02:54+00:00",
+    "source": "Telegram: TASS English",
+    "metadata": {
+      "telegramChannel": "tassagency_en",
+      "telegramChannelName": "TASS English",
+      "telegramPostId": "tassagency_en/83958",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/tassagency_en/83958",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-05-26T23:13:50.703Z",
+    "createdAt": "2026-05-26T23:13:50.703Z"
+  },
+  {
+    "id": "tg-tassagency_en-83960",
+    "type": "strategic",
+    "title": "Twenty-five vessels, including tankers, container ships, and other commercial ve",
+    "description": "Twenty-five vessels, including tankers, container ships, and other commercial vessels, have passed through the Strait of Hormuz over the past 24 hours, the Navy of Iran’s Islamic Revolutionary Guard Corps reported.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-26T23:00:21+00:00",
+    "source": "Telegram: TASS English",
+    "metadata": {
+      "telegramChannel": "tassagency_en",
+      "telegramChannelName": "TASS English",
+      "telegramPostId": "tassagency_en/83960",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/tassagency_en/83960",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-05-26T23:13:50.703Z",
+    "createdAt": "2026-05-26T23:13:50.703Z"
+  },
+  {
+    "id": "tg-southfronteng-60787",
+    "type": "battle",
+    "title": "Russian Army Grinds Down Ukrainian Defenses In Three Directions",
+    "description": "Russian Army Grinds Down Ukrainian Defenses In Three Directions\n\nIn the direction of Kostiantynivka, Russian units advanced into the industrial zone and crossed the Kryvyi Torets River. They are currently fighting within the grounds of a former chemical plant. These advances threaten to encircle part of the Ukrainian garrison in the southeastern section of the city. \n\nIn the direction of Dnipropetrovsk, Russian troops have captured Dobropasove and are gradually clearing \"pockets\" of resistance, ",
+    "location": {
+      "lat": 49.9935,
+      "lng": 36.2304
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-05-26T22:23:10+00:00",
+    "source": "Telegram: SouthFront",
+    "metadata": {
+      "telegramChannel": "southfronteng",
+      "telegramChannelName": "SouthFront",
+      "telegramPostId": "southfronteng/60787",
+      "bias": "pro-russian",
+      "weight": 1,
+      "telegramUrl": "https://t.me/southfronteng/60787",
+      "region": "Kharkiv Oblast"
+    },
+    "lastUpdated": "2026-05-26T23:14:22.189Z",
+    "createdAt": "2026-05-26T23:14:22.189Z"
+  },
+  {
     "id": "tg-rybar-80606",
     "type": "strike",
     "title": "📝Фронт по Псёлу📝",

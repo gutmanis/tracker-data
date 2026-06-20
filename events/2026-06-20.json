@@ -1,80 +1,5 @@
 [
   {
-    "id": "tg-rybar-81201",
-    "type": "battle",
-    "title": "📝Хроника специальной военной операции 📝",
-    "description": "📝Хроника специальной военной операции 📝\nЗа 19 июня 2026 года \n\n🧨Российские войска нанесли удар по стоянке бензовозов и нескольким сухогрузам в Одесской области. Поражены АЗС в Никополе, Запорожье, Богодухове и Снигиревке, а также подстанция в Золочеве. В Харькове прилеты пришлись по логистической инфраструктуре.\n\nУкраинские формирования вновь попытались атаковать объекты в Москве, порядка 80 БЛА сбито на подлете к столице, пострадавших нет. Как и прежде, основное число прилетов приходится на ",
-    "location": {
-      "lat": 49.9935,
-      "lng": 36.2304
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-06-19T20:40:02+00:00",
-    "source": "Telegram: Rybar",
-    "metadata": {
-      "telegramChannel": "rybar",
-      "telegramChannelName": "Rybar",
-      "telegramPostId": "rybar/81201",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/rybar/81201",
-      "region": "Kharkiv Oblast"
-    },
-    "lastUpdated": "2026-06-20T19:41:11.444Z",
-    "createdAt": "2026-06-20T19:41:11.445Z"
-  },
-  {
-    "id": "tg-rybar-81203",
-    "type": "strike",
-    "title": "📝Главное от Рыбаря📝",
-    "description": "📝Главное от Рыбаря📝\nдайджест материалов за 19 июня\n\nСброс дронов с аэростатов — не такая уж и фантастика, а вполне осязаемая угроза. И это традициям одним из поводов для системного противодействия, а не популистичных призывов «воевать по-настоящему».\n\n❗️Подробнее об этих и других темах читайте в нашем дайджесте.\n\n➡️ Рыбарь @rybar — говорим о сложном просто.\n\nОсновной ресурс нашего аналитического центра. Самые важные и интересные материалы.\n\n▪️Хроника СВО, новые флаги в Константиновки\n▪️О нежел",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-06-19T20:55:03+00:00",
-    "source": "Telegram: Rybar",
-    "metadata": {
-      "telegramChannel": "rybar",
-      "telegramChannelName": "Rybar",
-      "telegramPostId": "rybar/81203",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/rybar/81203",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-06-20T19:41:11.445Z",
-    "createdAt": "2026-06-20T19:41:11.445Z"
-  },
-  {
-    "id": "tg-rybar-81205",
-    "type": "strategic",
-    "title": "📝Архитектура нового диктата📝",
-    "description": "📝Архитектура нового диктата📝\nили как работает модель порабощения континента\n\nА как в итоге эта гибридная машина по сносу суверенитетов работает изнутри? Если отбросить сухую новостную мишуру, мы увидим четкую механику, где каждое событие — это обкатка конкретного инструмента под разные политические задачи.\n\n➡️Самый радикальный из них протестировали на Венесуэле, продемонстрировав тактику перехода к прямому управлению. Январский захват Мадуро был не просто спецоперацией, а актом показательного ",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-06-20T06:32:00+00:00",
-    "source": "Telegram: Rybar",
-    "metadata": {
-      "telegramChannel": "rybar",
-      "telegramChannelName": "Rybar",
-      "telegramPostId": "rybar/81205",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/rybar/81205",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-06-20T19:41:11.445Z",
-    "createdAt": "2026-06-20T19:41:11.445Z"
-  },
-  {
     "id": "tg-rybar-81206",
     "type": "strike",
     "title": "#Сводка на утро 20 июня 2026 года",
@@ -96,8 +21,8 @@
       "telegramUrl": "https://t.me/rybar/81206",
       "region": "Kharkiv Oblast"
     },
-    "lastUpdated": "2026-06-20T19:41:11.446Z",
-    "createdAt": "2026-06-20T19:41:11.446Z"
+    "lastUpdated": "2026-06-20T21:20:37.628Z",
+    "createdAt": "2026-06-20T21:20:37.628Z"
   },
   {
     "id": "tg-rybar-81212",
@@ -121,8 +46,8 @@
       "telegramUrl": "https://t.me/rybar/81212",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:11.446Z",
-    "createdAt": "2026-06-20T19:41:11.446Z"
+    "lastUpdated": "2026-06-20T21:20:37.628Z",
+    "createdAt": "2026-06-20T21:20:37.628Z"
   },
   {
     "id": "tg-rybar-81215",
@@ -146,8 +71,8 @@
       "telegramUrl": "https://t.me/rybar/81215",
       "region": "Kyiv"
     },
-    "lastUpdated": "2026-06-20T19:41:11.446Z",
-    "createdAt": "2026-06-20T19:41:11.446Z"
+    "lastUpdated": "2026-06-20T21:20:37.629Z",
+    "createdAt": "2026-06-20T21:20:37.629Z"
   },
   {
     "id": "tg-rybar-81216",
@@ -171,8 +96,8 @@
       "telegramUrl": "https://t.me/rybar/81216",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:11.447Z",
-    "createdAt": "2026-06-20T19:41:11.447Z"
+    "lastUpdated": "2026-06-20T21:20:37.629Z",
+    "createdAt": "2026-06-20T21:20:37.629Z"
   },
   {
     "id": "tg-rybar-81217",
@@ -196,8 +121,8 @@
       "telegramUrl": "https://t.me/rybar/81217",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:11.447Z",
-    "createdAt": "2026-06-20T19:41:11.447Z"
+    "lastUpdated": "2026-06-20T21:20:37.629Z",
+    "createdAt": "2026-06-20T21:20:37.629Z"
   },
   {
     "id": "tg-rybar-81218",
@@ -221,8 +146,8 @@
       "telegramUrl": "https://t.me/rybar/81218",
       "region": "Mykolaiv Oblast"
     },
-    "lastUpdated": "2026-06-20T19:41:11.447Z",
-    "createdAt": "2026-06-20T19:41:11.447Z"
+    "lastUpdated": "2026-06-20T21:20:37.629Z",
+    "createdAt": "2026-06-20T21:20:37.629Z"
   },
   {
     "id": "tg-rybar-81219",
@@ -246,8 +171,8 @@
       "telegramUrl": "https://t.me/rybar/81219",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:11.447Z",
-    "createdAt": "2026-06-20T19:41:11.447Z"
+    "lastUpdated": "2026-06-20T21:20:37.630Z",
+    "createdAt": "2026-06-20T21:20:37.630Z"
   },
   {
     "id": "tg-rybar-81220",
@@ -271,8 +196,83 @@
       "telegramUrl": "https://t.me/rybar/81220",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:11.448Z",
-    "createdAt": "2026-06-20T19:41:11.448Z"
+    "lastUpdated": "2026-06-20T21:20:37.630Z",
+    "createdAt": "2026-06-20T21:20:37.630Z"
+  },
+  {
+    "id": "tg-rybar-81221",
+    "type": "strike",
+    "title": "▶ Итоги 20 июня",
+    "description": "▶ Итоги 20 июня\nвидеосводка от руководителя проекта @rybar Михаила Звинчука специально для @SolovievLive\n\nРоссия впервые за долгое время завозит бензин морским путём из Азии. А как раз там разворачивается полноценная дроновая лихорадка: власти Тайваня и Японии перенимают опыт т.н. Украины, чьи производители рвутся на местный рынок.\n\nВ зоне СВО исход боёв всё чаще решает изоляция снабжения. ВС РФ системно выбивают дронами транспорт противника на Константиновском и Славянском направлениях, из-за ч",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-06-20T19:50:01+00:00",
+    "source": "Telegram: Rybar",
+    "metadata": {
+      "telegramChannel": "rybar",
+      "telegramChannelName": "Rybar",
+      "telegramPostId": "rybar/81221",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/rybar/81221",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-06-20T21:20:37.630Z",
+    "createdAt": "2026-06-20T21:20:37.630Z"
+  },
+  {
+    "id": "tg-rybar-81222",
+    "type": "battle",
+    "title": "📝Главное от Рыбаря📝",
+    "description": "📝Главное от Рыбаря📝\nдайджест материалов за 20 июня\n\nРоссийские войска рвутся к Славянску — на пути к городу сегодня была освобождена Юрковка.\n\n❗️Подробнее об этих и других темах читайте в нашем дайджесте.\n\n➡️ Рыбарь @rybar — говорим о сложном просто.\n\nОсновной ресурс нашего аналитического центра. Самые важные и интересные материалы.\n\n▪️Хроника СВО, освобождение Лимана все ближе, успехи на Славянском направлении\n▪️Зачем Россия закупает топливо из Азии?\n▪️Болгарское вето на 21-й пакет санкций ЕС",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-06-20T20:30:00+00:00",
+    "source": "Telegram: Rybar",
+    "metadata": {
+      "telegramChannel": "rybar",
+      "telegramChannelName": "Rybar",
+      "telegramPostId": "rybar/81222",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/rybar/81222",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-06-20T21:20:37.630Z",
+    "createdAt": "2026-06-20T21:20:37.630Z"
+  },
+  {
+    "id": "tg-rybar-81223",
+    "type": "battle",
+    "title": "📝Хроника специальной военной операции 📝",
+    "description": "📝Хроника специальной военной операции 📝\nЗа 20 июня 2026 года \n\n🧨Российские войска продолжают кампанию по уничтожению украинских АЗС, логистических центров «Новой Почты» и нефтебазы. Под удар попали объекты в Днепропетровской, Николаевской, Одесской и Харьковской областей. Впервые за долгое время ВКС России отработали по мостам через Днепр в Запорожье.\n\nУкраинские формирования попытались атаковать НПЗ в Тюмени более чем в 2000 км от линии фронта, разрушений и жертв удалось избежать. Массирован",
+    "location": {
+      "lat": 49.9935,
+      "lng": 36.2304
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-06-20T20:59:24+00:00",
+    "source": "Telegram: Rybar",
+    "metadata": {
+      "telegramChannel": "rybar",
+      "telegramChannelName": "Rybar",
+      "telegramPostId": "rybar/81223",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/rybar/81223",
+      "region": "Kharkiv Oblast"
+    },
+    "lastUpdated": "2026-06-20T21:20:37.631Z",
+    "createdAt": "2026-06-20T21:20:37.631Z"
   },
   {
     "id": "tg-wargonzo-34940",
@@ -296,8 +296,8 @@
       "telegramUrl": "https://t.me/wargonzo/34940",
       "region": "Kharkiv Oblast"
     },
-    "lastUpdated": "2026-06-20T19:41:13.520Z",
-    "createdAt": "2026-06-20T19:41:13.520Z"
+    "lastUpdated": "2026-06-20T21:20:39.491Z",
+    "createdAt": "2026-06-20T21:20:39.491Z"
   },
   {
     "id": "tg-wargonzo-34943",
@@ -321,8 +321,8 @@
       "telegramUrl": "https://t.me/wargonzo/34943",
       "region": "Kharkiv Oblast"
     },
-    "lastUpdated": "2026-06-20T19:41:13.520Z",
-    "createdAt": "2026-06-20T19:41:13.520Z"
+    "lastUpdated": "2026-06-20T21:20:39.491Z",
+    "createdAt": "2026-06-20T21:20:39.491Z"
   },
   {
     "id": "tg-wargonzo-34950",
@@ -346,8 +346,8 @@
       "telegramUrl": "https://t.me/wargonzo/34950",
       "region": "Kursk Oblast"
     },
-    "lastUpdated": "2026-06-20T19:41:13.520Z",
-    "createdAt": "2026-06-20T19:41:13.520Z"
+    "lastUpdated": "2026-06-20T21:20:39.491Z",
+    "createdAt": "2026-06-20T21:20:39.491Z"
   },
   {
     "id": "tg-wargonzo-34951",
@@ -371,8 +371,8 @@
       "telegramUrl": "https://t.me/wargonzo/34951",
       "region": "Kyiv"
     },
-    "lastUpdated": "2026-06-20T19:41:13.520Z",
-    "createdAt": "2026-06-20T19:41:13.520Z"
+    "lastUpdated": "2026-06-20T21:20:39.492Z",
+    "createdAt": "2026-06-20T21:20:39.492Z"
   },
   {
     "id": "tg-wargonzo-34954",
@@ -396,8 +396,8 @@
       "telegramUrl": "https://t.me/wargonzo/34954",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:13.520Z",
-    "createdAt": "2026-06-20T19:41:13.520Z"
+    "lastUpdated": "2026-06-20T21:20:39.492Z",
+    "createdAt": "2026-06-20T21:20:39.492Z"
   },
   {
     "id": "tg-wargonzo-34956",
@@ -421,8 +421,8 @@
       "telegramUrl": "https://t.me/wargonzo/34956",
       "region": "Donetsk Oblast"
     },
-    "lastUpdated": "2026-06-20T19:41:13.520Z",
-    "createdAt": "2026-06-20T19:41:13.520Z"
+    "lastUpdated": "2026-06-20T21:20:39.492Z",
+    "createdAt": "2026-06-20T21:20:39.492Z"
   },
   {
     "id": "tg-wargonzo-34957",
@@ -446,8 +446,8 @@
       "telegramUrl": "https://t.me/wargonzo/34957",
       "region": "Zaporizhia Oblast"
     },
-    "lastUpdated": "2026-06-20T19:41:13.520Z",
-    "createdAt": "2026-06-20T19:41:13.520Z"
+    "lastUpdated": "2026-06-20T21:20:39.492Z",
+    "createdAt": "2026-06-20T21:20:39.492Z"
   },
   {
     "id": "tg-readovkanews-111638",
@@ -471,8 +471,8 @@
       "telegramUrl": "https://t.me/readovkanews/111638",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:15.490Z",
-    "createdAt": "2026-06-20T19:41:15.490Z"
+    "lastUpdated": "2026-06-20T21:20:41.580Z",
+    "createdAt": "2026-06-20T21:20:41.580Z"
   },
   {
     "id": "tg-readovkanews-111648",
@@ -496,8 +496,8 @@
       "telegramUrl": "https://t.me/readovkanews/111648",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:15.490Z",
-    "createdAt": "2026-06-20T19:41:15.490Z"
+    "lastUpdated": "2026-06-20T21:20:41.581Z",
+    "createdAt": "2026-06-20T21:20:41.581Z"
   },
   {
     "id": "tg-readovkanews-111651",
@@ -521,8 +521,8 @@
       "telegramUrl": "https://t.me/readovkanews/111651",
       "region": "Crimea"
     },
-    "lastUpdated": "2026-06-20T19:41:15.490Z",
-    "createdAt": "2026-06-20T19:41:15.490Z"
+    "lastUpdated": "2026-06-20T21:20:41.581Z",
+    "createdAt": "2026-06-20T21:20:41.581Z"
   },
   {
     "id": "tg-readovkanews-111652",
@@ -546,33 +546,8 @@
       "telegramUrl": "https://t.me/readovkanews/111652",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:15.490Z",
-    "createdAt": "2026-06-20T19:41:15.490Z"
-  },
-  {
-    "id": "tg-mash-75275",
-    "type": "battle",
-    "title": "До 25 лет лишения свободы может получить Григорий А., напавший на ТЦ в Краснодар",
-    "description": "До 25 лет лишения свободы может получить Григорий А., напавший на ТЦ в Краснодаре — в ходе атаки он использовал СВУ, зарезал женщину и нанёс ранения минимум четверым посетителям комплекса.\n\nСК России по Краснодарскому краю возбудил уголовное дело по статьям об убийстве и покушении на убийство. При задержании Гриша заявил, что ему никто не платил — на преступление пошёл, потому что устал жить и хотел покончить с собой. Сейчас с ним работают правоохранители. \n\n❗ Не грузятся фото и видео? Читайте н",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-06-20T13:38:28+00:00",
-    "source": "Telegram: Mash",
-    "metadata": {
-      "telegramChannel": "mash",
-      "telegramChannelName": "Mash",
-      "telegramPostId": "mash/75275",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/mash/75275",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-06-20T19:41:17.350Z",
-    "createdAt": "2026-06-20T19:41:17.350Z"
+    "lastUpdated": "2026-06-20T21:20:41.581Z",
+    "createdAt": "2026-06-20T21:20:41.581Z"
   },
   {
     "id": "tg-mash-75278",
@@ -596,8 +571,8 @@
       "telegramUrl": "https://t.me/mash/75278",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:17.350Z",
-    "createdAt": "2026-06-20T19:41:17.350Z"
+    "lastUpdated": "2026-06-20T21:20:43.380Z",
+    "createdAt": "2026-06-20T21:20:43.380Z"
   },
   {
     "id": "tg-mash-75281",
@@ -621,8 +596,8 @@
       "telegramUrl": "https://t.me/mash/75281",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:17.350Z",
-    "createdAt": "2026-06-20T19:41:17.350Z"
+    "lastUpdated": "2026-06-20T21:20:43.380Z",
+    "createdAt": "2026-06-20T21:20:43.380Z"
   },
   {
     "id": "tg-mash-75289",
@@ -646,8 +621,8 @@
       "telegramUrl": "https://t.me/mash/75289",
       "region": "Kharkiv Oblast"
     },
-    "lastUpdated": "2026-06-20T19:41:17.350Z",
-    "createdAt": "2026-06-20T19:41:17.350Z"
+    "lastUpdated": "2026-06-20T21:20:43.380Z",
+    "createdAt": "2026-06-20T21:20:43.380Z"
   },
   {
     "id": "tg-mash-75293",
@@ -671,58 +646,33 @@
       "telegramUrl": "https://t.me/mash/75293",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:17.350Z",
-    "createdAt": "2026-06-20T19:41:17.350Z"
+    "lastUpdated": "2026-06-20T21:20:43.380Z",
+    "createdAt": "2026-06-20T21:20:43.380Z"
   },
   {
-    "id": "tg-mod_russia-64741",
+    "id": "tg-mash-75295",
     "type": "strategic",
-    "title": "Экипаж Су-34М ВКС России нанес авиационный удар по месту хранения БПЛА противник",
-    "description": "Экипаж Су-34М ВКС России нанес авиационный удар по месту хранения БПЛА противника и компонентов для их производства.\n\n📍 северо-западная окраина Харькова\n\n✈️ Курс на MAКС&#33;",
-    "location": {
-      "lat": 49.9935,
-      "lng": 36.2304
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-06-20T11:10:29+00:00",
-    "source": "Telegram: Russian MOD",
-    "metadata": {
-      "telegramChannel": "mod_russia",
-      "telegramChannelName": "Russian MOD",
-      "telegramPostId": "mod_russia/64741",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/mod_russia/64741",
-      "region": "Kharkiv Oblast"
-    },
-    "lastUpdated": "2026-06-20T19:41:19.249Z",
-    "createdAt": "2026-06-20T19:41:19.249Z"
-  },
-  {
-    "id": "tg-mod_russia-64742",
-    "type": "battle",
-    "title": "«Как только мы видим движение, мы его сразу аннулируем».",
-    "description": "«Как только мы видим движение, мы его сразу аннулируем».\n\n💬 Командир артиллерийского дивизиона 103-го мотострелкового полка «Южной» группировки войск с позывным «Резвый» рассказал о боевой работе подразделений в Константиновке.\n\n➡️ Присоединяйся к нашим бойцам и бей врага, как это делают артиллеристы «Южной» группировки войск&#33; Узнать подробнее о службе по контракту можно на сайте Службапоконтракту.рф и по телефону 117.\n\n▫️ Канал Минобороны России в MAКС – источник мощных новостей.",
+    "title": "\"Инопланетяне напали на Бразилию. Люди, мы прибыли\", — с таким сообщением от Мин",
+    "description": "\"Инопланетяне напали на Бразилию. Люди, мы прибыли\", — с таким сообщением от Минобороны проснулись миллионы бразильцев.\n\nТекст появился в системе экстренных оповещений и быстро разлетелся по стране. Власти вскоре удалили сообщение.\n\nПо данным местных СМИ, систему могли взломать.\n\n❗ Не грузятся фото и видео? Читайте нас в MAX.",
     "location": {
       "lat": 48.5,
       "lng": 37
     },
     "status": "developing",
     "severity": 5,
-    "startDate": "2026-06-20T11:19:01+00:00",
-    "source": "Telegram: Russian MOD",
+    "startDate": "2026-06-20T20:28:38+00:00",
+    "source": "Telegram: Mash",
     "metadata": {
-      "telegramChannel": "mod_russia",
-      "telegramChannelName": "Russian MOD",
-      "telegramPostId": "mod_russia/64742",
+      "telegramChannel": "mash",
+      "telegramChannelName": "Mash",
+      "telegramPostId": "mash/75295",
       "bias": "pro-russian",
       "weight": 3,
-      "telegramUrl": "https://t.me/mod_russia/64742",
+      "telegramUrl": "https://t.me/mash/75295",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:19.250Z",
-    "createdAt": "2026-06-20T19:41:19.250Z"
+    "lastUpdated": "2026-06-20T21:20:43.381Z",
+    "createdAt": "2026-06-20T21:20:43.381Z"
   },
   {
     "id": "tg-mod_russia-64746",
@@ -746,8 +696,8 @@
       "telegramUrl": "https://t.me/mod_russia/64746",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:19.250Z",
-    "createdAt": "2026-06-20T19:41:19.250Z"
+    "lastUpdated": "2026-06-20T21:20:45.281Z",
+    "createdAt": "2026-06-20T21:20:45.281Z"
   },
   {
     "id": "tg-mod_russia-64747",
@@ -771,8 +721,8 @@
       "telegramUrl": "https://t.me/mod_russia/64747",
       "region": "Crimea"
     },
-    "lastUpdated": "2026-06-20T19:41:19.250Z",
-    "createdAt": "2026-06-20T19:41:19.250Z"
+    "lastUpdated": "2026-06-20T21:20:45.281Z",
+    "createdAt": "2026-06-20T21:20:45.281Z"
   },
   {
     "id": "tg-mod_russia-64748",
@@ -796,8 +746,8 @@
       "telegramUrl": "https://t.me/mod_russia/64748",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:19.250Z",
-    "createdAt": "2026-06-20T19:41:19.250Z"
+    "lastUpdated": "2026-06-20T21:20:45.281Z",
+    "createdAt": "2026-06-20T21:20:45.281Z"
   },
   {
     "id": "tg-mod_russia-64749",
@@ -821,8 +771,8 @@
       "telegramUrl": "https://t.me/mod_russia/64749",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:19.250Z",
-    "createdAt": "2026-06-20T19:41:19.250Z"
+    "lastUpdated": "2026-06-20T21:20:45.281Z",
+    "createdAt": "2026-06-20T21:20:45.281Z"
   },
   {
     "id": "tg-mod_russia-64750",
@@ -846,8 +796,8 @@
       "telegramUrl": "https://t.me/mod_russia/64750",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:19.250Z",
-    "createdAt": "2026-06-20T19:41:19.250Z"
+    "lastUpdated": "2026-06-20T21:20:45.281Z",
+    "createdAt": "2026-06-20T21:20:45.281Z"
   },
   {
     "id": "tg-mod_russia-64751",
@@ -871,8 +821,8 @@
       "telegramUrl": "https://t.me/mod_russia/64751",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:19.250Z",
-    "createdAt": "2026-06-20T19:41:19.250Z"
+    "lastUpdated": "2026-06-20T21:20:45.281Z",
+    "createdAt": "2026-06-20T21:20:45.281Z"
   },
   {
     "id": "tg-mod_russia-64756",
@@ -896,8 +846,8 @@
       "telegramUrl": "https://t.me/mod_russia/64756",
       "region": "Donetsk Oblast"
     },
-    "lastUpdated": "2026-06-20T19:41:19.250Z",
-    "createdAt": "2026-06-20T19:41:19.250Z"
+    "lastUpdated": "2026-06-20T21:20:45.281Z",
+    "createdAt": "2026-06-20T21:20:45.281Z"
   },
   {
     "id": "tg-mod_russia-64757",
@@ -921,8 +871,8 @@
       "telegramUrl": "https://t.me/mod_russia/64757",
       "region": "Zaporizhia Oblast"
     },
-    "lastUpdated": "2026-06-20T19:41:19.250Z",
-    "createdAt": "2026-06-20T19:41:19.250Z"
+    "lastUpdated": "2026-06-20T21:20:45.281Z",
+    "createdAt": "2026-06-20T21:20:45.281Z"
   },
   {
     "id": "tg-mod_russia-64758",
@@ -946,8 +896,8 @@
       "telegramUrl": "https://t.me/mod_russia/64758",
       "region": "Kherson Oblast"
     },
-    "lastUpdated": "2026-06-20T19:41:19.251Z",
-    "createdAt": "2026-06-20T19:41:19.251Z"
+    "lastUpdated": "2026-06-20T21:20:45.282Z",
+    "createdAt": "2026-06-20T21:20:45.282Z"
   },
   {
     "id": "tg-mod_russia-64759",
@@ -971,8 +921,8 @@
       "telegramUrl": "https://t.me/mod_russia/64759",
       "region": "Crimea"
     },
-    "lastUpdated": "2026-06-20T19:41:19.251Z",
-    "createdAt": "2026-06-20T19:41:19.251Z"
+    "lastUpdated": "2026-06-20T21:20:45.282Z",
+    "createdAt": "2026-06-20T21:20:45.282Z"
   },
   {
     "id": "tg-mod_russia-64760",
@@ -996,8 +946,58 @@
       "telegramUrl": "https://t.me/mod_russia/64760",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:19.251Z",
-    "createdAt": "2026-06-20T19:41:19.251Z"
+    "lastUpdated": "2026-06-20T21:20:45.282Z",
+    "createdAt": "2026-06-20T21:20:45.282Z"
+  },
+  {
+    "id": "tg-mod_russia-64761",
+    "type": "strategic",
+    "title": "Сегодня тысячи выпускников военных вузов со всей страны получили свои первые офи",
+    "description": "Сегодня тысячи выпускников военных вузов со всей страны получили свои первые офицерские погоны.\n\n🫡 Товарищи офицеры, верим в каждого из вас. В добрый путь&#33;\n\n#СобытиеДня\n💬 Канал Минобороны России в MAКС – только для своих&#33;",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-06-20T19:45:54+00:00",
+    "source": "Telegram: Russian MOD",
+    "metadata": {
+      "telegramChannel": "mod_russia",
+      "telegramChannelName": "Russian MOD",
+      "telegramPostId": "mod_russia/64761",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/mod_russia/64761",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-06-20T21:20:45.282Z",
+    "createdAt": "2026-06-20T21:20:45.282Z"
+  },
+  {
+    "id": "tg-mod_russia-64765",
+    "type": "strike",
+    "title": "📆 Главное за день",
+    "description": "📆 Главное за день\n\n▫️ В высших учебных заведениях Министерства обороны Российской Федерации состоялись торжественные выпуски офицеров.\n\n▫️ Оперативно-тактической авиацией, ударными БПЛА, ракетными войсками и артиллерией группировок войск ВС РФ нанесено поражение объектам топливно-энергетического комплекса и транспортной инфраструктуры, используемым ВСУ, цехам производства и местам хранения БПЛА дальнего действия, а также пунктам временной дислокации украинских вооруженных формирований и иностра",
+    "location": {
+      "lat": 49.9935,
+      "lng": 36.2304
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-06-20T20:35:41+00:00",
+    "source": "Telegram: Russian MOD",
+    "metadata": {
+      "telegramChannel": "mod_russia",
+      "telegramChannelName": "Russian MOD",
+      "telegramPostId": "mod_russia/64765",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/mod_russia/64765",
+      "region": "Kharkiv Oblast"
+    },
+    "lastUpdated": "2026-06-20T21:20:45.282Z",
+    "createdAt": "2026-06-20T21:20:45.282Z"
   },
   {
     "id": "tg-yurasumy-28227",
@@ -1021,8 +1021,8 @@
       "telegramUrl": "https://t.me/yurasumy/28227",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:21.171Z",
-    "createdAt": "2026-06-20T19:41:21.171Z"
+    "lastUpdated": "2026-06-20T21:20:47.121Z",
+    "createdAt": "2026-06-20T21:20:47.121Z"
   },
   {
     "id": "tg-yurasumy-28228",
@@ -1046,8 +1046,8 @@
       "telegramUrl": "https://t.me/yurasumy/28228",
       "region": "Kyiv"
     },
-    "lastUpdated": "2026-06-20T19:41:21.171Z",
-    "createdAt": "2026-06-20T19:41:21.171Z"
+    "lastUpdated": "2026-06-20T21:20:47.121Z",
+    "createdAt": "2026-06-20T21:20:47.121Z"
   },
   {
     "id": "tg-yurasumy-28229",
@@ -1071,8 +1071,8 @@
       "telegramUrl": "https://t.me/yurasumy/28229",
       "region": "Kyiv"
     },
-    "lastUpdated": "2026-06-20T19:41:21.171Z",
-    "createdAt": "2026-06-20T19:41:21.171Z"
+    "lastUpdated": "2026-06-20T21:20:47.122Z",
+    "createdAt": "2026-06-20T21:20:47.122Z"
   },
   {
     "id": "tg-yurasumy-28231",
@@ -1096,8 +1096,8 @@
       "telegramUrl": "https://t.me/yurasumy/28231",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:21.171Z",
-    "createdAt": "2026-06-20T19:41:21.171Z"
+    "lastUpdated": "2026-06-20T21:20:47.122Z",
+    "createdAt": "2026-06-20T21:20:47.122Z"
   },
   {
     "id": "tg-yurasumy-28233",
@@ -1121,8 +1121,8 @@
       "telegramUrl": "https://t.me/yurasumy/28233",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:21.172Z",
-    "createdAt": "2026-06-20T19:41:21.172Z"
+    "lastUpdated": "2026-06-20T21:20:47.122Z",
+    "createdAt": "2026-06-20T21:20:47.122Z"
   },
   {
     "id": "tg-yurasumy-28237",
@@ -1146,8 +1146,8 @@
       "telegramUrl": "https://t.me/yurasumy/28237",
       "region": "Donetsk Oblast"
     },
-    "lastUpdated": "2026-06-20T19:41:21.172Z",
-    "createdAt": "2026-06-20T19:41:21.172Z"
+    "lastUpdated": "2026-06-20T21:20:47.122Z",
+    "createdAt": "2026-06-20T21:20:47.122Z"
   },
   {
     "id": "tg-yurasumy-28239",
@@ -1171,8 +1171,8 @@
       "telegramUrl": "https://t.me/yurasumy/28239",
       "region": "Kyiv"
     },
-    "lastUpdated": "2026-06-20T19:41:21.172Z",
-    "createdAt": "2026-06-20T19:41:21.172Z"
+    "lastUpdated": "2026-06-20T21:20:47.122Z",
+    "createdAt": "2026-06-20T21:20:47.122Z"
   },
   {
     "id": "tg-shot_shot-96720",
@@ -1196,8 +1196,8 @@
       "telegramUrl": "https://t.me/shot_shot/96720",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:23.322Z",
-    "createdAt": "2026-06-20T19:41:23.322Z"
+    "lastUpdated": "2026-06-20T21:20:49.112Z",
+    "createdAt": "2026-06-20T21:20:49.112Z"
   },
   {
     "id": "tg-shot_shot-96728",
@@ -1221,8 +1221,8 @@
       "telegramUrl": "https://t.me/shot_shot/96728",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:23.322Z",
-    "createdAt": "2026-06-20T19:41:23.322Z"
+    "lastUpdated": "2026-06-20T21:20:49.112Z",
+    "createdAt": "2026-06-20T21:20:49.112Z"
   },
   {
     "id": "tg-intelslava-89217",
@@ -1246,8 +1246,8 @@
       "telegramUrl": "https://t.me/intelslava/89217",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:25.195Z",
-    "createdAt": "2026-06-20T19:41:25.195Z"
+    "lastUpdated": "2026-06-20T21:20:50.914Z",
+    "createdAt": "2026-06-20T21:20:50.914Z"
   },
   {
     "id": "tg-intelslava-89226",
@@ -1271,8 +1271,8 @@
       "telegramUrl": "https://t.me/intelslava/89226",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:25.195Z",
-    "createdAt": "2026-06-20T19:41:25.195Z"
+    "lastUpdated": "2026-06-20T21:20:50.914Z",
+    "createdAt": "2026-06-20T21:20:50.914Z"
   },
   {
     "id": "tg-intelslava-89227",
@@ -1296,8 +1296,8 @@
       "telegramUrl": "https://t.me/intelslava/89227",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:25.196Z",
-    "createdAt": "2026-06-20T19:41:25.196Z"
+    "lastUpdated": "2026-06-20T21:20:50.914Z",
+    "createdAt": "2026-06-20T21:20:50.914Z"
   },
   {
     "id": "tg-intelslava-89228",
@@ -1321,8 +1321,8 @@
       "telegramUrl": "https://t.me/intelslava/89228",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:25.196Z",
-    "createdAt": "2026-06-20T19:41:25.196Z"
+    "lastUpdated": "2026-06-20T21:20:50.914Z",
+    "createdAt": "2026-06-20T21:20:50.914Z"
   },
   {
     "id": "tg-intelslava-89229",
@@ -1346,8 +1346,8 @@
       "telegramUrl": "https://t.me/intelslava/89229",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:25.196Z",
-    "createdAt": "2026-06-20T19:41:25.196Z"
+    "lastUpdated": "2026-06-20T21:20:50.914Z",
+    "createdAt": "2026-06-20T21:20:50.914Z"
   },
   {
     "id": "tg-intelslava-89230",
@@ -1371,8 +1371,8 @@
       "telegramUrl": "https://t.me/intelslava/89230",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:25.196Z",
-    "createdAt": "2026-06-20T19:41:25.196Z"
+    "lastUpdated": "2026-06-20T21:20:50.915Z",
+    "createdAt": "2026-06-20T21:20:50.915Z"
   },
   {
     "id": "tg-intelslava-89231",
@@ -1396,8 +1396,8 @@
       "telegramUrl": "https://t.me/intelslava/89231",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:25.196Z",
-    "createdAt": "2026-06-20T19:41:25.196Z"
+    "lastUpdated": "2026-06-20T21:20:50.915Z",
+    "createdAt": "2026-06-20T21:20:50.915Z"
   },
   {
     "id": "tg-tass_agency-381619",
@@ -1421,8 +1421,8 @@
       "telegramUrl": "https://t.me/tass_agency/381619",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:26.967Z",
-    "createdAt": "2026-06-20T19:41:26.967Z"
+    "lastUpdated": "2026-06-20T21:20:52.656Z",
+    "createdAt": "2026-06-20T21:20:52.656Z"
   },
   {
     "id": "tg-tass_agency-381620",
@@ -1446,8 +1446,8 @@
       "telegramUrl": "https://t.me/tass_agency/381620",
       "region": "Mykolaiv Oblast"
     },
-    "lastUpdated": "2026-06-20T19:41:26.967Z",
-    "createdAt": "2026-06-20T19:41:26.967Z"
+    "lastUpdated": "2026-06-20T21:20:52.656Z",
+    "createdAt": "2026-06-20T21:20:52.656Z"
   },
   {
     "id": "tg-tass_agency-381628",
@@ -1471,8 +1471,8 @@
       "telegramUrl": "https://t.me/tass_agency/381628",
       "region": "Kyiv"
     },
-    "lastUpdated": "2026-06-20T19:41:26.968Z",
-    "createdAt": "2026-06-20T19:41:26.968Z"
+    "lastUpdated": "2026-06-20T21:20:52.656Z",
+    "createdAt": "2026-06-20T21:20:52.656Z"
   },
   {
     "id": "tg-tass_agency-381630",
@@ -1496,8 +1496,8 @@
       "telegramUrl": "https://t.me/tass_agency/381630",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:26.968Z",
-    "createdAt": "2026-06-20T19:41:26.968Z"
+    "lastUpdated": "2026-06-20T21:20:52.656Z",
+    "createdAt": "2026-06-20T21:20:52.656Z"
   },
   {
     "id": "tg-tass_agency-381634",
@@ -1521,33 +1521,8 @@
       "telegramUrl": "https://t.me/tass_agency/381634",
       "region": "Crimea"
     },
-    "lastUpdated": "2026-06-20T19:41:26.968Z",
-    "createdAt": "2026-06-20T19:41:26.968Z"
-  },
-  {
-    "id": "tg-rian_ru-340764",
-    "type": "battle",
-    "title": "Три мирных жителя пострадали во время атак ВСУ в Белгородской области, заявили в",
-    "description": "Три мирных жителя пострадали во время атак ВСУ в Белгородской области, заявили в оперштабе региона.\n\n🔹 Подписаться на РИА Новости",
-    "location": {
-      "lat": 50.5945,
-      "lng": 36.5872
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-06-20T12:30:08+00:00",
-    "source": "Telegram: RIA Novosti",
-    "metadata": {
-      "telegramChannel": "rian_ru",
-      "telegramChannelName": "RIA Novosti",
-      "telegramPostId": "rian_ru/340764",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/rian_ru/340764",
-      "region": "Belgorod Oblast"
-    },
-    "lastUpdated": "2026-06-20T19:41:28.785Z",
-    "createdAt": "2026-06-20T19:41:28.785Z"
+    "lastUpdated": "2026-06-20T21:20:52.656Z",
+    "createdAt": "2026-06-20T21:20:52.656Z"
   },
   {
     "id": "tg-rian_ru-340769",
@@ -1571,8 +1546,8 @@
       "telegramUrl": "https://t.me/rian_ru/340769",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:28.785Z",
-    "createdAt": "2026-06-20T19:41:28.785Z"
+    "lastUpdated": "2026-06-20T21:20:54.455Z",
+    "createdAt": "2026-06-20T21:20:54.455Z"
   },
   {
     "id": "tg-rian_ru-340772",
@@ -1596,8 +1571,8 @@
       "telegramUrl": "https://t.me/rian_ru/340772",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:28.785Z",
-    "createdAt": "2026-06-20T19:41:28.785Z"
+    "lastUpdated": "2026-06-20T21:20:54.455Z",
+    "createdAt": "2026-06-20T21:20:54.455Z"
   },
   {
     "id": "tg-rian_ru-340774",
@@ -1621,8 +1596,8 @@
       "telegramUrl": "https://t.me/rian_ru/340774",
       "region": "Kursk Oblast"
     },
-    "lastUpdated": "2026-06-20T19:41:28.785Z",
-    "createdAt": "2026-06-20T19:41:28.785Z"
+    "lastUpdated": "2026-06-20T21:20:54.456Z",
+    "createdAt": "2026-06-20T21:20:54.456Z"
   },
   {
     "id": "tg-rian_ru-340777",
@@ -1646,183 +1621,8 @@
       "telegramUrl": "https://t.me/rian_ru/340777",
       "region": "Kyiv"
     },
-    "lastUpdated": "2026-06-20T19:41:28.785Z",
-    "createdAt": "2026-06-20T19:41:28.785Z"
-  },
-  {
-    "id": "tg-boris_rozhin-215202",
-    "type": "strike",
-    "title": "\"Хезболла\" опубликовала кадры ударов по технике ВС Израиля в Ливане при помощи F",
-    "description": "\"Хезболла\" опубликовала кадры ударов по технике ВС Израиля в Ливане при помощи FPV-дронов. Операторам беспилотников удалось поразить танк Merkava, БТР Namer и M113, и экскаватор.\n\nТакже шиитская группировка завила о нескольких нападениях на израильские войска, пытающихся развивать наступление в районе н.п. Тибнит. \"Хезболла\" назвала защиту поселения и стратегической высоты операцией “Ашура”.\n\n@directorate4",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-06-20T16:45:08+00:00",
-    "source": "Telegram: Colonel Cassad",
-    "metadata": {
-      "telegramChannel": "boris_rozhin",
-      "telegramChannelName": "Colonel Cassad",
-      "telegramPostId": "boris_rozhin/215202",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/boris_rozhin/215202",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-06-20T19:41:30.654Z",
-    "createdAt": "2026-06-20T19:41:30.654Z"
-  },
-  {
-    "id": "tg-boris_rozhin-215207",
-    "type": "strategic",
-    "title": "Ещё видео с горящими складами \"Новой почты\" в н. п. Коротич Харьковская область.",
-    "description": "Ещё видео с горящими складами \"Новой почты\" в н. п. Коротич Харьковская область. \n\nПрилеты в Харьковской области продолжаются, сообщают о большом количестве новых взрывов.",
-    "location": {
-      "lat": 49.9935,
-      "lng": 36.2304
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-06-20T16:59:08+00:00",
-    "source": "Telegram: Colonel Cassad",
-    "metadata": {
-      "telegramChannel": "boris_rozhin",
-      "telegramChannelName": "Colonel Cassad",
-      "telegramPostId": "boris_rozhin/215207",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/boris_rozhin/215207",
-      "region": "Kharkiv Oblast"
-    },
-    "lastUpdated": "2026-06-20T19:41:30.654Z",
-    "createdAt": "2026-06-20T19:41:30.654Z"
-  },
-  {
-    "id": "tg-boris_rozhin-215208",
-    "type": "strike",
-    "title": "Помимо инфраструктуры в Запорожье и Харькове",
-    "description": "Помимо инфраструктуры в Запорожье и Харькове\n\n\"Геранями\" был нанесён удар по цели в н.п. Шахтёрское Днепропетровской области. Местные жители сообщают, что после прилётов начались перебои с интернетом.\n\nUPD: Туда же в н.п. Шахтёрское, судя по сообщениям местных, только что прилетела баллистическая ракета.",
-    "location": {
-      "lat": 49.9935,
-      "lng": 36.2304
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-06-20T17:15:06+00:00",
-    "source": "Telegram: Colonel Cassad",
-    "metadata": {
-      "telegramChannel": "boris_rozhin",
-      "telegramChannelName": "Colonel Cassad",
-      "telegramPostId": "boris_rozhin/215208",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/boris_rozhin/215208",
-      "region": "Kharkiv Oblast"
-    },
-    "lastUpdated": "2026-06-20T19:41:30.654Z",
-    "createdAt": "2026-06-20T19:41:30.654Z"
-  },
-  {
-    "id": "tg-boris_rozhin-215210",
-    "type": "strike",
-    "title": "В Полтаву тоже прилетели ракеты, сообщают что в некоторых районах города возникл",
-    "description": "В Полтаву тоже прилетели ракеты, сообщают что в некоторых районах города возникли проблемы с электричеством.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-06-20T17:25:05+00:00",
-    "source": "Telegram: Colonel Cassad",
-    "metadata": {
-      "telegramChannel": "boris_rozhin",
-      "telegramChannelName": "Colonel Cassad",
-      "telegramPostId": "boris_rozhin/215210",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/boris_rozhin/215210",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-06-20T19:41:30.654Z",
-    "createdAt": "2026-06-20T19:41:30.654Z"
-  },
-  {
-    "id": "tg-boris_rozhin-215211",
-    "type": "battle",
-    "title": "📆 Еженедельная авторская колонка; ",
-    "description": "📆 Еженедельная авторская колонка; \n\n⚡️   Руководителя проекта «Курсы тактической медицины» с позывным «Латыш» \n\n✅ Специально для канала Colonelcassad\n\nПрименение вазопрессоров при травматическом шоке в полевых условиях представляет собой сложную и неоднозначную задачу, требующую от тактического медика глубокого понимания патофизиологии шока и строгих показаний к началу терапии. Травматический шок, в своей основе, является гиповолемическим, и первостепенным методом его коррекции остается восполн",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-06-20T17:33:01+00:00",
-    "source": "Telegram: Colonel Cassad",
-    "metadata": {
-      "telegramChannel": "boris_rozhin",
-      "telegramChannelName": "Colonel Cassad",
-      "telegramPostId": "boris_rozhin/215211",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/boris_rozhin/215211",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-06-20T19:41:30.654Z",
-    "createdAt": "2026-06-20T19:41:30.654Z"
-  },
-  {
-    "id": "tg-boris_rozhin-215212",
-    "type": "strike",
-    "title": "New York Times заявляет, что по сравнению с первым годом войны Россия увеличила ",
-    "description": "New York Times заявляет, что по сравнению с первым годом войны Россия увеличила кол-во ракетных ударов по Украине в 12 раз. А помнится укро-пропагандисты вещали, что ракет у России осталось на 2-3 удара.  А их кол-во все растет и растет. И текущий уровень это конечно же не предел.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-06-20T17:45:06+00:00",
-    "source": "Telegram: Colonel Cassad",
-    "metadata": {
-      "telegramChannel": "boris_rozhin",
-      "telegramChannelName": "Colonel Cassad",
-      "telegramPostId": "boris_rozhin/215212",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/boris_rozhin/215212",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-06-20T19:41:30.654Z",
-    "createdAt": "2026-06-20T19:41:30.654Z"
-  },
-  {
-    "id": "tg-boris_rozhin-215213",
-    "type": "strike",
-    "title": "Армия РФ начала активно долбить ФАБами с УМПК по Балабино в Запорожской области,",
-    "description": "Армия РФ начала активно долбить ФАБами с УМПК по Балабино в Запорожской области, расположенному в непосредственной близости от областного и промышленного центра — Запорожья. \n\nФактически Балабино является «воротами» непосредственно в сам город. Помимо этого, удары наносятся по крупной железнодорожной станции «Запорожье-1», куда ВСУ активно подтягивают ресурсы для организации обороны города. \n\nТакже украинские формирования используют территорию Кушугумского известкового завода для размещения сист",
-    "location": {
-      "lat": 47.8388,
-      "lng": 35.1396
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-06-20T18:03:01+00:00",
-    "source": "Telegram: Colonel Cassad",
-    "metadata": {
-      "telegramChannel": "boris_rozhin",
-      "telegramChannelName": "Colonel Cassad",
-      "telegramPostId": "boris_rozhin/215213",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/boris_rozhin/215213",
-      "region": "Zaporizhia Oblast"
-    },
-    "lastUpdated": "2026-06-20T19:41:30.655Z",
-    "createdAt": "2026-06-20T19:41:30.655Z"
+    "lastUpdated": "2026-06-20T21:20:54.456Z",
+    "createdAt": "2026-06-20T21:20:54.456Z"
   },
   {
     "id": "tg-boris_rozhin-215215",
@@ -1846,8 +1646,8 @@
       "telegramUrl": "https://t.me/boris_rozhin/215215",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:30.655Z",
-    "createdAt": "2026-06-20T19:41:30.655Z"
+    "lastUpdated": "2026-06-20T21:20:56.225Z",
+    "createdAt": "2026-06-20T21:20:56.225Z"
   },
   {
     "id": "tg-boris_rozhin-215217",
@@ -1871,83 +1671,158 @@
       "telegramUrl": "https://t.me/boris_rozhin/215217",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:30.655Z",
-    "createdAt": "2026-06-20T19:41:30.655Z"
+    "lastUpdated": "2026-06-20T21:20:56.226Z",
+    "createdAt": "2026-06-20T21:20:56.226Z"
   },
   {
-    "id": "tg-dva_majors-94855",
+    "id": "tg-boris_rozhin-215225",
+    "type": "strategic",
+    "title": "Анимированная схема ударов по территории Украины 07:30 19 июня 2026 – 07:30 20 и",
+    "description": "Анимированная схема ударов по территории Украины 07:30 19 июня 2026 – 07:30 20 июня 2026 года.\n&nbsp;\nДополнения выявленные в процессе создания схемы:\n&nbsp;\n• 02: 10 Окрестности Полтавы – взрыв. Реактивный БПЛА.\n• 05:20 Губиниха Днепропетровской области – взрывы. Герани/Герберы.",
+    "location": {
+      "lat": 48.4647,
+      "lng": 35.0462
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-06-20T19:47:01+00:00",
+    "source": "Telegram: Colonel Cassad",
+    "metadata": {
+      "telegramChannel": "boris_rozhin",
+      "telegramChannelName": "Colonel Cassad",
+      "telegramPostId": "boris_rozhin/215225",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/boris_rozhin/215225",
+      "region": "Dnipropetrovsk Oblast"
+    },
+    "lastUpdated": "2026-06-20T21:20:56.226Z",
+    "createdAt": "2026-06-20T21:20:56.226Z"
+  },
+  {
+    "id": "tg-boris_rozhin-215226",
     "type": "strike",
-    "title": "Хохлячий дрон не попал по грузовику, кадры @dontstopwar",
-    "description": "Хохлячий дрон не попал по грузовику, кадры @dontstopwar\n\n✨Нашего водителя американской летаблой не запугать. \n\nНо ездить надо в сопровождении МОГ, а не гнаться за длинным рублем.\n\nДва майора ✨&nbsp; Два майора в МАХ",
+    "title": "Официальное заявление \"Хезболлы\" по поводу войны с Израилем:",
+    "description": "Официальное заявление \"Хезболлы\" по поводу войны с Израилем:\n\n«На фоне заявлений и лжи, которые израильский враг продолжает распространять относительно предполагаемых нарушений соглашения о прекращении огня со стороны «Хезболла», пытаясь оправдать свою продолжающуюся агрессию против Ливана и массовые убийства мирного населения, Эти заявления совершенно безосновательны. \n\nОни входят в рамки постоянных попыток врага ввести общественное мнение в заблуждение и являются частью его явных и откровенных",
     "location": {
       "lat": 48.5,
       "lng": 37
     },
     "status": "developing",
     "severity": 5,
-    "startDate": "2026-06-20T14:19:51+00:00",
-    "source": "Telegram: Two Majors",
+    "startDate": "2026-06-20T19:55:07+00:00",
+    "source": "Telegram: Colonel Cassad",
     "metadata": {
-      "telegramChannel": "dva_majors",
-      "telegramChannelName": "Two Majors",
-      "telegramPostId": "dva_majors/94855",
+      "telegramChannel": "boris_rozhin",
+      "telegramChannelName": "Colonel Cassad",
+      "telegramPostId": "boris_rozhin/215226",
       "bias": "pro-russian",
       "weight": 2,
-      "telegramUrl": "https://t.me/dva_majors/94855",
+      "telegramUrl": "https://t.me/boris_rozhin/215226",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:32.511Z",
-    "createdAt": "2026-06-20T19:41:32.511Z"
+    "lastUpdated": "2026-06-20T21:20:56.227Z",
+    "createdAt": "2026-06-20T21:20:56.227Z"
   },
   {
-    "id": "tg-dva_majors-94856",
-    "type": "battle",
-    "title": "Херсонское направление",
-    "description": "Херсонское направление\n\nБлагодаря поддержке читателей канала из резервных средств нашего фонда⁠ удалось помочь бойцам подразделения ударных БПЛА с приобретением мотоцикла.\n\n✨ Такая техника позволит фронтовикам быть более мобильными, быстрее добираться до нужных точек, оперативно менять позиции и перевозить необходимое оборудование для выполнения боевых задач.\n\n⭐️ На видео фронтовики благодарят читателей канала за помощь. В качестве небольшого привета бойцы нанесли на крыло ударного БПЛА надпись ",
+    "id": "tg-boris_rozhin-215229",
+    "type": "strategic",
+    "title": "Геноцид украинских локомотивов \"Геранями\" продолжается. Этот накрыли в Житомире.",
+    "description": "Геноцид украинских локомотивов \"Геранями\" продолжается. Этот накрыли в Житомире. Пару недель назад противник уже ныл, что удары по железнодорожной инфраструктуре в Житомирской области уже вызвали серьезные перебои в логистике, причем ситуация имеет тенденции к ухудшению.",
     "location": {
-      "lat": 46.6354,
-      "lng": 32.6169
+      "lat": 48.5,
+      "lng": 37
     },
     "status": "developing",
     "severity": 5,
-    "startDate": "2026-06-20T14:49:56+00:00",
-    "source": "Telegram: Two Majors",
+    "startDate": "2026-06-20T20:35:06+00:00",
+    "source": "Telegram: Colonel Cassad",
     "metadata": {
-      "telegramChannel": "dva_majors",
-      "telegramChannelName": "Two Majors",
-      "telegramPostId": "dva_majors/94856",
+      "telegramChannel": "boris_rozhin",
+      "telegramChannelName": "Colonel Cassad",
+      "telegramPostId": "boris_rozhin/215229",
       "bias": "pro-russian",
       "weight": 2,
-      "telegramUrl": "https://t.me/dva_majors/94856",
-      "region": "Kherson Oblast"
+      "telegramUrl": "https://t.me/boris_rozhin/215229",
+      "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:32.511Z",
-    "createdAt": "2026-06-20T19:41:32.511Z"
+    "lastUpdated": "2026-06-20T21:20:56.227Z",
+    "createdAt": "2026-06-20T21:20:56.227Z"
   },
   {
-    "id": "tg-dva_majors-94857",
-    "type": "battle",
-    "title": "🇺🇦Город Запорожье, укроСМИ:",
-    "description": "🇺🇦Город Запорожье, укроСМИ:\n\nРоссия атакует Запорожье ФАБ с УМПК: под ударом — ГЭС и \"гражданская инфраструктура\".\n\nДва майора ✨&nbsp; Два майора в МАХ",
+    "id": "tg-boris_rozhin-215230",
+    "type": "strike",
+    "title": "Публикуемые спутниковые снимки противника показывают, что проблема с ударами дро",
+    "description": "Публикуемые спутниковые снимки противника показывают, что проблема с ударами дронов по мостам на въезде в Крым решена ожидаемым образом. Рядом просто оперативно насыпали временную дорогу через водную преграду + рядом есть понтоны, что дает возможность при необходимости наводить понтонный мост. Перерубить логистику при таком подходе противнику будет затруднительно. Собственно, это уже проходили во время ударов \"Штормами\" по мосту через Чонгар.",
     "location": {
-      "lat": 47.8388,
-      "lng": 35.1396
+      "lat": 44.9521,
+      "lng": 34.1024
     },
     "status": "developing",
     "severity": 5,
-    "startDate": "2026-06-20T14:56:56+00:00",
-    "source": "Telegram: Two Majors",
+    "startDate": "2026-06-20T20:47:01+00:00",
+    "source": "Telegram: Colonel Cassad",
     "metadata": {
-      "telegramChannel": "dva_majors",
-      "telegramChannelName": "Two Majors",
-      "telegramPostId": "dva_majors/94857",
+      "telegramChannel": "boris_rozhin",
+      "telegramChannelName": "Colonel Cassad",
+      "telegramPostId": "boris_rozhin/215230",
       "bias": "pro-russian",
       "weight": 2,
-      "telegramUrl": "https://t.me/dva_majors/94857",
-      "region": "Zaporizhia Oblast"
+      "telegramUrl": "https://t.me/boris_rozhin/215230",
+      "region": "Crimea"
     },
-    "lastUpdated": "2026-06-20T19:41:32.511Z",
-    "createdAt": "2026-06-20T19:41:32.511Z"
+    "lastUpdated": "2026-06-20T21:20:56.227Z",
+    "createdAt": "2026-06-20T21:20:56.227Z"
+  },
+  {
+    "id": "tg-boris_rozhin-215232",
+    "type": "strike",
+    "title": "Один из дронов \"Бандероль\" поразивших сегодня цели в Полтаве. Всего было несколь",
+    "description": "Один из дронов \"Бандероль\" поразивших сегодня цели в Полтаве. Всего было несколько прилетов, после чего в Полтаве наблюдался сильный пожар.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-06-20T20:55:03+00:00",
+    "source": "Telegram: Colonel Cassad",
+    "metadata": {
+      "telegramChannel": "boris_rozhin",
+      "telegramChannelName": "Colonel Cassad",
+      "telegramPostId": "boris_rozhin/215232",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/boris_rozhin/215232",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-06-20T21:20:56.227Z",
+    "createdAt": "2026-06-20T21:20:56.227Z"
+  },
+  {
+    "id": "tg-boris_rozhin-215234",
+    "type": "strike",
+    "title": "Командир 19-го армейского корпуса ВСУ снова оправдывается, утверждая, что никако",
+    "description": "Командир 19-го армейского корпуса ВСУ снова оправдывается, утверждая, что никакого окружения Константиновки нет. Он также заявил, что им не хватает людских ресурсов и дронов, чтобы отбивать атаки ВС РФ.\n\n00:10 «Окружения немає» и почему ситуация постоянно повторяется: Торецк, Авдеевка, Покровск, Бахмут?\n00:33 «Апорт ТЦКашница»\n01:53 «Окружения немає 2»: не хватило сил остановить противника.\n02:20 «123» россиянина ± 20\n03:10 «Сняли комбригов 156-й и 28-й омсбр»\n03:20 «Начальник штаба 19-го корпус",
+    "location": {
+      "lat": 48.5953,
+      "lng": 38.0003
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-06-20T21:10:04+00:00",
+    "source": "Telegram: Colonel Cassad",
+    "metadata": {
+      "telegramChannel": "boris_rozhin",
+      "telegramChannelName": "Colonel Cassad",
+      "telegramPostId": "boris_rozhin/215234",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/boris_rozhin/215234",
+      "region": "Donetsk Oblast"
+    },
+    "lastUpdated": "2026-06-20T21:20:56.227Z",
+    "createdAt": "2026-06-20T21:20:56.227Z"
   },
   {
     "id": "tg-dva_majors-94859",
@@ -1971,8 +1846,8 @@
       "telegramUrl": "https://t.me/dva_majors/94859",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:32.512Z",
-    "createdAt": "2026-06-20T19:41:32.512Z"
+    "lastUpdated": "2026-06-20T21:20:58.056Z",
+    "createdAt": "2026-06-20T21:20:58.056Z"
   },
   {
     "id": "tg-dva_majors-94869",
@@ -1996,8 +1871,8 @@
       "telegramUrl": "https://t.me/dva_majors/94869",
       "region": "Zaporizhia Oblast"
     },
-    "lastUpdated": "2026-06-20T19:41:32.512Z",
-    "createdAt": "2026-06-20T19:41:32.512Z"
+    "lastUpdated": "2026-06-20T21:20:58.056Z",
+    "createdAt": "2026-06-20T21:20:58.056Z"
   },
   {
     "id": "tg-dva_majors-94871",
@@ -2021,8 +1896,8 @@
       "telegramUrl": "https://t.me/dva_majors/94871",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:32.512Z",
-    "createdAt": "2026-06-20T19:41:32.512Z"
+    "lastUpdated": "2026-06-20T21:20:58.057Z",
+    "createdAt": "2026-06-20T21:20:58.057Z"
   },
   {
     "id": "tg-dva_majors-94872",
@@ -2046,8 +1921,8 @@
       "telegramUrl": "https://t.me/dva_majors/94872",
       "region": "Kharkiv Oblast"
     },
-    "lastUpdated": "2026-06-20T19:41:32.512Z",
-    "createdAt": "2026-06-20T19:41:32.512Z"
+    "lastUpdated": "2026-06-20T21:20:58.057Z",
+    "createdAt": "2026-06-20T21:20:58.057Z"
   },
   {
     "id": "tg-dva_majors-94873",
@@ -2071,8 +1946,8 @@
       "telegramUrl": "https://t.me/dva_majors/94873",
       "region": "Dnipropetrovsk Oblast"
     },
-    "lastUpdated": "2026-06-20T19:41:32.513Z",
-    "createdAt": "2026-06-20T19:41:32.513Z"
+    "lastUpdated": "2026-06-20T21:20:58.057Z",
+    "createdAt": "2026-06-20T21:20:58.057Z"
   },
   {
     "id": "tg-dva_majors-94874",
@@ -2096,108 +1971,58 @@
       "telegramUrl": "https://t.me/dva_majors/94874",
       "region": "Crimea"
     },
-    "lastUpdated": "2026-06-20T19:41:32.513Z",
-    "createdAt": "2026-06-20T19:41:32.513Z"
+    "lastUpdated": "2026-06-20T21:20:58.057Z",
+    "createdAt": "2026-06-20T21:20:58.057Z"
   },
   {
-    "id": "tg-RVvoenkor-117516",
+    "id": "tg-dva_majors-94875",
     "type": "strike",
-    "title": "‼️🇬🇧🇺🇦Британия проводит испытания новых дальнобойных ракет для ударов ВСУ по",
-    "description": "‼️🇬🇧🇺🇦Британия проводит испытания новых дальнобойных ракет для ударов ВСУ по Москве, - The Telegraph.\n\n▪️Эти ракеты несут боеголовку массой 250 кг и способны атаковать цели на дистанции 482 км.\n▪️Ракеты будут производить без американских компонентов, чтобы предотвратить вмешательство Вашингтона в экспорт и применение, пишет Financial Times.\n⚠️Подписаться на RV: MAX | t.me/RVvoenkor",
+    "title": "✨Сбор на Константиновское направление✨",
+    "description": "✨Сбор на Константиновское направление✨\n\nОператорам БПЛА 1194 мсп нужна народная поддержка&#33;\nДля ведения разведки, контроля территории и сопровождения штурмовых групп в зоне ответственности подразделения, фронтовикам необходимы развед-дроны.\n\n▪️Mavic 3Pro - 9 шт\n\nНеобходимо: 1 850 000 ₽\nСобрано за сутки: 198&nbsp;661 ₽ \nСобрано всего: 1 777 026 ₽ \nОсталось собрать: 72&nbsp;974 ₽\n(Излишки пойдут в счет следующего сбора)\n—\nРеквизиты для добровольных \nпожертвований: \n✔️любым удобным способом на с",
     "location": {
       "lat": 48.5,
       "lng": 37
     },
     "status": "developing",
     "severity": 5,
-    "startDate": "2026-06-20T15:45:25+00:00",
-    "source": "Telegram: Operation Z (RV)",
+    "startDate": "2026-06-20T19:50:14+00:00",
+    "source": "Telegram: Two Majors",
     "metadata": {
-      "telegramChannel": "RVvoenkor",
-      "telegramChannelName": "Operation Z (RV)",
-      "telegramPostId": "RVvoenkor/117516",
+      "telegramChannel": "dva_majors",
+      "telegramChannelName": "Two Majors",
+      "telegramPostId": "dva_majors/94875",
       "bias": "pro-russian",
       "weight": 2,
-      "telegramUrl": "https://t.me/RVvoenkor/117516",
+      "telegramUrl": "https://t.me/dva_majors/94875",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:34.366Z",
-    "createdAt": "2026-06-20T19:41:34.366Z"
+    "lastUpdated": "2026-06-20T21:20:58.057Z",
+    "createdAt": "2026-06-20T21:20:58.057Z"
   },
   {
-    "id": "tg-RVvoenkor-117517",
-    "type": "strategic",
-    "title": "ВТОРАЯ ЖИЗНЬ УСАДЬБЫ ШЕРЕМЕТЕВЫХ",
-    "description": "ВТОРАЯ ЖИЗНЬ УСАДЬБЫ ШЕРЕМЕТЕВЫХ\n&nbsp;\nЗавершено ВОССОЗДАНИЕ УСАДЕБНОГО КОМПЛЕКСА ШЕРЕМЕТЕВЫХ в с. Высокое Новодугинского района Смоленской области.\n\nОн включает в себя два десятка зданий, которые в различном состоянии дошли до наших дней.\nЧасть из них была возведена по проекту известного архитектора Николая Леонтьевича Бенуа.\n&nbsp;\nК концу ХХ века усадебный комплекс полностью пришёл в упадок.\n&nbsp;\nС 2022 года, после того, как впервые оказался в Высоком, в рамках частно-государственного парт",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-06-20T15:54:29+00:00",
-    "source": "Telegram: Operation Z (RV)",
-    "metadata": {
-      "telegramChannel": "RVvoenkor",
-      "telegramChannelName": "Operation Z (RV)",
-      "telegramPostId": "RVvoenkor/117517",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/RVvoenkor/117517",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-06-20T19:41:34.366Z",
-    "createdAt": "2026-06-20T19:41:34.366Z"
-  },
-  {
-    "id": "tg-RVvoenkor-117518",
-    "type": "strategic",
-    "title": "‼️🇺🇦🏴‍☠Нанесён удар по району ДнепроГЭС в Запорожье, перекрыт мост через Днеп",
-    "description": "‼️🇺🇦🏴‍☠Нанесён удар по району ДнепроГЭС в Запорожье, перекрыт мост через Днепр\n\n▪️После бомбового удара перекрыто движение по мосту Преображенского через Днепр.\n▪️Объезд организован через Новый мост и ДнепроГЭС.\n⚠️Подписаться на RV: MAX | t.me/RVvoenkor",
-    "location": {
-      "lat": 47.8388,
-      "lng": 35.1396
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-06-20T16:34:09+00:00",
-    "source": "Telegram: Operation Z (RV)",
-    "metadata": {
-      "telegramChannel": "RVvoenkor",
-      "telegramChannelName": "Operation Z (RV)",
-      "telegramPostId": "RVvoenkor/117518",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/RVvoenkor/117518",
-      "region": "Zaporizhia Oblast"
-    },
-    "lastUpdated": "2026-06-20T19:41:34.366Z",
-    "createdAt": "2026-06-20T19:41:34.366Z"
-  },
-  {
-    "id": "tg-RVvoenkor-117522",
+    "id": "tg-dva_majors-94876",
     "type": "strike",
-    "title": "‼️🇺🇦🇧🇾Зеленский снова ставит ультиматум Белоруссии",
-    "description": "‼️🇺🇦🇧🇾Зеленский снова ставит ультиматум Белоруссии\n\n▪️Наркофюрер \"дал Белоруссии время\" на демонтаж ретрансляторов в Гомельской и Брестской областях — именно благодаря им наносились удары по Житомирской, Ровенской, Волынской областям, по украинской энергетике, по железной дороге, городам и селам.\n▪️Он заявил, что Киев знает о каждом заводе в Белоруссии, который работает на Россию и \"работает на эту войну\". \n➖\"Также мы предупредили фактическое руководство Белоруссии, которое влияет на соответ",
+    "title": "Северо-западнее Купянска: Гусинка и Самборовка",
+    "description": "Северо-западнее Купянска: Гусинка и Самборовка\n\nЭпичный пролет дрона на 00:13 Рубикона после наведения Отрядом Смуглянки ФАБ с УМПК от ВКС России.\n\nДва майора ✨&nbsp; Два майора в МАХ",
     "location": {
-      "lat": 50.4501,
-      "lng": 30.5234
+      "lat": 49.7139,
+      "lng": 37.6167
     },
     "status": "developing",
     "severity": 5,
-    "startDate": "2026-06-20T16:54:02+00:00",
-    "source": "Telegram: Operation Z (RV)",
+    "startDate": "2026-06-20T20:03:08+00:00",
+    "source": "Telegram: Two Majors",
     "metadata": {
-      "telegramChannel": "RVvoenkor",
-      "telegramChannelName": "Operation Z (RV)",
-      "telegramPostId": "RVvoenkor/117522",
+      "telegramChannel": "dva_majors",
+      "telegramChannelName": "Two Majors",
+      "telegramPostId": "dva_majors/94876",
       "bias": "pro-russian",
       "weight": 2,
-      "telegramUrl": "https://t.me/RVvoenkor/117522",
-      "region": "Kyiv"
+      "telegramUrl": "https://t.me/dva_majors/94876",
+      "region": "Kharkiv Oblast"
     },
-    "lastUpdated": "2026-06-20T19:41:34.366Z",
-    "createdAt": "2026-06-20T19:41:34.366Z"
+    "lastUpdated": "2026-06-20T21:20:58.057Z",
+    "createdAt": "2026-06-20T21:20:58.057Z"
   },
   {
     "id": "tg-RVvoenkor-117528",
@@ -2221,8 +2046,8 @@
       "telegramUrl": "https://t.me/RVvoenkor/117528",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:34.366Z",
-    "createdAt": "2026-06-20T19:41:34.366Z"
+    "lastUpdated": "2026-06-20T21:20:59.872Z",
+    "createdAt": "2026-06-20T21:20:59.872Z"
   },
   {
     "id": "tg-RVvoenkor-117535",
@@ -2246,8 +2071,58 @@
       "telegramUrl": "https://t.me/RVvoenkor/117535",
       "region": "Kyiv"
     },
-    "lastUpdated": "2026-06-20T19:41:34.366Z",
-    "createdAt": "2026-06-20T19:41:34.366Z"
+    "lastUpdated": "2026-06-20T21:20:59.872Z",
+    "createdAt": "2026-06-20T21:20:59.872Z"
+  },
+  {
+    "id": "tg-RVvoenkor-117536",
+    "type": "strike",
+    "title": "‼️🇺🇦🔥Армия России сожгла логистический хаб почты в Харькове, через который шл",
+    "description": "‼️🇺🇦🔥Армия России сожгла логистический хаб почты в Харькове, через который шли военные поставки\n\n▪️В пригороде Харькова российские дроны атаковали почтовый терминал, — сообщает ГСЧС Украины.\n▪️В результате ударов начался пожар, также зафиксированы повторные атаки.\n▪️Пострадали здание, контейнеры и грузовики, огонь охватил более 400 кв. м.\n⚠️Подписаться на RV: MAX | t.me/RVvoenkor",
+    "location": {
+      "lat": 49.9935,
+      "lng": 36.2304
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-06-20T20:02:46+00:00",
+    "source": "Telegram: Operation Z (RV)",
+    "metadata": {
+      "telegramChannel": "RVvoenkor",
+      "telegramChannelName": "Operation Z (RV)",
+      "telegramPostId": "RVvoenkor/117536",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/RVvoenkor/117536",
+      "region": "Kharkiv Oblast"
+    },
+    "lastUpdated": "2026-06-20T21:20:59.872Z",
+    "createdAt": "2026-06-20T21:20:59.872Z"
+  },
+  {
+    "id": "tg-RVvoenkor-117546",
+    "type": "strategic",
+    "title": "‼️🇺🇦🇷🇺Сегодня ночью и в ближайшее время нужно особенно внимательно относитьс",
+    "description": "‼️🇺🇦🇷🇺Сегодня ночью и в ближайшее время нужно особенно внимательно относиться к тревогам — россияне подготовились к новому массированному удару, — Зеленский\n⚠️Подписаться на RV: MAX | t.me/RVvoenkor",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-06-20T21:18:35+00:00",
+    "source": "Telegram: Operation Z (RV)",
+    "metadata": {
+      "telegramChannel": "RVvoenkor",
+      "telegramChannelName": "Operation Z (RV)",
+      "telegramPostId": "RVvoenkor/117546",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/RVvoenkor/117546",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-06-20T21:20:59.872Z",
+    "createdAt": "2026-06-20T21:20:59.872Z"
   },
   {
     "id": "tg-voenkorKotenok-72990",
@@ -2271,8 +2146,8 @@
       "telegramUrl": "https://t.me/voenkorKotenok/72990",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:36.225Z",
-    "createdAt": "2026-06-20T19:41:36.225Z"
+    "lastUpdated": "2026-06-20T21:21:01.692Z",
+    "createdAt": "2026-06-20T21:21:01.692Z"
   },
   {
     "id": "tg-voenkorKotenok-72996",
@@ -2296,8 +2171,8 @@
       "telegramUrl": "https://t.me/voenkorKotenok/72996",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:36.226Z",
-    "createdAt": "2026-06-20T19:41:36.226Z"
+    "lastUpdated": "2026-06-20T21:21:01.693Z",
+    "createdAt": "2026-06-20T21:21:01.693Z"
   },
   {
     "id": "tg-voenkorKotenok-73005",
@@ -2321,8 +2196,8 @@
       "telegramUrl": "https://t.me/voenkorKotenok/73005",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:36.226Z",
-    "createdAt": "2026-06-20T19:41:36.226Z"
+    "lastUpdated": "2026-06-20T21:21:01.693Z",
+    "createdAt": "2026-06-20T21:21:01.693Z"
   },
   {
     "id": "tg-voenkorKotenok-73006",
@@ -2346,108 +2221,8 @@
       "telegramUrl": "https://t.me/voenkorKotenok/73006",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:36.226Z",
-    "createdAt": "2026-06-20T19:41:36.226Z"
-  },
-  {
-    "id": "tg-milinfolive-174613",
-    "type": "strike",
-    "title": "Борисполь Киевской области под ударом дронов-камикадзе «Герань-2».",
-    "description": "Борисполь Киевской области под ударом дронов-камикадзе «Герань-2».\n\nВоенный Осведомитель",
-    "location": {
-      "lat": 50.4501,
-      "lng": 30.5234
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-06-20T13:14:01+00:00",
-    "source": "Telegram: Military Informant",
-    "metadata": {
-      "telegramChannel": "milinfolive",
-      "telegramChannelName": "Military Informant",
-      "telegramPostId": "milinfolive/174613",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/milinfolive/174613",
-      "region": "Kyiv"
-    },
-    "lastUpdated": "2026-06-20T19:41:38.153Z",
-    "createdAt": "2026-06-20T19:41:38.153Z"
-  },
-  {
-    "id": "tg-milinfolive-174619",
-    "type": "strategic",
-    "title": "Очные переговоры между США и Ираном о заключении окончательного соглашения, запл",
-    "description": "Очные переговоры между США и Ираном о заключении окончательного соглашения, запланированные на сегодня в Швейцарии, не состоятся.  Иран отменил поездку своей делегации из-за очередных ударов Израиля по Ливану и отказа вывести оттуда войска, что предусматривает…",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-06-20T13:17:22+00:00",
-    "source": "Telegram: Military Informant",
-    "metadata": {
-      "telegramChannel": "milinfolive",
-      "telegramChannelName": "Military Informant",
-      "telegramPostId": "milinfolive/174619",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/milinfolive/174619",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-06-20T19:41:38.153Z",
-    "createdAt": "2026-06-20T19:41:38.153Z"
-  },
-  {
-    "id": "tg-milinfolive-174620",
-    "type": "strike",
-    "title": "Бензовоз уворачивается от летящего ему прямо в лоб дрона-камикадзе Hornet. Кадры",
-    "description": "Бензовоз уворачивается от летящего ему прямо в лоб дрона-камикадзе Hornet. Кадры: @dontstopwar\n\nВоенный Осведомитель",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-06-20T13:54:57+00:00",
-    "source": "Telegram: Military Informant",
-    "metadata": {
-      "telegramChannel": "milinfolive",
-      "telegramChannelName": "Military Informant",
-      "telegramPostId": "milinfolive/174620",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/milinfolive/174620",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-06-20T19:41:38.154Z",
-    "createdAt": "2026-06-20T19:41:38.154Z"
-  },
-  {
-    "id": "tg-milinfolive-174621",
-    "type": "strike",
-    "title": "Над Москвой столбы пламени и дыма после повторного прилета нескольких дронов по ",
-    "description": "Над Москвой столбы пламени и дыма после повторного прилета нескольких дронов по НПЗ в Капотне.  Кадры сняты местными жителями и опубликованы украинскими каналами.  Военный Осведомитель",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-06-20T14:47:57+00:00",
-    "source": "Telegram: Military Informant",
-    "metadata": {
-      "telegramChannel": "milinfolive",
-      "telegramChannelName": "Military Informant",
-      "telegramPostId": "milinfolive/174621",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/milinfolive/174621",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-06-20T19:41:38.154Z",
-    "createdAt": "2026-06-20T19:41:38.154Z"
+    "lastUpdated": "2026-06-20T21:21:01.693Z",
+    "createdAt": "2026-06-20T21:21:01.693Z"
   },
   {
     "id": "tg-milinfolive-174622",
@@ -2471,8 +2246,8 @@
       "telegramUrl": "https://t.me/milinfolive/174622",
       "region": "Zaporizhia Oblast"
     },
-    "lastUpdated": "2026-06-20T19:41:38.154Z",
-    "createdAt": "2026-06-20T19:41:38.154Z"
+    "lastUpdated": "2026-06-20T21:21:03.953Z",
+    "createdAt": "2026-06-20T21:21:03.953Z"
   },
   {
     "id": "tg-milinfolive-174628",
@@ -2496,8 +2271,8 @@
       "telegramUrl": "https://t.me/milinfolive/174628",
       "region": "Zaporizhia Oblast"
     },
-    "lastUpdated": "2026-06-20T19:41:38.154Z",
-    "createdAt": "2026-06-20T19:41:38.154Z"
+    "lastUpdated": "2026-06-20T21:21:03.953Z",
+    "createdAt": "2026-06-20T21:21:03.953Z"
   },
   {
     "id": "tg-milinfolive-174629",
@@ -2521,8 +2296,8 @@
       "telegramUrl": "https://t.me/milinfolive/174629",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:38.154Z",
-    "createdAt": "2026-06-20T19:41:38.154Z"
+    "lastUpdated": "2026-06-20T21:21:03.953Z",
+    "createdAt": "2026-06-20T21:21:03.953Z"
   },
   {
     "id": "tg-milinfolive-174632",
@@ -2546,8 +2321,8 @@
       "telegramUrl": "https://t.me/milinfolive/174632",
       "region": "Kharkiv Oblast"
     },
-    "lastUpdated": "2026-06-20T19:41:38.154Z",
-    "createdAt": "2026-06-20T19:41:38.154Z"
+    "lastUpdated": "2026-06-20T21:21:03.953Z",
+    "createdAt": "2026-06-20T21:21:03.953Z"
   },
   {
     "id": "tg-milinfolive-174633",
@@ -2571,8 +2346,8 @@
       "telegramUrl": "https://t.me/milinfolive/174633",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:38.154Z",
-    "createdAt": "2026-06-20T19:41:38.154Z"
+    "lastUpdated": "2026-06-20T21:21:03.953Z",
+    "createdAt": "2026-06-20T21:21:03.953Z"
   },
   {
     "id": "tg-milinfolive-174634",
@@ -2596,183 +2371,108 @@
       "telegramUrl": "https://t.me/milinfolive/174634",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:38.154Z",
-    "createdAt": "2026-06-20T19:41:38.154Z"
+    "lastUpdated": "2026-06-20T21:21:03.953Z",
+    "createdAt": "2026-06-20T21:21:03.953Z"
   },
   {
-    "id": "tg-swodki-595110",
+    "id": "tg-milinfolive-174636",
+    "type": "strategic",
+    "title": "Для противодействия украинским ударами по мостам в Крым были установлены не толь",
+    "description": "Для противодействия украинским ударами по мостам в Крым были установлены не только понтоны, но и созданы земляные насыпи в районе Армянска и села Ставки.  Об этом сообщает противник со ссылкой на спутниковые снимки низкого разрешения.   Из-за разрушения дамбы…",
+    "location": {
+      "lat": 44.9521,
+      "lng": 34.1024
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-06-20T20:05:57+00:00",
+    "source": "Telegram: Military Informant",
+    "metadata": {
+      "telegramChannel": "milinfolive",
+      "telegramChannelName": "Military Informant",
+      "telegramPostId": "milinfolive/174636",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/milinfolive/174636",
+      "region": "Crimea"
+    },
+    "lastUpdated": "2026-06-20T21:21:03.953Z",
+    "createdAt": "2026-06-20T21:21:03.953Z"
+  },
+  {
+    "id": "tg-milinfolive-174638",
     "type": "strike",
-    "title": "Армия РФ начала активно долбить ФАБами с УМПК по Балабино в Запорожской области,",
-    "description": "Армия РФ начала активно долбить ФАБами с УМПК по Балабино в Запорожской области, расположенному в непосредственной близости от областного и промышленного центра — Запорожья. \n\nФактически Балабино является «воротами» непосредственно в сам город. Помимо этого, удары наносятся по крупной железнодорожной станции «Запорожье-1», куда ВСУ активно подтягивают ресурсы для организации обороны города. \n\nТакже украинские формирования используют территорию Кушугумского известкового завода для размещения сист",
-    "location": {
-      "lat": 47.8388,
-      "lng": 35.1396
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-06-20T18:33:53+00:00",
-    "source": "Telegram: SWODKI",
-    "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/595110",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/swodki/595110",
-      "region": "Zaporizhia Oblast"
-    },
-    "lastUpdated": "2026-06-20T19:41:40.047Z",
-    "createdAt": "2026-06-20T19:41:40.047Z"
-  },
-  {
-    "id": "tg-swodki-595112",
-    "type": "battle",
-    "title": "Удавка вокруг Лимана",
-    "description": "Удавка вокруг Лимана\n\nНа Лиманском направлении подразделения 25-й армии ГВ «Запад» продолжают затягивать полукольцо вокруг Лимана. С каждым днём появляется всё больше кадров, подтверждающих присутствие российских штурмовых групп в самом городе, а также постепенное расширение зоны контроля на его юго-восточных окраинах.\n\n🔻Где удалось продвинуться?\n\n▪️Наиболее уверенный контроль российские войска установили в юго-восточной части Лимана, где штурмовики уже вывесили несколько флагов. Одновременно ф",
+    "title": "Компания MBDA объявила об успешных пусковых испытаниях крылатой ракеты CROSSBOW,",
+    "description": "Компания MBDA объявила об успешных пусковых испытаниях крылатой ракеты CROSSBOW, разработанной в рамках программы Project Brakestop специально для Украины.\n\nМасса боевой части ракеты составляет около 300 килограммов, дальность полёта – более 800 километров.\n\nProject Brakestop – программа министерства обороны Великобританию по созданию дешёвых, массовых и дальнобойных крылатых ракет для нужд ВСУ, начатая в ноябре 2024 года. Ключевыми условиями программы являются отсутствие комплектующих американс",
     "location": {
       "lat": 48.5,
       "lng": 37
     },
     "status": "developing",
     "severity": 5,
-    "startDate": "2026-06-20T18:39:01+00:00",
-    "source": "Telegram: SWODKI",
+    "startDate": "2026-06-20T20:50:16+00:00",
+    "source": "Telegram: Military Informant",
     "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/595112",
+      "telegramChannel": "milinfolive",
+      "telegramChannelName": "Military Informant",
+      "telegramPostId": "milinfolive/174638",
       "bias": "pro-russian",
       "weight": 2,
-      "telegramUrl": "https://t.me/swodki/595112",
+      "telegramUrl": "https://t.me/milinfolive/174638",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:40.048Z",
-    "createdAt": "2026-06-20T19:41:40.048Z"
+    "lastUpdated": "2026-06-20T21:21:03.953Z",
+    "createdAt": "2026-06-20T21:21:03.953Z"
   },
   {
-    "id": "tg-swodki-595113",
-    "type": "strategic",
-    "title": "Пожар в Борисполе после удара Герани.",
-    "description": "Пожар в Борисполе после удара Герани.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-06-20T18:50:15+00:00",
-    "source": "Telegram: SWODKI",
-    "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/595113",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/swodki/595113",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-06-20T19:41:40.048Z",
-    "createdAt": "2026-06-20T19:41:40.048Z"
-  },
-  {
-    "id": "tg-swodki-595117",
-    "type": "strategic",
-    "title": "Продолжается выбивание логистической инфраструктуры противника&#33;",
-    "description": "Продолжается выбивание логистической инфраструктуры противника&#33;\n\nВ период с 17:30 по 17:55 с использованием БПЛА \"Герань-2\" был нанесена серия ударов по логистическому комплексу \"Новой Почты\" в н.п. Коротич Харьковской области.\n\n📍Локация: 49.966040, 36.008899\nВ результате нанесения ударов объект был поражен. На территории объекта также были поражены грузовые автомобили. На месте ударов возник пожар.\n\nНа видео №1 - пролёт к своей цели одной из \"Гераней\" на сверхнизкой высоте.\nНа остальных ви",
+    "id": "tg-swodki-595138",
+    "type": "strike",
+    "title": "РФ, судя по всему, продолжают активно использовать в разведывательных дронах алг",
+    "description": "РФ, судя по всему, продолжают активно использовать в разведывательных дронах алгоритмы машинного зрения для обнаружения объектов на земле. Такая технология, в частности, замечена на беспилотнике, фиксирующем последствия прилёта ФАБов с УМПК в логистический терминал в Харькове. При этом любопытно, что таких же дронов на фронте (особенно FPV) практически нет. \n\n\"Военная хроника\"",
     "location": {
       "lat": 49.9935,
       "lng": 36.2304
     },
     "status": "developing",
     "severity": 5,
-    "startDate": "2026-06-20T19:09:43+00:00",
+    "startDate": "2026-06-20T20:39:01+00:00",
     "source": "Telegram: SWODKI",
     "metadata": {
       "telegramChannel": "swodki",
       "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/595117",
+      "telegramPostId": "swodki/595138",
       "bias": "pro-russian",
       "weight": 2,
-      "telegramUrl": "https://t.me/swodki/595117",
+      "telegramUrl": "https://t.me/swodki/595138",
       "region": "Kharkiv Oblast"
     },
-    "lastUpdated": "2026-06-20T19:41:40.048Z",
-    "createdAt": "2026-06-20T19:41:40.048Z"
+    "lastUpdated": "2026-06-20T21:21:05.689Z",
+    "createdAt": "2026-06-20T21:21:05.689Z"
   },
   {
-    "id": "tg-swodki-595122",
+    "id": "tg-swodki-595148",
     "type": "strike",
-    "title": "Освобождение Юрковки",
-    "description": "Освобождение Юрковки\n\nНа Славянском направлении российские войска ведут планомерную зачистку подступов к Славянско-Краматорской агломерации. После освобождения Рай-Александровки и расширения зоны контроля у Кривой Луки бойцы 88 омсбр водрузили флаги в Юрковке.\n\n🔻Как развиваются события на южном фланге?\n\n▪️Примечательно, что Юрковка стала первым населенным пунктом, расположенным на противоположном берегу высохшего канала Северский Донец — Донбасс. Таким образом, штурмовики постепенно проделывают",
+    "title": "🔥Армия России сожгла логистический хаб почты в Харькове, через который шли воен",
+    "description": "🔥Армия России сожгла логистический хаб почты в Харькове, через который шли военные поставки\n\nВ пригороде Харькова российские дроны атаковали почтовый терминал, — сообщает ГСЧС Украины.\n\nВ результате ударов начался пожар, также зафиксированы повторные атаки.\n\nПострадали здание, контейнеры и грузовики, огонь охватил более 400 кв. м.",
     "location": {
-      "lat": 46.975,
-      "lng": 31.9946
+      "lat": 49.9935,
+      "lng": 36.2304
     },
     "status": "developing",
     "severity": 5,
-    "startDate": "2026-06-20T19:19:43+00:00",
+    "startDate": "2026-06-20T21:04:43+00:00",
     "source": "Telegram: SWODKI",
     "metadata": {
       "telegramChannel": "swodki",
       "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/595122",
+      "telegramPostId": "swodki/595148",
       "bias": "pro-russian",
       "weight": 2,
-      "telegramUrl": "https://t.me/swodki/595122",
-      "region": "Mykolaiv Oblast"
+      "telegramUrl": "https://t.me/swodki/595148",
+      "region": "Kharkiv Oblast"
     },
-    "lastUpdated": "2026-06-20T19:41:40.048Z",
-    "createdAt": "2026-06-20T19:41:40.048Z"
-  },
-  {
-    "id": "tg-swodki-595123",
-    "type": "strike",
-    "title": "Также идёт активная работа по топливной инфраструктуре в Одесской области.",
-    "description": "Также идёт активная работа по топливной инфраструктуре в Одесской области.\n\nВчера был нанесён удар дроном по стоянке бензовозов, сегодня прилетело по топливным ёмкостям, и АЗС в Сарте.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-06-20T19:31:06+00:00",
-    "source": "Telegram: SWODKI",
-    "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/595123",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/swodki/595123",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-06-20T19:41:40.048Z",
-    "createdAt": "2026-06-20T19:41:40.048Z"
-  },
-  {
-    "id": "tg-swodki-595130",
-    "type": "civilian_attack",
-    "title": "❗️При сегодняшних налётах БПЛА ВСУ на территорию ДНР погиб мирный житель, ещё од",
-    "description": "❗️При сегодняшних налётах БПЛА ВСУ на территорию ДНР погиб мирный житель, ещё один человек получил ранения\n\nОб этом сообщил глава региона Денис Пушилин.\n\nВ Старобешевском муниципальном округе на трассе Донецк - Новоазовск - Седово вблизи села Раздольное погиб мужчина 1969 г.р.. Выражаю искренние соболезнования родным и близким погибшего.\n\nВ Центрально-Городском районе Горловки ранения средней степени тяжести получил мужчина 1968 г.р., ему оказывается квалифицированная медицинская помощь. Желаю с",
-    "location": {
-      "lat": 48.0159,
-      "lng": 37.8028
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-06-20T19:34:43+00:00",
-    "source": "Telegram: SWODKI",
-    "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/595130",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/swodki/595130",
-      "region": "Donetsk Oblast"
-    },
-    "lastUpdated": "2026-06-20T19:41:40.048Z",
-    "createdAt": "2026-06-20T19:41:40.048Z"
+    "lastUpdated": "2026-06-20T21:21:05.689Z",
+    "createdAt": "2026-06-20T21:21:05.689Z"
   },
   {
     "id": "tg-sashakots-62461",
@@ -2796,8 +2496,8 @@
       "telegramUrl": "https://t.me/sashakots/62461",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:42.110Z",
-    "createdAt": "2026-06-20T19:41:42.110Z"
+    "lastUpdated": "2026-06-20T21:21:07.506Z",
+    "createdAt": "2026-06-20T21:21:07.506Z"
   },
   {
     "id": "tg-sashakots-62462",
@@ -2821,8 +2521,8 @@
       "telegramUrl": "https://t.me/sashakots/62462",
       "region": "Kyiv"
     },
-    "lastUpdated": "2026-06-20T19:41:42.110Z",
-    "createdAt": "2026-06-20T19:41:42.110Z"
+    "lastUpdated": "2026-06-20T21:21:07.507Z",
+    "createdAt": "2026-06-20T21:21:07.507Z"
   },
   {
     "id": "tg-sashakots-62463",
@@ -2846,8 +2546,8 @@
       "telegramUrl": "https://t.me/sashakots/62463",
       "region": "Kursk Oblast"
     },
-    "lastUpdated": "2026-06-20T19:41:42.110Z",
-    "createdAt": "2026-06-20T19:41:42.110Z"
+    "lastUpdated": "2026-06-20T21:21:07.507Z",
+    "createdAt": "2026-06-20T21:21:07.507Z"
   },
   {
     "id": "tg-sashakots-62468",
@@ -2871,8 +2571,8 @@
       "telegramUrl": "https://t.me/sashakots/62468",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:42.110Z",
-    "createdAt": "2026-06-20T19:41:42.110Z"
+    "lastUpdated": "2026-06-20T21:21:07.507Z",
+    "createdAt": "2026-06-20T21:21:07.507Z"
   },
   {
     "id": "tg-sashakots-62470",
@@ -2896,8 +2596,8 @@
       "telegramUrl": "https://t.me/sashakots/62470",
       "region": "Kharkiv Oblast"
     },
-    "lastUpdated": "2026-06-20T19:41:42.110Z",
-    "createdAt": "2026-06-20T19:41:42.110Z"
+    "lastUpdated": "2026-06-20T21:21:07.507Z",
+    "createdAt": "2026-06-20T21:21:07.507Z"
   },
   {
     "id": "tg-sashakots-62471",
@@ -2921,8 +2621,8 @@
       "telegramUrl": "https://t.me/sashakots/62471",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:42.110Z",
-    "createdAt": "2026-06-20T19:41:42.110Z"
+    "lastUpdated": "2026-06-20T21:21:07.507Z",
+    "createdAt": "2026-06-20T21:21:07.507Z"
   },
   {
     "id": "tg-sashakots-62472",
@@ -2946,8 +2646,8 @@
       "telegramUrl": "https://t.me/sashakots/62472",
       "region": "Donetsk Oblast"
     },
-    "lastUpdated": "2026-06-20T19:41:42.110Z",
-    "createdAt": "2026-06-20T19:41:42.110Z"
+    "lastUpdated": "2026-06-20T21:21:07.507Z",
+    "createdAt": "2026-06-20T21:21:07.507Z"
   },
   {
     "id": "tg-sashakots-62473",
@@ -2971,8 +2671,8 @@
       "telegramUrl": "https://t.me/sashakots/62473",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:42.110Z",
-    "createdAt": "2026-06-20T19:41:42.110Z"
+    "lastUpdated": "2026-06-20T21:21:07.507Z",
+    "createdAt": "2026-06-20T21:21:07.507Z"
   },
   {
     "id": "tg-sashakots-62480",
@@ -2996,8 +2696,8 @@
       "telegramUrl": "https://t.me/sashakots/62480",
       "region": "Donetsk Oblast"
     },
-    "lastUpdated": "2026-06-20T19:41:42.111Z",
-    "createdAt": "2026-06-20T19:41:42.111Z"
+    "lastUpdated": "2026-06-20T21:21:07.507Z",
+    "createdAt": "2026-06-20T21:21:07.507Z"
   },
   {
     "id": "tg-epoddubny-27836",
@@ -3021,8 +2721,8 @@
       "telegramUrl": "https://t.me/epoddubny/27836",
       "region": "Kyiv"
     },
-    "lastUpdated": "2026-06-20T19:41:43.928Z",
-    "createdAt": "2026-06-20T19:41:43.928Z"
+    "lastUpdated": "2026-06-20T21:21:09.522Z",
+    "createdAt": "2026-06-20T21:21:09.522Z"
   },
   {
     "id": "tg-epoddubny-27837",
@@ -3046,8 +2746,8 @@
       "telegramUrl": "https://t.me/epoddubny/27837",
       "region": "Kharkiv Oblast"
     },
-    "lastUpdated": "2026-06-20T19:41:43.928Z",
-    "createdAt": "2026-06-20T19:41:43.928Z"
+    "lastUpdated": "2026-06-20T21:21:09.522Z",
+    "createdAt": "2026-06-20T21:21:09.522Z"
   },
   {
     "id": "tg-epoddubny-27846",
@@ -3071,8 +2771,8 @@
       "telegramUrl": "https://t.me/epoddubny/27846",
       "region": "Donetsk Oblast"
     },
-    "lastUpdated": "2026-06-20T19:41:43.928Z",
-    "createdAt": "2026-06-20T19:41:43.928Z"
+    "lastUpdated": "2026-06-20T21:21:09.523Z",
+    "createdAt": "2026-06-20T21:21:09.523Z"
   },
   {
     "id": "tg-epoddubny-27847",
@@ -3096,8 +2796,8 @@
       "telegramUrl": "https://t.me/epoddubny/27847",
       "region": "Kyiv"
     },
-    "lastUpdated": "2026-06-20T19:41:43.928Z",
-    "createdAt": "2026-06-20T19:41:43.928Z"
+    "lastUpdated": "2026-06-20T21:21:09.523Z",
+    "createdAt": "2026-06-20T21:21:09.523Z"
   },
   {
     "id": "tg-epoddubny-27850",
@@ -3121,8 +2821,8 @@
       "telegramUrl": "https://t.me/epoddubny/27850",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:43.928Z",
-    "createdAt": "2026-06-20T19:41:43.928Z"
+    "lastUpdated": "2026-06-20T21:21:09.523Z",
+    "createdAt": "2026-06-20T21:21:09.523Z"
   },
   {
     "id": "tg-epoddubny-27851",
@@ -3146,8 +2846,8 @@
       "telegramUrl": "https://t.me/epoddubny/27851",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:43.928Z",
-    "createdAt": "2026-06-20T19:41:43.928Z"
+    "lastUpdated": "2026-06-20T21:21:09.523Z",
+    "createdAt": "2026-06-20T21:21:09.523Z"
   },
   {
     "id": "tg-epoddubny-27852",
@@ -3171,8 +2871,8 @@
       "telegramUrl": "https://t.me/epoddubny/27852",
       "region": "Kharkiv Oblast"
     },
-    "lastUpdated": "2026-06-20T19:41:43.928Z",
-    "createdAt": "2026-06-20T19:41:43.928Z"
+    "lastUpdated": "2026-06-20T21:21:09.523Z",
+    "createdAt": "2026-06-20T21:21:09.523Z"
   },
   {
     "id": "tg-epoddubny-27853",
@@ -3196,8 +2896,8 @@
       "telegramUrl": "https://t.me/epoddubny/27853",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:43.929Z",
-    "createdAt": "2026-06-20T19:41:43.929Z"
+    "lastUpdated": "2026-06-20T21:21:09.523Z",
+    "createdAt": "2026-06-20T21:21:09.523Z"
   },
   {
     "id": "tg-epoddubny-27855",
@@ -3221,33 +2921,8 @@
       "telegramUrl": "https://t.me/epoddubny/27855",
       "region": "Crimea"
     },
-    "lastUpdated": "2026-06-20T19:41:43.929Z",
-    "createdAt": "2026-06-20T19:41:43.929Z"
-  },
-  {
-    "id": "tg-SolovievLive-373710",
-    "type": "battle",
-    "title": "❗️ N12: «По указанию премьер-министра Биньямина Нетаньяху и министра обороны Иср",
-    "description": "❗️ N12: «По указанию премьер-министра Биньямина Нетаньяху и министра обороны Исраэля Каца ЦАХАЛ получил приказ прекратить огонь в Ливане, распоряжение уже передано войскам». \n\n«ЦАХАЛ останется в районе так называемой «жёлтой линии», и если «Хезболла» не нарушит достигнутые договорённости, Израиль также прекратит наступательные действия.\n\nОдновременно Иран объявил о закрытии Ормузского пролива для судоходства, заявив, что Израиль и США нарушили обязательства по прекращению огня, и предупредил о д",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-06-20T16:38:32+00:00",
-    "source": "Telegram: Solovyov Live",
-    "metadata": {
-      "telegramChannel": "SolovievLive",
-      "telegramChannelName": "Solovyov Live",
-      "telegramPostId": "SolovievLive/373710",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/SolovievLive/373710",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-06-20T19:41:45.913Z",
-    "createdAt": "2026-06-20T19:41:45.913Z"
+    "lastUpdated": "2026-06-20T21:21:09.523Z",
+    "createdAt": "2026-06-20T21:21:09.523Z"
   },
   {
     "id": "tg-SolovievLive-373712",
@@ -3271,8 +2946,8 @@
       "telegramUrl": "https://t.me/SolovievLive/373712",
       "region": "Zaporizhia Oblast"
     },
-    "lastUpdated": "2026-06-20T19:41:45.913Z",
-    "createdAt": "2026-06-20T19:41:45.913Z"
+    "lastUpdated": "2026-06-20T21:21:11.331Z",
+    "createdAt": "2026-06-20T21:21:11.331Z"
   },
   {
     "id": "tg-SolovievLive-373714",
@@ -3296,8 +2971,8 @@
       "telegramUrl": "https://t.me/SolovievLive/373714",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:45.913Z",
-    "createdAt": "2026-06-20T19:41:45.913Z"
+    "lastUpdated": "2026-06-20T21:21:11.331Z",
+    "createdAt": "2026-06-20T21:21:11.331Z"
   },
   {
     "id": "tg-SolovievLive-373715",
@@ -3321,8 +2996,8 @@
       "telegramUrl": "https://t.me/SolovievLive/373715",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:45.914Z",
-    "createdAt": "2026-06-20T19:41:45.914Z"
+    "lastUpdated": "2026-06-20T21:21:11.331Z",
+    "createdAt": "2026-06-20T21:21:11.331Z"
   },
   {
     "id": "tg-SolovievLive-373716",
@@ -3346,8 +3021,8 @@
       "telegramUrl": "https://t.me/SolovievLive/373716",
       "region": "Kyiv"
     },
-    "lastUpdated": "2026-06-20T19:41:45.914Z",
-    "createdAt": "2026-06-20T19:41:45.914Z"
+    "lastUpdated": "2026-06-20T21:21:11.331Z",
+    "createdAt": "2026-06-20T21:21:11.331Z"
   },
   {
     "id": "tg-SolovievLive-373718",
@@ -3371,8 +3046,8 @@
       "telegramUrl": "https://t.me/SolovievLive/373718",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:45.914Z",
-    "createdAt": "2026-06-20T19:41:45.914Z"
+    "lastUpdated": "2026-06-20T21:21:11.331Z",
+    "createdAt": "2026-06-20T21:21:11.331Z"
   },
   {
     "id": "tg-SolovievLive-373722",
@@ -3396,8 +3071,8 @@
       "telegramUrl": "https://t.me/SolovievLive/373722",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:45.914Z",
-    "createdAt": "2026-06-20T19:41:45.914Z"
+    "lastUpdated": "2026-06-20T21:21:11.331Z",
+    "createdAt": "2026-06-20T21:21:11.331Z"
   },
   {
     "id": "tg-SolovievLive-373725",
@@ -3421,8 +3096,8 @@
       "telegramUrl": "https://t.me/SolovievLive/373725",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:45.914Z",
-    "createdAt": "2026-06-20T19:41:45.914Z"
+    "lastUpdated": "2026-06-20T21:21:11.331Z",
+    "createdAt": "2026-06-20T21:21:11.331Z"
   },
   {
     "id": "tg-SolovievLive-373726",
@@ -3446,8 +3121,8 @@
       "telegramUrl": "https://t.me/SolovievLive/373726",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:45.914Z",
-    "createdAt": "2026-06-20T19:41:45.914Z"
+    "lastUpdated": "2026-06-20T21:21:11.331Z",
+    "createdAt": "2026-06-20T21:21:11.331Z"
   },
   {
     "id": "tg-Sladkov_plus-15665",
@@ -3471,8 +3146,8 @@
       "telegramUrl": "https://t.me/Sladkov_plus/15665",
       "region": "Kursk Oblast"
     },
-    "lastUpdated": "2026-06-20T19:41:47.756Z",
-    "createdAt": "2026-06-20T19:41:47.756Z"
+    "lastUpdated": "2026-06-20T21:21:13.186Z",
+    "createdAt": "2026-06-20T21:21:13.186Z"
   },
   {
     "id": "tg-Sladkov_plus-15667",
@@ -3496,8 +3171,8 @@
       "telegramUrl": "https://t.me/Sladkov_plus/15667",
       "region": "Kursk Oblast"
     },
-    "lastUpdated": "2026-06-20T19:41:47.756Z",
-    "createdAt": "2026-06-20T19:41:47.756Z"
+    "lastUpdated": "2026-06-20T21:21:13.186Z",
+    "createdAt": "2026-06-20T21:21:13.186Z"
   },
   {
     "id": "tg-Sladkov_plus-15670",
@@ -3521,8 +3196,8 @@
       "telegramUrl": "https://t.me/Sladkov_plus/15670",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:47.756Z",
-    "createdAt": "2026-06-20T19:41:47.756Z"
+    "lastUpdated": "2026-06-20T21:21:13.186Z",
+    "createdAt": "2026-06-20T21:21:13.186Z"
   },
   {
     "id": "tg-Sladkov_plus-15671",
@@ -3546,8 +3221,8 @@
       "telegramUrl": "https://t.me/Sladkov_plus/15671",
       "region": "Kharkiv Oblast"
     },
-    "lastUpdated": "2026-06-20T19:41:47.756Z",
-    "createdAt": "2026-06-20T19:41:47.756Z"
+    "lastUpdated": "2026-06-20T21:21:13.186Z",
+    "createdAt": "2026-06-20T21:21:13.186Z"
   },
   {
     "id": "tg-Sladkov_plus-15676",
@@ -3571,8 +3246,8 @@
       "telegramUrl": "https://t.me/Sladkov_plus/15676",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:47.756Z",
-    "createdAt": "2026-06-20T19:41:47.756Z"
+    "lastUpdated": "2026-06-20T21:21:13.186Z",
+    "createdAt": "2026-06-20T21:21:13.186Z"
   },
   {
     "id": "tg-voenacher-93909",
@@ -3596,8 +3271,8 @@
       "telegramUrl": "https://t.me/voenacher/93909",
       "region": "Zaporizhia Oblast"
     },
-    "lastUpdated": "2026-06-20T19:41:49.634Z",
-    "createdAt": "2026-06-20T19:41:49.634Z"
+    "lastUpdated": "2026-06-20T21:21:15.088Z",
+    "createdAt": "2026-06-20T21:21:15.088Z"
   },
   {
     "id": "tg-voenacher-93912",
@@ -3621,8 +3296,8 @@
       "telegramUrl": "https://t.me/voenacher/93912",
       "region": "Zaporizhia Oblast"
     },
-    "lastUpdated": "2026-06-20T19:41:49.634Z",
-    "createdAt": "2026-06-20T19:41:49.634Z"
+    "lastUpdated": "2026-06-20T21:21:15.088Z",
+    "createdAt": "2026-06-20T21:21:15.088Z"
   },
   {
     "id": "tg-voenacher-93915",
@@ -3646,8 +3321,8 @@
       "telegramUrl": "https://t.me/voenacher/93915",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:49.634Z",
-    "createdAt": "2026-06-20T19:41:49.634Z"
+    "lastUpdated": "2026-06-20T21:21:15.088Z",
+    "createdAt": "2026-06-20T21:21:15.088Z"
   },
   {
     "id": "tg-voenacher-93922",
@@ -3671,8 +3346,8 @@
       "telegramUrl": "https://t.me/voenacher/93922",
       "region": "Zaporizhia Oblast"
     },
-    "lastUpdated": "2026-06-20T19:41:49.634Z",
-    "createdAt": "2026-06-20T19:41:49.634Z"
+    "lastUpdated": "2026-06-20T21:21:15.088Z",
+    "createdAt": "2026-06-20T21:21:15.088Z"
   },
   {
     "id": "tg-voenacher-93924",
@@ -3696,8 +3371,8 @@
       "telegramUrl": "https://t.me/voenacher/93924",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:49.635Z",
-    "createdAt": "2026-06-20T19:41:49.635Z"
+    "lastUpdated": "2026-06-20T21:21:15.088Z",
+    "createdAt": "2026-06-20T21:21:15.088Z"
   },
   {
     "id": "tg-voenacher-93927",
@@ -3721,8 +3396,8 @@
       "telegramUrl": "https://t.me/voenacher/93927",
       "region": "Kharkiv Oblast"
     },
-    "lastUpdated": "2026-06-20T19:41:49.635Z",
-    "createdAt": "2026-06-20T19:41:49.635Z"
+    "lastUpdated": "2026-06-20T21:21:15.088Z",
+    "createdAt": "2026-06-20T21:21:15.088Z"
   },
   {
     "id": "tg-zakharprilepin-30647",
@@ -3746,8 +3421,8 @@
       "telegramUrl": "https://t.me/zakharprilepin/30647",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:51.419Z",
-    "createdAt": "2026-06-20T19:41:51.419Z"
+    "lastUpdated": "2026-06-20T21:21:16.913Z",
+    "createdAt": "2026-06-20T21:21:16.913Z"
   },
   {
     "id": "tg-zakharprilepin-30648",
@@ -3771,8 +3446,8 @@
       "telegramUrl": "https://t.me/zakharprilepin/30648",
       "region": "Donetsk Oblast"
     },
-    "lastUpdated": "2026-06-20T19:41:51.419Z",
-    "createdAt": "2026-06-20T19:41:51.419Z"
+    "lastUpdated": "2026-06-20T21:21:16.913Z",
+    "createdAt": "2026-06-20T21:21:16.913Z"
   },
   {
     "id": "tg-zakharprilepin-30649",
@@ -3796,8 +3471,8 @@
       "telegramUrl": "https://t.me/zakharprilepin/30649",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:51.419Z",
-    "createdAt": "2026-06-20T19:41:51.419Z"
+    "lastUpdated": "2026-06-20T21:21:16.914Z",
+    "createdAt": "2026-06-20T21:21:16.914Z"
   },
   {
     "id": "tg-zakharprilepin-30654",
@@ -3821,8 +3496,8 @@
       "telegramUrl": "https://t.me/zakharprilepin/30654",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:51.419Z",
-    "createdAt": "2026-06-20T19:41:51.419Z"
+    "lastUpdated": "2026-06-20T21:21:16.914Z",
+    "createdAt": "2026-06-20T21:21:16.914Z"
   },
   {
     "id": "tg-zakharprilepin-30655",
@@ -3846,8 +3521,8 @@
       "telegramUrl": "https://t.me/zakharprilepin/30655",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:51.419Z",
-    "createdAt": "2026-06-20T19:41:51.419Z"
+    "lastUpdated": "2026-06-20T21:21:16.914Z",
+    "createdAt": "2026-06-20T21:21:16.914Z"
   },
   {
     "id": "tg-zakharprilepin-30657",
@@ -3871,8 +3546,8 @@
       "telegramUrl": "https://t.me/zakharprilepin/30657",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:51.420Z",
-    "createdAt": "2026-06-20T19:41:51.420Z"
+    "lastUpdated": "2026-06-20T21:21:16.914Z",
+    "createdAt": "2026-06-20T21:21:16.914Z"
   },
   {
     "id": "tg-zakharprilepin-30659",
@@ -3896,8 +3571,8 @@
       "telegramUrl": "https://t.me/zakharprilepin/30659",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:51.420Z",
-    "createdAt": "2026-06-20T19:41:51.420Z"
+    "lastUpdated": "2026-06-20T21:21:16.915Z",
+    "createdAt": "2026-06-20T21:21:16.915Z"
   },
   {
     "id": "tg-warfakes-34584",
@@ -3921,8 +3596,8 @@
       "telegramUrl": "https://t.me/warfakes/34584",
       "region": "Kyiv"
     },
-    "lastUpdated": "2026-06-20T19:41:53.452Z",
-    "createdAt": "2026-06-20T19:41:53.452Z"
+    "lastUpdated": "2026-06-20T21:21:19.067Z",
+    "createdAt": "2026-06-20T21:21:19.067Z"
   },
   {
     "id": "tg-warfakes-34589",
@@ -3946,8 +3621,8 @@
       "telegramUrl": "https://t.me/warfakes/34589",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:53.453Z",
-    "createdAt": "2026-06-20T19:41:53.453Z"
+    "lastUpdated": "2026-06-20T21:21:19.067Z",
+    "createdAt": "2026-06-20T21:21:19.067Z"
   },
   {
     "id": "tg-warfakes-34591",
@@ -3971,8 +3646,8 @@
       "telegramUrl": "https://t.me/warfakes/34591",
       "region": "Kyiv"
     },
-    "lastUpdated": "2026-06-20T19:41:53.453Z",
-    "createdAt": "2026-06-20T19:41:53.453Z"
+    "lastUpdated": "2026-06-20T21:21:19.067Z",
+    "createdAt": "2026-06-20T21:21:19.067Z"
   },
   {
     "id": "tg-warfakes-34596",
@@ -3996,8 +3671,8 @@
       "telegramUrl": "https://t.me/warfakes/34596",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:53.453Z",
-    "createdAt": "2026-06-20T19:41:53.453Z"
+    "lastUpdated": "2026-06-20T21:21:19.067Z",
+    "createdAt": "2026-06-20T21:21:19.067Z"
   },
   {
     "id": "tg-warfakes-34598",
@@ -4021,8 +3696,8 @@
       "telegramUrl": "https://t.me/warfakes/34598",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:53.453Z",
-    "createdAt": "2026-06-20T19:41:53.453Z"
+    "lastUpdated": "2026-06-20T21:21:19.068Z",
+    "createdAt": "2026-06-20T21:21:19.068Z"
   },
   {
     "id": "tg-SergeyKolyasnikov-79069",
@@ -4046,8 +3721,8 @@
       "telegramUrl": "https://t.me/SergeyKolyasnikov/79069",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:55.304Z",
-    "createdAt": "2026-06-20T19:41:55.304Z"
+    "lastUpdated": "2026-06-20T21:21:21.245Z",
+    "createdAt": "2026-06-20T21:21:21.245Z"
   },
   {
     "id": "tg-SergeyKolyasnikov-79075",
@@ -4071,8 +3746,8 @@
       "telegramUrl": "https://t.me/SergeyKolyasnikov/79075",
       "region": "Kyiv"
     },
-    "lastUpdated": "2026-06-20T19:41:55.305Z",
-    "createdAt": "2026-06-20T19:41:55.305Z"
+    "lastUpdated": "2026-06-20T21:21:21.246Z",
+    "createdAt": "2026-06-20T21:21:21.246Z"
   },
   {
     "id": "tg-SergeyKolyasnikov-79082",
@@ -4096,8 +3771,8 @@
       "telegramUrl": "https://t.me/SergeyKolyasnikov/79082",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:55.305Z",
-    "createdAt": "2026-06-20T19:41:55.305Z"
+    "lastUpdated": "2026-06-20T21:21:21.246Z",
+    "createdAt": "2026-06-20T21:21:21.246Z"
   },
   {
     "id": "tg-SergeyKolyasnikov-79085",
@@ -4121,8 +3796,8 @@
       "telegramUrl": "https://t.me/SergeyKolyasnikov/79085",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:55.305Z",
-    "createdAt": "2026-06-20T19:41:55.305Z"
+    "lastUpdated": "2026-06-20T21:21:21.246Z",
+    "createdAt": "2026-06-20T21:21:21.246Z"
   },
   {
     "id": "tg-SergeyKolyasnikov-79086",
@@ -4146,8 +3821,8 @@
       "telegramUrl": "https://t.me/SergeyKolyasnikov/79086",
       "region": "Kyiv"
     },
-    "lastUpdated": "2026-06-20T19:41:55.305Z",
-    "createdAt": "2026-06-20T19:41:55.305Z"
+    "lastUpdated": "2026-06-20T21:21:21.246Z",
+    "createdAt": "2026-06-20T21:21:21.246Z"
   },
   {
     "id": "tg-strelkovii-7452",
@@ -4171,8 +3846,8 @@
       "telegramUrl": "https://t.me/strelkovii/7452",
       "region": "Crimea"
     },
-    "lastUpdated": "2026-06-20T19:41:59.311Z",
-    "createdAt": "2026-06-20T19:41:59.311Z"
+    "lastUpdated": "2026-06-20T21:21:25.035Z",
+    "createdAt": "2026-06-20T21:21:25.035Z"
   },
   {
     "id": "tg-strelkovii-7453",
@@ -4196,8 +3871,8 @@
       "telegramUrl": "https://t.me/strelkovii/7453",
       "region": "Kyiv"
     },
-    "lastUpdated": "2026-06-20T19:41:59.312Z",
-    "createdAt": "2026-06-20T19:41:59.312Z"
+    "lastUpdated": "2026-06-20T21:21:25.036Z",
+    "createdAt": "2026-06-20T21:21:25.036Z"
   },
   {
     "id": "tg-strelkovii-7454",
@@ -4221,8 +3896,8 @@
       "telegramUrl": "https://t.me/strelkovii/7454",
       "region": "Zaporizhia Oblast"
     },
-    "lastUpdated": "2026-06-20T19:41:59.312Z",
-    "createdAt": "2026-06-20T19:41:59.312Z"
+    "lastUpdated": "2026-06-20T21:21:25.036Z",
+    "createdAt": "2026-06-20T21:21:25.036Z"
   },
   {
     "id": "tg-strelkovii-7455",
@@ -4246,8 +3921,8 @@
       "telegramUrl": "https://t.me/strelkovii/7455",
       "region": "Kyiv"
     },
-    "lastUpdated": "2026-06-20T19:41:59.312Z",
-    "createdAt": "2026-06-20T19:41:59.312Z"
+    "lastUpdated": "2026-06-20T21:21:25.036Z",
+    "createdAt": "2026-06-20T21:21:25.036Z"
   },
   {
     "id": "tg-strelkovii-7456",
@@ -4271,8 +3946,8 @@
       "telegramUrl": "https://t.me/strelkovii/7456",
       "region": "Kyiv"
     },
-    "lastUpdated": "2026-06-20T19:41:59.312Z",
-    "createdAt": "2026-06-20T19:41:59.312Z"
+    "lastUpdated": "2026-06-20T21:21:25.036Z",
+    "createdAt": "2026-06-20T21:21:25.036Z"
   },
   {
     "id": "tg-strelkovii-7458",
@@ -4296,8 +3971,8 @@
       "telegramUrl": "https://t.me/strelkovii/7458",
       "region": "Kyiv"
     },
-    "lastUpdated": "2026-06-20T19:41:59.312Z",
-    "createdAt": "2026-06-20T19:41:59.312Z"
+    "lastUpdated": "2026-06-20T21:21:25.037Z",
+    "createdAt": "2026-06-20T21:21:25.037Z"
   },
   {
     "id": "tg-strelkovii-7459",
@@ -4321,8 +3996,8 @@
       "telegramUrl": "https://t.me/strelkovii/7459",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:59.313Z",
-    "createdAt": "2026-06-20T19:41:59.313Z"
+    "lastUpdated": "2026-06-20T21:21:25.037Z",
+    "createdAt": "2026-06-20T21:21:25.037Z"
   },
   {
     "id": "tg-strelkovii-7460",
@@ -4346,8 +4021,8 @@
       "telegramUrl": "https://t.me/strelkovii/7460",
       "region": "Crimea"
     },
-    "lastUpdated": "2026-06-20T19:41:59.313Z",
-    "createdAt": "2026-06-20T19:41:59.313Z"
+    "lastUpdated": "2026-06-20T21:21:25.037Z",
+    "createdAt": "2026-06-20T21:21:25.037Z"
   },
   {
     "id": "tg-strelkovii-7462",
@@ -4371,8 +4046,8 @@
       "telegramUrl": "https://t.me/strelkovii/7462",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:59.313Z",
-    "createdAt": "2026-06-20T19:41:59.313Z"
+    "lastUpdated": "2026-06-20T21:21:25.037Z",
+    "createdAt": "2026-06-20T21:21:25.037Z"
   },
   {
     "id": "tg-strelkovii-7465",
@@ -4396,8 +4071,8 @@
       "telegramUrl": "https://t.me/strelkovii/7465",
       "region": "Kursk Oblast"
     },
-    "lastUpdated": "2026-06-20T19:41:59.314Z",
-    "createdAt": "2026-06-20T19:41:59.314Z"
+    "lastUpdated": "2026-06-20T21:21:25.038Z",
+    "createdAt": "2026-06-20T21:21:25.038Z"
   },
   {
     "id": "tg-strelkovii-7467",
@@ -4421,8 +4096,8 @@
       "telegramUrl": "https://t.me/strelkovii/7467",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:59.314Z",
-    "createdAt": "2026-06-20T19:41:59.314Z"
+    "lastUpdated": "2026-06-20T21:21:25.038Z",
+    "createdAt": "2026-06-20T21:21:25.038Z"
   },
   {
     "id": "tg-strelkovii-7468",
@@ -4446,8 +4121,8 @@
       "telegramUrl": "https://t.me/strelkovii/7468",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:59.314Z",
-    "createdAt": "2026-06-20T19:41:59.314Z"
+    "lastUpdated": "2026-06-20T21:21:25.039Z",
+    "createdAt": "2026-06-20T21:21:25.039Z"
   },
   {
     "id": "tg-strelkovii-7470",
@@ -4471,8 +4146,8 @@
       "telegramUrl": "https://t.me/strelkovii/7470",
       "region": "Kyiv"
     },
-    "lastUpdated": "2026-06-20T19:41:59.315Z",
-    "createdAt": "2026-06-20T19:41:59.315Z"
+    "lastUpdated": "2026-06-20T21:21:25.039Z",
+    "createdAt": "2026-06-20T21:21:25.039Z"
   },
   {
     "id": "tg-strelkovii-7471",
@@ -4496,8 +4171,8 @@
       "telegramUrl": "https://t.me/strelkovii/7471",
       "region": "Kyiv"
     },
-    "lastUpdated": "2026-06-20T19:41:59.315Z",
-    "createdAt": "2026-06-20T19:41:59.315Z"
+    "lastUpdated": "2026-06-20T21:21:25.039Z",
+    "createdAt": "2026-06-20T21:21:25.039Z"
   },
   {
     "id": "tg-strelkovii-7476",
@@ -4521,8 +4196,8 @@
       "telegramUrl": "https://t.me/strelkovii/7476",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:59.316Z",
-    "createdAt": "2026-06-20T19:41:59.316Z"
+    "lastUpdated": "2026-06-20T21:21:25.040Z",
+    "createdAt": "2026-06-20T21:21:25.040Z"
   },
   {
     "id": "tg-strelkovii-7477",
@@ -4546,8 +4221,8 @@
       "telegramUrl": "https://t.me/strelkovii/7477",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:41:59.316Z",
-    "createdAt": "2026-06-20T19:41:59.316Z"
+    "lastUpdated": "2026-06-20T21:21:25.040Z",
+    "createdAt": "2026-06-20T21:21:25.040Z"
   },
   {
     "id": "tg-medvedev_telegram-632",
@@ -4571,8 +4246,8 @@
       "telegramUrl": "https://t.me/medvedev_telegram/632",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:04.871Z",
-    "createdAt": "2026-06-20T19:42:04.871Z"
+    "lastUpdated": "2026-06-20T21:21:30.618Z",
+    "createdAt": "2026-06-20T21:21:30.618Z"
   },
   {
     "id": "tg-medvedev_telegram-647",
@@ -4596,8 +4271,8 @@
       "telegramUrl": "https://t.me/medvedev_telegram/647",
       "region": "Kyiv"
     },
-    "lastUpdated": "2026-06-20T19:42:04.872Z",
-    "createdAt": "2026-06-20T19:42:04.872Z"
+    "lastUpdated": "2026-06-20T21:21:30.618Z",
+    "createdAt": "2026-06-20T21:21:30.618Z"
   },
   {
     "id": "tg-medvedev_telegram-648",
@@ -4621,8 +4296,8 @@
       "telegramUrl": "https://t.me/medvedev_telegram/648",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:04.872Z",
-    "createdAt": "2026-06-20T19:42:04.872Z"
+    "lastUpdated": "2026-06-20T21:21:30.618Z",
+    "createdAt": "2026-06-20T21:21:30.618Z"
   },
   {
     "id": "tg-medvedev_telegram-649",
@@ -4646,8 +4321,8 @@
       "telegramUrl": "https://t.me/medvedev_telegram/649",
       "region": "Kyiv"
     },
-    "lastUpdated": "2026-06-20T19:42:04.872Z",
-    "createdAt": "2026-06-20T19:42:04.872Z"
+    "lastUpdated": "2026-06-20T21:21:30.619Z",
+    "createdAt": "2026-06-20T21:21:30.619Z"
   },
   {
     "id": "tg-medvedev_telegram-650",
@@ -4671,58 +4346,8 @@
       "telegramUrl": "https://t.me/medvedev_telegram/650",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:04.872Z",
-    "createdAt": "2026-06-20T19:42:04.872Z"
-  },
-  {
-    "id": "tg-tassagency_en-86064",
-    "type": "strategic",
-    "title": "Washington is ready to ease economic pressure on Iran, if it fulfills the US’ de",
-    "description": "Washington is ready to ease economic pressure on Iran, if it fulfills the US’ demands, US Vice President JD Vance said.\n\n\"We have a lot of economic pressure applied to the Iranians that we would be willing to relieve if they do what we need them to do. If they don&#39;t do that, of course, there&#39;s no skin off our back. They&#39;re still in a much weakened position,\" he said on Fox News.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-06-20T14:03:25+00:00",
-    "source": "Telegram: TASS English",
-    "metadata": {
-      "telegramChannel": "tassagency_en",
-      "telegramChannelName": "TASS English",
-      "telegramPostId": "tassagency_en/86064",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/tassagency_en/86064",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-06-20T19:42:08.273Z",
-    "createdAt": "2026-06-20T19:42:08.273Z"
-  },
-  {
-    "id": "tg-tassagency_en-86065",
-    "type": "strike",
-    "title": "📹 A Su-34 of the Russian Aerospace Forces has hit Ukraine’s drone deployment an",
-    "description": "📹 A Su-34 of the Russian Aerospace Forces has hit Ukraine’s drone deployment and control points in Dobropolye, Kucherov Yar and Nikolayevka of the DPR, the Defense Ministry said.\n\nVideo: Defense Ministry /TASS",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-06-20T14:54:22+00:00",
-    "source": "Telegram: TASS English",
-    "metadata": {
-      "telegramChannel": "tassagency_en",
-      "telegramChannelName": "TASS English",
-      "telegramPostId": "tassagency_en/86065",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/tassagency_en/86065",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-06-20T19:42:08.273Z",
-    "createdAt": "2026-06-20T19:42:08.273Z"
+    "lastUpdated": "2026-06-20T21:21:30.619Z",
+    "createdAt": "2026-06-20T21:21:30.619Z"
   },
   {
     "id": "tg-tassagency_en-86067",
@@ -4746,8 +4371,8 @@
       "telegramUrl": "https://t.me/tassagency_en/86067",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:08.273Z",
-    "createdAt": "2026-06-20T19:42:08.273Z"
+    "lastUpdated": "2026-06-20T21:21:34.090Z",
+    "createdAt": "2026-06-20T21:21:34.090Z"
   },
   {
     "id": "tg-tassagency_en-86073",
@@ -4771,8 +4396,8 @@
       "telegramUrl": "https://t.me/tassagency_en/86073",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:08.273Z",
-    "createdAt": "2026-06-20T19:42:08.273Z"
+    "lastUpdated": "2026-06-20T21:21:34.090Z",
+    "createdAt": "2026-06-20T21:21:34.090Z"
   },
   {
     "id": "tg-tassagency_en-86074",
@@ -4796,8 +4421,8 @@
       "telegramUrl": "https://t.me/tassagency_en/86074",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:08.273Z",
-    "createdAt": "2026-06-20T19:42:08.273Z"
+    "lastUpdated": "2026-06-20T21:21:34.090Z",
+    "createdAt": "2026-06-20T21:21:34.090Z"
   },
   {
     "id": "tg-tassagency_en-86077",
@@ -4821,8 +4446,8 @@
       "telegramUrl": "https://t.me/tassagency_en/86077",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:08.273Z",
-    "createdAt": "2026-06-20T19:42:08.273Z"
+    "lastUpdated": "2026-06-20T21:21:34.090Z",
+    "createdAt": "2026-06-20T21:21:34.090Z"
   },
   {
     "id": "tg-tassagency_en-86078",
@@ -4846,8 +4471,8 @@
       "telegramUrl": "https://t.me/tassagency_en/86078",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:08.273Z",
-    "createdAt": "2026-06-20T19:42:08.273Z"
+    "lastUpdated": "2026-06-20T21:21:34.090Z",
+    "createdAt": "2026-06-20T21:21:34.090Z"
   },
   {
     "id": "tg-tassagency_en-86080",
@@ -4871,8 +4496,8 @@
       "telegramUrl": "https://t.me/tassagency_en/86080",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:08.273Z",
-    "createdAt": "2026-06-20T19:42:08.273Z"
+    "lastUpdated": "2026-06-20T21:21:34.090Z",
+    "createdAt": "2026-06-20T21:21:34.090Z"
   },
   {
     "id": "tg-tassagency_en-86081",
@@ -4896,8 +4521,8 @@
       "telegramUrl": "https://t.me/tassagency_en/86081",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:08.273Z",
-    "createdAt": "2026-06-20T19:42:08.273Z"
+    "lastUpdated": "2026-06-20T21:21:34.090Z",
+    "createdAt": "2026-06-20T21:21:34.090Z"
   },
   {
     "id": "tg-tassagency_en-86082",
@@ -4921,33 +4546,33 @@
       "telegramUrl": "https://t.me/tassagency_en/86082",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:08.273Z",
-    "createdAt": "2026-06-20T19:42:08.273Z"
+    "lastUpdated": "2026-06-20T21:21:34.090Z",
+    "createdAt": "2026-06-20T21:21:34.090Z"
   },
   {
-    "id": "tg-rusvesnasu-33137",
+    "id": "tg-tassagency_en-86084",
     "type": "battle",
-    "title": "‼️🇺🇦🏴‍☠️Отец убитого ВСУшника раскрыл шокирующую правду о боях-онлайн и ставк",
-    "description": "‼️🇺🇦🏴‍☠️Отец убитого ВСУшника раскрыл шокирующую правду о боях-онлайн и ставках на смерть\n\n▪️Чтобы найти пропавшего в ВСУ сына, отец провел расследование. Ему стало известно, что бой транслировался онлайн за деньги. Командование поставило такие трансляции на поток, а зрители со всего мира делали ставки на выживание украинских солдат.\n▪️Звучит дико, как и организация «сафари» для иностранцев на Донбассе с 2014 года или американские биолаборатории. Но правда неизменно проявляется. Разве для ког",
+    "title": "❗️TASS News Roundup, June 20:",
+    "description": "❗️TASS News Roundup, June 20:\n&nbsp;\n◾️ Russia liberated 94 buildings and destroyed up&nbsp;to&nbsp;95 Ukrainian servicemen in&nbsp;Konstantinovka over the past day, the Defense Ministry said\n&nbsp;\n◾️ Battlegroup West is advancing in&nbsp;the northwestern part of&nbsp;the settlement of&nbsp;Krasny Liman, the ministry said\n&nbsp;\n◾️ Iran closed the Strait of&nbsp;Hormuz because of&nbsp;Israel’s ongoing aggression against Lebanon in&nbsp;violation of&nbsp;a&nbsp;memorandum signed with the United ",
     "location": {
       "lat": 48.5,
       "lng": 37
     },
     "status": "developing",
     "severity": 5,
-    "startDate": "2026-06-16T21:17:06+00:00",
-    "source": "Telegram: Russian Spring",
+    "startDate": "2026-06-20T19:57:28+00:00",
+    "source": "Telegram: TASS English",
     "metadata": {
-      "telegramChannel": "rusvesnasu",
-      "telegramChannelName": "Russian Spring",
-      "telegramPostId": "rusvesnasu/33137",
+      "telegramChannel": "tassagency_en",
+      "telegramChannelName": "TASS English",
+      "telegramPostId": "tassagency_en/86084",
       "bias": "pro-russian",
-      "weight": 1,
-      "telegramUrl": "https://t.me/rusvesnasu/33137",
+      "weight": 2,
+      "telegramUrl": "https://t.me/tassagency_en/86084",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:10.483Z",
-    "createdAt": "2026-06-20T19:42:10.483Z"
+    "lastUpdated": "2026-06-20T21:21:34.090Z",
+    "createdAt": "2026-06-20T21:21:34.090Z"
   },
   {
     "id": "tg-rusvesnasu-33139",
@@ -4971,8 +4596,8 @@
       "telegramUrl": "https://t.me/rusvesnasu/33139",
       "region": "Kharkiv Oblast"
     },
-    "lastUpdated": "2026-06-20T19:42:10.483Z",
-    "createdAt": "2026-06-20T19:42:10.483Z"
+    "lastUpdated": "2026-06-20T21:21:35.943Z",
+    "createdAt": "2026-06-20T21:21:35.943Z"
   },
   {
     "id": "tg-rusvesnasu-33140",
@@ -4996,8 +4621,8 @@
       "telegramUrl": "https://t.me/rusvesnasu/33140",
       "region": "Donetsk Oblast"
     },
-    "lastUpdated": "2026-06-20T19:42:10.483Z",
-    "createdAt": "2026-06-20T19:42:10.483Z"
+    "lastUpdated": "2026-06-20T21:21:35.943Z",
+    "createdAt": "2026-06-20T21:21:35.943Z"
   },
   {
     "id": "tg-rusvesnasu-33142",
@@ -5021,8 +4646,8 @@
       "telegramUrl": "https://t.me/rusvesnasu/33142",
       "region": "Kyiv"
     },
-    "lastUpdated": "2026-06-20T19:42:10.483Z",
-    "createdAt": "2026-06-20T19:42:10.483Z"
+    "lastUpdated": "2026-06-20T21:21:35.943Z",
+    "createdAt": "2026-06-20T21:21:35.943Z"
   },
   {
     "id": "tg-rusvesnasu-33146",
@@ -5046,8 +4671,8 @@
       "telegramUrl": "https://t.me/rusvesnasu/33146",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:10.484Z",
-    "createdAt": "2026-06-20T19:42:10.484Z"
+    "lastUpdated": "2026-06-20T21:21:35.943Z",
+    "createdAt": "2026-06-20T21:21:35.943Z"
   },
   {
     "id": "tg-rusvesnasu-33147",
@@ -5071,8 +4696,8 @@
       "telegramUrl": "https://t.me/rusvesnasu/33147",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:10.484Z",
-    "createdAt": "2026-06-20T19:42:10.484Z"
+    "lastUpdated": "2026-06-20T21:21:35.944Z",
+    "createdAt": "2026-06-20T21:21:35.944Z"
   },
   {
     "id": "tg-rusvesnasu-33148",
@@ -5096,8 +4721,8 @@
       "telegramUrl": "https://t.me/rusvesnasu/33148",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:10.484Z",
-    "createdAt": "2026-06-20T19:42:10.484Z"
+    "lastUpdated": "2026-06-20T21:21:35.944Z",
+    "createdAt": "2026-06-20T21:21:35.944Z"
   },
   {
     "id": "tg-rusvesnasu-33150",
@@ -5121,8 +4746,33 @@
       "telegramUrl": "https://t.me/rusvesnasu/33150",
       "region": "Kyiv"
     },
-    "lastUpdated": "2026-06-20T19:42:10.484Z",
-    "createdAt": "2026-06-20T19:42:10.484Z"
+    "lastUpdated": "2026-06-20T21:21:35.944Z",
+    "createdAt": "2026-06-20T21:21:35.944Z"
+  },
+  {
+    "id": "tg-rusvesnasu-33157",
+    "type": "strike",
+    "title": "‼️🇷🇺🔥Сильные кадры: наш бензовоз уворачивается от летящего ему прямо в лоб БП",
+    "description": "‼️🇷🇺🔥Сильные кадры: наш бензовоз уворачивается от летящего ему прямо в лоб БПЛА-камикадзе Hornet\n\n▪️Водитель бензовоза проявил чудеса выдержки и реакции, сумев увернуться от летящей смерти. \n▪️Дрон пролетел буквально в сантиметрах от машины.\n⚠️Подписаться на RV: MAX | t.me/rusvesnasu",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-06-20T21:05:57+00:00",
+    "source": "Telegram: Russian Spring",
+    "metadata": {
+      "telegramChannel": "rusvesnasu",
+      "telegramChannelName": "Russian Spring",
+      "telegramPostId": "rusvesnasu/33157",
+      "bias": "pro-russian",
+      "weight": 1,
+      "telegramUrl": "https://t.me/rusvesnasu/33157",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-06-20T21:21:35.944Z",
+    "createdAt": "2026-06-20T21:21:35.944Z"
   },
   {
     "id": "tg-anna_news-92796",
@@ -5146,8 +4796,8 @@
       "telegramUrl": "https://t.me/anna_news/92796",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:12.261Z",
-    "createdAt": "2026-06-20T19:42:12.261Z"
+    "lastUpdated": "2026-06-20T21:21:37.673Z",
+    "createdAt": "2026-06-20T21:21:37.673Z"
   },
   {
     "id": "tg-anna_news-92797",
@@ -5171,8 +4821,8 @@
       "telegramUrl": "https://t.me/anna_news/92797",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:12.261Z",
-    "createdAt": "2026-06-20T19:42:12.261Z"
+    "lastUpdated": "2026-06-20T21:21:37.673Z",
+    "createdAt": "2026-06-20T21:21:37.673Z"
   },
   {
     "id": "tg-anna_news-92798",
@@ -5196,8 +4846,8 @@
       "telegramUrl": "https://t.me/anna_news/92798",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:12.261Z",
-    "createdAt": "2026-06-20T19:42:12.261Z"
+    "lastUpdated": "2026-06-20T21:21:37.673Z",
+    "createdAt": "2026-06-20T21:21:37.673Z"
   },
   {
     "id": "tg-anna_news-92802",
@@ -5221,8 +4871,8 @@
       "telegramUrl": "https://t.me/anna_news/92802",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:12.261Z",
-    "createdAt": "2026-06-20T19:42:12.261Z"
+    "lastUpdated": "2026-06-20T21:21:37.673Z",
+    "createdAt": "2026-06-20T21:21:37.673Z"
   },
   {
     "id": "tg-anna_news-92803",
@@ -5246,8 +4896,8 @@
       "telegramUrl": "https://t.me/anna_news/92803",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:12.261Z",
-    "createdAt": "2026-06-20T19:42:12.261Z"
+    "lastUpdated": "2026-06-20T21:21:37.674Z",
+    "createdAt": "2026-06-20T21:21:37.674Z"
   },
   {
     "id": "tg-anna_news-92805",
@@ -5271,8 +4921,8 @@
       "telegramUrl": "https://t.me/anna_news/92805",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:12.262Z",
-    "createdAt": "2026-06-20T19:42:12.262Z"
+    "lastUpdated": "2026-06-20T21:21:37.674Z",
+    "createdAt": "2026-06-20T21:21:37.674Z"
   },
   {
     "id": "tg-anna_news-92807",
@@ -5296,8 +4946,8 @@
       "telegramUrl": "https://t.me/anna_news/92807",
       "region": "Kyiv"
     },
-    "lastUpdated": "2026-06-20T19:42:12.262Z",
-    "createdAt": "2026-06-20T19:42:12.262Z"
+    "lastUpdated": "2026-06-20T21:21:37.674Z",
+    "createdAt": "2026-06-20T21:21:37.674Z"
   },
   {
     "id": "tg-anna_news-92808",
@@ -5321,8 +4971,8 @@
       "telegramUrl": "https://t.me/anna_news/92808",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:12.262Z",
-    "createdAt": "2026-06-20T19:42:12.262Z"
+    "lastUpdated": "2026-06-20T21:21:37.674Z",
+    "createdAt": "2026-06-20T21:21:37.674Z"
   },
   {
     "id": "tg-anna_news-92809",
@@ -5346,8 +4996,8 @@
       "telegramUrl": "https://t.me/anna_news/92809",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:12.262Z",
-    "createdAt": "2026-06-20T19:42:12.262Z"
+    "lastUpdated": "2026-06-20T21:21:37.674Z",
+    "createdAt": "2026-06-20T21:21:37.674Z"
   },
   {
     "id": "tg-anna_news-92812",
@@ -5371,8 +5021,8 @@
       "telegramUrl": "https://t.me/anna_news/92812",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:12.262Z",
-    "createdAt": "2026-06-20T19:42:12.262Z"
+    "lastUpdated": "2026-06-20T21:21:37.674Z",
+    "createdAt": "2026-06-20T21:21:37.674Z"
   },
   {
     "id": "tg-anna_news-92813",
@@ -5396,8 +5046,8 @@
       "telegramUrl": "https://t.me/anna_news/92813",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:12.262Z",
-    "createdAt": "2026-06-20T19:42:12.262Z"
+    "lastUpdated": "2026-06-20T21:21:37.674Z",
+    "createdAt": "2026-06-20T21:21:37.674Z"
   },
   {
     "id": "tg-anna_news-92814",
@@ -5421,8 +5071,8 @@
       "telegramUrl": "https://t.me/anna_news/92814",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:12.262Z",
-    "createdAt": "2026-06-20T19:42:12.262Z"
+    "lastUpdated": "2026-06-20T21:21:37.674Z",
+    "createdAt": "2026-06-20T21:21:37.674Z"
   },
   {
     "id": "tg-grey_zone-23635",
@@ -5446,8 +5096,8 @@
       "telegramUrl": "https://t.me/grey_zone/23635",
       "region": "Donetsk Oblast"
     },
-    "lastUpdated": "2026-06-20T19:42:14.184Z",
-    "createdAt": "2026-06-20T19:42:14.184Z"
+    "lastUpdated": "2026-06-20T21:21:39.460Z",
+    "createdAt": "2026-06-20T21:21:39.460Z"
   },
   {
     "id": "tg-grey_zone-23638",
@@ -5471,8 +5121,8 @@
       "telegramUrl": "https://t.me/grey_zone/23638",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:14.184Z",
-    "createdAt": "2026-06-20T19:42:14.184Z"
+    "lastUpdated": "2026-06-20T21:21:39.461Z",
+    "createdAt": "2026-06-20T21:21:39.461Z"
   },
   {
     "id": "tg-grey_zone-23639",
@@ -5496,8 +5146,8 @@
       "telegramUrl": "https://t.me/grey_zone/23639",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:14.185Z",
-    "createdAt": "2026-06-20T19:42:14.185Z"
+    "lastUpdated": "2026-06-20T21:21:39.461Z",
+    "createdAt": "2026-06-20T21:21:39.461Z"
   },
   {
     "id": "tg-grey_zone-23648",
@@ -5521,8 +5171,8 @@
       "telegramUrl": "https://t.me/grey_zone/23648",
       "region": "Donetsk Oblast"
     },
-    "lastUpdated": "2026-06-20T19:42:14.185Z",
-    "createdAt": "2026-06-20T19:42:14.185Z"
+    "lastUpdated": "2026-06-20T21:21:39.461Z",
+    "createdAt": "2026-06-20T21:21:39.461Z"
   },
   {
     "id": "tg-rusich_army-30021",
@@ -5546,8 +5196,8 @@
       "telegramUrl": "https://t.me/rusich_army/30021",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:19.989Z",
-    "createdAt": "2026-06-20T19:42:19.989Z"
+    "lastUpdated": "2026-06-20T21:21:45.326Z",
+    "createdAt": "2026-06-20T21:21:45.326Z"
   },
   {
     "id": "tg-rusich_army-30030",
@@ -5571,8 +5221,8 @@
       "telegramUrl": "https://t.me/rusich_army/30030",
       "region": "Crimea"
     },
-    "lastUpdated": "2026-06-20T19:42:19.989Z",
-    "createdAt": "2026-06-20T19:42:19.989Z"
+    "lastUpdated": "2026-06-20T21:21:45.326Z",
+    "createdAt": "2026-06-20T21:21:45.326Z"
   },
   {
     "id": "tg-rusich_army-30032",
@@ -5596,8 +5246,8 @@
       "telegramUrl": "https://t.me/rusich_army/30032",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:19.989Z",
-    "createdAt": "2026-06-20T19:42:19.989Z"
+    "lastUpdated": "2026-06-20T21:21:45.326Z",
+    "createdAt": "2026-06-20T21:21:45.326Z"
   },
   {
     "id": "tg-rusich_army-30034",
@@ -5621,8 +5271,8 @@
       "telegramUrl": "https://t.me/rusich_army/30034",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:19.989Z",
-    "createdAt": "2026-06-20T19:42:19.989Z"
+    "lastUpdated": "2026-06-20T21:21:45.326Z",
+    "createdAt": "2026-06-20T21:21:45.326Z"
   },
   {
     "id": "tg-rusich_army-30036",
@@ -5646,8 +5296,8 @@
       "telegramUrl": "https://t.me/rusich_army/30036",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:19.989Z",
-    "createdAt": "2026-06-20T19:42:19.989Z"
+    "lastUpdated": "2026-06-20T21:21:45.326Z",
+    "createdAt": "2026-06-20T21:21:45.326Z"
   },
   {
     "id": "tg-rusich_army-30037",
@@ -5671,8 +5321,8 @@
       "telegramUrl": "https://t.me/rusich_army/30037",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:19.989Z",
-    "createdAt": "2026-06-20T19:42:19.989Z"
+    "lastUpdated": "2026-06-20T21:21:45.326Z",
+    "createdAt": "2026-06-20T21:21:45.326Z"
   },
   {
     "id": "tg-vrogov-24983",
@@ -5696,8 +5346,8 @@
       "telegramUrl": "https://t.me/vrogov/24983",
       "region": "Belgorod Oblast"
     },
-    "lastUpdated": "2026-06-20T19:42:22.049Z",
-    "createdAt": "2026-06-20T19:42:22.049Z"
+    "lastUpdated": "2026-06-20T21:21:47.161Z",
+    "createdAt": "2026-06-20T21:21:47.161Z"
   },
   {
     "id": "tg-vrogov-24988",
@@ -5721,8 +5371,8 @@
       "telegramUrl": "https://t.me/vrogov/24988",
       "region": "Donetsk Oblast"
     },
-    "lastUpdated": "2026-06-20T19:42:22.049Z",
-    "createdAt": "2026-06-20T19:42:22.049Z"
+    "lastUpdated": "2026-06-20T21:21:47.161Z",
+    "createdAt": "2026-06-20T21:21:47.161Z"
   },
   {
     "id": "tg-vrogov-24989",
@@ -5746,8 +5396,8 @@
       "telegramUrl": "https://t.me/vrogov/24989",
       "region": "Dnipropetrovsk Oblast"
     },
-    "lastUpdated": "2026-06-20T19:42:22.049Z",
-    "createdAt": "2026-06-20T19:42:22.049Z"
+    "lastUpdated": "2026-06-20T21:21:47.162Z",
+    "createdAt": "2026-06-20T21:21:47.162Z"
   },
   {
     "id": "tg-vrogov-24993",
@@ -5771,8 +5421,8 @@
       "telegramUrl": "https://t.me/vrogov/24993",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:22.050Z",
-    "createdAt": "2026-06-20T19:42:22.050Z"
+    "lastUpdated": "2026-06-20T21:21:47.162Z",
+    "createdAt": "2026-06-20T21:21:47.162Z"
   },
   {
     "id": "tg-vrogov-24994",
@@ -5796,8 +5446,8 @@
       "telegramUrl": "https://t.me/vrogov/24994",
       "region": "Zaporizhia Oblast"
     },
-    "lastUpdated": "2026-06-20T19:42:22.050Z",
-    "createdAt": "2026-06-20T19:42:22.050Z"
+    "lastUpdated": "2026-06-20T21:21:47.162Z",
+    "createdAt": "2026-06-20T21:21:47.162Z"
   },
   {
     "id": "tg-vrogov-24995",
@@ -5821,8 +5471,8 @@
       "telegramUrl": "https://t.me/vrogov/24995",
       "region": "Zaporizhia Oblast"
     },
-    "lastUpdated": "2026-06-20T19:42:22.050Z",
-    "createdAt": "2026-06-20T19:42:22.050Z"
+    "lastUpdated": "2026-06-20T21:21:47.162Z",
+    "createdAt": "2026-06-20T21:21:47.162Z"
   },
   {
     "id": "tg-vrogov-24996",
@@ -5846,8 +5496,8 @@
       "telegramUrl": "https://t.me/vrogov/24996",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:22.050Z",
-    "createdAt": "2026-06-20T19:42:22.050Z"
+    "lastUpdated": "2026-06-20T21:21:47.162Z",
+    "createdAt": "2026-06-20T21:21:47.162Z"
   },
   {
     "id": "tg-vrogov-24997",
@@ -5871,8 +5521,8 @@
       "telegramUrl": "https://t.me/vrogov/24997",
       "region": "Zaporizhia Oblast"
     },
-    "lastUpdated": "2026-06-20T19:42:22.050Z",
-    "createdAt": "2026-06-20T19:42:22.050Z"
+    "lastUpdated": "2026-06-20T21:21:47.162Z",
+    "createdAt": "2026-06-20T21:21:47.162Z"
   },
   {
     "id": "tg-vrogov-24998",
@@ -5896,8 +5546,8 @@
       "telegramUrl": "https://t.me/vrogov/24998",
       "region": "Crimea"
     },
-    "lastUpdated": "2026-06-20T19:42:22.050Z",
-    "createdAt": "2026-06-20T19:42:22.050Z"
+    "lastUpdated": "2026-06-20T21:21:47.162Z",
+    "createdAt": "2026-06-20T21:21:47.162Z"
   },
   {
     "id": "tg-vrogov-24999",
@@ -5921,8 +5571,8 @@
       "telegramUrl": "https://t.me/vrogov/24999",
       "region": "Zaporizhia Oblast"
     },
-    "lastUpdated": "2026-06-20T19:42:22.051Z",
-    "createdAt": "2026-06-20T19:42:22.051Z"
+    "lastUpdated": "2026-06-20T21:21:47.162Z",
+    "createdAt": "2026-06-20T21:21:47.162Z"
   },
   {
     "id": "tg-vrogov-25000",
@@ -5946,8 +5596,8 @@
       "telegramUrl": "https://t.me/vrogov/25000",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:22.051Z",
-    "createdAt": "2026-06-20T19:42:22.051Z"
+    "lastUpdated": "2026-06-20T21:21:47.162Z",
+    "createdAt": "2026-06-20T21:21:47.162Z"
   },
   {
     "id": "tg-vrogov-25001",
@@ -5971,8 +5621,8 @@
       "telegramUrl": "https://t.me/vrogov/25001",
       "region": "Dnipropetrovsk Oblast"
     },
-    "lastUpdated": "2026-06-20T19:42:22.051Z",
-    "createdAt": "2026-06-20T19:42:22.051Z"
+    "lastUpdated": "2026-06-20T21:21:47.162Z",
+    "createdAt": "2026-06-20T21:21:47.162Z"
   },
   {
     "id": "tg-vrogov-25003",
@@ -5996,8 +5646,8 @@
       "telegramUrl": "https://t.me/vrogov/25003",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:22.051Z",
-    "createdAt": "2026-06-20T19:42:22.051Z"
+    "lastUpdated": "2026-06-20T21:21:47.162Z",
+    "createdAt": "2026-06-20T21:21:47.162Z"
   },
   {
     "id": "tg-vrogov-25004",
@@ -6021,8 +5671,8 @@
       "telegramUrl": "https://t.me/vrogov/25004",
       "region": "Zaporizhia Oblast"
     },
-    "lastUpdated": "2026-06-20T19:42:22.051Z",
-    "createdAt": "2026-06-20T19:42:22.051Z"
+    "lastUpdated": "2026-06-20T21:21:47.162Z",
+    "createdAt": "2026-06-20T21:21:47.162Z"
   },
   {
     "id": "tg-vrogov-25005",
@@ -6046,8 +5696,8 @@
       "telegramUrl": "https://t.me/vrogov/25005",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:22.051Z",
-    "createdAt": "2026-06-20T19:42:22.051Z"
+    "lastUpdated": "2026-06-20T21:21:47.162Z",
+    "createdAt": "2026-06-20T21:21:47.162Z"
   },
   {
     "id": "tg-aleksandr_skif-3854",
@@ -6071,8 +5721,8 @@
       "telegramUrl": "https://t.me/aleksandr_skif/3854",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:23.833Z",
-    "createdAt": "2026-06-20T19:42:23.833Z"
+    "lastUpdated": "2026-06-20T21:21:48.913Z",
+    "createdAt": "2026-06-20T21:21:48.913Z"
   },
   {
     "id": "tg-aleksandr_skif-3858",
@@ -6096,8 +5746,8 @@
       "telegramUrl": "https://t.me/aleksandr_skif/3858",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:23.833Z",
-    "createdAt": "2026-06-20T19:42:23.833Z"
+    "lastUpdated": "2026-06-20T21:21:48.914Z",
+    "createdAt": "2026-06-20T21:21:48.914Z"
   },
   {
     "id": "tg-aleksandr_skif-3861",
@@ -6121,8 +5771,8 @@
       "telegramUrl": "https://t.me/aleksandr_skif/3861",
       "region": "Donetsk Oblast"
     },
-    "lastUpdated": "2026-06-20T19:42:23.833Z",
-    "createdAt": "2026-06-20T19:42:23.833Z"
+    "lastUpdated": "2026-06-20T21:21:48.914Z",
+    "createdAt": "2026-06-20T21:21:48.914Z"
   },
   {
     "id": "tg-aleksandr_skif-3864",
@@ -6146,8 +5796,8 @@
       "telegramUrl": "https://t.me/aleksandr_skif/3864",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:23.834Z",
-    "createdAt": "2026-06-20T19:42:23.834Z"
+    "lastUpdated": "2026-06-20T21:21:48.914Z",
+    "createdAt": "2026-06-20T21:21:48.914Z"
   },
   {
     "id": "tg-aleksandr_skif-3865",
@@ -6171,8 +5821,8 @@
       "telegramUrl": "https://t.me/aleksandr_skif/3865",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:23.834Z",
-    "createdAt": "2026-06-20T19:42:23.834Z"
+    "lastUpdated": "2026-06-20T21:21:48.914Z",
+    "createdAt": "2026-06-20T21:21:48.914Z"
   },
   {
     "id": "tg-aleksandr_skif-3867",
@@ -6196,8 +5846,8 @@
       "telegramUrl": "https://t.me/aleksandr_skif/3867",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:23.834Z",
-    "createdAt": "2026-06-20T19:42:23.834Z"
+    "lastUpdated": "2026-06-20T21:21:48.914Z",
+    "createdAt": "2026-06-20T21:21:48.914Z"
   },
   {
     "id": "tg-aleksandr_skif-3869",
@@ -6221,8 +5871,8 @@
       "telegramUrl": "https://t.me/aleksandr_skif/3869",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:23.834Z",
-    "createdAt": "2026-06-20T19:42:23.834Z"
+    "lastUpdated": "2026-06-20T21:21:48.914Z",
+    "createdAt": "2026-06-20T21:21:48.914Z"
   },
   {
     "id": "tg-aleksandr_skif-3871",
@@ -6246,8 +5896,8 @@
       "telegramUrl": "https://t.me/aleksandr_skif/3871",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:23.834Z",
-    "createdAt": "2026-06-20T19:42:23.834Z"
+    "lastUpdated": "2026-06-20T21:21:48.915Z",
+    "createdAt": "2026-06-20T21:21:48.915Z"
   },
   {
     "id": "tg-aleksandr_skif-3872",
@@ -6271,8 +5921,8 @@
       "telegramUrl": "https://t.me/aleksandr_skif/3872",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:23.834Z",
-    "createdAt": "2026-06-20T19:42:23.834Z"
+    "lastUpdated": "2026-06-20T21:21:48.915Z",
+    "createdAt": "2026-06-20T21:21:48.915Z"
   },
   {
     "id": "tg-aleksandr_skif-3873",
@@ -6296,8 +5946,8 @@
       "telegramUrl": "https://t.me/aleksandr_skif/3873",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:23.834Z",
-    "createdAt": "2026-06-20T19:42:23.834Z"
+    "lastUpdated": "2026-06-20T21:21:48.915Z",
+    "createdAt": "2026-06-20T21:21:48.915Z"
   },
   {
     "id": "tg-vysokygovorit-23146",
@@ -6321,8 +5971,8 @@
       "telegramUrl": "https://t.me/vysokygovorit/23146",
       "region": "Kyiv"
     },
-    "lastUpdated": "2026-06-20T19:42:25.644Z",
-    "createdAt": "2026-06-20T19:42:25.644Z"
+    "lastUpdated": "2026-06-20T21:21:50.821Z",
+    "createdAt": "2026-06-20T21:21:50.821Z"
   },
   {
     "id": "tg-vysokygovorit-23147",
@@ -6346,8 +5996,8 @@
       "telegramUrl": "https://t.me/vysokygovorit/23147",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:25.644Z",
-    "createdAt": "2026-06-20T19:42:25.644Z"
+    "lastUpdated": "2026-06-20T21:21:50.821Z",
+    "createdAt": "2026-06-20T21:21:50.821Z"
   },
   {
     "id": "tg-vysokygovorit-23148",
@@ -6371,8 +6021,8 @@
       "telegramUrl": "https://t.me/vysokygovorit/23148",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:25.644Z",
-    "createdAt": "2026-06-20T19:42:25.644Z"
+    "lastUpdated": "2026-06-20T21:21:50.821Z",
+    "createdAt": "2026-06-20T21:21:50.821Z"
   },
   {
     "id": "tg-vysokygovorit-23151",
@@ -6396,8 +6046,8 @@
       "telegramUrl": "https://t.me/vysokygovorit/23151",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:25.645Z",
-    "createdAt": "2026-06-20T19:42:25.645Z"
+    "lastUpdated": "2026-06-20T21:21:50.821Z",
+    "createdAt": "2026-06-20T21:21:50.821Z"
   },
   {
     "id": "tg-vysokygovorit-23152",
@@ -6421,8 +6071,8 @@
       "telegramUrl": "https://t.me/vysokygovorit/23152",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:25.645Z",
-    "createdAt": "2026-06-20T19:42:25.645Z"
+    "lastUpdated": "2026-06-20T21:21:50.821Z",
+    "createdAt": "2026-06-20T21:21:50.821Z"
   },
   {
     "id": "tg-vysokygovorit-23153",
@@ -6446,8 +6096,8 @@
       "telegramUrl": "https://t.me/vysokygovorit/23153",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:25.645Z",
-    "createdAt": "2026-06-20T19:42:25.645Z"
+    "lastUpdated": "2026-06-20T21:21:50.822Z",
+    "createdAt": "2026-06-20T21:21:50.822Z"
   },
   {
     "id": "tg-vysokygovorit-23154",
@@ -6471,8 +6121,8 @@
       "telegramUrl": "https://t.me/vysokygovorit/23154",
       "region": "Kyiv"
     },
-    "lastUpdated": "2026-06-20T19:42:25.646Z",
-    "createdAt": "2026-06-20T19:42:25.646Z"
+    "lastUpdated": "2026-06-20T21:21:50.822Z",
+    "createdAt": "2026-06-20T21:21:50.822Z"
   },
   {
     "id": "tg-vysokygovorit-23157",
@@ -6496,8 +6146,8 @@
       "telegramUrl": "https://t.me/vysokygovorit/23157",
       "region": "Donetsk Oblast"
     },
-    "lastUpdated": "2026-06-20T19:42:25.646Z",
-    "createdAt": "2026-06-20T19:42:25.646Z"
+    "lastUpdated": "2026-06-20T21:21:50.822Z",
+    "createdAt": "2026-06-20T21:21:50.822Z"
   },
   {
     "id": "tg-vysokygovorit-23158",
@@ -6521,8 +6171,8 @@
       "telegramUrl": "https://t.me/vysokygovorit/23158",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:25.646Z",
-    "createdAt": "2026-06-20T19:42:25.646Z"
+    "lastUpdated": "2026-06-20T21:21:50.822Z",
+    "createdAt": "2026-06-20T21:21:50.822Z"
   },
   {
     "id": "tg-vysokygovorit-23162",
@@ -6546,33 +6196,8 @@
       "telegramUrl": "https://t.me/vysokygovorit/23162",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:25.646Z",
-    "createdAt": "2026-06-20T19:42:25.646Z"
-  },
-  {
-    "id": "tg-smotri_z-56160",
-    "type": "strategic",
-    "title": "🔥Расчеты САУ «Мста-С» 11-го армейского корпуса группировки войск «Север» уничто",
-    "description": "🔥Расчеты САУ «Мста-С» 11-го армейского корпуса группировки войск «Север» уничтожили замаскированные пункты управления БПЛА, укрытия, блиндажи и живую силу подразделений ВСУ в зоне СВО в Харьковской области.\n\nВидео: Минобороны России\n\n✅ «Иди и смотри» в MAX",
-    "location": {
-      "lat": 49.9935,
-      "lng": 36.2304
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-06-19T15:59:58+00:00",
-    "source": "Telegram: Come and See",
-    "metadata": {
-      "telegramChannel": "smotri_z",
-      "telegramChannelName": "Come and See",
-      "telegramPostId": "smotri_z/56160",
-      "bias": "pro-russian",
-      "weight": 1,
-      "telegramUrl": "https://t.me/smotri_z/56160",
-      "region": "Kharkiv Oblast"
-    },
-    "lastUpdated": "2026-06-20T19:42:27.377Z",
-    "createdAt": "2026-06-20T19:42:27.377Z"
+    "lastUpdated": "2026-06-20T21:21:50.822Z",
+    "createdAt": "2026-06-20T21:21:50.822Z"
   },
   {
     "id": "tg-smotri_z-56161",
@@ -6596,8 +6221,8 @@
       "telegramUrl": "https://t.me/smotri_z/56161",
       "region": "Zaporizhia Oblast"
     },
-    "lastUpdated": "2026-06-20T19:42:27.377Z",
-    "createdAt": "2026-06-20T19:42:27.377Z"
+    "lastUpdated": "2026-06-20T21:21:52.642Z",
+    "createdAt": "2026-06-20T21:21:52.642Z"
   },
   {
     "id": "tg-smotri_z-56162",
@@ -6621,8 +6246,8 @@
       "telegramUrl": "https://t.me/smotri_z/56162",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:27.377Z",
-    "createdAt": "2026-06-20T19:42:27.377Z"
+    "lastUpdated": "2026-06-20T21:21:52.642Z",
+    "createdAt": "2026-06-20T21:21:52.643Z"
   },
   {
     "id": "tg-smotri_z-56163",
@@ -6646,8 +6271,8 @@
       "telegramUrl": "https://t.me/smotri_z/56163",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:27.377Z",
-    "createdAt": "2026-06-20T19:42:27.377Z"
+    "lastUpdated": "2026-06-20T21:21:52.643Z",
+    "createdAt": "2026-06-20T21:21:52.643Z"
   },
   {
     "id": "tg-smotri_z-56164",
@@ -6671,8 +6296,8 @@
       "telegramUrl": "https://t.me/smotri_z/56164",
       "region": "Zaporizhia Oblast"
     },
-    "lastUpdated": "2026-06-20T19:42:27.377Z",
-    "createdAt": "2026-06-20T19:42:27.377Z"
+    "lastUpdated": "2026-06-20T21:21:52.643Z",
+    "createdAt": "2026-06-20T21:21:52.643Z"
   },
   {
     "id": "tg-smotri_z-56165",
@@ -6696,8 +6321,8 @@
       "telegramUrl": "https://t.me/smotri_z/56165",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:27.377Z",
-    "createdAt": "2026-06-20T19:42:27.377Z"
+    "lastUpdated": "2026-06-20T21:21:52.643Z",
+    "createdAt": "2026-06-20T21:21:52.643Z"
   },
   {
     "id": "tg-smotri_z-56166",
@@ -6721,8 +6346,8 @@
       "telegramUrl": "https://t.me/smotri_z/56166",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:27.377Z",
-    "createdAt": "2026-06-20T19:42:27.377Z"
+    "lastUpdated": "2026-06-20T21:21:52.643Z",
+    "createdAt": "2026-06-20T21:21:52.643Z"
   },
   {
     "id": "tg-smotri_z-56167",
@@ -6746,8 +6371,8 @@
       "telegramUrl": "https://t.me/smotri_z/56167",
       "region": "Kharkiv Oblast"
     },
-    "lastUpdated": "2026-06-20T19:42:27.377Z",
-    "createdAt": "2026-06-20T19:42:27.377Z"
+    "lastUpdated": "2026-06-20T21:21:52.643Z",
+    "createdAt": "2026-06-20T21:21:52.643Z"
   },
   {
     "id": "tg-smotri_z-56168",
@@ -6771,8 +6396,8 @@
       "telegramUrl": "https://t.me/smotri_z/56168",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:27.378Z",
-    "createdAt": "2026-06-20T19:42:27.378Z"
+    "lastUpdated": "2026-06-20T21:21:52.643Z",
+    "createdAt": "2026-06-20T21:21:52.643Z"
   },
   {
     "id": "tg-smotri_z-56169",
@@ -6796,8 +6421,8 @@
       "telegramUrl": "https://t.me/smotri_z/56169",
       "region": "Kyiv"
     },
-    "lastUpdated": "2026-06-20T19:42:27.378Z",
-    "createdAt": "2026-06-20T19:42:27.378Z"
+    "lastUpdated": "2026-06-20T21:21:52.643Z",
+    "createdAt": "2026-06-20T21:21:52.643Z"
   },
   {
     "id": "tg-smotri_z-56170",
@@ -6821,8 +6446,8 @@
       "telegramUrl": "https://t.me/smotri_z/56170",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:27.378Z",
-    "createdAt": "2026-06-20T19:42:27.378Z"
+    "lastUpdated": "2026-06-20T21:21:52.643Z",
+    "createdAt": "2026-06-20T21:21:52.643Z"
   },
   {
     "id": "tg-smotri_z-56171",
@@ -6846,8 +6471,8 @@
       "telegramUrl": "https://t.me/smotri_z/56171",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:27.378Z",
-    "createdAt": "2026-06-20T19:42:27.378Z"
+    "lastUpdated": "2026-06-20T21:21:52.643Z",
+    "createdAt": "2026-06-20T21:21:52.643Z"
   },
   {
     "id": "tg-smotri_z-56172",
@@ -6871,8 +6496,8 @@
       "telegramUrl": "https://t.me/smotri_z/56172",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:27.378Z",
-    "createdAt": "2026-06-20T19:42:27.378Z"
+    "lastUpdated": "2026-06-20T21:21:52.643Z",
+    "createdAt": "2026-06-20T21:21:52.643Z"
   },
   {
     "id": "tg-smotri_z-56173",
@@ -6896,8 +6521,8 @@
       "telegramUrl": "https://t.me/smotri_z/56173",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:27.378Z",
-    "createdAt": "2026-06-20T19:42:27.378Z"
+    "lastUpdated": "2026-06-20T21:21:52.643Z",
+    "createdAt": "2026-06-20T21:21:52.643Z"
   },
   {
     "id": "tg-smotri_z-56174",
@@ -6921,8 +6546,8 @@
       "telegramUrl": "https://t.me/smotri_z/56174",
       "region": "Belgorod Oblast"
     },
-    "lastUpdated": "2026-06-20T19:42:27.378Z",
-    "createdAt": "2026-06-20T19:42:27.378Z"
+    "lastUpdated": "2026-06-20T21:21:52.643Z",
+    "createdAt": "2026-06-20T21:21:52.643Z"
   },
   {
     "id": "tg-smotri_z-56176",
@@ -6946,8 +6571,8 @@
       "telegramUrl": "https://t.me/smotri_z/56176",
       "region": "Kharkiv Oblast"
     },
-    "lastUpdated": "2026-06-20T19:42:27.378Z",
-    "createdAt": "2026-06-20T19:42:27.378Z"
+    "lastUpdated": "2026-06-20T21:21:52.643Z",
+    "createdAt": "2026-06-20T21:21:52.643Z"
   },
   {
     "id": "tg-smotri_z-56177",
@@ -6971,8 +6596,8 @@
       "telegramUrl": "https://t.me/smotri_z/56177",
       "region": "Zaporizhia Oblast"
     },
-    "lastUpdated": "2026-06-20T19:42:27.378Z",
-    "createdAt": "2026-06-20T19:42:27.378Z"
+    "lastUpdated": "2026-06-20T21:21:52.643Z",
+    "createdAt": "2026-06-20T21:21:52.643Z"
   },
   {
     "id": "tg-smotri_z-56178",
@@ -6996,8 +6621,8 @@
       "telegramUrl": "https://t.me/smotri_z/56178",
       "region": "Zaporizhia Oblast"
     },
-    "lastUpdated": "2026-06-20T19:42:27.378Z",
-    "createdAt": "2026-06-20T19:42:27.378Z"
+    "lastUpdated": "2026-06-20T21:21:52.643Z",
+    "createdAt": "2026-06-20T21:21:52.643Z"
   },
   {
     "id": "tg-smotri_z-56179",
@@ -7021,8 +6646,33 @@
       "telegramUrl": "https://t.me/smotri_z/56179",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:27.378Z",
-    "createdAt": "2026-06-20T19:42:27.378Z"
+    "lastUpdated": "2026-06-20T21:21:52.643Z",
+    "createdAt": "2026-06-20T21:21:52.643Z"
+  },
+  {
+    "id": "tg-smotri_z-56180",
+    "type": "strategic",
+    "title": "💥Расчеты войск беспилотных систем в составе 51-й ОА группировки войск «Центр» у",
+    "description": "💥Расчеты войск беспилотных систем в составе 51-й ОА группировки войск «Центр» уничтожили пять тяжелых БПЛА формирований ВСУ на Добропольском направлении СВО.\n\nВидео: Минобороны России\n\n✅ «Иди и смотри» в MAX",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-06-20T19:59:58+00:00",
+    "source": "Telegram: Come and See",
+    "metadata": {
+      "telegramChannel": "smotri_z",
+      "telegramChannelName": "Come and See",
+      "telegramPostId": "smotri_z/56180",
+      "bias": "pro-russian",
+      "weight": 1,
+      "telegramUrl": "https://t.me/smotri_z/56180",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-06-20T21:21:52.644Z",
+    "createdAt": "2026-06-20T21:21:52.644Z"
   },
   {
     "id": "tg-rlz_the_kraken-87116",
@@ -7046,8 +6696,8 @@
       "telegramUrl": "https://t.me/rlz_the_kraken/87116",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:29.234Z",
-    "createdAt": "2026-06-20T19:42:29.234Z"
+    "lastUpdated": "2026-06-20T21:21:54.659Z",
+    "createdAt": "2026-06-20T21:21:54.659Z"
   },
   {
     "id": "tg-rlz_the_kraken-87117",
@@ -7071,8 +6721,8 @@
       "telegramUrl": "https://t.me/rlz_the_kraken/87117",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:29.234Z",
-    "createdAt": "2026-06-20T19:42:29.234Z"
+    "lastUpdated": "2026-06-20T21:21:54.659Z",
+    "createdAt": "2026-06-20T21:21:54.659Z"
   },
   {
     "id": "tg-rlz_the_kraken-87118",
@@ -7096,8 +6746,8 @@
       "telegramUrl": "https://t.me/rlz_the_kraken/87118",
       "region": "Kharkiv Oblast"
     },
-    "lastUpdated": "2026-06-20T19:42:29.234Z",
-    "createdAt": "2026-06-20T19:42:29.234Z"
+    "lastUpdated": "2026-06-20T21:21:54.659Z",
+    "createdAt": "2026-06-20T21:21:54.659Z"
   },
   {
     "id": "tg-rlz_the_kraken-87122",
@@ -7121,8 +6771,8 @@
       "telegramUrl": "https://t.me/rlz_the_kraken/87122",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:29.234Z",
-    "createdAt": "2026-06-20T19:42:29.234Z"
+    "lastUpdated": "2026-06-20T21:21:54.659Z",
+    "createdAt": "2026-06-20T21:21:54.659Z"
   },
   {
     "id": "tg-rlz_the_kraken-87123",
@@ -7146,8 +6796,8 @@
       "telegramUrl": "https://t.me/rlz_the_kraken/87123",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:29.235Z",
-    "createdAt": "2026-06-20T19:42:29.235Z"
+    "lastUpdated": "2026-06-20T21:21:54.659Z",
+    "createdAt": "2026-06-20T21:21:54.659Z"
   },
   {
     "id": "tg-rlz_the_kraken-87124",
@@ -7171,8 +6821,8 @@
       "telegramUrl": "https://t.me/rlz_the_kraken/87124",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:29.235Z",
-    "createdAt": "2026-06-20T19:42:29.235Z"
+    "lastUpdated": "2026-06-20T21:21:54.659Z",
+    "createdAt": "2026-06-20T21:21:54.659Z"
   },
   {
     "id": "tg-rlz_the_kraken-87126",
@@ -7196,8 +6846,8 @@
       "telegramUrl": "https://t.me/rlz_the_kraken/87126",
       "region": "Luhansk Oblast"
     },
-    "lastUpdated": "2026-06-20T19:42:29.235Z",
-    "createdAt": "2026-06-20T19:42:29.235Z"
+    "lastUpdated": "2026-06-20T21:21:54.659Z",
+    "createdAt": "2026-06-20T21:21:54.659Z"
   },
   {
     "id": "tg-rlz_the_kraken-87127",
@@ -7221,8 +6871,8 @@
       "telegramUrl": "https://t.me/rlz_the_kraken/87127",
       "region": "Zaporizhia Oblast"
     },
-    "lastUpdated": "2026-06-20T19:42:29.235Z",
-    "createdAt": "2026-06-20T19:42:29.235Z"
+    "lastUpdated": "2026-06-20T21:21:54.659Z",
+    "createdAt": "2026-06-20T21:21:54.659Z"
   },
   {
     "id": "tg-rlz_the_kraken-87128",
@@ -7246,8 +6896,8 @@
       "telegramUrl": "https://t.me/rlz_the_kraken/87128",
       "region": "Crimea"
     },
-    "lastUpdated": "2026-06-20T19:42:29.235Z",
-    "createdAt": "2026-06-20T19:42:29.235Z"
+    "lastUpdated": "2026-06-20T21:21:54.660Z",
+    "createdAt": "2026-06-20T21:21:54.660Z"
   },
   {
     "id": "tg-rlz_the_kraken-87130",
@@ -7271,8 +6921,8 @@
       "telegramUrl": "https://t.me/rlz_the_kraken/87130",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:29.235Z",
-    "createdAt": "2026-06-20T19:42:29.235Z"
+    "lastUpdated": "2026-06-20T21:21:54.660Z",
+    "createdAt": "2026-06-20T21:21:54.660Z"
   },
   {
     "id": "tg-talipovonline-2501",
@@ -7296,8 +6946,8 @@
       "telegramUrl": "https://t.me/talipovonline/2501",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:31.019Z",
-    "createdAt": "2026-06-20T19:42:31.019Z"
+    "lastUpdated": "2026-06-20T21:21:56.393Z",
+    "createdAt": "2026-06-20T21:21:56.393Z"
   },
   {
     "id": "tg-brussinf-10600",
@@ -7321,8 +6971,8 @@
       "telegramUrl": "https://t.me/brussinf/10600",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:32.977Z",
-    "createdAt": "2026-06-20T19:42:32.977Z"
+    "lastUpdated": "2026-06-20T21:21:58.274Z",
+    "createdAt": "2026-06-20T21:21:58.274Z"
   },
   {
     "id": "tg-brussinf-10602",
@@ -7346,8 +6996,8 @@
       "telegramUrl": "https://t.me/brussinf/10602",
       "region": "Kharkiv Oblast"
     },
-    "lastUpdated": "2026-06-20T19:42:32.977Z",
-    "createdAt": "2026-06-20T19:42:32.977Z"
+    "lastUpdated": "2026-06-20T21:21:58.274Z",
+    "createdAt": "2026-06-20T21:21:58.274Z"
   },
   {
     "id": "tg-brussinf-10604",
@@ -7371,8 +7021,8 @@
       "telegramUrl": "https://t.me/brussinf/10604",
       "region": "Donetsk Oblast"
     },
-    "lastUpdated": "2026-06-20T19:42:32.977Z",
-    "createdAt": "2026-06-20T19:42:32.977Z"
+    "lastUpdated": "2026-06-20T21:21:58.274Z",
+    "createdAt": "2026-06-20T21:21:58.274Z"
   },
   {
     "id": "tg-brussinf-10605",
@@ -7396,8 +7046,8 @@
       "telegramUrl": "https://t.me/brussinf/10605",
       "region": "Kharkiv Oblast"
     },
-    "lastUpdated": "2026-06-20T19:42:32.977Z",
-    "createdAt": "2026-06-20T19:42:32.977Z"
+    "lastUpdated": "2026-06-20T21:21:58.274Z",
+    "createdAt": "2026-06-20T21:21:58.274Z"
   },
   {
     "id": "tg-brussinf-10609",
@@ -7421,8 +7071,8 @@
       "telegramUrl": "https://t.me/brussinf/10609",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:32.977Z",
-    "createdAt": "2026-06-20T19:42:32.977Z"
+    "lastUpdated": "2026-06-20T21:21:58.274Z",
+    "createdAt": "2026-06-20T21:21:58.274Z"
   },
   {
     "id": "tg-ramzayiegokomanda-45778",
@@ -7446,8 +7096,8 @@
       "telegramUrl": "https://t.me/ramzayiegokomanda/45778",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:34.850Z",
-    "createdAt": "2026-06-20T19:42:34.850Z"
+    "lastUpdated": "2026-06-20T21:22:00.141Z",
+    "createdAt": "2026-06-20T21:22:00.141Z"
   },
   {
     "id": "tg-ramzayiegokomanda-45779",
@@ -7471,8 +7121,8 @@
       "telegramUrl": "https://t.me/ramzayiegokomanda/45779",
       "region": "Dnipropetrovsk Oblast"
     },
-    "lastUpdated": "2026-06-20T19:42:34.850Z",
-    "createdAt": "2026-06-20T19:42:34.850Z"
+    "lastUpdated": "2026-06-20T21:22:00.141Z",
+    "createdAt": "2026-06-20T21:22:00.141Z"
   },
   {
     "id": "tg-ramzayiegokomanda-45782",
@@ -7496,8 +7146,8 @@
       "telegramUrl": "https://t.me/ramzayiegokomanda/45782",
       "region": "Kyiv"
     },
-    "lastUpdated": "2026-06-20T19:42:34.850Z",
-    "createdAt": "2026-06-20T19:42:34.850Z"
+    "lastUpdated": "2026-06-20T21:22:00.141Z",
+    "createdAt": "2026-06-20T21:22:00.141Z"
   },
   {
     "id": "tg-ramzayiegokomanda-45783",
@@ -7521,8 +7171,8 @@
       "telegramUrl": "https://t.me/ramzayiegokomanda/45783",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:34.851Z",
-    "createdAt": "2026-06-20T19:42:34.851Z"
+    "lastUpdated": "2026-06-20T21:22:00.141Z",
+    "createdAt": "2026-06-20T21:22:00.141Z"
   },
   {
     "id": "tg-ramzayiegokomanda-45784",
@@ -7546,8 +7196,8 @@
       "telegramUrl": "https://t.me/ramzayiegokomanda/45784",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:34.851Z",
-    "createdAt": "2026-06-20T19:42:34.851Z"
+    "lastUpdated": "2026-06-20T21:22:00.141Z",
+    "createdAt": "2026-06-20T21:22:00.141Z"
   },
   {
     "id": "tg-ramzayiegokomanda-45789",
@@ -7571,8 +7221,8 @@
       "telegramUrl": "https://t.me/ramzayiegokomanda/45789",
       "region": "Crimea"
     },
-    "lastUpdated": "2026-06-20T19:42:34.851Z",
-    "createdAt": "2026-06-20T19:42:34.851Z"
+    "lastUpdated": "2026-06-20T21:22:00.142Z",
+    "createdAt": "2026-06-20T21:22:00.142Z"
   },
   {
     "id": "tg-ramzayiegokomanda-45790",
@@ -7596,8 +7246,8 @@
       "telegramUrl": "https://t.me/ramzayiegokomanda/45790",
       "region": "Donetsk Oblast"
     },
-    "lastUpdated": "2026-06-20T19:42:34.851Z",
-    "createdAt": "2026-06-20T19:42:34.851Z"
+    "lastUpdated": "2026-06-20T21:22:00.142Z",
+    "createdAt": "2026-06-20T21:22:00.142Z"
   },
   {
     "id": "tg-ramzayiegokomanda-45793",
@@ -7621,8 +7271,8 @@
       "telegramUrl": "https://t.me/ramzayiegokomanda/45793",
       "region": "Zaporizhia Oblast"
     },
-    "lastUpdated": "2026-06-20T19:42:34.851Z",
-    "createdAt": "2026-06-20T19:42:34.851Z"
+    "lastUpdated": "2026-06-20T21:22:00.142Z",
+    "createdAt": "2026-06-20T21:22:00.142Z"
   },
   {
     "id": "tg-ramzayiegokomanda-45794",
@@ -7646,8 +7296,8 @@
       "telegramUrl": "https://t.me/ramzayiegokomanda/45794",
       "region": "Zaporizhia Oblast"
     },
-    "lastUpdated": "2026-06-20T19:42:34.851Z",
-    "createdAt": "2026-06-20T19:42:34.851Z"
+    "lastUpdated": "2026-06-20T21:22:00.142Z",
+    "createdAt": "2026-06-20T21:22:00.142Z"
   },
   {
     "id": "tg-ramzayiegokomanda-45795",
@@ -7671,8 +7321,8 @@
       "telegramUrl": "https://t.me/ramzayiegokomanda/45795",
       "region": "Kherson Oblast"
     },
-    "lastUpdated": "2026-06-20T19:42:34.851Z",
-    "createdAt": "2026-06-20T19:42:34.851Z"
+    "lastUpdated": "2026-06-20T21:22:00.142Z",
+    "createdAt": "2026-06-20T21:22:00.142Z"
   },
   {
     "id": "tg-RtrDonetsk-36326",
@@ -7696,8 +7346,8 @@
       "telegramUrl": "https://t.me/RtrDonetsk/36326",
       "region": "Kyiv"
     },
-    "lastUpdated": "2026-06-20T19:42:36.631Z",
-    "createdAt": "2026-06-20T19:42:36.631Z"
+    "lastUpdated": "2026-06-20T21:22:02.104Z",
+    "createdAt": "2026-06-20T21:22:02.104Z"
   },
   {
     "id": "tg-RtrDonetsk-36327",
@@ -7721,8 +7371,8 @@
       "telegramUrl": "https://t.me/RtrDonetsk/36327",
       "region": "Dnipropetrovsk Oblast"
     },
-    "lastUpdated": "2026-06-20T19:42:36.631Z",
-    "createdAt": "2026-06-20T19:42:36.631Z"
+    "lastUpdated": "2026-06-20T21:22:02.104Z",
+    "createdAt": "2026-06-20T21:22:02.104Z"
   },
   {
     "id": "tg-RtrDonetsk-36329",
@@ -7746,8 +7396,8 @@
       "telegramUrl": "https://t.me/RtrDonetsk/36329",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:36.631Z",
-    "createdAt": "2026-06-20T19:42:36.631Z"
+    "lastUpdated": "2026-06-20T21:22:02.104Z",
+    "createdAt": "2026-06-20T21:22:02.104Z"
   },
   {
     "id": "tg-RtrDonetsk-36330",
@@ -7771,8 +7421,8 @@
       "telegramUrl": "https://t.me/RtrDonetsk/36330",
       "region": "Kharkiv Oblast"
     },
-    "lastUpdated": "2026-06-20T19:42:36.631Z",
-    "createdAt": "2026-06-20T19:42:36.631Z"
+    "lastUpdated": "2026-06-20T21:22:02.104Z",
+    "createdAt": "2026-06-20T21:22:02.104Z"
   },
   {
     "id": "tg-RtrDonetsk-36333",
@@ -7796,8 +7446,8 @@
       "telegramUrl": "https://t.me/RtrDonetsk/36333",
       "region": "Kharkiv Oblast"
     },
-    "lastUpdated": "2026-06-20T19:42:36.631Z",
-    "createdAt": "2026-06-20T19:42:36.631Z"
+    "lastUpdated": "2026-06-20T21:22:02.104Z",
+    "createdAt": "2026-06-20T21:22:02.104Z"
   },
   {
     "id": "tg-RtrDonetsk-36334",
@@ -7821,8 +7471,8 @@
       "telegramUrl": "https://t.me/RtrDonetsk/36334",
       "region": "Kharkiv Oblast"
     },
-    "lastUpdated": "2026-06-20T19:42:36.631Z",
-    "createdAt": "2026-06-20T19:42:36.631Z"
+    "lastUpdated": "2026-06-20T21:22:02.104Z",
+    "createdAt": "2026-06-20T21:22:02.104Z"
   },
   {
     "id": "tg-RtrDonetsk-36336",
@@ -7846,8 +7496,8 @@
       "telegramUrl": "https://t.me/RtrDonetsk/36336",
       "region": "Kyiv"
     },
-    "lastUpdated": "2026-06-20T19:42:36.631Z",
-    "createdAt": "2026-06-20T19:42:36.631Z"
+    "lastUpdated": "2026-06-20T21:22:02.104Z",
+    "createdAt": "2026-06-20T21:22:02.104Z"
   },
   {
     "id": "tg-RtrDonetsk-36337",
@@ -7871,8 +7521,8 @@
       "telegramUrl": "https://t.me/RtrDonetsk/36337",
       "region": "Donetsk Oblast"
     },
-    "lastUpdated": "2026-06-20T19:42:36.632Z",
-    "createdAt": "2026-06-20T19:42:36.632Z"
+    "lastUpdated": "2026-06-20T21:22:02.104Z",
+    "createdAt": "2026-06-20T21:22:02.104Z"
   },
   {
     "id": "tg-RtrDonetsk-36338",
@@ -7896,8 +7546,8 @@
       "telegramUrl": "https://t.me/RtrDonetsk/36338",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:36.632Z",
-    "createdAt": "2026-06-20T19:42:36.632Z"
+    "lastUpdated": "2026-06-20T21:22:02.104Z",
+    "createdAt": "2026-06-20T21:22:02.104Z"
   },
   {
     "id": "tg-RtrDonetsk-36340",
@@ -7921,8 +7571,8 @@
       "telegramUrl": "https://t.me/RtrDonetsk/36340",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:36.632Z",
-    "createdAt": "2026-06-20T19:42:36.632Z"
+    "lastUpdated": "2026-06-20T21:22:02.104Z",
+    "createdAt": "2026-06-20T21:22:02.104Z"
   },
   {
     "id": "tg-RtrDonetsk-36342",
@@ -7946,8 +7596,8 @@
       "telegramUrl": "https://t.me/RtrDonetsk/36342",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:36.632Z",
-    "createdAt": "2026-06-20T19:42:36.632Z"
+    "lastUpdated": "2026-06-20T21:22:02.104Z",
+    "createdAt": "2026-06-20T21:22:02.104Z"
   },
   {
     "id": "tg-RtrDonetsk-36344",
@@ -7971,8 +7621,8 @@
       "telegramUrl": "https://t.me/RtrDonetsk/36344",
       "region": "Dnipropetrovsk Oblast"
     },
-    "lastUpdated": "2026-06-20T19:42:36.632Z",
-    "createdAt": "2026-06-20T19:42:36.632Z"
+    "lastUpdated": "2026-06-20T21:22:02.104Z",
+    "createdAt": "2026-06-20T21:22:02.104Z"
   },
   {
     "id": "tg-RtrDonetsk-36345",
@@ -7996,8 +7646,8 @@
       "telegramUrl": "https://t.me/RtrDonetsk/36345",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:36.632Z",
-    "createdAt": "2026-06-20T19:42:36.632Z"
+    "lastUpdated": "2026-06-20T21:22:02.104Z",
+    "createdAt": "2026-06-20T21:22:02.104Z"
   },
   {
     "id": "tg-dshrg2-5169",
@@ -8021,8 +7671,8 @@
       "telegramUrl": "https://t.me/dshrg2/5169",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:38.511Z",
-    "createdAt": "2026-06-20T19:42:38.511Z"
+    "lastUpdated": "2026-06-20T21:22:04.216Z",
+    "createdAt": "2026-06-20T21:22:04.216Z"
   },
   {
     "id": "tg-dshrg2-5173",
@@ -8046,8 +7696,8 @@
       "telegramUrl": "https://t.me/dshrg2/5173",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:38.511Z",
-    "createdAt": "2026-06-20T19:42:38.511Z"
+    "lastUpdated": "2026-06-20T21:22:04.216Z",
+    "createdAt": "2026-06-20T21:22:04.216Z"
   },
   {
     "id": "tg-dshrg2-5189",
@@ -8071,58 +7721,8 @@
       "telegramUrl": "https://t.me/dshrg2/5189",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:38.511Z",
-    "createdAt": "2026-06-20T19:42:38.511Z"
-  },
-  {
-    "id": "tg-southfronteng-61396",
-    "type": "strike",
-    "title": "Russian Advance Splits Ukrainian Forces In Zaporozhye",
-    "description": "Russian Advance Splits Ukrainian Forces In Zaporozhye\n\nRussian units continue offensive operations in several directions, achieving tactical successes. \n\nIn Konstantinovka, the main fighting has shifted to the northern and northwestern districts, while drone operators isolate the area by systematically destroying Ukrainian artillery. \n\nIn the direction of Slavyansk, Russian forces have advanced about ten kilometers from Rai-Aleksandrovka and Yurkovka to Slaviansk and Kramatorsk and seven kilomet",
-    "location": {
-      "lat": 49.9935,
-      "lng": 36.2304
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-06-19T21:35:26+00:00",
-    "source": "Telegram: SouthFront",
-    "metadata": {
-      "telegramChannel": "southfronteng",
-      "telegramChannelName": "SouthFront",
-      "telegramPostId": "southfronteng/61396",
-      "bias": "pro-russian",
-      "weight": 1,
-      "telegramUrl": "https://t.me/southfronteng/61396",
-      "region": "Kharkiv Oblast"
-    },
-    "lastUpdated": "2026-06-20T19:42:40.381Z",
-    "createdAt": "2026-06-20T19:42:40.381Z"
-  },
-  {
-    "id": "tg-southfronteng-61401",
-    "type": "strategic",
-    "title": "Iran’s Quds Force Commander Warns Israel Over Escalation In Lebanon",
-    "description": "Iran’s Quds Force Commander Warns Israel Over Escalation In Lebanon\n\nEsmail Ghaani, the commander of the Islamic Revolutionary Guard Corps’s Quds Force, warned Israel in a statement on June 19, invoking Hezbollah and Gaza after recent clashes.\n\nHe also warned that Gaza “has a storm,” adding: “If you move according to the will of your politicians, you will be caught in the storm. Be careful.”\n\nIsrael expanded its ground operation in southern Lebanon after Iran and the United States signed a memor",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-06-20T06:02:27+00:00",
-    "source": "Telegram: SouthFront",
-    "metadata": {
-      "telegramChannel": "southfronteng",
-      "telegramChannelName": "SouthFront",
-      "telegramPostId": "southfronteng/61401",
-      "bias": "pro-russian",
-      "weight": 1,
-      "telegramUrl": "https://t.me/southfronteng/61401",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-06-20T19:42:40.381Z",
-    "createdAt": "2026-06-20T19:42:40.381Z"
+    "lastUpdated": "2026-06-20T21:22:04.216Z",
+    "createdAt": "2026-06-20T21:22:04.216Z"
   },
   {
     "id": "tg-southfronteng-61404",
@@ -8146,8 +7746,8 @@
       "telegramUrl": "https://t.me/southfronteng/61404",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:40.381Z",
-    "createdAt": "2026-06-20T19:42:40.381Z"
+    "lastUpdated": "2026-06-20T21:22:06.036Z",
+    "createdAt": "2026-06-20T21:22:06.036Z"
   },
   {
     "id": "tg-southfronteng-61409",
@@ -8171,8 +7771,8 @@
       "telegramUrl": "https://t.me/southfronteng/61409",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:40.381Z",
-    "createdAt": "2026-06-20T19:42:40.381Z"
+    "lastUpdated": "2026-06-20T21:22:06.036Z",
+    "createdAt": "2026-06-20T21:22:06.036Z"
   },
   {
     "id": "tg-southfronteng-61415",
@@ -8196,8 +7796,8 @@
       "telegramUrl": "https://t.me/southfronteng/61415",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:40.381Z",
-    "createdAt": "2026-06-20T19:42:40.381Z"
+    "lastUpdated": "2026-06-20T21:22:06.036Z",
+    "createdAt": "2026-06-20T21:22:06.036Z"
   },
   {
     "id": "tg-southfronteng-61416",
@@ -8221,8 +7821,33 @@
       "telegramUrl": "https://t.me/southfronteng/61416",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:40.381Z",
-    "createdAt": "2026-06-20T19:42:40.381Z"
+    "lastUpdated": "2026-06-20T21:22:06.036Z",
+    "createdAt": "2026-06-20T21:22:06.036Z"
+  },
+  {
+    "id": "tg-southfronteng-61417",
+    "type": "battle",
+    "title": "Over Dozen Syrian Troops Killed Or Wounded In Fresh Attacks (18+ Photos, Videos)",
+    "description": "Over Dozen Syrian Troops Killed Or Wounded In Fresh Attacks (18+ Photos, Videos)\n\nTwo Syrian soldiers were killed in the northern governorate of Aleppo, the Defense Ministry said on June 20, with ISIS later claiming responsibility.\n\nCiting the ministry, the state-run SANA news agency said that the soldiers were gunned down in an attack near the city of Manbij in the eastern Aleppo countryside. The slain soldiers were members of the 76th Division.\n\nISIS later confirmed that it was behind the dead",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-06-20T20:02:49+00:00",
+    "source": "Telegram: SouthFront",
+    "metadata": {
+      "telegramChannel": "southfronteng",
+      "telegramChannelName": "SouthFront",
+      "telegramPostId": "southfronteng/61417",
+      "bias": "pro-russian",
+      "weight": 1,
+      "telegramUrl": "https://t.me/southfronteng/61417",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-06-20T21:22:06.036Z",
+    "createdAt": "2026-06-20T21:22:06.036Z"
   },
   {
     "id": "tg-DeepStateUA-23569",
@@ -8246,8 +7871,8 @@
       "telegramUrl": "https://t.me/DeepStateUA/23569",
       "region": "Crimea"
     },
-    "lastUpdated": "2026-06-20T19:42:46.290Z",
-    "createdAt": "2026-06-20T19:42:46.290Z"
+    "lastUpdated": "2026-06-20T21:22:11.995Z",
+    "createdAt": "2026-06-20T21:22:11.995Z"
   },
   {
     "id": "tg-DeepStateUA-23573",
@@ -8271,8 +7896,8 @@
       "telegramUrl": "https://t.me/DeepStateUA/23573",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:46.290Z",
-    "createdAt": "2026-06-20T19:42:46.290Z"
+    "lastUpdated": "2026-06-20T21:22:11.996Z",
+    "createdAt": "2026-06-20T21:22:11.996Z"
   },
   {
     "id": "tg-DeepStateUA-23574",
@@ -8296,8 +7921,8 @@
       "telegramUrl": "https://t.me/DeepStateUA/23574",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:46.290Z",
-    "createdAt": "2026-06-20T19:42:46.290Z"
+    "lastUpdated": "2026-06-20T21:22:11.996Z",
+    "createdAt": "2026-06-20T21:22:11.996Z"
   },
   {
     "id": "tg-DeepStateUA-23577",
@@ -8321,8 +7946,8 @@
       "telegramUrl": "https://t.me/DeepStateUA/23577",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:46.290Z",
-    "createdAt": "2026-06-20T19:42:46.290Z"
+    "lastUpdated": "2026-06-20T21:22:11.996Z",
+    "createdAt": "2026-06-20T21:22:11.996Z"
   },
   {
     "id": "tg-DeepStateUA-23578",
@@ -8346,8 +7971,8 @@
       "telegramUrl": "https://t.me/DeepStateUA/23578",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:46.291Z",
-    "createdAt": "2026-06-20T19:42:46.291Z"
+    "lastUpdated": "2026-06-20T21:22:11.996Z",
+    "createdAt": "2026-06-20T21:22:11.996Z"
   },
   {
     "id": "tg-DeepStateUA-23581",
@@ -8371,8 +7996,8 @@
       "telegramUrl": "https://t.me/DeepStateUA/23581",
       "region": "Mykolaiv Oblast"
     },
-    "lastUpdated": "2026-06-20T19:42:46.291Z",
-    "createdAt": "2026-06-20T19:42:46.291Z"
+    "lastUpdated": "2026-06-20T21:22:11.996Z",
+    "createdAt": "2026-06-20T21:22:11.996Z"
   },
   {
     "id": "tg-DeepStateUA-23582",
@@ -8396,8 +8021,8 @@
       "telegramUrl": "https://t.me/DeepStateUA/23582",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:46.291Z",
-    "createdAt": "2026-06-20T19:42:46.291Z"
+    "lastUpdated": "2026-06-20T21:22:11.997Z",
+    "createdAt": "2026-06-20T21:22:11.997Z"
   },
   {
     "id": "tg-DeepStateUA-23583",
@@ -8421,8 +8046,8 @@
       "telegramUrl": "https://t.me/DeepStateUA/23583",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:46.291Z",
-    "createdAt": "2026-06-20T19:42:46.291Z"
+    "lastUpdated": "2026-06-20T21:22:11.997Z",
+    "createdAt": "2026-06-20T21:22:11.997Z"
   },
   {
     "id": "tg-DeepStateUA-23584",
@@ -8446,8 +8071,8 @@
       "telegramUrl": "https://t.me/DeepStateUA/23584",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:46.291Z",
-    "createdAt": "2026-06-20T19:42:46.291Z"
+    "lastUpdated": "2026-06-20T21:22:11.997Z",
+    "createdAt": "2026-06-20T21:22:11.997Z"
   },
   {
     "id": "tg-DeepStateUA-23585",
@@ -8471,8 +8096,8 @@
       "telegramUrl": "https://t.me/DeepStateUA/23585",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:46.291Z",
-    "createdAt": "2026-06-20T19:42:46.291Z"
+    "lastUpdated": "2026-06-20T21:22:11.997Z",
+    "createdAt": "2026-06-20T21:22:11.997Z"
   },
   {
     "id": "tg-DeepStateUA-23586",
@@ -8496,8 +8121,8 @@
       "telegramUrl": "https://t.me/DeepStateUA/23586",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:46.292Z",
-    "createdAt": "2026-06-20T19:42:46.292Z"
+    "lastUpdated": "2026-06-20T21:22:11.997Z",
+    "createdAt": "2026-06-20T21:22:11.997Z"
   },
   {
     "id": "tg-DeepStateUA-23588",
@@ -8521,33 +8146,8 @@
       "telegramUrl": "https://t.me/DeepStateUA/23588",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:46.292Z",
-    "createdAt": "2026-06-20T19:42:46.292Z"
-  },
-  {
-    "id": "tg-operativnoZSU-213970",
-    "type": "battle",
-    "title": "Оператори 💪ЦСО «А» СБУ підбивають підсумки з виконаної бойової роботи за тижден",
-    "description": "Оператори 💪ЦСО «А» СБУ підбивають підсумки з виконаної бойової роботи за тиждень\n\nТак за вказаний період під удари БПЛА та інших засобів ураження бійців потрапили:\n\n▪️ 4 танки\n▪️ 7 ББМ\n▪️ 22 артилерійські системи та РСЗВ\n▪️ 9 засобів ППО та 4 системи РЛС/РЕБ\n▪️ 598 одиниць автотранспорту\n▪️ 1182 БпЛА, 79 їхніх розрахунків та 491 антену зв&#39;язку\n▪️ 348 ворожих позицій та укріплень\n▪️ 1700+ особового складу\n▪️ та багато іншого.\n\n🫡https://t.me/operativnoZSU/",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-06-20T14:44:07+00:00",
-    "source": "Telegram: Operativno ZSU",
-    "metadata": {
-      "telegramChannel": "OperativnoZSU",
-      "telegramChannelName": "Operativno ZSU",
-      "telegramPostId": "operativnoZSU/213970",
-      "bias": "pro-ukrainian",
-      "weight": 1,
-      "telegramUrl": "https://t.me/operativnoZSU/213970",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-06-20T19:42:48.257Z",
-    "createdAt": "2026-06-20T19:42:48.257Z"
+    "lastUpdated": "2026-06-20T21:22:11.997Z",
+    "createdAt": "2026-06-20T21:22:11.997Z"
   },
   {
     "id": "tg-operativnoZSU-213971",
@@ -8571,8 +8171,8 @@
       "telegramUrl": "https://t.me/operativnoZSU/213971",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:48.257Z",
-    "createdAt": "2026-06-20T19:42:48.257Z"
+    "lastUpdated": "2026-06-20T21:22:13.842Z",
+    "createdAt": "2026-06-20T21:22:13.842Z"
   },
   {
     "id": "tg-operativnoZSU-213974",
@@ -8596,8 +8196,8 @@
       "telegramUrl": "https://t.me/operativnoZSU/213974",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:48.257Z",
-    "createdAt": "2026-06-20T19:42:48.257Z"
+    "lastUpdated": "2026-06-20T21:22:13.842Z",
+    "createdAt": "2026-06-20T21:22:13.842Z"
   },
   {
     "id": "tg-operativnoZSU-213978",
@@ -8621,8 +8221,8 @@
       "telegramUrl": "https://t.me/operativnoZSU/213978",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:48.257Z",
-    "createdAt": "2026-06-20T19:42:48.257Z"
+    "lastUpdated": "2026-06-20T21:22:13.842Z",
+    "createdAt": "2026-06-20T21:22:13.842Z"
   },
   {
     "id": "tg-operativnoZSU-213979",
@@ -8646,8 +8246,8 @@
       "telegramUrl": "https://t.me/operativnoZSU/213979",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:48.257Z",
-    "createdAt": "2026-06-20T19:42:48.257Z"
+    "lastUpdated": "2026-06-20T21:22:13.842Z",
+    "createdAt": "2026-06-20T21:22:13.842Z"
   },
   {
     "id": "tg-operativnoZSU-213980",
@@ -8671,8 +8271,8 @@
       "telegramUrl": "https://t.me/operativnoZSU/213980",
       "region": "Sumy Oblast"
     },
-    "lastUpdated": "2026-06-20T19:42:48.257Z",
-    "createdAt": "2026-06-20T19:42:48.257Z"
+    "lastUpdated": "2026-06-20T21:22:13.842Z",
+    "createdAt": "2026-06-20T21:22:13.842Z"
   },
   {
     "id": "tg-operativnoZSU-213982",
@@ -8696,8 +8296,8 @@
       "telegramUrl": "https://t.me/operativnoZSU/213982",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:48.257Z",
-    "createdAt": "2026-06-20T19:42:48.257Z"
+    "lastUpdated": "2026-06-20T21:22:13.843Z",
+    "createdAt": "2026-06-20T21:22:13.843Z"
   },
   {
     "id": "tg-operativnoZSU-213984",
@@ -8721,8 +8321,8 @@
       "telegramUrl": "https://t.me/operativnoZSU/213984",
       "region": "Crimea"
     },
-    "lastUpdated": "2026-06-20T19:42:48.257Z",
-    "createdAt": "2026-06-20T19:42:48.257Z"
+    "lastUpdated": "2026-06-20T21:22:13.843Z",
+    "createdAt": "2026-06-20T21:22:13.843Z"
   },
   {
     "id": "tg-operativnoZSU-213985",
@@ -8746,8 +8346,8 @@
       "telegramUrl": "https://t.me/operativnoZSU/213985",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:48.257Z",
-    "createdAt": "2026-06-20T19:42:48.257Z"
+    "lastUpdated": "2026-06-20T21:22:13.843Z",
+    "createdAt": "2026-06-20T21:22:13.843Z"
   },
   {
     "id": "tg-operativnoZSU-213988",
@@ -8771,8 +8371,8 @@
       "telegramUrl": "https://t.me/operativnoZSU/213988",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:48.257Z",
-    "createdAt": "2026-06-20T19:42:48.257Z"
+    "lastUpdated": "2026-06-20T21:22:13.843Z",
+    "createdAt": "2026-06-20T21:22:13.843Z"
   },
   {
     "id": "tg-ssternenko-59669",
@@ -8796,8 +8396,8 @@
       "telegramUrl": "https://t.me/ssternenko/59669",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:50.093Z",
-    "createdAt": "2026-06-20T19:42:50.093Z"
+    "lastUpdated": "2026-06-20T21:22:16.006Z",
+    "createdAt": "2026-06-20T21:22:16.006Z"
   },
   {
     "id": "tg-ssternenko-59672",
@@ -8821,8 +8421,8 @@
       "telegramUrl": "https://t.me/ssternenko/59672",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:50.093Z",
-    "createdAt": "2026-06-20T19:42:50.093Z"
+    "lastUpdated": "2026-06-20T21:22:16.006Z",
+    "createdAt": "2026-06-20T21:22:16.006Z"
   },
   {
     "id": "tg-ssternenko-59674",
@@ -8846,8 +8446,8 @@
       "telegramUrl": "https://t.me/ssternenko/59674",
       "region": "Crimea"
     },
-    "lastUpdated": "2026-06-20T19:42:50.093Z",
-    "createdAt": "2026-06-20T19:42:50.093Z"
+    "lastUpdated": "2026-06-20T21:22:16.006Z",
+    "createdAt": "2026-06-20T21:22:16.006Z"
   },
   {
     "id": "tg-ssternenko-59681",
@@ -8871,8 +8471,8 @@
       "telegramUrl": "https://t.me/ssternenko/59681",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:50.093Z",
-    "createdAt": "2026-06-20T19:42:50.093Z"
+    "lastUpdated": "2026-06-20T21:22:16.007Z",
+    "createdAt": "2026-06-20T21:22:16.007Z"
   },
   {
     "id": "tg-ssternenko-59684",
@@ -8896,8 +8496,8 @@
       "telegramUrl": "https://t.me/ssternenko/59684",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:50.093Z",
-    "createdAt": "2026-06-20T19:42:50.093Z"
+    "lastUpdated": "2026-06-20T21:22:16.007Z",
+    "createdAt": "2026-06-20T21:22:16.007Z"
   },
   {
     "id": "tg-V_Zelenskiy_official-19546",
@@ -8921,8 +8521,8 @@
       "telegramUrl": "https://t.me/V_Zelenskiy_official/19546",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:52.059Z",
-    "createdAt": "2026-06-20T19:42:52.059Z"
+    "lastUpdated": "2026-06-20T21:22:17.901Z",
+    "createdAt": "2026-06-20T21:22:17.901Z"
   },
   {
     "id": "tg-V_Zelenskiy_official-19547",
@@ -8946,8 +8546,8 @@
       "telegramUrl": "https://t.me/V_Zelenskiy_official/19547",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:52.059Z",
-    "createdAt": "2026-06-20T19:42:52.059Z"
+    "lastUpdated": "2026-06-20T21:22:17.901Z",
+    "createdAt": "2026-06-20T21:22:17.901Z"
   },
   {
     "id": "tg-V_Zelenskiy_official-19557",
@@ -8971,8 +8571,8 @@
       "telegramUrl": "https://t.me/V_Zelenskiy_official/19557",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:52.059Z",
-    "createdAt": "2026-06-20T19:42:52.059Z"
+    "lastUpdated": "2026-06-20T21:22:17.901Z",
+    "createdAt": "2026-06-20T21:22:17.901Z"
   },
   {
     "id": "tg-V_Zelenskiy_official-19558",
@@ -8996,8 +8596,8 @@
       "telegramUrl": "https://t.me/V_Zelenskiy_official/19558",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:52.059Z",
-    "createdAt": "2026-06-20T19:42:52.059Z"
+    "lastUpdated": "2026-06-20T21:22:17.901Z",
+    "createdAt": "2026-06-20T21:22:17.901Z"
   },
   {
     "id": "tg-V_Zelenskiy_official-19559",
@@ -9021,8 +8621,8 @@
       "telegramUrl": "https://t.me/V_Zelenskiy_official/19559",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:52.059Z",
-    "createdAt": "2026-06-20T19:42:52.059Z"
+    "lastUpdated": "2026-06-20T21:22:17.901Z",
+    "createdAt": "2026-06-20T21:22:17.901Z"
   },
   {
     "id": "tg-V_Zelenskiy_official-19560",
@@ -9046,8 +8646,8 @@
       "telegramUrl": "https://t.me/V_Zelenskiy_official/19560",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:52.059Z",
-    "createdAt": "2026-06-20T19:42:52.059Z"
+    "lastUpdated": "2026-06-20T21:22:17.901Z",
+    "createdAt": "2026-06-20T21:22:17.901Z"
   },
   {
     "id": "tg-V_Zelenskiy_official-19564",
@@ -9071,8 +8671,8 @@
       "telegramUrl": "https://t.me/V_Zelenskiy_official/19564",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:52.060Z",
-    "createdAt": "2026-06-20T19:42:52.060Z"
+    "lastUpdated": "2026-06-20T21:22:17.901Z",
+    "createdAt": "2026-06-20T21:22:17.901Z"
   },
   {
     "id": "tg-V_Zelenskiy_official-19565",
@@ -9096,8 +8696,8 @@
       "telegramUrl": "https://t.me/V_Zelenskiy_official/19565",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:52.060Z",
-    "createdAt": "2026-06-20T19:42:52.060Z"
+    "lastUpdated": "2026-06-20T21:22:17.902Z",
+    "createdAt": "2026-06-20T21:22:17.902Z"
   },
   {
     "id": "tg-ukrpravda_news-80044",
@@ -9121,8 +8721,8 @@
       "telegramUrl": "https://t.me/ukrpravda_news/80044",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:53.816Z",
-    "createdAt": "2026-06-20T19:42:53.816Z"
+    "lastUpdated": "2026-06-20T21:22:19.696Z",
+    "createdAt": "2026-06-20T21:22:19.696Z"
   },
   {
     "id": "tg-ukrpravda_news-80045",
@@ -9146,8 +8746,8 @@
       "telegramUrl": "https://t.me/ukrpravda_news/80045",
       "region": "Crimea"
     },
-    "lastUpdated": "2026-06-20T19:42:53.816Z",
-    "createdAt": "2026-06-20T19:42:53.816Z"
+    "lastUpdated": "2026-06-20T21:22:19.696Z",
+    "createdAt": "2026-06-20T21:22:19.696Z"
   },
   {
     "id": "tg-ukrpravda_news-80051",
@@ -9171,8 +8771,8 @@
       "telegramUrl": "https://t.me/ukrpravda_news/80051",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:53.816Z",
-    "createdAt": "2026-06-20T19:42:53.816Z"
+    "lastUpdated": "2026-06-20T21:22:19.696Z",
+    "createdAt": "2026-06-20T21:22:19.696Z"
   },
   {
     "id": "tg-ukrpravda_news-80052",
@@ -9196,8 +8796,8 @@
       "telegramUrl": "https://t.me/ukrpravda_news/80052",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:53.816Z",
-    "createdAt": "2026-06-20T19:42:53.816Z"
+    "lastUpdated": "2026-06-20T21:22:19.696Z",
+    "createdAt": "2026-06-20T21:22:19.696Z"
   },
   {
     "id": "tg-ukrpravda_news-80053",
@@ -9221,8 +8821,8 @@
       "telegramUrl": "https://t.me/ukrpravda_news/80053",
       "region": "Zaporizhia Oblast"
     },
-    "lastUpdated": "2026-06-20T19:42:53.816Z",
-    "createdAt": "2026-06-20T19:42:53.816Z"
+    "lastUpdated": "2026-06-20T21:22:19.696Z",
+    "createdAt": "2026-06-20T21:22:19.696Z"
   },
   {
     "id": "tg-ukrpravda_news-80060",
@@ -9246,8 +8846,8 @@
       "telegramUrl": "https://t.me/ukrpravda_news/80060",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:53.817Z",
-    "createdAt": "2026-06-20T19:42:53.817Z"
+    "lastUpdated": "2026-06-20T21:22:19.696Z",
+    "createdAt": "2026-06-20T21:22:19.696Z"
   },
   {
     "id": "tg-ukrpravda_news-80062",
@@ -9271,8 +8871,8 @@
       "telegramUrl": "https://t.me/ukrpravda_news/80062",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:53.817Z",
-    "createdAt": "2026-06-20T19:42:53.817Z"
+    "lastUpdated": "2026-06-20T21:22:19.696Z",
+    "createdAt": "2026-06-20T21:22:19.696Z"
   },
   {
     "id": "tg-meduzalive-143862",
@@ -9296,8 +8896,8 @@
       "telegramUrl": "https://t.me/meduzalive/143862",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:59.567Z",
-    "createdAt": "2026-06-20T19:42:59.567Z"
+    "lastUpdated": "2026-06-20T21:22:25.209Z",
+    "createdAt": "2026-06-20T21:22:25.209Z"
   },
   {
     "id": "tg-meduzalive-143864",
@@ -9321,8 +8921,8 @@
       "telegramUrl": "https://t.me/meduzalive/143864",
       "region": "Kyiv"
     },
-    "lastUpdated": "2026-06-20T19:42:59.567Z",
-    "createdAt": "2026-06-20T19:42:59.567Z"
+    "lastUpdated": "2026-06-20T21:22:25.209Z",
+    "createdAt": "2026-06-20T21:22:25.209Z"
   },
   {
     "id": "tg-meduzalive-143866",
@@ -9346,8 +8946,8 @@
       "telegramUrl": "https://t.me/meduzalive/143866",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:59.567Z",
-    "createdAt": "2026-06-20T19:42:59.567Z"
+    "lastUpdated": "2026-06-20T21:22:25.209Z",
+    "createdAt": "2026-06-20T21:22:25.209Z"
   },
   {
     "id": "tg-meduzalive-143867",
@@ -9371,8 +8971,8 @@
       "telegramUrl": "https://t.me/meduzalive/143867",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:59.567Z",
-    "createdAt": "2026-06-20T19:42:59.567Z"
+    "lastUpdated": "2026-06-20T21:22:25.209Z",
+    "createdAt": "2026-06-20T21:22:25.209Z"
   },
   {
     "id": "tg-meduzalive-143869",
@@ -9396,8 +8996,8 @@
       "telegramUrl": "https://t.me/meduzalive/143869",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:59.567Z",
-    "createdAt": "2026-06-20T19:42:59.567Z"
+    "lastUpdated": "2026-06-20T21:22:25.209Z",
+    "createdAt": "2026-06-20T21:22:25.209Z"
   },
   {
     "id": "tg-meduzalive-143872",
@@ -9421,8 +9021,8 @@
       "telegramUrl": "https://t.me/meduzalive/143872",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:59.568Z",
-    "createdAt": "2026-06-20T19:42:59.568Z"
+    "lastUpdated": "2026-06-20T21:22:25.209Z",
+    "createdAt": "2026-06-20T21:22:25.209Z"
   },
   {
     "id": "tg-meduzalive-143874",
@@ -9446,8 +9046,8 @@
       "telegramUrl": "https://t.me/meduzalive/143874",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:59.568Z",
-    "createdAt": "2026-06-20T19:42:59.568Z"
+    "lastUpdated": "2026-06-20T21:22:25.209Z",
+    "createdAt": "2026-06-20T21:22:25.209Z"
   },
   {
     "id": "tg-meduzalive-143877",
@@ -9471,8 +9071,8 @@
       "telegramUrl": "https://t.me/meduzalive/143877",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:59.568Z",
-    "createdAt": "2026-06-20T19:42:59.568Z"
+    "lastUpdated": "2026-06-20T21:22:25.209Z",
+    "createdAt": "2026-06-20T21:22:25.209Z"
   },
   {
     "id": "tg-meduzalive-143878",
@@ -9496,8 +9096,8 @@
       "telegramUrl": "https://t.me/meduzalive/143878",
       "region": "Kyiv"
     },
-    "lastUpdated": "2026-06-20T19:42:59.568Z",
-    "createdAt": "2026-06-20T19:42:59.568Z"
+    "lastUpdated": "2026-06-20T21:22:25.209Z",
+    "createdAt": "2026-06-20T21:22:25.209Z"
   },
   {
     "id": "tg-meduzalive-143879",
@@ -9521,8 +9121,8 @@
       "telegramUrl": "https://t.me/meduzalive/143879",
       "region": "Unspecified"
     },
-    "lastUpdated": "2026-06-20T19:42:59.568Z",
-    "createdAt": "2026-06-20T19:42:59.568Z"
+    "lastUpdated": "2026-06-20T21:22:25.209Z",
+    "createdAt": "2026-06-20T21:22:25.209Z"
   },
   {
     "id": "tg-meduzalive-143881",
@@ -9546,7 +9146,7 @@
       "telegramUrl": "https://t.me/meduzalive/143881",
       "region": "Kyiv"
     },
-    "lastUpdated": "2026-06-20T19:42:59.568Z",
-    "createdAt": "2026-06-20T19:42:59.568Z"
+    "lastUpdated": "2026-06-20T21:22:25.209Z",
+    "createdAt": "2026-06-20T21:22:25.209Z"
   }
 ]

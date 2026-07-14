@@ -1,5 +1,1155 @@
 [
   {
+    "id": "tg-rybar-81759",
+    "type": "battle",
+    "title": "📝Хроника специальной военной операции📝",
+    "description": "📝Хроника специальной военной операции📝\nЗа 14 июля 2026 года\n\n🧨Российские подразделения вновь нанесли серию точечных ударов по различным объектам на территории т.н.Украины. В Киеве, по заявлению Минобороны России, целью стал завод «Радиоизмеритель», а также складские помещения завода «УкрАрмаТех». \n\nВновь комбинированному удару подверглась портовая инфраструктура в Одесской области. Продолжались прилеты «Гераней» по портам по всему побережью, впервые за достаточно долгое время целью стала нефт",
+    "location": {
+      "lat": 50.4501,
+      "lng": 30.5234
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T20:37:18+00:00",
+    "source": "Telegram: Rybar",
+    "metadata": {
+      "telegramChannel": "rybar",
+      "telegramChannelName": "Rybar",
+      "telegramPostId": "rybar/81759",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/rybar/81759",
+      "region": "Kyiv"
+    },
+    "lastUpdated": "2026-07-14T22:58:20.413Z",
+    "createdAt": "2026-07-14T22:58:20.413Z"
+  },
+  {
+    "id": "tg-rybar-81762",
+    "type": "strike",
+    "title": "📝Главное от Рыбаря📝",
+    "description": "📝Главное от Рыбаря📝\nдайджест материалов за 14 июля\n\nНаконец-то прилетело по нефтебазе в Одесской области. Результат пока конечно скромный, поэтому главное не останавливаться на достигнутом. \n\n❗️Подробнее об этих и других темах читайте в нашем дайджесте.\n\n➡️Рыбарь @rybar — говорим о сложном просто.\n\nОсновной ресурс нашего аналитического центра. \nСамые важные и интересные материалы.\n\n▪️Хроника СВО, спутниковая разведактивность над Русским севером, удар по нефтебазе под Одессой, утрата корабля в ",
+    "location": {
+      "lat": 50.4501,
+      "lng": 30.5234
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T21:32:01+00:00",
+    "source": "Telegram: Rybar",
+    "metadata": {
+      "telegramChannel": "rybar",
+      "telegramChannelName": "Rybar",
+      "telegramPostId": "rybar/81762",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/rybar/81762",
+      "region": "Kyiv"
+    },
+    "lastUpdated": "2026-07-14T22:58:20.413Z",
+    "createdAt": "2026-07-14T22:58:20.413Z"
+  },
+  {
+    "id": "tg-intelslava-90553",
+    "type": "strategic",
+    "title": "🇺🇸❌🇮🇷 — US strike on Qeshm&#39;s Hengam Island, Iran.",
+    "description": "🇺🇸❌🇮🇷 — US strike on Qeshm&#39;s Hengam Island, Iran.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T21:19:36+00:00",
+    "source": "Telegram: Intel Slava Z",
+    "metadata": {
+      "telegramChannel": "intelslava",
+      "telegramChannelName": "Intel Slava Z",
+      "telegramPostId": "intelslava/90553",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/intelslava/90553",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-14T22:58:33.393Z",
+    "createdAt": "2026-07-14T22:58:33.393Z"
+  },
+  {
+    "id": "tg-intelslava-90554",
+    "type": "strategic",
+    "title": "🇺🇸❌🇮🇷 — 2x US airstrike on Sirik, Iran.",
+    "description": "🇺🇸❌🇮🇷 — 2x US airstrike on Sirik, Iran.\n\n@IntelSlava",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T21:23:51+00:00",
+    "source": "Telegram: Intel Slava Z",
+    "metadata": {
+      "telegramChannel": "intelslava",
+      "telegramChannelName": "Intel Slava Z",
+      "telegramPostId": "intelslava/90554",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/intelslava/90554",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-14T22:58:33.393Z",
+    "createdAt": "2026-07-14T22:58:33.393Z"
+  },
+  {
+    "id": "tg-intelslava-90555",
+    "type": "strategic",
+    "title": "🇺🇸❌🇮🇷 — 2x Airstrike on Bandar Abbas.",
+    "description": "🇺🇸❌🇮🇷 — 2x Airstrike on Bandar Abbas.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T21:27:04+00:00",
+    "source": "Telegram: Intel Slava Z",
+    "metadata": {
+      "telegramChannel": "intelslava",
+      "telegramChannelName": "Intel Slava Z",
+      "telegramPostId": "intelslava/90555",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/intelslava/90555",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-14T22:58:33.393Z",
+    "createdAt": "2026-07-14T22:58:33.393Z"
+  },
+  {
+    "id": "tg-intelslava-90556",
+    "type": "strategic",
+    "title": "🇺🇸❌🇮🇷 — US airstrike on Sirik.",
+    "description": "🇺🇸❌🇮🇷 — US airstrike on Sirik.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T21:30:59+00:00",
+    "source": "Telegram: Intel Slava Z",
+    "metadata": {
+      "telegramChannel": "intelslava",
+      "telegramChannelName": "Intel Slava Z",
+      "telegramPostId": "intelslava/90556",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/intelslava/90556",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-14T22:58:33.393Z",
+    "createdAt": "2026-07-14T22:58:33.393Z"
+  },
+  {
+    "id": "tg-intelslava-90557",
+    "type": "strategic",
+    "title": "🇺🇸❌🇮🇷 — Strikes on the Iranian city of Bampur.",
+    "description": "🇺🇸❌🇮🇷 — Strikes on the Iranian city of Bampur.\n\n@IntelSlava",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T21:59:47+00:00",
+    "source": "Telegram: Intel Slava Z",
+    "metadata": {
+      "telegramChannel": "intelslava",
+      "telegramChannelName": "Intel Slava Z",
+      "telegramPostId": "intelslava/90557",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/intelslava/90557",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-14T22:58:33.393Z",
+    "createdAt": "2026-07-14T22:58:33.393Z"
+  },
+  {
+    "id": "tg-intelslava-90558",
+    "type": "strike",
+    "title": "🇮🇷❌🇺🇸 — The Iranian army: We targeted with a kamikaze drone the staging area",
+    "description": "🇮🇷❌🇺🇸 — The Iranian army: We targeted with a kamikaze drone the staging area for F/A-18 multirole fighters, the residential building, and the large hangar for US military equipment at Al-Azraq base in Jordan.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T22:02:14+00:00",
+    "source": "Telegram: Intel Slava Z",
+    "metadata": {
+      "telegramChannel": "intelslava",
+      "telegramChannelName": "Intel Slava Z",
+      "telegramPostId": "intelslava/90558",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/intelslava/90558",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-14T22:58:33.393Z",
+    "createdAt": "2026-07-14T22:58:33.393Z"
+  },
+  {
+    "id": "tg-intelslava-90560",
+    "type": "strike",
+    "title": "🇮🇷❌🇺🇸 — IRGC launches missile toward the Strait of Hormuz.",
+    "description": "🇮🇷❌🇺🇸 — IRGC launches missile toward the Strait of Hormuz.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T22:10:46+00:00",
+    "source": "Telegram: Intel Slava Z",
+    "metadata": {
+      "telegramChannel": "intelslava",
+      "telegramChannelName": "Intel Slava Z",
+      "telegramPostId": "intelslava/90560",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/intelslava/90560",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-14T22:58:33.393Z",
+    "createdAt": "2026-07-14T22:58:33.393Z"
+  },
+  {
+    "id": "tg-intelslava-90561",
+    "type": "battle",
+    "title": "🇮🇷❌🇺🇸 — U.S. airstrikes targeted the base of the 388th Mechanised Assault Br",
+    "description": "🇮🇷❌🇺🇸 — U.S. airstrikes targeted the base of the 388th Mechanised Assault Brigade of the Iranian Army in Bampur County, Sistan and Baluchistan Province, southeastern Iran.\n\n@IntelSlava",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T22:42:32+00:00",
+    "source": "Telegram: Intel Slava Z",
+    "metadata": {
+      "telegramChannel": "intelslava",
+      "telegramChannelName": "Intel Slava Z",
+      "telegramPostId": "intelslava/90561",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/intelslava/90561",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-14T22:58:33.393Z",
+    "createdAt": "2026-07-14T22:58:33.393Z"
+  },
+  {
+    "id": "tg-intelslava-90563",
+    "type": "strategic",
+    "title": "🇺🇸❌🇮🇷⚡️ — NEW: Trump warns Iran that strikes will continue until a deal is r",
+    "description": "🇺🇸❌🇮🇷⚡️ — NEW: Trump warns Iran that strikes will continue until a deal is reached, threatening to hit Iranian power stations as soon as next week.\n\n➡️ \"Strikes on Iran will continue until I say enough.\"\n➡️ Iran&#39;s power stations will be targeted next week if no deal is reached.\n➡️ Energy targets in Iran will be held until last in the strike sequence.\n➡️ Trump says the U.S. is urging Iran to reach an agreement.\n\n@IntelSlava",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T22:45:29+00:00",
+    "source": "Telegram: Intel Slava Z",
+    "metadata": {
+      "telegramChannel": "intelslava",
+      "telegramChannelName": "Intel Slava Z",
+      "telegramPostId": "intelslava/90563",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/intelslava/90563",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-14T22:58:33.393Z",
+    "createdAt": "2026-07-14T22:58:33.393Z"
+  },
+  {
+    "id": "tg-intelslava-90565",
+    "type": "strike",
+    "title": "🇮🇷❌🇺🇸 — Missiles fired from Iran toward U.S. military bases in the region.",
+    "description": "🇮🇷❌🇺🇸 — Missiles fired from Iran toward U.S. military bases in the region.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T22:47:55+00:00",
+    "source": "Telegram: Intel Slava Z",
+    "metadata": {
+      "telegramChannel": "intelslava",
+      "telegramChannelName": "Intel Slava Z",
+      "telegramPostId": "intelslava/90565",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/intelslava/90565",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-14T22:58:33.394Z",
+    "createdAt": "2026-07-14T22:58:33.394Z"
+  },
+  {
+    "id": "tg-intelslava-90566",
+    "type": "strike",
+    "title": "🇮🇷❌🇺🇸 — WATCH: Additional missile launches reported from Iran targeting U.S.",
+    "description": "🇮🇷❌🇺🇸 — WATCH: Additional missile launches reported from Iran targeting U.S. military bases in the region.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T22:49:29+00:00",
+    "source": "Telegram: Intel Slava Z",
+    "metadata": {
+      "telegramChannel": "intelslava",
+      "telegramChannelName": "Intel Slava Z",
+      "telegramPostId": "intelslava/90566",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/intelslava/90566",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-14T22:58:33.394Z",
+    "createdAt": "2026-07-14T22:58:33.394Z"
+  },
+  {
+    "id": "tg-intelslava-90567",
+    "type": "strike",
+    "title": "🇮🇷❌🇺🇸 — NOW: Multiple missile launches reported from the Tabriz area, with l",
+    "description": "🇮🇷❌🇺🇸 — NOW: Multiple missile launches reported from the Tabriz area, with loud explosion sounds also heard in Urmia.\n\n@IntelSlava",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T22:52:42+00:00",
+    "source": "Telegram: Intel Slava Z",
+    "metadata": {
+      "telegramChannel": "intelslava",
+      "telegramChannelName": "Intel Slava Z",
+      "telegramPostId": "intelslava/90567",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/intelslava/90567",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-14T22:58:33.394Z",
+    "createdAt": "2026-07-14T22:58:33.394Z"
+  },
+  {
+    "id": "tg-intelslava-90568",
+    "type": "strike",
+    "title": "🇮🇷❌🇺🇸 — NOW: Multiple missile launches reported from the Tabriz area, with l",
+    "description": "🇮🇷❌🇺🇸 — NOW: Multiple missile launches reported from the Tabriz area, with loud explosion sounds also heard in Urmia.  @IntelSlava",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T22:54:10+00:00",
+    "source": "Telegram: Intel Slava Z",
+    "metadata": {
+      "telegramChannel": "intelslava",
+      "telegramChannelName": "Intel Slava Z",
+      "telegramPostId": "intelslava/90568",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/intelslava/90568",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-14T22:58:33.394Z",
+    "createdAt": "2026-07-14T22:58:33.394Z"
+  },
+  {
+    "id": "tg-intelslava-90569",
+    "type": "strike",
+    "title": "🇮🇷❌🇺🇸 — WATCH: Additional Footage emerges of missile launches from Tabriz, I",
+    "description": "🇮🇷❌🇺🇸 — WATCH: Additional Footage emerges of missile launches from Tabriz, Iran.\n\n@IntelSlava",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T22:55:05+00:00",
+    "source": "Telegram: Intel Slava Z",
+    "metadata": {
+      "telegramChannel": "intelslava",
+      "telegramChannelName": "Intel Slava Z",
+      "telegramPostId": "intelslava/90569",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/intelslava/90569",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-14T22:58:33.394Z",
+    "createdAt": "2026-07-14T22:58:33.394Z"
+  },
+  {
+    "id": "tg-rian_ru-342223",
+    "type": "strategic",
+    "title": "Иран нанес удары по американским базам Шейх Иса в Бахрейне и Али ас-Салем в Куве",
+    "description": "Иран нанес удары по американским базам Шейх Иса в Бахрейне и Али ас-Салем в Кувейте.  Ранее западные СМИ сообщали о новых американских ударах по иранским объектам - взрывы гремели на островах Кешм и Киш.  🔹 Подписаться на РИА Новости",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T22:12:26+00:00",
+    "source": "Telegram: RIA Novosti",
+    "metadata": {
+      "telegramChannel": "rian_ru",
+      "telegramChannelName": "RIA Novosti",
+      "telegramPostId": "rian_ru/342223",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/rian_ru/342223",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-14T22:58:36.896Z",
+    "createdAt": "2026-07-14T22:58:36.896Z"
+  },
+  {
+    "id": "tg-rian_ru-342224",
+    "type": "strategic",
+    "title": "Армия Ирана заявила о продолжении операций против баз США \"до окончательной побе",
+    "description": "Армия Ирана заявила о продолжении операций против баз США \"до окончательной победы\".  Военные нанесли удар по базе Аль-Азрак в Иордании, где дислоцируются американские F-18, передает IRNA.  🔹 Подписаться на РИА Новости",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T22:20:07+00:00",
+    "source": "Telegram: RIA Novosti",
+    "metadata": {
+      "telegramChannel": "rian_ru",
+      "telegramChannelName": "RIA Novosti",
+      "telegramPostId": "rian_ru/342224",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/rian_ru/342224",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-14T22:58:36.896Z",
+    "createdAt": "2026-07-14T22:58:36.896Z"
+  },
+  {
+    "id": "tg-boris_rozhin-218314",
+    "type": "strategic",
+    "title": "Женщину, подозреваемую в госизмене, задержали в Донецке, сообщили в ФСБ.",
+    "description": "Женщину, подозреваемую в госизмене, задержали в Донецке, сообщили в ФСБ.\n\nОна сама связалась с представителями СБУ через Telegram и передавала им данные о местах размещения военных подразделений России.",
+    "location": {
+      "lat": 48.0159,
+      "lng": 37.8028
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T21:45:04+00:00",
+    "source": "Telegram: Colonel Cassad",
+    "metadata": {
+      "telegramChannel": "boris_rozhin",
+      "telegramChannelName": "Colonel Cassad",
+      "telegramPostId": "boris_rozhin/218314",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/boris_rozhin/218314",
+      "region": "Donetsk Oblast"
+    },
+    "lastUpdated": "2026-07-14T22:58:38.683Z",
+    "createdAt": "2026-07-14T22:58:38.683Z"
+  },
+  {
+    "id": "tg-boris_rozhin-218315",
+    "type": "strategic",
+    "title": "Идентифицированные потери техники ВСУ в первом полугодии 2026",
+    "description": "Идентифицированные потери техники ВСУ в первом полугодии 2026",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T22:04:17+00:00",
+    "source": "Telegram: Colonel Cassad",
+    "metadata": {
+      "telegramChannel": "boris_rozhin",
+      "telegramChannelName": "Colonel Cassad",
+      "telegramPostId": "boris_rozhin/218315",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/boris_rozhin/218315",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-14T22:58:38.683Z",
+    "createdAt": "2026-07-14T22:58:38.683Z"
+  },
+  {
+    "id": "tg-boris_rozhin-218316",
+    "type": "strike",
+    "title": "Иран заявил, что успешно поразил стоянки американских истребителей F-18 в Иордан",
+    "description": "Иран заявил, что успешно поразил стоянки американских истребителей F-18 в Иордании, а также казармы американских военных. Обмен ударами на данный момент продолжается.\nОбе стороны естественно рапортуют о своих успехах и занижают свои потери. \n\nТрамп снова угрожает разрушить все мосты и всю энергосистему Ирана. И что бомбежки будут продолжаться столько, сколько он захочет. Как это приблизит его к выходу из войны без потери лица - непонятно. Очевидно, что бомбежки не приблизят и контроль над Ормузс",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T22:30:10+00:00",
+    "source": "Telegram: Colonel Cassad",
+    "metadata": {
+      "telegramChannel": "boris_rozhin",
+      "telegramChannelName": "Colonel Cassad",
+      "telegramPostId": "boris_rozhin/218316",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/boris_rozhin/218316",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-14T22:58:38.683Z",
+    "createdAt": "2026-07-14T22:58:38.683Z"
+  },
+  {
+    "id": "tg-boris_rozhin-218317",
+    "type": "strategic",
+    "title": "Прилет БПЛА по фуре в запорожье",
+    "description": "Прилет БПЛА по фуре в запорожье",
+    "location": {
+      "lat": 47.8388,
+      "lng": 35.1396
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T22:33:01+00:00",
+    "source": "Telegram: Colonel Cassad",
+    "metadata": {
+      "telegramChannel": "boris_rozhin",
+      "telegramChannelName": "Colonel Cassad",
+      "telegramPostId": "boris_rozhin/218317",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/boris_rozhin/218317",
+      "region": "Zaporizhia Oblast"
+    },
+    "lastUpdated": "2026-07-14T22:58:38.683Z",
+    "createdAt": "2026-07-14T22:58:38.683Z"
+  },
+  {
+    "id": "tg-boris_rozhin-218318",
+    "type": "strategic",
+    "title": "Прямо сейчас по американским базам в Иордании идут новые прилеты. ПВО не вывозит",
+    "description": "Прямо сейчас по американским базам в Иордании идут новые прилеты. ПВО не вывозит, ждем в течение суток новых спутниковых снимков от китайцев, которые не без удовольствия подсветят очередные потери гегемона.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T22:57:45+00:00",
+    "source": "Telegram: Colonel Cassad",
+    "metadata": {
+      "telegramChannel": "boris_rozhin",
+      "telegramChannelName": "Colonel Cassad",
+      "telegramPostId": "boris_rozhin/218318",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/boris_rozhin/218318",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-14T22:58:38.684Z",
+    "createdAt": "2026-07-14T22:58:38.684Z"
+  },
+  {
+    "id": "tg-RVvoenkor-119121",
+    "type": "battle",
+    "title": "‼️🇮🇷🇺🇸США сорвали переговоры: в Ормузе тонут горящие корабли, Иран наносит м",
+    "description": "‼️🇮🇷🇺🇸США сорвали переговоры: в Ормузе тонут горящие корабли, Иран наносит массированные удары по базам США и их союзникам\n\n▪️Нанесены массированные удары по Бахрейну и Кувейту, где пылает в том числе нефтехранилище с авиатопливом для самолётов. ВВС США.\n▪️Появились видео, на которых корабли тонут в Ормузском проливе после атак КСИР.\n▪️Штаты своими ударами «полностью разрушили Исламабадский меморандум о взаимопонимании», заявил замглавы МИД Ирана Казем Гарибабади.\n▪️КСИР подчёркивает, что «н",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T21:40:23+00:00",
+    "source": "Telegram: Operation Z (RV)",
+    "metadata": {
+      "telegramChannel": "RVvoenkor",
+      "telegramChannelName": "Operation Z (RV)",
+      "telegramPostId": "RVvoenkor/119121",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/RVvoenkor/119121",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-14T22:58:42.343Z",
+    "createdAt": "2026-07-14T22:58:42.343Z"
+  },
+  {
+    "id": "tg-RVvoenkor-119128",
+    "type": "strategic",
+    "title": "‼️🇺🇸🇷🇺 В США представили смягчённую версию законопроекта о санкциях против Р",
+    "description": "‼️🇺🇸🇷🇺 В США представили смягчённую версию законопроекта о санкциях против России, — Reuters\n\n▪️Группа из 26 американских сенаторов опубликовала обновлённую версию законопроекта о санкциях против России, предусматривающую менее жёсткие меры по сравнению с первоначальным вариантом.\n▪️Документ снижает максимальный размер импортных пошлин для государств, продолжающих закупать российские нефть и газ, с 500% до 100%.\n▪️Законопроект предусматривает возможность предоставления исключений странам, ко",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T22:11:31+00:00",
+    "source": "Telegram: Operation Z (RV)",
+    "metadata": {
+      "telegramChannel": "RVvoenkor",
+      "telegramChannelName": "Operation Z (RV)",
+      "telegramPostId": "RVvoenkor/119128",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/RVvoenkor/119128",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-14T22:58:42.343Z",
+    "createdAt": "2026-07-14T22:58:42.343Z"
+  },
+  {
+    "id": "tg-RVvoenkor-119129",
+    "type": "strike",
+    "title": "‼️🇮🇷🇺🇸Иран начал 7-й этап операции \"Молния\" против баз США на Ближнем Восток",
+    "description": "‼️🇮🇷🇺🇸Иран начал 7-й этап операции \"Молния\" против баз США на Ближнем Востоке\n\n▪️Армия Ирана, продолжая разрушительные удары по базам США, атаковала дронами аэродром с истребителями F-18, казарму и крупный склад военной техники на базе \"Аль-Азрак\" в Иордании, заявляет КСИР.\n▪️Также уничтожены ангары для хранения вооружения и комплектующих для катеров и авиатехники США на базе «Шейх Иса» в Бахрейне. \n▪️Несколько тяжёлых беспилотников MQ-9 Reaper были уничтожены или повреждены при ударе авиаба",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T22:37:01+00:00",
+    "source": "Telegram: Operation Z (RV)",
+    "metadata": {
+      "telegramChannel": "RVvoenkor",
+      "telegramChannelName": "Operation Z (RV)",
+      "telegramPostId": "RVvoenkor/119129",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/RVvoenkor/119129",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-14T22:58:42.343Z",
+    "createdAt": "2026-07-14T22:58:42.343Z"
+  },
+  {
+    "id": "tg-voenkorKotenok-73510",
+    "type": "battle",
+    "title": "КСИР сообщает об атаке на авиабазу США в Иордании.",
+    "description": "КСИР сообщает об атаке на авиабазу США в Иордании.\n\nЗаявляется, что были поражены ВПП, жилые помещения и склады.\n\nЕсли информация соответствует действительности, в ближайшее время появятся \"пруфы\" в виде спутниковых снимков.\n\nПодпишись в MAX\n@voenkorKotenok",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T22:54:57+00:00",
+    "source": "Telegram: Voenkor Kotenok",
+    "metadata": {
+      "telegramChannel": "voenkorKotenok",
+      "telegramChannelName": "Voenkor Kotenok",
+      "telegramPostId": "voenkorKotenok/73510",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/voenkorKotenok/73510",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-14T22:58:44.137Z",
+    "createdAt": "2026-07-14T22:58:44.137Z"
+  },
+  {
+    "id": "tg-swodki-602234",
+    "type": "strike",
+    "title": "Шедевральный рекламный ролик службы по контакту в войсках БПЛА операторов FPV-др",
+    "description": "Шедевральный рекламный ролик службы по контакту в войсках БПЛА операторов FPV-дронов «Харакят Ан-Нуджаба» - проиранской группировки из «Исламского сопротивления Ирака».\n\nСюжет прост и заезжен: молодые люди играют в приставку, после чего одному из них приходит сообщение \"Пора. Уповай на Бога\", те переодеваются в военную форму движения, изучают карту американской военной базы «Виктория» под Багдадом и идут пускать по ней FPV-дроны.\n\nТысячи молодых парней и FPV-дроны готовы к проведению операций пр",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T21:35:07+00:00",
+    "source": "Telegram: SWODKI",
+    "metadata": {
+      "telegramChannel": "swodki",
+      "telegramChannelName": "SWODKI",
+      "telegramPostId": "swodki/602234",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/swodki/602234",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-14T22:58:47.876Z",
+    "createdAt": "2026-07-14T22:58:47.876Z"
+  },
+  {
+    "id": "tg-swodki-602242",
+    "type": "battle",
+    "title": "США сорвали переговоры: в Ормузе тонут горящие корабли, Иран наносит массированн",
+    "description": "США сорвали переговоры: в Ормузе тонут горящие корабли, Иран наносит массированные удары по базам США и их союзникам\n\nНанесены массированные удары по Бахрейну и Кувейту, где пылает в том числе нефтехранилище с авиатопливом для самолётов. ВВС США.\n\nПоявились видео, на которых корабли тонут в Ормузском проливе после атак КСИР.\n\nШтаты своими ударами «полностью разрушили Исламабадский меморандум о взаимопонимании», заявил замглавы МИД Ирана Казем Гарибабади.\n\nКСИР подчёркивает, что «ни капли нефти и",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T21:43:33+00:00",
+    "source": "Telegram: SWODKI",
+    "metadata": {
+      "telegramChannel": "swodki",
+      "telegramChannelName": "SWODKI",
+      "telegramPostId": "swodki/602242",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/swodki/602242",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-14T22:58:47.876Z",
+    "createdAt": "2026-07-14T22:58:47.876Z"
+  },
+  {
+    "id": "tg-swodki-602249",
+    "type": "strike",
+    "title": "Предполагаемая дальность некоторых существующих и перспективных средств воздушно",
+    "description": "Предполагаемая дальность некоторых существующих и перспективных средств воздушного нападения США и стран НАТО по России с территории Европы. Готовность некоторых програм, например таких, как Brakestop и V-MAX неизвестна, поскольку декларируемые дальности и фактическая готовность систем (а также их дальность) могут существенно отличаться. Также для удобства восприятия не указаны некоторые системы вроде условно украинской ракеты-дрона «Барс», а также уже применяемых Киевом (точнее, странами НАТО ч",
+    "location": {
+      "lat": 50.4501,
+      "lng": 30.5234
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T21:50:09+00:00",
+    "source": "Telegram: SWODKI",
+    "metadata": {
+      "telegramChannel": "swodki",
+      "telegramChannelName": "SWODKI",
+      "telegramPostId": "swodki/602249",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/swodki/602249",
+      "region": "Kyiv"
+    },
+    "lastUpdated": "2026-07-14T22:58:47.876Z",
+    "createdAt": "2026-07-14T22:58:47.876Z"
+  },
+  {
+    "id": "tg-swodki-602250",
+    "type": "strike",
+    "title": "Так чем заменить дефицитные самолеты ДРЛО при обороне больших территорий от крыл",
+    "description": "Так чем заменить дефицитные самолеты ДРЛО при обороне больших территорий от крылатых ракет?\n\nПервый вариант - это аэростаты ДРЛО.\n\n▪️Во-первых, благодаря большой высоте подъёма, такой аэростат способен решить проблему радиогоризонта. Неразрешимую для наземных РЛС.\n\n▪️Во-вторых, так как у него иной принцип создания подъемной силы он может находиться в воздухе сутками или даже неделями. \n\nЭто выгодно отличает его от самолётов ДРЛО. Туда же в выгоды следует добавить и стоимость лётного часа.\n\nВ-тре",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T22:04:58+00:00",
+    "source": "Telegram: SWODKI",
+    "metadata": {
+      "telegramChannel": "swodki",
+      "telegramChannelName": "SWODKI",
+      "telegramPostId": "swodki/602250",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/swodki/602250",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-14T22:58:47.877Z",
+    "createdAt": "2026-07-14T22:58:47.877Z"
+  },
+  {
+    "id": "tg-swodki-602252",
+    "type": "strategic",
+    "title": "ВСУ расстреляли чемпиона Европы по боксу, его мать и собаку, а затем украли боле",
+    "description": "ВСУ расстреляли чемпиона Европы по боксу, его мать и собаку, а затем украли более полумиллиона рублей\n\nНочью в дом 27-летнего боксёра Владислава Карпачёва в селе Гришино под Красноармейском ворвались люди в военной форме. По словам его отца, чемпиона сначала жестоко пытали, требуя отдать драгоценности. А затем выпустили в него пять автоматных пуль. 50-летнюю мать Галину расстреляли семью выстрелами.\n\nПосле убийства нападавшие угнали старую «Тойоту», забрали деньги в гривнах и около 8 тысяч долла",
+    "location": {
+      "lat": 48.0159,
+      "lng": 37.8028
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T22:20:09+00:00",
+    "source": "Telegram: SWODKI",
+    "metadata": {
+      "telegramChannel": "swodki",
+      "telegramChannelName": "SWODKI",
+      "telegramPostId": "swodki/602252",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/swodki/602252",
+      "region": "Donetsk Oblast"
+    },
+    "lastUpdated": "2026-07-14T22:58:47.877Z",
+    "createdAt": "2026-07-14T22:58:47.877Z"
+  },
+  {
+    "id": "tg-swodki-602253",
+    "type": "battle",
+    "title": "Российские военные сняли удар ВКС РФ авиабомбой ФАБ-3000 с системой УМПК по пози",
+    "description": "Российские военные сняли удар ВКС РФ авиабомбой ФАБ-3000 с системой УМПК по позициям ВСУ в школе №57 на острове Карантинный в Херсоне, видео Telegram-канала \"Изнанка\".",
+    "location": {
+      "lat": 46.6354,
+      "lng": 32.6169
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T22:31:02+00:00",
+    "source": "Telegram: SWODKI",
+    "metadata": {
+      "telegramChannel": "swodki",
+      "telegramChannelName": "SWODKI",
+      "telegramPostId": "swodki/602253",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/swodki/602253",
+      "region": "Kherson Oblast"
+    },
+    "lastUpdated": "2026-07-14T22:58:47.877Z",
+    "createdAt": "2026-07-14T22:58:47.877Z"
+  },
+  {
+    "id": "tg-swodki-602254",
+    "type": "strike",
+    "title": "Дроноводы «Рубикона» сообщают о 109 тыс 166 боевых вылетах в июне. Помимо того, ",
+    "description": "Дроноводы «Рубикона» сообщают о 109 тыс 166 боевых вылетах в июне. Помимо того, что имеется очевидный контраст уничтоженных ББМ к танкам (191 против 13), также очевидно, что украинские солдаты не являются приоритетной целью и удары идут в основном по инфраструктуре, без которой они не могут и не должны нормально воевать. Наибольший акцент делается на связь и РЭБ. Также сбито более 2 тыс. дронов «Баба Яга», что приблизительно даёт представление об их реальном количестве у ВСУ. В целом статистика ",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T22:45:13+00:00",
+    "source": "Telegram: SWODKI",
+    "metadata": {
+      "telegramChannel": "swodki",
+      "telegramChannelName": "SWODKI",
+      "telegramPostId": "swodki/602254",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/swodki/602254",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-14T22:58:47.877Z",
+    "createdAt": "2026-07-14T22:58:47.877Z"
+  },
+  {
+    "id": "tg-swodki-602255",
+    "type": "strike",
+    "title": "Иран начал 7-й этап операции \"Молния\" против баз США на Ближнем Востоке",
+    "description": "Иран начал 7-й этап операции \"Молния\" против баз США на Ближнем Востоке\n\nАрмия Ирана, продолжая разрушительные удары по базам США, атаковала дронами аэродром с истребителями F-18, казарму и крупный склад военной техники на базе \"Аль-Азрак\" в Иордании, заявляет КСИР.\n\nТакже уничтожены ангары для хранения вооружения и комплектующих для катеров и авиатехники США на базе «Шейх Иса» в Бахрейне. \n\nНесколько тяжёлых беспилотников MQ-9 Reaper были уничтожены или повреждены при ударе авиабазе «Али ас-Сал",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T22:45:21+00:00",
+    "source": "Telegram: SWODKI",
+    "metadata": {
+      "telegramChannel": "swodki",
+      "telegramChannelName": "SWODKI",
+      "telegramPostId": "swodki/602255",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/swodki/602255",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-14T22:58:47.877Z",
+    "createdAt": "2026-07-14T22:58:47.877Z"
+  },
+  {
+    "id": "tg-SolovievLive-377116",
+    "type": "strategic",
+    "title": "Передышка для регионов: Сергей Собянин предложил перенести выплаты по бюджетным ",
+    "description": "Передышка для регионов: Сергей Собянин предложил перенести выплаты по бюджетным кредитам на 3 года\n\nМэр Москвы Сергей Собянин, возглавляющий комиссию Госсовета по направлению «Государственное и муниципальное управление», предложил перенести сроки выплат платежей регионов по бюджетным кредитам в 2027–2029 годах. \n\nОб этой инициативе, прорабатываемой «Единой Россией», Собянин объявил в ходе подписания соглашений о сотрудничестве Москвы с Белгородской и Тверской областями. \n\nМэр столицы отметил, чт",
+    "location": {
+      "lat": 50.5945,
+      "lng": 36.5872
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T21:08:38+00:00",
+    "source": "Telegram: Solovyov Live",
+    "metadata": {
+      "telegramChannel": "SolovievLive",
+      "telegramChannelName": "Solovyov Live",
+      "telegramPostId": "SolovievLive/377116",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/SolovievLive/377116",
+      "region": "Belgorod Oblast"
+    },
+    "lastUpdated": "2026-07-14T22:58:53.348Z",
+    "createdAt": "2026-07-14T22:58:53.348Z"
+  },
+  {
+    "id": "tg-SolovievLive-377118",
+    "type": "strategic",
+    "title": "WSJ: Законопроект Грэма даст Трампу право вводить 100-процентные пошлины на поку",
+    "description": "WSJ: Законопроект Грэма даст Трампу право вводить 100-процентные пошлины на покупателей российской нефти\n\nДвухпартийный санкционный пакет, над которым до самой смерти работал сенатор Линдси Грэм, может надолго изменить правила геополитической игры. Как сообщает&nbsp;The Wall Street Journal, документ предоставит Дональду Трампу полномочия вводить пошлины до 100% на импорт из пяти крупнейших покупателей российской нефти и газа, включая Китай и Индию.\n\nПомимо тарифных мер, законопроект вводит санкц",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T21:39:55+00:00",
+    "source": "Telegram: Solovyov Live",
+    "metadata": {
+      "telegramChannel": "SolovievLive",
+      "telegramChannelName": "Solovyov Live",
+      "telegramPostId": "SolovievLive/377118",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/SolovievLive/377118",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-14T22:58:53.348Z",
+    "createdAt": "2026-07-14T22:58:53.348Z"
+  },
+  {
+    "id": "tg-SolovievLive-377121",
+    "type": "strike",
+    "title": "🖥️ Согласно заявлению КСИР, в результате одновременного ракетного и беспилотног",
+    "description": "🖥️ Согласно заявлению КСИР, в результате одновременного ракетного и беспилотного удара были уничтожены несколько ангаров для хранения вооружения, а также комплектующих для катеров и авиатехники США на базе «Шейх Иса» в Бахрейне. Об этом сообщают иранские СМИ.\n\n🟥Кроме того, несколько беспилотников были уничтожены или получили повреждения ударом по площадке размещения американских MQ-9  на авиабазе «Али ас-Салем» в Кувейте.\n\n🟥Также армия Ирана нанесла удар по базе Аль-Азрак в Иордании, где дисл",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T22:38:55+00:00",
+    "source": "Telegram: Solovyov Live",
+    "metadata": {
+      "telegramChannel": "SolovievLive",
+      "telegramChannelName": "Solovyov Live",
+      "telegramPostId": "SolovievLive/377121",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/SolovievLive/377121",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-14T22:58:53.348Z",
+    "createdAt": "2026-07-14T22:58:53.348Z"
+  },
+  {
+    "id": "tg-SolovievLive-377122",
+    "type": "strategic",
+    "title": "🖥️ Удары по Ирану будут продолжаться до тех пор, пока Трамп не скажет свое \"дос",
+    "description": "🖥️ Удары по Ирану будут продолжаться до тех пор, пока Трамп не скажет свое \"достаточно\". Об этом президент США заявил в интервью каналу Fox News.\n\n«Они будут продолжаться до тех пор, пока я не скажу, что достаточно. То есть, да, они будут продолжаться. Они там [под ударами], знаете, слово, которое так любит использовать армия, — \"деградировать\" – они деградировали до очень низкого уровня. И у них еще есть силы сражаться. Знаете, это как с великим боксером: думаешь, что уже победил его, а он вдр",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T22:43:38+00:00",
+    "source": "Telegram: Solovyov Live",
+    "metadata": {
+      "telegramChannel": "SolovievLive",
+      "telegramChannelName": "Solovyov Live",
+      "telegramPostId": "SolovievLive/377122",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/SolovievLive/377122",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-14T22:58:53.348Z",
+    "createdAt": "2026-07-14T22:58:53.348Z"
+  },
+  {
+    "id": "tg-SolovievLive-377123",
+    "type": "strategic",
+    "title": "🖥️ Удары по Ирану будут продолжаться до тех пор, пока Трамп не скажет свое \"дос",
+    "description": "🖥️ Удары по Ирану будут продолжаться до тех пор, пока Трамп не скажет свое \"достаточно\". Об этом президент США заявил в интервью каналу Fox News.  «Они будут продолжаться до тех пор, пока я не скажу, что достаточно. То есть, да, они будут продолжаться. Они…",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T22:58:46+00:00",
+    "source": "Telegram: Solovyov Live",
+    "metadata": {
+      "telegramChannel": "SolovievLive",
+      "telegramChannelName": "Solovyov Live",
+      "telegramPostId": "SolovievLive/377123",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/SolovievLive/377123",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-14T22:58:53.348Z",
+    "createdAt": "2026-07-14T22:58:53.348Z"
+  },
+  {
+    "id": "tg-voenacher-94611",
+    "type": "strategic",
+    "title": "Миротворец Дональд обещает этой ночью снова начать бомбить Иран: Сегодня вечером",
+    "description": "Миротворец Дональд обещает этой ночью снова начать бомбить Иран: Сегодня вечером мы нанесем им очень сильный удар, и завтра мы снова нанесем им сильный удар. И они ни черта с этим поделать не могут. У них нет ничего, кроме болтливых ртов.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T21:44:09+00:00",
+    "source": "Telegram: Turned on Z War",
+    "metadata": {
+      "telegramChannel": "voenacher",
+      "telegramChannelName": "Turned on Z War",
+      "telegramPostId": "voenacher/94611",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/voenacher/94611",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-14T22:58:57.035Z",
+    "createdAt": "2026-07-14T22:58:57.035Z"
+  },
+  {
+    "id": "tg-tassagency_en-88210",
+    "type": "strategic",
+    "title": "❗️Conflict Overview: Day 137",
+    "description": "❗️Conflict Overview: Day 137\n \n▪️The US military launched another series of strikes against targets in Iran, the US Central Command (CENTCOM) said\n\n▪️ The United States has resumed its naval blockade of Iran, CENTCOM announced\n \n▪️Donald Trump assured that the Strait of Hormuz remains open for all vessels except for Iranian ones\n \n▪️Moscow views the resumption of strikes on Iran as a violation of the Tehran-Washington memorandum, Russian Foreign Minister Sergey Lavrov stated\n \n▪️Iran continues t",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T21:33:01+00:00",
+    "source": "Telegram: TASS English",
+    "metadata": {
+      "telegramChannel": "tassagency_en",
+      "telegramChannelName": "TASS English",
+      "telegramPostId": "tassagency_en/88210",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/tassagency_en/88210",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-14T22:59:15.264Z",
+    "createdAt": "2026-07-14T22:59:15.264Z"
+  },
+  {
+    "id": "tg-tassagency_en-88211",
+    "type": "battle",
+    "title": "Islamic Revolutionary Guard Corps (IRGC) forces have carried out strikes on the ",
+    "description": "Islamic Revolutionary Guard Corps (IRGC) forces have carried out strikes on the United States’ Al-Azraq Air Base in Jordan, the Mehr news agency reported.\n\nThe attack reportedly targeted the deployment site of F-18 fighter jets, a residential compound, and a hangar housing US military equipment. \n\nMeanwhile, a powerful explosion occurred on Iran’s Hengam Island in the Strait of Hormuz, and another blast was heard near the port city of Bandar Abbas, while air defenses were activated at the Busheh",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T22:09:01+00:00",
+    "source": "Telegram: TASS English",
+    "metadata": {
+      "telegramChannel": "tassagency_en",
+      "telegramChannelName": "TASS English",
+      "telegramPostId": "tassagency_en/88211",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/tassagency_en/88211",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-14T22:59:15.264Z",
+    "createdAt": "2026-07-14T22:59:15.264Z"
+  },
+  {
+    "id": "tg-vrogov-25246",
+    "type": "strategic",
+    "title": "❗️💦Осторожно: штормовое предупреждение&#33;",
+    "description": "❗️💦Осторожно: штормовое предупреждение&#33;\n\nСегодня ночью и завтра днём в некоторых районах Запорожской области ожидается комплекс метеорологических явлений: сильный дождь, ливень в сочетании с грозой, градом и сильным ветром 20-23 м/с.\n\nДорогие земляки, будьте осторожны и соблюдайте правила безопасности:\n\n- не паркуйте автомобили вблизи высоких деревьев и рекламных конструкций;\n- не оставляй детей без присмотра.\n\nТелефон экстренной службы «101».\n\nПерешлите родным и близким - предупредите их.\n",
+    "location": {
+      "lat": 47.8388,
+      "lng": 35.1396
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T21:21:00+00:00",
+    "source": "Telegram: Vladimir Rogov",
+    "metadata": {
+      "telegramChannel": "vrogov",
+      "telegramChannelName": "Vladimir Rogov",
+      "telegramPostId": "vrogov/25246",
+      "bias": "pro-russian",
+      "weight": 1,
+      "telegramUrl": "https://t.me/vrogov/25246",
+      "region": "Zaporizhia Oblast"
+    },
+    "lastUpdated": "2026-07-14T22:59:28.064Z",
+    "createdAt": "2026-07-14T22:59:28.064Z"
+  },
+  {
+    "id": "tg-southfronteng-62037",
+    "type": "battle",
+    "title": "Druzhkovka Surrounded: Russian Pincers Close On Key Stronghold",
+    "description": "Druzhkovka Surrounded: Russian Pincers Close On Key Stronghold\n\nIn the direction of Kharkiv, the 47th Tank Division&#39;s assault groups reached the southern outskirts of Kazachya Lopan.\n\nMeanwhile, units of the 72nd Motorized Rifle Division and the 82nd Motorized Rifle Regiment are conducting an offensive on Bely Kolodez from three directions and blocking supply routes. \n\nIn the Sumy direction, the \"North\" assault forces advanced up to 800 meters in 21 sectors, fighting in Ryzhevka, Pisarevka, ",
+    "location": {
+      "lat": 49.9935,
+      "lng": 36.2304
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T22:20:10+00:00",
+    "source": "Telegram: SouthFront",
+    "metadata": {
+      "telegramChannel": "southfronteng",
+      "telegramChannelName": "SouthFront",
+      "telegramPostId": "southfronteng/62037",
+      "bias": "pro-russian",
+      "weight": 1,
+      "telegramUrl": "https://t.me/southfronteng/62037",
+      "region": "Kharkiv Oblast"
+    },
+    "lastUpdated": "2026-07-14T22:59:46.080Z",
+    "createdAt": "2026-07-14T22:59:46.080Z"
+  },
+  {
+    "id": "tg-meduzalive-144985",
+    "type": "battle",
+    "title": "Главные новости 14 июля",
+    "description": "Главные новости 14 июля\n\n✹ ФСБ отчиталась о предотвращении крупной атаки беспилотников в Подмосковье. Ее организатором назвали рэпера Kyivstoner — бывшего участника «Грибов». \n\n✹ Пользователи из России пожаловались на сбои в работе сайтов Apple, Google и GitHub. \n\n✹ Верховная Рада отправила в отставку правительство Украины во главе с Юлией Свириденко. \n\n✹ Трамп передумал брать плату за проход судов через Ормузский пролив.\n\n ✹ Болгария объявила о выходе из «коалиции желающих», поддерживающей Укра",
+    "location": {
+      "lat": 50.4501,
+      "lng": 30.5234
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-14T21:40:13+00:00",
+    "source": "Telegram: Meduza",
+    "metadata": {
+      "telegramChannel": "meduzalive",
+      "telegramChannelName": "Meduza",
+      "telegramPostId": "meduzalive/144985",
+      "bias": "neutral",
+      "weight": 1,
+      "telegramUrl": "https://t.me/meduzalive/144985",
+      "region": "Kyiv"
+    },
+    "lastUpdated": "2026-07-14T23:00:04.498Z",
+    "createdAt": "2026-07-14T23:00:04.498Z"
+  },
+  {
     "id": "tg-readovkanews-112674",
     "type": "battle",
     "title": "Врио главы Белгородской области показал, как работают гуманитарные центры, и пос",
@@ -102725,481 +103875,6 @@
     "createdAt": "2026-07-08T02:55:00.424Z"
   },
   {
-    "id": "tg-mash-75820",
-    "type": "strike",
-    "title": "Больше десяти взрывов за полчаса в Киеве — ВС РФ атакуют город ракетами \"Исканде",
-    "description": "Больше десяти взрывов за полчаса в Киеве — ВС РФ атакуют город ракетами \"Искандер\". В нескольких районах пропал свет.\n\nМестные пишут, что прилёты произошли ещё до воздушной тревоги. Предварительно, под удар попала ТЭЦ-5 — после взрывов там начался пожар.\n\nТакже сообщается о попаданиях по заводу \"Визар\", который используют для производства и хранения ракетного вооружения. В Деснянском районе загорелись складские помещения, в Святошинском — нежилое здание.\n\nУничтожена одна из целей для хранения те",
-    "location": {
-      "lat": 50.4501,
-      "lng": 30.5234
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T22:15:40+00:00",
-    "source": "Telegram: Mash",
-    "metadata": {
-      "telegramChannel": "mash",
-      "telegramChannelName": "Mash",
-      "telegramPostId": "mash/75820",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/mash/75820",
-      "region": "Kyiv"
-    },
-    "lastUpdated": "2026-07-07T23:04:14.262Z",
-    "createdAt": "2026-07-07T23:04:14.262Z"
-  },
-  {
-    "id": "tg-shot_shot-97433",
-    "type": "strike",
-    "title": "Армия РФ снова атаковала Киев&nbsp; баллистическими&nbsp; ракетами, в городе про",
-    "description": "Армия РФ снова атаковала Киев&nbsp; баллистическими&nbsp; ракетами, в городе прогремело множество взрывов и вспыхнули пожары.\n\nСклады с оружием загорелись в Деснянском районе, также поражены здания в&nbsp; Святошинском районе Киева. Сообщается также об отключении света и воды в нескольких районах украинской столицы.\n\n🤩 SHOT в MAX: https://max.ru/shot",
-    "location": {
-      "lat": 50.4501,
-      "lng": 30.5234
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T22:23:41+00:00",
-    "source": "Telegram: SHOT",
-    "metadata": {
-      "telegramChannel": "shot_shot",
-      "telegramChannelName": "SHOT",
-      "telegramPostId": "shot_shot/97433",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/shot_shot/97433",
-      "region": "Kyiv"
-    },
-    "lastUpdated": "2026-07-07T23:04:20.374Z",
-    "createdAt": "2026-07-07T23:04:20.374Z"
-  },
-  {
-    "id": "tg-intelslava-89910",
-    "type": "strategic",
-    "title": "🇺🇸❌🇮🇷 — Shahid Haqqani Port in Bandar Abbas, Iran, struck by U.S. airstrikes",
-    "description": "🇺🇸❌🇮🇷 — Shahid Haqqani Port in Bandar Abbas, Iran, struck by U.S. airstrikes.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T21:46:33+00:00",
-    "source": "Telegram: Intel Slava Z",
-    "metadata": {
-      "telegramChannel": "intelslava",
-      "telegramChannelName": "Intel Slava Z",
-      "telegramPostId": "intelslava/89910",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/intelslava/89910",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T23:04:22.128Z",
-    "createdAt": "2026-07-07T23:04:22.128Z"
-  },
-  {
-    "id": "tg-intelslava-89911",
-    "type": "strategic",
-    "title": "🇺🇸❌🇮🇷 — WATCH: Further footage of the U.S. airstrike on Shahid Haqqani Port ",
-    "description": "🇺🇸❌🇮🇷 — WATCH: Further footage of the U.S. airstrike on Shahid Haqqani Port in Bandar Abbas has surfaced, local monitoring channels report.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T21:51:42+00:00",
-    "source": "Telegram: Intel Slava Z",
-    "metadata": {
-      "telegramChannel": "intelslava",
-      "telegramChannelName": "Intel Slava Z",
-      "telegramPostId": "intelslava/89911",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/intelslava/89911",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T23:04:22.128Z",
-    "createdAt": "2026-07-07T23:04:22.128Z"
-  },
-  {
-    "id": "tg-intelslava-89912",
-    "type": "strategic",
-    "title": "🇺🇸❌🇮🇷  — BREAKING: According to some U.S. journalists, the strikes on Iran a",
-    "description": "🇺🇸❌🇮🇷  — BREAKING: According to some U.S. journalists, the strikes on Iran are not proportional and further strikes should be expected.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T21:53:42+00:00",
-    "source": "Telegram: Intel Slava Z",
-    "metadata": {
-      "telegramChannel": "intelslava",
-      "telegramChannelName": "Intel Slava Z",
-      "telegramPostId": "intelslava/89912",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/intelslava/89912",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T23:04:22.128Z",
-    "createdAt": "2026-07-07T23:04:22.128Z"
-  },
-  {
-    "id": "tg-intelslava-89913",
-    "type": "strategic",
-    "title": "🇺🇸❌🇮🇷  — BREAKING: According to some U.S. journalists, the strikes on Iran a",
-    "description": "🇺🇸❌🇮🇷  — BREAKING: According to some U.S. journalists, the strikes on Iran are not proportional and further strikes should be expected.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T21:57:39+00:00",
-    "source": "Telegram: Intel Slava Z",
-    "metadata": {
-      "telegramChannel": "intelslava",
-      "telegramChannelName": "Intel Slava Z",
-      "telegramPostId": "intelslava/89913",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/intelslava/89913",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T23:04:22.128Z",
-    "createdAt": "2026-07-07T23:04:22.128Z"
-  },
-  {
-    "id": "tg-intelslava-89915",
-    "type": "strategic",
-    "title": "🇺🇸❌🇮🇷 — A vehicle has been precisely targeted by a strike in Bandar Abbas, I",
-    "description": "🇺🇸❌🇮🇷 — A vehicle has been precisely targeted by a strike in Bandar Abbas, Iran.\n\n➡️ The nature of the strike suggests it may have been a targeted assassination attempt, though this has not been confirmed.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T22:01:45+00:00",
-    "source": "Telegram: Intel Slava Z",
-    "metadata": {
-      "telegramChannel": "intelslava",
-      "telegramChannelName": "Intel Slava Z",
-      "telegramPostId": "intelslava/89915",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/intelslava/89915",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T23:04:22.128Z",
-    "createdAt": "2026-07-07T23:04:22.128Z"
-  },
-  {
-    "id": "tg-intelslava-89916",
-    "type": "strategic",
-    "title": "🇺🇸❌🇮🇷 — BREAKING: A U.S. official tells CNN strikes on southern Iran will no",
-    "description": "🇺🇸❌🇮🇷 — BREAKING: A U.S. official tells CNN strikes on southern Iran will not end anytime soon.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T22:03:29+00:00",
-    "source": "Telegram: Intel Slava Z",
-    "metadata": {
-      "telegramChannel": "intelslava",
-      "telegramChannelName": "Intel Slava Z",
-      "telegramPostId": "intelslava/89916",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/intelslava/89916",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T23:04:22.128Z",
-    "createdAt": "2026-07-07T23:04:22.128Z"
-  },
-  {
-    "id": "tg-intelslava-89917",
-    "type": "strategic",
-    "title": "Footage captures the moment U.S. bombs struck Shahid Haghani Port in Bandar Abba",
-    "description": "Footage captures the moment U.S. bombs struck Shahid Haghani Port in Bandar Abbas.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T22:04:49+00:00",
-    "source": "Telegram: Intel Slava Z",
-    "metadata": {
-      "telegramChannel": "intelslava",
-      "telegramChannelName": "Intel Slava Z",
-      "telegramPostId": "intelslava/89917",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/intelslava/89917",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T23:04:22.128Z",
-    "createdAt": "2026-07-07T23:04:22.128Z"
-  },
-  {
-    "id": "tg-intelslava-89918",
-    "type": "strategic",
-    "title": "🇺🇸❌🇮🇷 — WATCH: Additional footage emerges of the U.S. airstrike on Bandar Ab",
-    "description": "🇺🇸❌🇮🇷 — WATCH: Additional footage emerges of the U.S. airstrike on Bandar Abbas, Iran.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T22:05:02+00:00",
-    "source": "Telegram: Intel Slava Z",
-    "metadata": {
-      "telegramChannel": "intelslava",
-      "telegramChannelName": "Intel Slava Z",
-      "telegramPostId": "intelslava/89918",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/intelslava/89918",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T23:04:22.128Z",
-    "createdAt": "2026-07-07T23:04:22.128Z"
-  },
-  {
-    "id": "tg-intelslava-89920",
-    "type": "strategic",
-    "title": "🇮🇷❌🇺🇸 — Iran may choose to delay its response to the U.S. strikes for up to ",
-    "description": "🇮🇷❌🇺🇸 — Iran may choose to delay its response to the U.S. strikes for up to 48 hours following the conclusion of the funerals, as further escalation at this stage could disrupt the planned ceremonies. \n\n➡️ However, closure of the Strait of Hormuz by the IRGC within the next hour remains highly possible, even before the funerals conclude.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T22:21:55+00:00",
-    "source": "Telegram: Intel Slava Z",
-    "metadata": {
-      "telegramChannel": "intelslava",
-      "telegramChannelName": "Intel Slava Z",
-      "telegramPostId": "intelslava/89920",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/intelslava/89920",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T23:04:22.129Z",
-    "createdAt": "2026-07-07T23:04:22.129Z"
-  },
-  {
-    "id": "tg-intelslava-89921",
-    "type": "strategic",
-    "title": "🇺🇸❌🇮🇷  — Another image has emerged showing the aftermath of U.S. strikes on ",
-    "description": "🇺🇸❌🇮🇷  — Another image has emerged showing the aftermath of U.S. strikes on Bandar Abbas, Iran.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T22:26:18+00:00",
-    "source": "Telegram: Intel Slava Z",
-    "metadata": {
-      "telegramChannel": "intelslava",
-      "telegramChannelName": "Intel Slava Z",
-      "telegramPostId": "intelslava/89921",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/intelslava/89921",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T23:04:22.129Z",
-    "createdAt": "2026-07-07T23:04:22.129Z"
-  },
-  {
-    "id": "tg-intelslava-89922",
-    "type": "strategic",
-    "title": "This time the strikes are far more different than all strikes carried out by the",
-    "description": "This time the strikes are far more different than all strikes carried out by the US since the April 8 ceasefire",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T22:28:51+00:00",
-    "source": "Telegram: Intel Slava Z",
-    "metadata": {
-      "telegramChannel": "intelslava",
-      "telegramChannelName": "Intel Slava Z",
-      "telegramPostId": "intelslava/89922",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/intelslava/89922",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T23:04:22.129Z",
-    "createdAt": "2026-07-07T23:04:22.129Z"
-  },
-  {
-    "id": "tg-intelslava-89923",
-    "type": "strategic",
-    "title": "🇺🇸❌🇮🇷 — BREAKING: A new airstrike has targeted Sirik, Iran.",
-    "description": "🇺🇸❌🇮🇷 — BREAKING: A new airstrike has targeted Sirik, Iran.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T22:30:48+00:00",
-    "source": "Telegram: Intel Slava Z",
-    "metadata": {
-      "telegramChannel": "intelslava",
-      "telegramChannelName": "Intel Slava Z",
-      "telegramPostId": "intelslava/89923",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/intelslava/89923",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T23:04:22.129Z",
-    "createdAt": "2026-07-07T23:04:22.129Z"
-  },
-  {
-    "id": "tg-intelslava-89925",
-    "type": "strategic",
-    "title": "🇺🇸❌🇮🇷 — Footage from earlier tonight showing U.S. airstrikes on Qeshm Island",
-    "description": "🇺🇸❌🇮🇷 — Footage from earlier tonight showing U.S. airstrikes on Qeshm Island in southern Iran.\n\n@IntelSlava",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T22:50:14+00:00",
-    "source": "Telegram: Intel Slava Z",
-    "metadata": {
-      "telegramChannel": "intelslava",
-      "telegramChannelName": "Intel Slava Z",
-      "telegramPostId": "intelslava/89925",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/intelslava/89925",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T23:04:22.129Z",
-    "createdAt": "2026-07-07T23:04:22.129Z"
-  },
-  {
-    "id": "tg-tass_agency-384229",
-    "type": "battle",
-    "title": "🚨 Центральное командование ВС США заявило о начале \"серии мощных ударов\" по Ира",
-    "description": "🚨 Центральное командование ВС США заявило о начале \"серии мощных ударов\" по Ирану.  США наносят удары в ответ на \"атаки Ирана по трем коммерческим судам в Ормузском проливе\", сообщает СЕНТКОМ.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T22:19:01+00:00",
-    "source": "Telegram: TASS",
-    "metadata": {
-      "telegramChannel": "tass_agency",
-      "telegramChannelName": "TASS",
-      "telegramPostId": "tass_agency/384229",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/tass_agency/384229",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T23:04:23.821Z",
-    "createdAt": "2026-07-07T23:04:23.821Z"
-  },
-  {
-    "id": "tg-tass_agency-384230",
-    "type": "battle",
-    "title": "🚨 В результате атаки ВСУ в Запорожской области фиксируют частичное отключение э",
-    "description": "🚨 В результате атаки ВСУ в Запорожской области фиксируют частичное отключение электроснабжения, заявил Балицкий.",
-    "location": {
-      "lat": 47.8388,
-      "lng": 35.1396
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T22:29:42+00:00",
-    "source": "Telegram: TASS",
-    "metadata": {
-      "telegramChannel": "tass_agency",
-      "telegramChannelName": "TASS",
-      "telegramPostId": "tass_agency/384230",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/tass_agency/384230",
-      "region": "Zaporizhia Oblast"
-    },
-    "lastUpdated": "2026-07-07T23:04:23.821Z",
-    "createdAt": "2026-07-07T23:04:23.821Z"
-  },
-  {
-    "id": "tg-tass_agency-384232",
-    "type": "battle",
-    "title": "Удары ВС США по Ирану не закончены, они \"продлятся некоторое время\", сообщает CN",
-    "description": "Удары ВС США по Ирану не закончены, они \"продлятся некоторое время\", сообщает CNN со ссылкой на американского чиновника.  По его данным, атака США \"не будет пропорциональной\" ответной мерой, это \"наказание\".  ✔ Подпишись на ТАСС в \"Максе\"",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T22:44:01+00:00",
-    "source": "Telegram: TASS",
-    "metadata": {
-      "telegramChannel": "tass_agency",
-      "telegramChannelName": "TASS",
-      "telegramPostId": "tass_agency/384232",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/tass_agency/384232",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T23:04:23.821Z",
-    "createdAt": "2026-07-07T23:04:23.821Z"
-  },
-  {
-    "id": "tg-boris_rozhin-217412",
-    "type": "battle",
-    "title": "США снова атаковали Иран. CENTCOM подтвердил новое нападение.",
-    "description": "США снова атаковали Иран. CENTCOM подтвердил новое нападение.\nСообщается о взрывах в районе Сирика.\nТакже сообщается о взрывах в районе Бандар-Аббаса.\n\nНочью можно ожидать ответных ударов Ирана по объектам США в регионе. Потенциальные цели - в Ираке, Бахрейне, Кувейте.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T21:28:01+00:00",
-    "source": "Telegram: Colonel Cassad",
-    "metadata": {
-      "telegramChannel": "boris_rozhin",
-      "telegramChannelName": "Colonel Cassad",
-      "telegramPostId": "boris_rozhin/217412",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/boris_rozhin/217412",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T23:04:27.313Z",
-    "createdAt": "2026-07-07T23:04:27.313Z"
-  },
-  {
     "id": "tg-boris_rozhin-217423",
     "type": "strike",
     "title": "БРИТАНСКИЙ СЛЕД В УДАРАХ ВСУ. КАК \"STORM SHADOW\" ПОПАДАЮТ НА УКРАИНУ",
@@ -103223,1380 +103898,5 @@
     },
     "lastUpdated": "2026-07-07T23:04:27.313Z",
     "createdAt": "2026-07-07T23:04:27.313Z"
-  },
-  {
-    "id": "tg-dva_majors-95779",
-    "type": "strike",
-    "title": "Киев, сегодня ",
-    "description": "Киев, сегодня \n\nНа фоне дефицита ЗУР у противника ракетные удары ВС России достигают целей с гораздо меньшими проблемами, чем ранее. И это - носитель гораздо более серьезной боевой части, чем БПЛА. Минус в том, что ракетное вооружение сильно дороже и сложнее в производстве, что сказывается как на частоте, так и количестве ударов. \n\nТо есть расходовать такое вооружение целесообразно только на реально значимые цели, уничтожение которых способно повлиять на боевые возможности противника.\n\nВраг в св",
-    "location": {
-      "lat": 50.4501,
-      "lng": 30.5234
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T22:54:13+00:00",
-    "source": "Telegram: Two Majors",
-    "metadata": {
-      "telegramChannel": "dva_majors",
-      "telegramChannelName": "Two Majors",
-      "telegramPostId": "dva_majors/95779",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/dva_majors/95779",
-      "region": "Kyiv"
-    },
-    "lastUpdated": "2026-07-07T23:04:29.556Z",
-    "createdAt": "2026-07-07T23:04:29.556Z"
-  },
-  {
-    "id": "tg-RVvoenkor-118661",
-    "type": "battle",
-    "title": "‼️🇺🇸🇮🇷 США начали \"серию мощных ударов\" по Ирану, - CENTCOM",
-    "description": "‼️🇺🇸🇮🇷 США начали \"серию мощных ударов\" по Ирану, - CENTCOM\n\n▪️Операция проводится в ответ на атаки Тегерана на коммерческие суда, проходивших через Ормузский пролив, заявляет Центральное командование ВС США.\n▪️Взрывы гремят в районе прибрежных городов и островов в Ормузском проливе.\n⚠️Подписаться на RV: MAX | t.me/RVvoenkor",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T21:27:14+00:00",
-    "source": "Telegram: Operation Z (RV)",
-    "metadata": {
-      "telegramChannel": "RVvoenkor",
-      "telegramChannelName": "Operation Z (RV)",
-      "telegramPostId": "RVvoenkor/118661",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/RVvoenkor/118661",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T23:04:31.400Z",
-    "createdAt": "2026-07-07T23:04:31.400Z"
-  },
-  {
-    "id": "tg-RVvoenkor-118667",
-    "type": "strategic",
-    "title": "‼️🇺🇦🔥Начались удары по Киеву: в городе мощные пожары, исчезает свет",
-    "description": "‼️🇺🇦🔥Начались удары по Киеву: в городе мощные пожары, исчезает свет\n\n➖\"Дуже сильна пожежа\", - пишут местные ресурсы.\n▪️Идёт вторая волна ударов.\n▪️В ряде районов Киева после взрывов произошло аварийное отключение электроэнергии.\n▪️Звуки взрывов были слышны ещё до объявления воздушной тревоги.\n⚠️Подписаться на RV: MAX | t.me/RVvoenkor",
-    "location": {
-      "lat": 50.4501,
-      "lng": 30.5234
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T21:53:02+00:00",
-    "source": "Telegram: Operation Z (RV)",
-    "metadata": {
-      "telegramChannel": "RVvoenkor",
-      "telegramChannelName": "Operation Z (RV)",
-      "telegramPostId": "RVvoenkor/118667",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/RVvoenkor/118667",
-      "region": "Kyiv"
-    },
-    "lastUpdated": "2026-07-07T23:04:31.401Z",
-    "createdAt": "2026-07-07T23:04:31.401Z"
-  },
-  {
-    "id": "tg-RVvoenkor-118670",
-    "type": "strike",
-    "title": "‼️🇺🇦💥Впечатляющий момент удара по объекту врага в Киеве",
-    "description": "‼️🇺🇦💥Впечатляющий момент удара по объекту врага в Киеве\n\n▪️Ракеты ударили по разным районам столицы Украины.\n▪️В Деснянском районе в результате попадания ракеты горят склады. В Святошинском районе - пожар в нежилом здании, - сообщил мэр Кличко.\n⚠️Подписаться на RV: MAX | t.me/RVvoenkor",
-    "location": {
-      "lat": 50.4501,
-      "lng": 30.5234
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T22:01:07+00:00",
-    "source": "Telegram: Operation Z (RV)",
-    "metadata": {
-      "telegramChannel": "RVvoenkor",
-      "telegramChannelName": "Operation Z (RV)",
-      "telegramPostId": "RVvoenkor/118670",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/RVvoenkor/118670",
-      "region": "Kyiv"
-    },
-    "lastUpdated": "2026-07-07T23:04:31.401Z",
-    "createdAt": "2026-07-07T23:04:31.401Z"
-  },
-  {
-    "id": "tg-RVvoenkor-118671",
-    "type": "strike",
-    "title": "‼️🇷🇺Ракетную опасность объявили  и отменили в Московской и Тульской областях, ",
-    "description": "‼️🇷🇺Ракетную опасность объявили  и отменили в Московской и Тульской областях, — РСЧС\n\n▪️Жителям рекомендовали оставаться дома и предупредили о возможных перебоях в работе мобильного интернета.\n⚠️Подписаться на RV: MAX | t.me/RVvoenkor",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T22:10:50+00:00",
-    "source": "Telegram: Operation Z (RV)",
-    "metadata": {
-      "telegramChannel": "RVvoenkor",
-      "telegramChannelName": "Operation Z (RV)",
-      "telegramPostId": "RVvoenkor/118671",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/RVvoenkor/118671",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T23:04:31.401Z",
-    "createdAt": "2026-07-07T23:04:31.401Z"
-  },
-  {
-    "id": "tg-RVvoenkor-118672",
-    "type": "strike",
-    "title": "‼️🇺🇸🇮🇷 США накажут Иран: удары не закончены, они «продлятся некоторое время»",
-    "description": "‼️🇺🇸🇮🇷 США накажут Иран: удары не закончены, они «продлятся некоторое время», — CNN\n\n▪️Атака США «не будет пропорциональной» ответной мерой, это «наказание», заявил американский чиновник.\n▪️ ВВС США атаковали цели в районе Бандар-Аббаса на юге Ирана. Среди целей: иранские системы ПВО, береговые радары и системы наблюдения, зенитные комплексы, пусковые платформы противокорабельных ракет и БПЛА, а также портовая инфраструктура. \n▪️Иранское госТВ заявило, что удары пришлись по району телекоммун",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T22:34:35+00:00",
-    "source": "Telegram: Operation Z (RV)",
-    "metadata": {
-      "telegramChannel": "RVvoenkor",
-      "telegramChannelName": "Operation Z (RV)",
-      "telegramPostId": "RVvoenkor/118672",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/RVvoenkor/118672",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T23:04:31.401Z",
-    "createdAt": "2026-07-07T23:04:31.401Z"
-  },
-  {
-    "id": "tg-voenkorKotenok-73359",
-    "type": "strike",
-    "title": "Мощные взрывы в Киеве.",
-    "description": "Мощные взрывы в Киеве.\n\nРесурсы противника сообщает о ракетном ударе.\n\nПодпишись в MAX\n@voenkorKotenok",
-    "location": {
-      "lat": 50.4501,
-      "lng": 30.5234
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T22:36:02+00:00",
-    "source": "Telegram: Voenkor Kotenok",
-    "metadata": {
-      "telegramChannel": "voenkorKotenok",
-      "telegramChannelName": "Voenkor Kotenok",
-      "telegramPostId": "voenkorKotenok/73359",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/voenkorKotenok/73359",
-      "region": "Kyiv"
-    },
-    "lastUpdated": "2026-07-07T23:04:33.222Z",
-    "createdAt": "2026-07-07T23:04:33.222Z"
-  },
-  {
-    "id": "tg-milinfolive-175656",
-    "type": "strike",
-    "title": "По Киеву прилетело несколько баллистических ракет, причем воздушную тревогу вклю",
-    "description": "По Киеву прилетело несколько баллистических ракет, причем воздушную тревогу включили уже после первых взрывов. \n\nНа месте прилета пожар. \n\nВоенный Осведомитель",
-    "location": {
-      "lat": 50.4501,
-      "lng": 30.5234
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T21:45:45+00:00",
-    "source": "Telegram: Military Informant",
-    "metadata": {
-      "telegramChannel": "milinfolive",
-      "telegramChannelName": "Military Informant",
-      "telegramPostId": "milinfolive/175656",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/milinfolive/175656",
-      "region": "Kyiv"
-    },
-    "lastUpdated": "2026-07-07T23:04:35.076Z",
-    "createdAt": "2026-07-07T23:04:35.076Z"
-  },
-  {
-    "id": "tg-milinfolive-175657",
-    "type": "strike",
-    "title": "Тем временем Иран нанес удар двумя ракетами по катарскому танкеру Al Rekayyat и ",
-    "description": "Тем временем Иран нанес удар двумя ракетами по катарскому танкеру Al Rekayyat и саудовскому Wedyan в Ормузском проливе.  Причиной эскалации стала попытка прохода судов по так называемому \"оманскому коридору\" (зеленые стрелочки), который в одностороннем порядке…",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T21:58:02+00:00",
-    "source": "Telegram: Military Informant",
-    "metadata": {
-      "telegramChannel": "milinfolive",
-      "telegramChannelName": "Military Informant",
-      "telegramPostId": "milinfolive/175657",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/milinfolive/175657",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T23:04:35.076Z",
-    "createdAt": "2026-07-07T23:04:35.076Z"
-  },
-  {
-    "id": "tg-milinfolive-175664",
-    "type": "strike",
-    "title": "По Киеву прилетело несколько баллистических ракет, причем воздушную тревогу вклю",
-    "description": "По Киеву прилетело несколько баллистических ракет, причем воздушную тревогу включили уже после первых взрывов.   На месте прилета пожар.   Военный Осведомитель",
-    "location": {
-      "lat": 50.4501,
-      "lng": 30.5234
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T22:08:55+00:00",
-    "source": "Telegram: Military Informant",
-    "metadata": {
-      "telegramChannel": "milinfolive",
-      "telegramChannelName": "Military Informant",
-      "telegramPostId": "milinfolive/175664",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/milinfolive/175664",
-      "region": "Kyiv"
-    },
-    "lastUpdated": "2026-07-07T23:04:35.076Z",
-    "createdAt": "2026-07-07T23:04:35.076Z"
-  },
-  {
-    "id": "tg-swodki-600200",
-    "type": "battle",
-    "title": "❗️ВВС США нанесли серию ударов по целям в Иране, в частности в Бендер-Аббасе, Си",
-    "description": "❗️ВВС США нанесли серию ударов по целям в Иране, в частности в Бендер-Аббасе, Сирике, на острове Кешм.\n\nСогласно заявлению CENTCOM, удар наносятся в ответ на атаки Ираном трёх судов, пытавшихся вчера днём пересечь Ормузский пролив.\n\nОдновременно сообщается о том, что данные удары будут носить \"не пропорциональный, а наказывающий характер\".\n\nНезадолго до этого власти США отозвали разрешения на совершение сделок по закупке иранской нефти. Новые сделки запрещены с 7 июля, а старые должны быть завер",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T22:06:31+00:00",
-    "source": "Telegram: SWODKI",
-    "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/600200",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/swodki/600200",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T23:04:36.983Z",
-    "createdAt": "2026-07-07T23:04:36.983Z"
-  },
-  {
-    "id": "tg-swodki-600211",
-    "type": "strike",
-    "title": "⚡️Ракетную опасность объявили на территории Московской области. А быстро тут.",
-    "description": "⚡️Ракетную опасность объявили на территории Московской области. А быстро тут.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T22:14:02+00:00",
-    "source": "Telegram: SWODKI",
-    "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/600211",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/swodki/600211",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T23:04:36.983Z",
-    "createdAt": "2026-07-07T23:04:36.983Z"
-  },
-  {
-    "id": "tg-swodki-600212",
-    "type": "battle",
-    "title": "Борисоглебск. ",
-    "description": "Борисоглебск. \n\nАтакована нефтебаза.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T22:15:29+00:00",
-    "source": "Telegram: SWODKI",
-    "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/600212",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/swodki/600212",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T23:04:36.983Z",
-    "createdAt": "2026-07-07T23:04:36.983Z"
-  },
-  {
-    "id": "tg-swodki-600214",
-    "type": "strategic",
-    "title": "❗️ВВС США нанесли серию ударов по целям в Иране, в частности в Бендер-Аббасе, Си",
-    "description": "❗️ВВС США нанесли серию ударов по целям в Иране, в частности в Бендер-Аббасе, Сирике, на острове Кешм.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T22:21:48+00:00",
-    "source": "Telegram: SWODKI",
-    "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/600214",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/swodki/600214",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T23:04:36.983Z",
-    "createdAt": "2026-07-07T23:04:36.983Z"
-  },
-  {
-    "id": "tg-swodki-600215",
-    "type": "battle",
-    "title": "⚡️Удары США по Ирану не закончены, они «продлятся некоторое время», — CNN со ссы",
-    "description": "⚡️Удары США по Ирану не закончены, они «продлятся некоторое время», — CNN со ссылкой на американского чиновника.\n\nПо его данным, атака США «не будет пропорциональной» ответной мерой, это «наказание».",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T22:27:04+00:00",
-    "source": "Telegram: SWODKI",
-    "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/600215",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/swodki/600215",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T23:04:36.983Z",
-    "createdAt": "2026-07-07T23:04:36.983Z"
-  },
-  {
-    "id": "tg-swodki-600216",
-    "type": "strike",
-    "title": "США продолжат наносить удары по Ирану, сообщает CNN.",
-    "description": "США продолжат наносить удары по Ирану, сообщает CNN.\n\nАмериканские ВВС атаковали цели в районе Бандар-Аббаса на юге Ирана, сообщают Axios и иранские СМИ. По данным высокопоставленного американского чиновника, среди целей были иранские системы ПВО, береговые радары и системы наблюдения, зенитные ракеты, пусковые платформы противокорабельных ракет и беспилотников, а также портовая инфраструктура. Американский чиновник также заявил CNN, что удары были не «пропорциональным ответом», а «наказанием» д",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T22:30:37+00:00",
-    "source": "Telegram: SWODKI",
-    "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/600216",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/swodki/600216",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T23:04:36.983Z",
-    "createdAt": "2026-07-07T23:04:36.983Z"
-  },
-  {
-    "id": "tg-swodki-600221",
-    "type": "battle",
-    "title": "➡️ Андрей Медведев ",
-    "description": "➡️ Андрей Медведев \n\nТем временем американцы атаковали порт в иранском Бендер-Аббасе.\n\nАнонсированы удары и по другим объектам в стране в ответ на удары Ирана по судам в проливе.\n\nВ Иране как-то «писдил» не сильно задержался.\n\nПо второму кругу пошло, похоже..",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T22:35:13+00:00",
-    "source": "Telegram: SWODKI",
-    "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/600221",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/swodki/600221",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T23:04:36.983Z",
-    "createdAt": "2026-07-07T23:04:36.983Z"
-  },
-  {
-    "id": "tg-swodki-600223",
-    "type": "battle",
-    "title": "Министерство иностранных дел Ирана осудило удары США по южной части Ирана, заяви",
-    "description": "Министерство иностранных дел Ирана осудило удары США по южной части Ирана, заявив, что это является нарушением Меморандума о взаимопонимании между США и Ираном, несмотря на то, что Иран сначала атаковал три танкера, проходивших через Ормузский пролив, что само по себе является нарушением. \n\nСогласно заявлению, Иран \"возлагает ответственность на правительство США\" за их ожидаемый ответ, который, будет заключаться в возобновлении иранских ударов по американским базам и инфраструктуре в соседних ст",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T22:47:16+00:00",
-    "source": "Telegram: SWODKI",
-    "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/600223",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/swodki/600223",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T23:04:36.983Z",
-    "createdAt": "2026-07-07T23:04:36.983Z"
-  },
-  {
-    "id": "tg-SolovievLive-376204",
-    "type": "strike",
-    "title": "🔴🔴🔴🔴🔴 Несколько баллистических ракет ударили по Киеву раньше, чем там объяв",
-    "description": "🔴🔴🔴🔴🔴 Несколько баллистических ракет ударили по Киеву раньше, чем там объявили тревогу, в части районов пропал свет, сообщают украинские СМИ.",
-    "location": {
-      "lat": 50.4501,
-      "lng": 30.5234
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T21:44:01+00:00",
-    "source": "Telegram: Solovyov Live",
-    "metadata": {
-      "telegramChannel": "SolovievLive",
-      "telegramChannelName": "Solovyov Live",
-      "telegramPostId": "SolovievLive/376204",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/SolovievLive/376204",
-      "region": "Kyiv"
-    },
-    "lastUpdated": "2026-07-07T23:04:42.662Z",
-    "createdAt": "2026-07-07T23:04:42.662Z"
-  },
-  {
-    "id": "tg-SolovievLive-376205",
-    "type": "strike",
-    "title": "🔴🔴🔴🔴🔴 Несколько баллистических ракет ударили по Киеву раньше, чем там объяв",
-    "description": "🔴🔴🔴🔴🔴 Несколько баллистических ракет ударили по Киеву раньше, чем там объявили тревогу, в части районов пропал свет, сообщают украинские СМИ.",
-    "location": {
-      "lat": 50.4501,
-      "lng": 30.5234
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T21:58:41+00:00",
-    "source": "Telegram: Solovyov Live",
-    "metadata": {
-      "telegramChannel": "SolovievLive",
-      "telegramChannelName": "Solovyov Live",
-      "telegramPostId": "SolovievLive/376205",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/SolovievLive/376205",
-      "region": "Kyiv"
-    },
-    "lastUpdated": "2026-07-07T23:04:42.662Z",
-    "createdAt": "2026-07-07T23:04:42.662Z"
-  },
-  {
-    "id": "tg-SolovievLive-376207",
-    "type": "strike",
-    "title": "🚨 В Киеве, после ракетного удара, начался пожар.",
-    "description": "🚨 В Киеве, после ракетного удара, начался пожар.",
-    "location": {
-      "lat": 50.4501,
-      "lng": 30.5234
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T22:24:53+00:00",
-    "source": "Telegram: Solovyov Live",
-    "metadata": {
-      "telegramChannel": "SolovievLive",
-      "telegramChannelName": "Solovyov Live",
-      "telegramPostId": "SolovievLive/376207",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/SolovievLive/376207",
-      "region": "Kyiv"
-    },
-    "lastUpdated": "2026-07-07T23:04:42.662Z",
-    "createdAt": "2026-07-07T23:04:42.662Z"
-  },
-  {
-    "id": "tg-SolovievLive-376210",
-    "type": "strategic",
-    "title": "🖥️ Ещё кадры ударов по Киеву.",
-    "description": "🖥️ Ещё кадры ударов по Киеву.\n\n🇷🇺 Подпишись на Соловьёва&#33;",
-    "location": {
-      "lat": 50.4501,
-      "lng": 30.5234
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T22:37:12+00:00",
-    "source": "Telegram: Solovyov Live",
-    "metadata": {
-      "telegramChannel": "SolovievLive",
-      "telegramChannelName": "Solovyov Live",
-      "telegramPostId": "SolovievLive/376210",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/SolovievLive/376210",
-      "region": "Kyiv"
-    },
-    "lastUpdated": "2026-07-07T23:04:42.662Z",
-    "createdAt": "2026-07-07T23:04:42.662Z"
-  },
-  {
-    "id": "tg-SolovievLive-376212",
-    "type": "battle",
-    "title": "❗️ Удары ВС США по Ирану не закончены, они \"продлятся некоторое время\", сообщает",
-    "description": "❗️ Удары ВС США по Ирану не закончены, они \"продлятся некоторое время\", сообщает CNN со ссылкой на американского чиновника. По его словам, атака США \"не будет пропорциональной\" ответной мерой, а является \"наказанием\".",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T22:56:44+00:00",
-    "source": "Telegram: Solovyov Live",
-    "metadata": {
-      "telegramChannel": "SolovievLive",
-      "telegramChannelName": "Solovyov Live",
-      "telegramPostId": "SolovievLive/376212",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/SolovievLive/376212",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T23:04:42.662Z",
-    "createdAt": "2026-07-07T23:04:42.662Z"
-  },
-  {
-    "id": "tg-voenacher-94455",
-    "type": "strike",
-    "title": "💥 Залп баллистическими ракетами ОТРК «Искандер» по Киеву. Пишут, что местами пр",
-    "description": "💥 Залп баллистическими ракетами ОТРК «Искандер» по Киеву. Пишут, что местами пропал свет.",
-    "location": {
-      "lat": 50.4501,
-      "lng": 30.5234
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T21:42:26+00:00",
-    "source": "Telegram: Turned on Z War",
-    "metadata": {
-      "telegramChannel": "voenacher",
-      "telegramChannelName": "Turned on Z War",
-      "telegramPostId": "voenacher/94455",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/voenacher/94455",
-      "region": "Kyiv"
-    },
-    "lastUpdated": "2026-07-07T23:04:46.404Z",
-    "createdAt": "2026-07-07T23:04:46.404Z"
-  },
-  {
-    "id": "tg-voenacher-94456",
-    "type": "strike",
-    "title": "💥 Залп баллистическими ракетами ОТРК «Искандер» по Киеву. Пишут, что местами пр",
-    "description": "💥 Залп баллистическими ракетами ОТРК «Искандер» по Киеву. Пишут, что местами пропал свет.",
-    "location": {
-      "lat": 50.4501,
-      "lng": 30.5234
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T21:49:59+00:00",
-    "source": "Telegram: Turned on Z War",
-    "metadata": {
-      "telegramChannel": "voenacher",
-      "telegramChannelName": "Turned on Z War",
-      "telegramPostId": "voenacher/94456",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/voenacher/94456",
-      "region": "Kyiv"
-    },
-    "lastUpdated": "2026-07-07T23:04:46.404Z",
-    "createdAt": "2026-07-07T23:04:46.404Z"
-  },
-  {
-    "id": "tg-voenacher-94461",
-    "type": "battle",
-    "title": "Тем временем американцы атаковали порт в иранском Бендер-Аббасе.",
-    "description": "Тем временем американцы атаковали порт в иранском Бендер-Аббасе.\n\nАнонсированы удары и по другим объектам в стране в ответ на удары Ирана по судам в проливе",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T21:52:45+00:00",
-    "source": "Telegram: Turned on Z War",
-    "metadata": {
-      "telegramChannel": "voenacher",
-      "telegramChannelName": "Turned on Z War",
-      "telegramPostId": "voenacher/94461",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/voenacher/94461",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T23:04:46.404Z",
-    "createdAt": "2026-07-07T23:04:46.404Z"
-  },
-  {
-    "id": "tg-tassagency_en-87599",
-    "type": "strike",
-    "title": "❗️Conflict Overview: Day 130",
-    "description": "❗️Conflict Overview: Day 130\n&nbsp;\n▪️The coffin with the body of Iran’s late Supreme Leader Ali Khamenei, killed during the US-Israeli bombing, has been delivered to Iraq by a special plane that landed in the city of Najaf, the INA news agency reported\n&nbsp;\n▪️The US believes that Iran fired at least two missiles at commercial vessels in the Strait of Hormuz the day before, Axios reported, citing sources in the US administration\n&nbsp;\n▪️The Qatari tanker Al Rekayyat carrying liquefied natural",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T22:04:08+00:00",
-    "source": "Telegram: TASS English",
-    "metadata": {
-      "telegramChannel": "tassagency_en",
-      "telegramChannelName": "TASS English",
-      "telegramPostId": "tassagency_en/87599",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/tassagency_en/87599",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T23:05:04.982Z",
-    "createdAt": "2026-07-07T23:05:04.982Z"
-  },
-  {
-    "id": "tg-tassagency_en-87600",
-    "type": "strategic",
-    "title": "The death toll from the devastating earthquake in Venezuela has reached 3,685, N",
-    "description": "The death toll from the devastating earthquake in Venezuela has reached 3,685, National Assembly President Jorge Rodríguez reported. \n\nA total of 16,740 people were injured, 17,907 left homeless, 190 buildings completely destroyed, and 856 significantly damaged. \n\nSearch and rescue operations saved 6,462 people, 25,970 received treatment, and 86,794 families received assistance.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T22:31:35+00:00",
-    "source": "Telegram: TASS English",
-    "metadata": {
-      "telegramChannel": "tassagency_en",
-      "telegramChannelName": "TASS English",
-      "telegramPostId": "tassagency_en/87600",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/tassagency_en/87600",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T23:05:04.982Z",
-    "createdAt": "2026-07-07T23:05:04.982Z"
-  },
-  {
-    "id": "tg-tassagency_en-87601",
-    "type": "battle",
-    "title": "Iranian Deputy Foreign Minister Kazem Gharibabadi has stated that the American a",
-    "description": "Iranian Deputy Foreign Minister Kazem Gharibabadi has stated that the American attack on Iran violates the first and second clauses of the Islamabad Memorandum of Understanding, the Fars agency reported.\n\n“The US attack on Iran is a gross violation of clauses 1 and 2 of the Memorandum of Understanding concluded in Islamabad,” Gharibabadi said as quoted by the agency, adding that over the past three weeks, the US has repeatedly violated the terms of the memorandum.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T23:00:01+00:00",
-    "source": "Telegram: TASS English",
-    "metadata": {
-      "telegramChannel": "tassagency_en",
-      "telegramChannelName": "TASS English",
-      "telegramPostId": "tassagency_en/87601",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/tassagency_en/87601",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T23:05:04.982Z",
-    "createdAt": "2026-07-07T23:05:04.982Z"
-  },
-  {
-    "id": "tg-vrogov-25189",
-    "type": "strategic",
-    "title": "💥🔥К сожалению, есть пропущенный",
-    "description": "💥🔥К сожалению, есть пропущенный\n\nНесмотря на активное противодействие наших МОГов, нацисты нанесли удар БпЛА по объекту энергетической инфраструктуры в Мелитополе.\n\nПодробности позже.\n\nВладимир Рогов | Рогов. Глас Народа",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T21:42:55+00:00",
-    "source": "Telegram: Vladimir Rogov",
-    "metadata": {
-      "telegramChannel": "vrogov",
-      "telegramChannelName": "Vladimir Rogov",
-      "telegramPostId": "vrogov/25189",
-      "bias": "pro-russian",
-      "weight": 1,
-      "telegramUrl": "https://t.me/vrogov/25189",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T23:05:17.744Z",
-    "createdAt": "2026-07-07T23:05:17.744Z"
-  },
-  {
-    "id": "tg-vrogov-25190",
-    "type": "battle",
-    "title": "💥🙏Работа МОГов по защите мирного города от атаки нацистов",
-    "description": "💥🙏Работа МОГов по защите мирного города от атаки нацистов\n\nВот так этой ночью выглядит небо над Мелитополем.\n\nВладимир Рогов | Рогов. Глас Народа",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T21:52:09+00:00",
-    "source": "Telegram: Vladimir Rogov",
-    "metadata": {
-      "telegramChannel": "vrogov",
-      "telegramChannelName": "Vladimir Rogov",
-      "telegramPostId": "vrogov/25190",
-      "bias": "pro-russian",
-      "weight": 1,
-      "telegramUrl": "https://t.me/vrogov/25190",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T23:05:17.744Z",
-    "createdAt": "2026-07-07T23:05:17.744Z"
-  },
-  {
-    "id": "tg-vrogov-25191",
-    "type": "battle",
-    "title": "💥🔥🔌🚫О перебоях в подаче электроэнергии",
-    "description": "💥🔥🔌🚫О перебоях в подаче электроэнергии\n\nПосле атаки нацистов на мирный Мелитополь и удара по объекту энергетической инфраструктуры в городе начались перебои с подачей электричества.\n\nОб отсутствии электроэнергии сообщают жители разных районов Мелитополя.\n\nВладимир Рогов | Рогов. Глас Народа",
-    "location": {
-      "lat": 46.8489,
-      "lng": 35.3653
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T22:09:45+00:00",
-    "source": "Telegram: Vladimir Rogov",
-    "metadata": {
-      "telegramChannel": "vrogov",
-      "telegramChannelName": "Vladimir Rogov",
-      "telegramPostId": "vrogov/25191",
-      "bias": "pro-russian",
-      "weight": 1,
-      "telegramUrl": "https://t.me/vrogov/25191",
-      "region": "Zaporizhia Oblast"
-    },
-    "lastUpdated": "2026-07-07T23:05:17.744Z",
-    "createdAt": "2026-07-07T23:05:17.744Z"
-  },
-  {
-    "id": "tg-vrogov-25192",
-    "type": "strike",
-    "title": "💥🇺🇦🔥🔌🚫В Киеве прилёты баллистических ракет",
-    "description": "💥🇺🇦🔥🔌🚫В Киеве прилёты баллистических ракет\n\nПосле взрывов произошло аварийное отключение электроэнергии.\n\nВ городе мощные пожары.\n\n\"Дуже сильна пожежа\", - сообщают пропагандисты ЗеРейха.\n\nИдёт вторая волна ударов. \n\nПри этом звуки взрывов были слышны ещё до объявления воздушной тревоги.\n\nВладимир Рогов | Рогов. Глас Народа",
-    "location": {
-      "lat": 50.4501,
-      "lng": 30.5234
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T22:21:41+00:00",
-    "source": "Telegram: Vladimir Rogov",
-    "metadata": {
-      "telegramChannel": "vrogov",
-      "telegramChannelName": "Vladimir Rogov",
-      "telegramPostId": "vrogov/25192",
-      "bias": "pro-russian",
-      "weight": 1,
-      "telegramUrl": "https://t.me/vrogov/25192",
-      "region": "Kyiv"
-    },
-    "lastUpdated": "2026-07-07T23:05:17.744Z",
-    "createdAt": "2026-07-07T23:05:17.744Z"
-  },
-  {
-    "id": "tg-vrogov-25195",
-    "type": "strike",
-    "title": "💥🔥О целях прилётов по Киеву",
-    "description": "💥🔥О целях прилётов по Киеву\n\nКличко вынужден признать, что в Деснянском районе Киева в результате попадания ракеты начались пожары на складах.\n\nВ Святошинском районе также пожар в нежилом здании.\n\nВладимир Рогов | Рогов. Глас Народа",
-    "location": {
-      "lat": 50.4501,
-      "lng": 30.5234
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T22:27:58+00:00",
-    "source": "Telegram: Vladimir Rogov",
-    "metadata": {
-      "telegramChannel": "vrogov",
-      "telegramChannelName": "Vladimir Rogov",
-      "telegramPostId": "vrogov/25195",
-      "bias": "pro-russian",
-      "weight": 1,
-      "telegramUrl": "https://t.me/vrogov/25195",
-      "region": "Kyiv"
-    },
-    "lastUpdated": "2026-07-07T23:05:17.744Z",
-    "createdAt": "2026-07-07T23:05:17.744Z"
-  },
-  {
-    "id": "tg-southfronteng-61825",
-    "type": "battle",
-    "title": "Ukrainian Could Soon Get Besieged In Kupyansk",
-    "description": "Ukrainian Could Soon Get Besieged In Kupyansk\n\nIn the Kharkiv direction, units of the \"North\" group took control of Petro Ivanovka, forcing the Ukrainian command to move reserves from the Kupyansk sector. Two groups of Spanish-speaking mercenaries refused to carry out combat tasks. \n\nIn the Sumy direction, Russian assault groups advanced in fifteen sectors, pushed Ukrainian forces out of Bachevsk, and are advancing towards Glukhov. \n\nIn the Dobropolye direction, the control zone along the road t",
-    "location": {
-      "lat": 49.9935,
-      "lng": 36.2304
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T21:41:56+00:00",
-    "source": "Telegram: SouthFront",
-    "metadata": {
-      "telegramChannel": "southfronteng",
-      "telegramChannelName": "SouthFront",
-      "telegramPostId": "southfronteng/61825",
-      "bias": "pro-russian",
-      "weight": 1,
-      "telegramUrl": "https://t.me/southfronteng/61825",
-      "region": "Kharkiv Oblast"
-    },
-    "lastUpdated": "2026-07-07T23:05:35.889Z",
-    "createdAt": "2026-07-07T23:05:35.889Z"
-  },
-  {
-    "id": "tg-operativnoZSU-215394",
-    "type": "battle",
-    "title": "Київ атакують балістикою&#33; Перебувайте в укритті&#33;",
-    "description": "Київ атакують балістикою&#33; Перебувайте в укритті&#33;",
-    "location": {
-      "lat": 50.4501,
-      "lng": 30.5234
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T21:32:16+00:00",
-    "source": "Telegram: Operativno ZSU",
-    "metadata": {
-      "telegramChannel": "OperativnoZSU",
-      "telegramChannelName": "Operativno ZSU",
-      "telegramPostId": "operativnoZSU/215394",
-      "bias": "pro-ukrainian",
-      "weight": 1,
-      "telegramUrl": "https://t.me/operativnoZSU/215394",
-      "region": "Kyiv"
-    },
-    "lastUpdated": "2026-07-07T23:05:43.379Z",
-    "createdAt": "2026-07-07T23:05:43.379Z"
-  },
-  {
-    "id": "tg-operativnoZSU-215395",
-    "type": "battle",
-    "title": "Київ повторно атакують балістикою",
-    "description": "Київ повторно атакують балістикою",
-    "location": {
-      "lat": 50.4501,
-      "lng": 30.5234
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T21:53:39+00:00",
-    "source": "Telegram: Operativno ZSU",
-    "metadata": {
-      "telegramChannel": "OperativnoZSU",
-      "telegramChannelName": "Operativno ZSU",
-      "telegramPostId": "operativnoZSU/215395",
-      "bias": "pro-ukrainian",
-      "weight": 1,
-      "telegramUrl": "https://t.me/operativnoZSU/215395",
-      "region": "Kyiv"
-    },
-    "lastUpdated": "2026-07-07T23:05:43.379Z",
-    "createdAt": "2026-07-07T23:05:43.379Z"
-  },
-  {
-    "id": "tg-operativnoZSU-215396",
-    "type": "battle",
-    "title": "Ви помітили, що останнім часом з окупованого Криму мало фото / відео з прильотам",
-    "description": "Ви помітили, що останнім часом з окупованого Криму мало фото / відео з прильотами. Хоча самих прильотів предостатньо. \n\nБО НАВІТЬ ОКУПАНТИ НАВЧИЛИСЬ НЕ ЗНІМАТИ НАСЛІДКИ АТАК, НА ВІДМІНУ ВІД ТУПОРИЛИХ ІДІОТІВ У КИЄВІ &#33; \nІ ЩЕ ТУПОРИЛІШИХ АДМІНІВ ПАБЛІКІВ, ЯКІ ОДРАЗУ ЦЕ ПУБЛІКУЮТЬ. \n\nЯк вже все це дістало. \nДЕГЕНЕРАТИ.",
-    "location": {
-      "lat": 44.9521,
-      "lng": 34.1024
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T22:05:57+00:00",
-    "source": "Telegram: Operativno ZSU",
-    "metadata": {
-      "telegramChannel": "OperativnoZSU",
-      "telegramChannelName": "Operativno ZSU",
-      "telegramPostId": "operativnoZSU/215396",
-      "bias": "pro-ukrainian",
-      "weight": 1,
-      "telegramUrl": "https://t.me/operativnoZSU/215396",
-      "region": "Crimea"
-    },
-    "lastUpdated": "2026-07-07T23:05:43.379Z",
-    "createdAt": "2026-07-07T23:05:43.379Z"
-  },
-  {
-    "id": "tg-ssternenko-60375",
-    "type": "battle",
-    "title": "Київ знову під атакою балістики. ",
-    "description": "Київ знову під атакою балістики. \nСмерть росіянам.",
-    "location": {
-      "lat": 50.4501,
-      "lng": 30.5234
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T21:54:50+00:00",
-    "source": "Telegram: Sternenko",
-    "metadata": {
-      "telegramChannel": "ssternenko",
-      "telegramChannelName": "Sternenko",
-      "telegramPostId": "ssternenko/60375",
-      "bias": "pro-ukrainian",
-      "weight": 1,
-      "telegramUrl": "https://t.me/ssternenko/60375",
-      "region": "Kyiv"
-    },
-    "lastUpdated": "2026-07-07T23:05:45.307Z",
-    "createdAt": "2026-07-07T23:05:45.307Z"
-  },
-  {
-    "id": "tg-ukrpravda_news-80739",
-    "type": "strike",
-    "title": "У Деснянському районі внаслідок влучання ракети палають складські приміщення, у ",
-    "description": "У Деснянському районі внаслідок влучання ракети палають складські приміщення, у Святошинському районі — загоряння в нежитловій будівлі, повідомив Кличко\n\n📰 підписатися",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T21:58:22+00:00",
-    "source": "Telegram: Ukrainska Pravda",
-    "metadata": {
-      "telegramChannel": "ukrpravda_news",
-      "telegramChannelName": "Ukrainska Pravda",
-      "telegramPostId": "ukrpravda_news/80739",
-      "bias": "pro-ukrainian",
-      "weight": 1,
-      "telegramUrl": "https://t.me/ukrpravda_news/80739",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T23:05:48.898Z",
-    "createdAt": "2026-07-07T23:05:48.898Z"
-  },
-  {
-    "id": "tg-ukrpravda_news-80740",
-    "type": "strategic",
-    "title": "UPD. Мер Кличко повідомив про двох постраждалих",
-    "description": "UPD. Мер Кличко повідомив про двох постраждалих\n\nНаразі відомо про одного постраждалого внаслідок російських ударів, повідомляє голова КМВА Ткаченко\n\n📰 підписатися",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T22:36:51+00:00",
-    "source": "Telegram: Ukrainska Pravda",
-    "metadata": {
-      "telegramChannel": "ukrpravda_news",
-      "telegramChannelName": "Ukrainska Pravda",
-      "telegramPostId": "ukrpravda_news/80740",
-      "bias": "pro-ukrainian",
-      "weight": 1,
-      "telegramUrl": "https://t.me/ukrpravda_news/80740",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T23:05:48.898Z",
-    "createdAt": "2026-07-07T23:05:48.898Z"
-  },
-  {
-    "id": "tg-intelslava-89900",
-    "type": "battle",
-    "title": "🇺🇸❌🇮🇷 — NEW: U.S. Central Command:",
-    "description": "🇺🇸❌🇮🇷 — NEW: U.S. Central Command:\nU.S. Central Command forces have begun launching a series of powerful strikes against Iran to impose heavy costs for targeting and attacking commercial shipping crewed by innocent civilians in an international waterway. \n\nThe U.S. strikes are in response to Iranian attacks on three commercial vessels that were transiting the Strait of Hormuz. Iran’s demonstrated aggression was unwarranted, dangerous, and a clear violation of the ceasefire.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T21:16:23+00:00",
-    "source": "Telegram: Intel Slava Z",
-    "metadata": {
-      "telegramChannel": "intelslava",
-      "telegramChannelName": "Intel Slava Z",
-      "telegramPostId": "intelslava/89900",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/intelslava/89900",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T21:26:57.685Z",
-    "createdAt": "2026-07-07T21:26:57.685Z"
-  },
-  {
-    "id": "tg-intelslava-89901",
-    "type": "battle",
-    "title": "🇺🇸❌🇮🇷 — NEW: U.S. Central Command: U.S. Central Command forces have begun la",
-    "description": "🇺🇸❌🇮🇷 — NEW: U.S. Central Command: U.S. Central Command forces have begun launching a series of powerful strikes against Iran to impose heavy costs for targeting and attacking commercial shipping crewed by innocent civilians in an international waterway. …",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T21:17:25+00:00",
-    "source": "Telegram: Intel Slava Z",
-    "metadata": {
-      "telegramChannel": "intelslava",
-      "telegramChannelName": "Intel Slava Z",
-      "telegramPostId": "intelslava/89901",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/intelslava/89901",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T21:26:57.685Z",
-    "createdAt": "2026-07-07T21:26:57.685Z"
-  },
-  {
-    "id": "tg-tass_agency-384225",
-    "type": "battle",
-    "title": "🚨 Центральное командование ВС США заявило о начале \"серии мощных ударов\" по Ира",
-    "description": "🚨 Центральное командование ВС США заявило о начале \"серии мощных ударов\" по Ирану.\n\nСША наносят удары в ответ на \"атаки Ирана по трем коммерческим судам в Ормузском проливе\", сообщает СЕНТКОМ.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T21:19:06+00:00",
-    "source": "Telegram: TASS",
-    "metadata": {
-      "telegramChannel": "tass_agency",
-      "telegramChannelName": "TASS",
-      "telegramPostId": "tass_agency/384225",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/tass_agency/384225",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T21:26:59.397Z",
-    "createdAt": "2026-07-07T21:26:59.397Z"
-  },
-  {
-    "id": "tg-rian_ru-341778",
-    "type": "strategic",
-    "title": "Американцы начали серию ударов по Ирану, заявили в Центральном командовании арми",
-    "description": "Американцы начали серию ударов по Ирану, заявили в Центральном командовании армии США.\n\nШесть взрывов прогремели на иранском острове Кешм в Ормузском проливе, также несколько взрывов прогремели в иранском городе Сирик, передают СМИ Ирана.\n\nUPD: Шесть взрывов прогремели в городе Бендер-Аббас на юге Ирана.\n\n🔹 Подписаться на РИА Новости",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T21:18:08+00:00",
-    "source": "Telegram: RIA Novosti",
-    "metadata": {
-      "telegramChannel": "rian_ru",
-      "telegramChannelName": "RIA Novosti",
-      "telegramPostId": "rian_ru/341778",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/rian_ru/341778",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T21:27:01.151Z",
-    "createdAt": "2026-07-07T21:27:01.151Z"
-  },
-  {
-    "id": "tg-boris_rozhin-217410",
-    "type": "strategic",
-    "title": "ZALA Z-16: ключевые эпизоды разведки и объективного контроля. Июнь 2026 года",
-    "description": "ZALA Z-16: ключевые эпизоды разведки и объективного контроля. Июнь 2026 года\n\nВ июне 2026 года расчеты БПЛА ZALA Z-16 выполняли работу в составе РУК «Ланцет», задачи совместно с авиацией, артиллерией, РСЗО и расчётами ударных БПЛА,  обеспечивая объективный контроль средств поражения пунктов дислокации, переправ и других объектов противника.\n\nИнтеллектуальная система наведения и распознавания целей ИРРА позволяет операторам БПЛА ZALA оперативно выявлять замаскированную технику, пункты временной д",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T21:10:50+00:00",
-    "source": "Telegram: Colonel Cassad",
-    "metadata": {
-      "telegramChannel": "boris_rozhin",
-      "telegramChannelName": "Colonel Cassad",
-      "telegramPostId": "boris_rozhin/217410",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/boris_rozhin/217410",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T21:27:02.969Z",
-    "createdAt": "2026-07-07T21:27:02.969Z"
-  },
-  {
-    "id": "tg-boris_rozhin-217411",
-    "type": "strategic",
-    "title": "Оживились разговоры, что ночью США снова нападут на Иран.",
-    "description": "Оживились разговоры, что ночью США снова нападут на Иран.\nРазумеется, за этим последуют удары Ирана по американским базам в регионе и так далее. \n\nВ руководстве КСИР саркастически заявили, что противники сделки с США могут не беспокоится, США сами ее скоро разорвут. Никаких иллюзий относительно Трампа в Иране не питают. Текущую паузу явно рассматривают как небольшой перерыв перед следующим раундом войны.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T21:17:58+00:00",
-    "source": "Telegram: Colonel Cassad",
-    "metadata": {
-      "telegramChannel": "boris_rozhin",
-      "telegramChannelName": "Colonel Cassad",
-      "telegramPostId": "boris_rozhin/217411",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/boris_rozhin/217411",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T21:27:02.969Z",
-    "createdAt": "2026-07-07T21:27:02.969Z"
-  },
-  {
-    "id": "tg-voenkorKotenok-73358",
-    "type": "strategic",
-    "title": "⚡️Центральное командование США (CENTCOM) сообщает о серии ударов по Ирану в отме",
-    "description": "⚡️Центральное командование США (CENTCOM) сообщает о серии ударов по Ирану в отместку за нападения на суда, проходящие через Ормузский пролив.\n\nПодпишись в MAX\n@voenkorKotenok",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T21:20:26+00:00",
-    "source": "Telegram: Voenkor Kotenok",
-    "metadata": {
-      "telegramChannel": "voenkorKotenok",
-      "telegramChannelName": "Voenkor Kotenok",
-      "telegramPostId": "voenkorKotenok/73358",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/voenkorKotenok/73358",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T21:27:10.556Z",
-    "createdAt": "2026-07-07T21:27:10.556Z"
-  },
-  {
-    "id": "tg-swodki-600180",
-    "type": "battle",
-    "title": "💥Герани против логистики врага: ВС РФ расширяют географию атак",
-    "description": "💥Герани против логистики врага: ВС РФ расширяют географию атак\n\nВ ночь на 7 июля российские БПЛА нанесли удары по инфраструктурным объектам в нескольких регионах Украины. В Кривом Роге полностью сгорел сортировочный терминал «Новой почты» — здание разрушено, пожар потушен лишь к утру. Почти одновременно атаке подвергся логистический хаб №1 в населённом пункте Самар (Днепропетровская область). Также зафиксированы попадания по автотехцентру под Днепропетровском и АЗС в Запорожье, Каменском, Сумск",
-    "location": {
-      "lat": 47.8388,
-      "lng": 35.1396
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T21:15:23+00:00",
-    "source": "Telegram: SWODKI",
-    "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/600180",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/swodki/600180",
-      "region": "Zaporizhia Oblast"
-    },
-    "lastUpdated": "2026-07-07T21:27:14.232Z",
-    "createdAt": "2026-07-07T21:27:14.232Z"
-  },
-  {
-    "id": "tg-swodki-600184",
-    "type": "strike",
-    "title": "Иран настаивает...",
-    "description": "Иран настаивает...\n\nИран вчера вечером нанес удар двумя ракетами по катарскому танкеру Al Rekayyat и саудовскому Wedyan попытавшимся пройти Ормузский пролив по \"оманскому коридору\" (зеленые стрелочки), который в одностороннем порядке был открыт Оманом на юге пролива для выхода судов из него. А не по \"иранскому северному коридору\" (красные стрелочки), за проход по которому Иран берет плату.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T21:21:30+00:00",
-    "source": "Telegram: SWODKI",
-    "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/600184",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/swodki/600184",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T21:27:14.232Z",
-    "createdAt": "2026-07-07T21:27:14.232Z"
-  },
-  {
-    "id": "tg-SolovievLive-376202",
-    "type": "battle",
-    "title": "📸 США начали наносить серию ударов по Ирану в ответ на ",
-    "description": "📸 США начали наносить серию ударов по Ирану в ответ на \nобстрелы и нападения на коммерческие суда, проходящие через Ормузский пролив:\n\n«ВС Центрального командования США начали наносить серию мощных ударов по Ирану, чтобы возложить на него высокую цену за обстрелы и нападения на коммерческие суда с экипажами из ни в чём не повинных гражданских лиц, находившиеся в международных водах. Удары США стали ответом на атаки Ирана против трёх коммерческих судов, проходивших через Ормузский пролив. Продем",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T21:26:31+00:00",
-    "source": "Telegram: Solovyov Live",
-    "metadata": {
-      "telegramChannel": "SolovievLive",
-      "telegramChannelName": "Solovyov Live",
-      "telegramPostId": "SolovievLive/376202",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/SolovievLive/376202",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T21:27:19.648Z",
-    "createdAt": "2026-07-07T21:27:19.648Z"
-  },
-  {
-    "id": "tg-tassagency_en-87595",
-    "type": "battle",
-    "title": "The United States announced that there will be possible consequences for Iran, w",
-    "description": "The United States announced that there will be possible consequences for Iran, whom it accuses of attacking ships in the Strait of Hormuz, Reuters reported citing US administration officials.\n\nAccording to the agency, Washington cancelled its general license easing sanctions on Iranian oil until August 21 and described the purported attacks as \"wholly unacceptable.\" At the same time, a US administration official said US negotiators continue to work towards the final peace agreement in good faith",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T21:18:01+00:00",
-    "source": "Telegram: TASS English",
-    "metadata": {
-      "telegramChannel": "tassagency_en",
-      "telegramChannelName": "TASS English",
-      "telegramPostId": "tassagency_en/87595",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/tassagency_en/87595",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T21:27:41.866Z",
-    "createdAt": "2026-07-07T21:27:41.866Z"
-  },
-  {
-    "id": "tg-tassagency_en-87596",
-    "type": "battle",
-    "title": "❗️US Central Command announces the start of a “series of powerful strikes” on Ir",
-    "description": "❗️US Central Command announces the start of a “series of powerful strikes” on Iran.\n\nAccording to CENTCOM, the US is carrying out strikes “in response to Iranian attacks on three commercial vessels that were transiting the Strait of Hormuz.”",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T21:24:05+00:00",
-    "source": "Telegram: TASS English",
-    "metadata": {
-      "telegramChannel": "tassagency_en",
-      "telegramChannelName": "TASS English",
-      "telegramPostId": "tassagency_en/87596",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/tassagency_en/87596",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T21:27:41.866Z",
-    "createdAt": "2026-07-07T21:27:41.866Z"
-  },
-  {
-    "id": "tg-southfronteng-61824",
-    "type": "strike",
-    "title": "Pakistani Civilian Plane Goes Missing Over Arabian Sea ",
-    "description": "Pakistani Civilian Plane Goes Missing Over Arabian Sea \n\nA Pakistani cargo plane with five crew members aboard went missing over the Arabian Sea late on July 7, amid rising tensions between the United States and Iran.&nbsp;\n\nThe 27-year-old Boeing 737-400, operated ​by K2 Airways, reported a navigational ⁠system issue at 21:18 Pakistan Standard Time (16:18 ​GMT) while flying toward the port city of Karachi, Pakistan Airports Authority ​said in a statement posted to Facebook.\n\nThe incident came a",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T21:16:35+00:00",
-    "source": "Telegram: SouthFront",
-    "metadata": {
-      "telegramChannel": "southfronteng",
-      "telegramChannelName": "SouthFront",
-      "telegramPostId": "southfronteng/61824",
-      "bias": "pro-russian",
-      "weight": 1,
-      "telegramUrl": "https://t.me/southfronteng/61824",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T21:28:12.358Z",
-    "createdAt": "2026-07-07T21:28:12.358Z"
-  },
-  {
-    "id": "tg-ukrpravda_news-80733",
-    "type": "strike",
-    "title": "Внаслідок російського удару по Одесі балістичною ракетою з касетною бойовою част",
-    "description": "Внаслідок російського удару по Одесі балістичною ракетою з касетною бойовою частиною 9 людей отримали поранення, постраждала інфраструктура\n\n📰 підписатися",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-07T21:13:01+00:00",
-    "source": "Telegram: Ukrainska Pravda",
-    "metadata": {
-      "telegramChannel": "ukrpravda_news",
-      "telegramChannelName": "Ukrainska Pravda",
-      "telegramPostId": "ukrpravda_news/80733",
-      "bias": "pro-ukrainian",
-      "weight": 1,
-      "telegramUrl": "https://t.me/ukrpravda_news/80733",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-07T21:28:25.189Z",
-    "createdAt": "2026-07-07T21:28:25.189Z"
   }
 ]

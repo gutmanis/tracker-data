@@ -1,5 +1,805 @@
 [
   {
+    "id": "tg-intelslava-91074",
+    "type": "strategic",
+    "title": "🇺🇸❌🇮🇷 — Reports of U.S. airstrikes targeting Kerman and Bushehr.",
+    "description": "🇺🇸❌🇮🇷 — Reports of U.S. airstrikes targeting Kerman and Bushehr.\n\n@IntelSlava",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-20T23:26:28+00:00",
+    "source": "Telegram: Intel Slava Z",
+    "metadata": {
+      "telegramChannel": "intelslava",
+      "telegramChannelName": "Intel Slava Z",
+      "telegramPostId": "intelslava/91074",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/intelslava/91074",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-21T02:51:59.621Z",
+    "createdAt": "2026-07-21T02:51:59.621Z"
+  },
+  {
+    "id": "tg-tass_agency-386212",
+    "type": "strategic",
+    "title": "❗️ВС США вновь начали наносить удары по Ирану, сообщило CENTCOM.",
+    "description": "❗️ВС США вновь начали наносить удары по Ирану, сообщило CENTCOM.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-21T01:23:58+00:00",
+    "source": "Telegram: TASS",
+    "metadata": {
+      "telegramChannel": "tass_agency",
+      "telegramChannelName": "TASS",
+      "telegramPostId": "tass_agency/386212",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/tass_agency/386212",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-21T02:52:01.387Z",
+    "createdAt": "2026-07-21T02:52:01.387Z"
+  },
+  {
+    "id": "tg-tass_agency-386217",
+    "type": "strike",
+    "title": "Премьер Чехии выразил сомнения в эффективности \"коалиции желающих\".",
+    "description": "Премьер Чехии выразил сомнения в эффективности \"коалиции желающих\".\n\nНа вопрос агентство TASR, присоединится ли Чехия к создаваемой оборонительной архитектуре для противодействия ударам баллистическими ракетами, Бабиш ответил, что это, вероятно, станет лишь очередной \"декларацией, из которой ничего не получится\". Он также сказал, что \"итог участия Чехии в \"коалиции желающих\" равен нулю\".\n\n✔ Подпишись на ТАСС в \"Максе\"",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-21T01:54:01+00:00",
+    "source": "Telegram: TASS",
+    "metadata": {
+      "telegramChannel": "tass_agency",
+      "telegramChannelName": "TASS",
+      "telegramPostId": "tass_agency/386217",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/tass_agency/386217",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-21T02:52:01.388Z",
+    "createdAt": "2026-07-21T02:52:01.388Z"
+  },
+  {
+    "id": "tg-tass_agency-386222",
+    "type": "strategic",
+    "title": "Почти 11 тыс. абонентов Днепрорудного на Запорожье остались без воды из-за авари",
+    "description": "Почти 11 тыс. абонентов Днепрорудного на Запорожье остались без воды из-за аварии, сообщило  госпредприятие \"Вода Запорожья\".",
+    "location": {
+      "lat": 47.8388,
+      "lng": 35.1396
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-21T02:51:01+00:00",
+    "source": "Telegram: TASS",
+    "metadata": {
+      "telegramChannel": "tass_agency",
+      "telegramChannelName": "TASS",
+      "telegramPostId": "tass_agency/386222",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/tass_agency/386222",
+      "region": "Zaporizhia Oblast"
+    },
+    "lastUpdated": "2026-07-21T02:52:01.388Z",
+    "createdAt": "2026-07-21T02:52:01.388Z"
+  },
+  {
+    "id": "tg-rian_ru-342588",
+    "type": "strike",
+    "title": "ВСУ ударили ракетами по Белгороду и Белгородскому округу, пострадавших нет.",
+    "description": "ВСУ ударили ракетами по Белгороду и Белгородскому округу, пострадавших нет.\n\n🔹 Подписаться на РИА Новости",
+    "location": {
+      "lat": 50.5945,
+      "lng": 36.5872
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-21T00:03:57+00:00",
+    "source": "Telegram: RIA Novosti",
+    "metadata": {
+      "telegramChannel": "rian_ru",
+      "telegramChannelName": "RIA Novosti",
+      "telegramPostId": "rian_ru/342588",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/rian_ru/342588",
+      "region": "Belgorod Oblast"
+    },
+    "lastUpdated": "2026-07-21T02:52:03.238Z",
+    "createdAt": "2026-07-21T02:52:03.238Z"
+  },
+  {
+    "id": "tg-boris_rozhin-219126",
+    "type": "strategic",
+    "title": "Ещё один ухилянт ушёл водным маршрутом от людоловов, которые хотели его уволочь ",
+    "description": "Ещё один ухилянт ушёл водным маршрутом от людоловов, которые хотели его уволочь на фронт.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-21T00:03:01+00:00",
+    "source": "Telegram: Colonel Cassad",
+    "metadata": {
+      "telegramChannel": "boris_rozhin",
+      "telegramChannelName": "Colonel Cassad",
+      "telegramPostId": "boris_rozhin/219126",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/boris_rozhin/219126",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-21T02:52:05.164Z",
+    "createdAt": "2026-07-21T02:52:05.164Z"
+  },
+  {
+    "id": "tg-boris_rozhin-219127",
+    "type": "strategic",
+    "title": "ВС Австралии продолжают готовиться к вероятному противостоянию с НОАК в Азиатско",
+    "description": "ВС Австралии продолжают готовиться к вероятному противостоянию с НОАК в Азиатско-Тихоокеанском регионе\n\nАвстралийские вооружённые силы в ходе учений Tungsten Forge / Gauntlet Strike впервые задействовали основной боевой танк M1A2 Abrams, внешний облик которого был адаптирован под обводы китайского Type 99 для имитации техники вероятного противника. Подобная маскировка позволяет экипажам и расчётам противотанковых средств отрабатывать процедуры обнаружения, распознавания и поражения целей с учёто",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-21T01:03:01+00:00",
+    "source": "Telegram: Colonel Cassad",
+    "metadata": {
+      "telegramChannel": "boris_rozhin",
+      "telegramChannelName": "Colonel Cassad",
+      "telegramPostId": "boris_rozhin/219127",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/boris_rozhin/219127",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-21T02:52:05.164Z",
+    "createdAt": "2026-07-21T02:52:05.164Z"
+  },
+  {
+    "id": "tg-boris_rozhin-219133",
+    "type": "strategic",
+    "title": "Моменты СВО. Будни фронта.",
+    "description": "Моменты СВО. Будни фронта.\n\n@Tristatridzatri",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-21T02:05:08+00:00",
+    "source": "Telegram: Colonel Cassad",
+    "metadata": {
+      "telegramChannel": "boris_rozhin",
+      "telegramChannelName": "Colonel Cassad",
+      "telegramPostId": "boris_rozhin/219133",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/boris_rozhin/219133",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-21T02:52:05.164Z",
+    "createdAt": "2026-07-21T02:52:05.164Z"
+  },
+  {
+    "id": "tg-dva_majors-96397",
+    "type": "strike",
+    "title": "#Сводка на утро 21 июля 2026 года",
+    "description": "#Сводка на утро 21 июля 2026 года\n\n▪️Минобороны России продолжило радовать серьёзными ударами по морским судам в районе портов Одесской области, выбивает экономически привлекательный для Запада потенциал приморского региона. Ударные дроны продолжили выбивать АЗС (например, в Сумской области) и иные важные для логистики объекты (гипермаркет \"Эпицентр\" в Сумах).\n\n▪️Противник не снижает интенсивности ударов: только за вчерашний день сообщалось о 161-м сбитом БПЛА ВСУ. Под ударами логистические цент",
+    "location": {
+      "lat": 47.8388,
+      "lng": 35.1396
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-21T02:46:11+00:00",
+    "source": "Telegram: Two Majors",
+    "metadata": {
+      "telegramChannel": "dva_majors",
+      "telegramChannelName": "Two Majors",
+      "telegramPostId": "dva_majors/96397",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/dva_majors/96397",
+      "region": "Zaporizhia Oblast"
+    },
+    "lastUpdated": "2026-07-21T02:52:07.383Z",
+    "createdAt": "2026-07-21T02:52:07.383Z"
+  },
+  {
+    "id": "tg-RVvoenkor-119580",
+    "type": "strike",
+    "title": "‼️🇮🇷🇺🇸Иран ударил по ракетным установкам HIMARS в Кувейте",
+    "description": "‼️🇮🇷🇺🇸Иран ударил по ракетным установкам HIMARS в Кувейте\n\n▪️В ответ на ракетные удары врага по Ирану и в рамках восемнадцатой фазы операции \"Молния\", сухопутные войска армии, используя ракеты наземного базирования, нанесли удар по системам \"HIMARS\", принадлежащим американским террористическим силам на базе \"Ариджан\" в Кувейте.\n➖\"HIMARS\" – это мобильная ракетная система, отличающаяся высокой скоростью и способностью поражать наземные цели. Уничтожение этих систем наносит ущерб как наступател",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-20T23:17:01+00:00",
+    "source": "Telegram: Operation Z (RV)",
+    "metadata": {
+      "telegramChannel": "RVvoenkor",
+      "telegramChannelName": "Operation Z (RV)",
+      "telegramPostId": "RVvoenkor/119580",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/RVvoenkor/119580",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-21T02:52:09.357Z",
+    "createdAt": "2026-07-21T02:52:09.357Z"
+  },
+  {
+    "id": "tg-RVvoenkor-119586",
+    "type": "strike",
+    "title": "‼️🇷🇺💥Серия мощных взрывов: враг атакует Белгород",
+    "description": "‼️🇷🇺💥Серия мощных взрывов: враг атакует Белгород\n\n▪️Силы ПВО отражают массированный удар ВСУ по городу.\n▪️Враг ударил ракетами по Белгороду и Белгородскому округу, пострадавших нет.\n⚠️Подписаться на RV: MAX | t.me/rusvesnasu",
+    "location": {
+      "lat": 50.5945,
+      "lng": 36.5872
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-20T23:51:30+00:00",
+    "source": "Telegram: Operation Z (RV)",
+    "metadata": {
+      "telegramChannel": "RVvoenkor",
+      "telegramChannelName": "Operation Z (RV)",
+      "telegramPostId": "RVvoenkor/119586",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/RVvoenkor/119586",
+      "region": "Belgorod Oblast"
+    },
+    "lastUpdated": "2026-07-21T02:52:09.357Z",
+    "createdAt": "2026-07-21T02:52:09.357Z"
+  },
+  {
+    "id": "tg-RVvoenkor-119588",
+    "type": "strike",
+    "title": "‼️🇷🇺Ракетная опасность в центре и на юге России",
+    "description": "‼️🇷🇺Ракетная опасность в центре и на юге России\n\n▪️Ракетная опасность объявлена в Ставропольском крае, Ростовской, Волгоградской, Саратовской, Орловской, Липецкой, Калужской, Астраханской областях и в Татарстане.\n▪️Населению рекомендовано оставаться дома, возможны перебои в работе мобильного интернета, передаёт РСЧС.\n▪️ Временные ограничения на приём и выпуск воздушных судов введены в аэропортах Казани, Саратова, Ульяновска, Волгограда и Самары, сообщает Росавиация.\n⚠️Подписаться на RV: MAX | ",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-21T00:39:40+00:00",
+    "source": "Telegram: Operation Z (RV)",
+    "metadata": {
+      "telegramChannel": "RVvoenkor",
+      "telegramChannelName": "Operation Z (RV)",
+      "telegramPostId": "RVvoenkor/119588",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/RVvoenkor/119588",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-21T02:52:09.357Z",
+    "createdAt": "2026-07-21T02:52:09.357Z"
+  },
+  {
+    "id": "tg-swodki-604128",
+    "type": "civilian_attack",
+    "title": "Вслед за отключениями электроэнергии в Крыму начались и отключения воды. Полуост",
+    "description": "Вслед за отключениями электроэнергии в Крыму начались и отключения воды. Полуостров постепенно превращается в зону гуманитарной катастрофы, где проживание людей станет невозможным. Симферополь, Керчь, Феодосия, Джанкой, Алушта, Николаевка, Мирное, Верхние Орешники, Аджимушкай сегодня частично останутся без воды, заявили местные власти. Это фактически все крупнейшие населенные пункты.",
+    "location": {
+      "lat": 44.9521,
+      "lng": 34.1024
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-20T23:05:13+00:00",
+    "source": "Telegram: SWODKI",
+    "metadata": {
+      "telegramChannel": "swodki",
+      "telegramChannelName": "SWODKI",
+      "telegramPostId": "swodki/604128",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/swodki/604128",
+      "region": "Crimea"
+    },
+    "lastUpdated": "2026-07-21T02:52:15.098Z",
+    "createdAt": "2026-07-21T02:52:15.098Z"
+  },
+  {
+    "id": "tg-swodki-604129",
+    "type": "battle",
+    "title": "В рамках духа Анкориджа американский самолет разведчик продолжает координировать",
+    "description": "В рамках духа Анкориджа американский самолет разведчик продолжает координировать все атаки хохлов по Крыму и черноморскому побережью  в целом. Он отслеживает активность всех систем ПВО, РЛС и далее по списку.",
+    "location": {
+      "lat": 44.9521,
+      "lng": 34.1024
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-20T23:15:12+00:00",
+    "source": "Telegram: SWODKI",
+    "metadata": {
+      "telegramChannel": "swodki",
+      "telegramChannelName": "SWODKI",
+      "telegramPostId": "swodki/604129",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/swodki/604129",
+      "region": "Crimea"
+    },
+    "lastUpdated": "2026-07-21T02:52:15.098Z",
+    "createdAt": "2026-07-21T02:52:15.098Z"
+  },
+  {
+    "id": "tg-swodki-604130",
+    "type": "battle",
+    "title": "🇺🇸🇮🇷США начали новую волну ударов по Ирану, — CENTCOM.",
+    "description": "🇺🇸🇮🇷США начали новую волну ударов по Ирану, — CENTCOM.\n\n▪️Названная цель, как и в прошлые разы, – ослабить способность Ирана атаковать коммерческие суда в Ормузском проливе.\n▪️США бомбят города Кеннарак, Куш, Сирик, порт Бендер-Аббас и порт Чабахар в юго-восточной части Ирана.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-20T23:40:21+00:00",
+    "source": "Telegram: SWODKI",
+    "metadata": {
+      "telegramChannel": "swodki",
+      "telegramChannelName": "SWODKI",
+      "telegramPostId": "swodki/604130",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/swodki/604130",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-21T02:52:15.098Z",
+    "createdAt": "2026-07-21T02:52:15.098Z"
+  },
+  {
+    "id": "tg-swodki-604137",
+    "type": "strike",
+    "title": "🇮🇷🇺🇸Иран ударил по ракетным установкам HIMARS в Кувейте",
+    "description": "🇮🇷🇺🇸Иран ударил по ракетным установкам HIMARS в Кувейте\n\n▪️В ответ на ракетные удары врага по Ирану и в рамках восемнадцатой фазы операции \"Молния\", сухопутные войска армии, используя ракеты наземного базирования, нанесли удар по системам \"HIMARS\", принадлежащим американским террористическим силам на базе \"Ариджан\" в Кувейте.\n➖\"HIMARS\" – это мобильная ракетная система, отличающаяся высокой скоростью и способностью поражать наземные цели. Уничтожение этих систем наносит ущерб как наступательн",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-20T23:45:07+00:00",
+    "source": "Telegram: SWODKI",
+    "metadata": {
+      "telegramChannel": "swodki",
+      "telegramChannelName": "SWODKI",
+      "telegramPostId": "swodki/604137",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/swodki/604137",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-21T02:52:15.098Z",
+    "createdAt": "2026-07-21T02:52:15.098Z"
+  },
+  {
+    "id": "tg-swodki-604139",
+    "type": "strategic",
+    "title": "⚡️Почти 100 американских военнослужащих получили ранения в результате иранских у",
+    "description": "⚡️Почти 100 американских военнослужащих получили ранения в результате иранских ударов по военным базам США в этом месяце, — CBS News.\n\nПо данным Пентагона, 96% пострадавших уже вернулись к службе, а большинство травм — лёгкие сотрясения мозга.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-20T23:55:10+00:00",
+    "source": "Telegram: SWODKI",
+    "metadata": {
+      "telegramChannel": "swodki",
+      "telegramChannelName": "SWODKI",
+      "telegramPostId": "swodki/604139",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/swodki/604139",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-21T02:52:15.099Z",
+    "createdAt": "2026-07-21T02:52:15.099Z"
+  },
+  {
+    "id": "tg-swodki-604140",
+    "type": "strike",
+    "title": "Дрон Хорнет поразил мобильную огневую группу армии РФ",
+    "description": "Дрон Хорнет поразил мобильную огневую группу армии РФ",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-21T00:03:01+00:00",
+    "source": "Telegram: SWODKI",
+    "metadata": {
+      "telegramChannel": "swodki",
+      "telegramChannelName": "SWODKI",
+      "telegramPostId": "swodki/604140",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/swodki/604140",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-21T02:52:15.099Z",
+    "createdAt": "2026-07-21T02:52:15.099Z"
+  },
+  {
+    "id": "tg-swodki-604142",
+    "type": "battle",
+    "title": "Наблюдается тревожная тенденция — снижение числа желающих заключить контракт. Пр",
+    "description": "Наблюдается тревожная тенденция — снижение числа желающих заключить контракт. Причина кроется, в первую очередь, в том, что военнослужащих, зачастую без разбору, бросают в пекло самых отчаянных штурмовых подразделений. Этот факт уже стал общеизвестным, и такое недальновидное решение вызывает недоумение. Среди моих знакомых, призванных в армию, немало специалистов в различных областях, чей потенциал мог бы быть эффективно использован для достижения результатов на фронте. Штурмовики, безусловно, т",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-21T02:01:01+00:00",
+    "source": "Telegram: SWODKI",
+    "metadata": {
+      "telegramChannel": "swodki",
+      "telegramChannelName": "SWODKI",
+      "telegramPostId": "swodki/604142",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/swodki/604142",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-21T02:52:15.099Z",
+    "createdAt": "2026-07-21T02:52:15.099Z"
+  },
+  {
+    "id": "tg-swodki-604143",
+    "type": "strike",
+    "title": "Компания Raytheon готовится к оперативному перезапуску серийного производства ав",
+    "description": "Компания Raytheon готовится к оперативному перезапуску серийного производства авиационных ложных целей семейства MALD. В течение последних двух лет предприятие за счет собственных средств (на НИОКР) проводило глубокую модернизацию комплекса: инженеры повысили общую надежность системы, сертифицировали элементы планера, изготовленные методом аддитивной печати (3D-печати), а также разработали новые типы боевых частей под более широкий спектр задач. Производственные мощности Raytheon для выпуска MAL",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-21T02:15:13+00:00",
+    "source": "Telegram: SWODKI",
+    "metadata": {
+      "telegramChannel": "swodki",
+      "telegramChannelName": "SWODKI",
+      "telegramPostId": "swodki/604143",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/swodki/604143",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-21T02:52:15.099Z",
+    "createdAt": "2026-07-21T02:52:15.099Z"
+  },
+  {
+    "id": "tg-swodki-604144",
+    "type": "strike",
+    "title": "«Верный ведомый» уже стреляет",
+    "description": "«Верный ведомый» уже стреляет\n&nbsp;\nВВС США отчитались о запуске УРВВ AIM-120 с БПЛА YFQ-44A, разрабатываемого фирмой Anduril по программе CCA (Collaborative Combat Aircraft). Правда, пока не по реальной цели.\n&nbsp;\nПуск был выполнен над полигоном в пустыне Мохаве в закрытом воздушном пространстве. При этом использовалась цифровая цель. Проверка выполнялась с целью подтверждения YFQ-44A осуществлять пуск в рамках параметров, строго заданных оператором-человеком, оценки качества связи между опе",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-21T02:35:08+00:00",
+    "source": "Telegram: SWODKI",
+    "metadata": {
+      "telegramChannel": "swodki",
+      "telegramChannelName": "SWODKI",
+      "telegramPostId": "swodki/604144",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/swodki/604144",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-21T02:52:15.099Z",
+    "createdAt": "2026-07-21T02:52:15.099Z"
+  },
+  {
+    "id": "tg-swodki-604145",
+    "type": "strategic",
+    "title": "Специалисты американской компании Shield AI представили обновлённые данные о ход",
+    "description": "Специалисты американской компании Shield AI представили обновлённые данные о ходе реализации программы перспективного беспилотного комплекса вертикального взлёта и посадки X-BAT, опубликовав материалы наземных испытаний, предшествующих первому полёту. Данный аппарат, спроектированный по аэродинамической схеме «летающее крыло», нацелен на достижение предельно низких показателей эффективной поверхности рассеяния (ЭПР) и способность функционировать в широком диапазоне высот (от нескольких десятков ",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-21T02:45:11+00:00",
+    "source": "Telegram: SWODKI",
+    "metadata": {
+      "telegramChannel": "swodki",
+      "telegramChannelName": "SWODKI",
+      "telegramPostId": "swodki/604145",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/swodki/604145",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-21T02:52:15.099Z",
+    "createdAt": "2026-07-21T02:52:15.099Z"
+  },
+  {
+    "id": "tg-epoddubny-28288",
+    "type": "strike",
+    "title": "Белгород под массированным ракетным ударом. Силы ПВО ведут перехват целей.",
+    "description": "Белгород под массированным ракетным ударом. Силы ПВО ведут перехват целей.\n\nПодпишись ТГ / Подпишись МАХ",
+    "location": {
+      "lat": 50.5945,
+      "lng": 36.5872
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-20T23:34:13+00:00",
+    "source": "Telegram: Poddubny ZOV",
+    "metadata": {
+      "telegramChannel": "epoddubny",
+      "telegramChannelName": "Poddubny ZOV",
+      "telegramPostId": "epoddubny/28288",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/epoddubny/28288",
+      "region": "Belgorod Oblast"
+    },
+    "lastUpdated": "2026-07-21T02:52:18.900Z",
+    "createdAt": "2026-07-21T02:52:18.900Z"
+  },
+  {
+    "id": "tg-SolovievLive-377888",
+    "type": "strategic",
+    "title": "Президент Никарагуа Даниэль Ортега заявил, что в стране больше не будут проводит",
+    "description": "Президент Никарагуа Даниэль Ортега заявил, что в стране больше не будут проводить выборы, сообщает агентство Reuters.\n\nПрезидент Никарагуа Даниэль Ортега заявил, что в этой центральноамериканской стране больше не будут проводиться выборы, что исключает возможность оспаривания результатов выборов по истечении его срока полномочий в следующем году и еще больше укрепляет правление, которое он разделяет со своей женой.\n\nОртега, который непрерывно находится у власти с 2007 года после предыдущего през",
+    "location": {
+      "lat": 44.9521,
+      "lng": 34.1024
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-21T00:09:28+00:00",
+    "source": "Telegram: Solovyov Live",
+    "metadata": {
+      "telegramChannel": "SolovievLive",
+      "telegramChannelName": "Solovyov Live",
+      "telegramPostId": "SolovievLive/377888",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/SolovievLive/377888",
+      "region": "Crimea"
+    },
+    "lastUpdated": "2026-07-21T02:52:20.661Z",
+    "createdAt": "2026-07-21T02:52:20.661Z"
+  },
+  {
+    "id": "tg-SolovievLive-377893",
+    "type": "strategic",
+    "title": "❗️ Центральное командование ВС США (CENTCOM) заявило о завершении очередной волн",
+    "description": "❗️ Центральное командование ВС США (CENTCOM) заявило о завершении очередной волны ударов по Ирану.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-21T01:29:42+00:00",
+    "source": "Telegram: Solovyov Live",
+    "metadata": {
+      "telegramChannel": "SolovievLive",
+      "telegramChannelName": "Solovyov Live",
+      "telegramPostId": "SolovievLive/377893",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/SolovievLive/377893",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-21T02:52:20.661Z",
+    "createdAt": "2026-07-21T02:52:20.661Z"
+  },
+  {
+    "id": "tg-tassagency_en-88676",
+    "type": "strategic",
+    "title": "🚨 The United Kingdom Maritime Trade Operations (UKMTO), a maritime security coo",
+    "description": "🚨 The United Kingdom Maritime Trade Operations (UKMTO), a maritime security coordination center run by the UK Navy, reported a new incident involving a tanker hit by a projectile off the coast of Oman.\n\n\"UKMTO has received a report of an incident 8NM northeast of LIMAH, OMAN UKMTO has received multiple reports that a tanker is reporting over VHF Channel 16 that it has been struck by an unknown projectile in the Strait of Hormuz. Authorities are investigating,\" the coordination center said in a ",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-20T23:21:33+00:00",
+    "source": "Telegram: TASS English",
+    "metadata": {
+      "telegramChannel": "tassagency_en",
+      "telegramChannelName": "TASS English",
+      "telegramPostId": "tassagency_en/88676",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/tassagency_en/88676",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-21T02:52:43.959Z",
+    "createdAt": "2026-07-21T02:52:43.959Z"
+  },
+  {
+    "id": "tg-tassagency_en-88677",
+    "type": "civilian_attack",
+    "title": "A new prisoner exchange between Russia and Ukraine is being prepared and could t",
+    "description": "A new prisoner exchange between Russia and Ukraine is being prepared and could take place soon, with separate lists for military personnel and civilians currently being finalized, Russian Human Rights Commissioner Yana Lantratova said in an interview with TASS.\n\n\"We are preparing an exchange in the near future. The lists are currently being coordinated, with separate lists for civilians and military personnel. This is a very important exchange that we are preparing. We deliberately do not announ",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-20T23:40:12+00:00",
+    "source": "Telegram: TASS English",
+    "metadata": {
+      "telegramChannel": "tassagency_en",
+      "telegramChannelName": "TASS English",
+      "telegramPostId": "tassagency_en/88677",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/tassagency_en/88677",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-21T02:52:43.959Z",
+    "createdAt": "2026-07-21T02:52:43.959Z"
+  },
+  {
+    "id": "tg-tassagency_en-88678",
+    "type": "strike",
+    "title": "❗️Ukrainian forces have again carried out missile strikes on Belgorod and the su",
+    "description": "❗️Ukrainian forces have again carried out missile strikes on Belgorod and the surrounding area. No casualties have been reported so far, according to the regional emergency operations center.",
+    "location": {
+      "lat": 50.5945,
+      "lng": 36.5872
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-21T00:08:50+00:00",
+    "source": "Telegram: TASS English",
+    "metadata": {
+      "telegramChannel": "tassagency_en",
+      "telegramChannelName": "TASS English",
+      "telegramPostId": "tassagency_en/88678",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/tassagency_en/88678",
+      "region": "Belgorod Oblast"
+    },
+    "lastUpdated": "2026-07-21T02:52:43.959Z",
+    "createdAt": "2026-07-21T02:52:43.959Z"
+  },
+  {
+    "id": "tg-tassagency_en-88683",
+    "type": "strategic",
+    "title": "❕The US forces have completed another round of strikes against Iran, CENTCOM sai",
+    "description": "❕The US forces have completed another round of strikes against Iran, CENTCOM said.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-21T01:26:29+00:00",
+    "source": "Telegram: TASS English",
+    "metadata": {
+      "telegramChannel": "tassagency_en",
+      "telegramChannelName": "TASS English",
+      "telegramPostId": "tassagency_en/88683",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/tassagency_en/88683",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-21T02:52:43.959Z",
+    "createdAt": "2026-07-21T02:52:43.959Z"
+  },
+  {
+    "id": "tg-tassagency_en-88685",
+    "type": "strategic",
+    "title": "Russia has returned 550 servicemen from Ukrainian captivity since mid-May as a r",
+    "description": "Russia has returned 550 servicemen from Ukrainian captivity since mid-May as a result of several successful exchanges, Russian Human Rights Commissioner Yana Lantratova said in an interview with TASS.\n\n\"The first exchange took place on the very first day I started working in this position. Then another one followed just three weeks later. During this period, together with the Defense Ministry and relevant security agencies, we managed to bring back 550 servicemen,\" Lantratova said.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-21T02:40:11+00:00",
+    "source": "Telegram: TASS English",
+    "metadata": {
+      "telegramChannel": "tassagency_en",
+      "telegramChannelName": "TASS English",
+      "telegramPostId": "tassagency_en/88685",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/tassagency_en/88685",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-21T02:52:43.959Z",
+    "createdAt": "2026-07-21T02:52:43.959Z"
+  },
+  {
+    "id": "tg-rusvesnasu-33300",
+    "type": "strategic",
+    "title": "‼️🇷🇺❤️Россия — цивилизация, дающая возможность различным народам развивать сво",
+    "description": "‼️🇷🇺❤️Россия — цивилизация, дающая возможность различным народам развивать свою культуру и религию; это мини-мир\n\n▪️Об этом заявил замглавы Россотрудничества А. Клещёв:\n▪️Русский язык — язык культуры, науки и души, всё более важный в экономике и развитии; входит в десятку самых популярных для изучения.\n▪️В Африке говорят: «Мы не любим \"этих\" — они смотрят свысока, не любим \"тех\" — они выжимают нас, а вас, русских, любим как братьев».\n▪️Россия — центр образования с сильными естественно-научными",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-21T02:04:01+00:00",
+    "source": "Telegram: Russian Spring",
+    "metadata": {
+      "telegramChannel": "rusvesnasu",
+      "telegramChannelName": "Russian Spring",
+      "telegramPostId": "rusvesnasu/33300",
+      "bias": "pro-russian",
+      "weight": 1,
+      "telegramUrl": "https://t.me/rusvesnasu/33300",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-07-21T02:52:45.981Z",
+    "createdAt": "2026-07-21T02:52:45.981Z"
+  },
+  {
+    "id": "tg-vrogov-25313",
+    "type": "strike",
+    "title": "💪Е.Балицкий доложил Президенту, что трасса «Новороссия» взята под полный контро",
+    "description": "💪Е.Балицкий доложил Президенту, что трасса «Новороссия» взята под полный контроль, что эффективность вражеских дронов значительно упала...\n\nНет сомнения, что г-н&nbsp; Балицкий&nbsp; - кристально честный человек и врать не будет. Тем более Президенту.\n\nА учитывая, что Евгений Витальевич не просто губернатор, а целый генерал-губернатор, то ложь, доложенная Верховному Главнокомандующему, была бы настоящим преступлением&#33;\n\nКак точно сказал в мае 2024 года тогда ещё кандидат на пост министра обо",
+    "location": {
+      "lat": 47.8388,
+      "lng": 35.1396
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-07-21T02:20:51+00:00",
+    "source": "Telegram: Vladimir Rogov",
+    "metadata": {
+      "telegramChannel": "vrogov",
+      "telegramChannelName": "Vladimir Rogov",
+      "telegramPostId": "vrogov/25313",
+      "bias": "pro-russian",
+      "weight": 1,
+      "telegramUrl": "https://t.me/vrogov/25313",
+      "region": "Zaporizhia Oblast"
+    },
+    "lastUpdated": "2026-07-21T02:52:57.591Z",
+    "createdAt": "2026-07-21T02:52:57.591Z"
+  },
+  {
     "id": "tg-mod_russia-65767",
     "type": "strategic",
     "title": "Минобороны России запускает новый мультимедийный проект с рассекреченными докуме",
@@ -113023,31 +113823,6 @@
     },
     "lastUpdated": "2026-07-14T13:50:18.841Z",
     "createdAt": "2026-07-14T13:50:18.841Z"
-  },
-  {
-    "id": "tg-southfronteng-62000",
-    "type": "strike",
-    "title": "Iran Sets Two UAE Tankers Ablaze as U.S. Resumes Strikes (Videos)",
-    "description": "Iran Sets Two UAE Tankers Ablaze as U.S. Resumes Strikes (Videos)\n\nThe United Arab Emirates Ministry of Defence announced early on July 14 that two national oil tankers, Mombasa and Al Bahiyah, were targeted by two Iranian cruise missiles in the southern passage of the Strait of Hormuz, within Omani territorial waters. \n\nThe announcement came as another round of United States strikes hit the Islamic Republic.\n\nThe attack resulted in the death of one crew member aboard the Mombasa, an Indian nati",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-07-13T23:56:21+00:00",
-    "source": "Telegram: SouthFront",
-    "metadata": {
-      "telegramChannel": "southfronteng",
-      "telegramChannelName": "SouthFront",
-      "telegramPostId": "southfronteng/62000",
-      "bias": "pro-russian",
-      "weight": 1,
-      "telegramUrl": "https://t.me/southfronteng/62000",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-07-14T13:50:20.599Z",
-    "createdAt": "2026-07-14T13:50:20.599Z"
   },
   {
     "id": "tg-southfronteng-62004",

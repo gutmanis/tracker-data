@@ -1,5 +1,280 @@
 [
   {
+    "id": "tg-mod_russia-66350",
+    "type": "strategic",
+    "title": "💥 Огненный шквал в ночи",
+    "description": "💥 Огненный шквал в ночи\n\nРасчет РСЗО «Град» группировки «Восток» уничтожил опорный пункт ВСУ в Запорожской области.\n\n▫️ Канал Минобороны России в MAКС – источник мощных новостей.",
+    "location": {
+      "lat": 47.8388,
+      "lng": 35.1396
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-08T03:01:01+00:00",
+    "source": "Telegram: Russian MOD",
+    "metadata": {
+      "telegramChannel": "mod_russia",
+      "telegramChannelName": "Russian MOD",
+      "telegramPostId": "mod_russia/66350",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/mod_russia/66350",
+      "region": "Zaporizhia Oblast"
+    },
+    "lastUpdated": "2026-08-08T03:28:04.383Z",
+    "createdAt": "2026-08-08T03:28:04.383Z"
+  },
+  {
+    "id": "tg-tass_agency-389256",
+    "type": "strategic",
+    "title": "Администрация Трампа предупреждала Украину о недопустимости нанесения ударов по ",
+    "description": "Администрация Трампа предупреждала Украину о недопустимости нанесения ударов по нефтяной инфраструктуре в Черном море, сообщает WSJ со ссылкой на источник.  США рассматривают КТК как \"важнейший канал поставок энергоресурсов из Казахстана на европейские рынки\".…",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-08T02:42:24+00:00",
+    "source": "Telegram: TASS",
+    "metadata": {
+      "telegramChannel": "tass_agency",
+      "telegramChannelName": "TASS",
+      "telegramPostId": "tass_agency/389256",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/tass_agency/389256",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-08-08T03:28:11.542Z",
+    "createdAt": "2026-08-08T03:28:11.542Z"
+  },
+  {
+    "id": "tg-rian_ru-343719",
+    "type": "strategic",
+    "title": "США добились от Украины согласия не наносить удары по не связанным с Россией тан",
+    "description": "США добились от Украины согласия не наносить удары по не связанным с Россией танкерам и инфраструктуре Каспийского трубопроводного консорциума в Черном море, сообщает Bloomberg.\n\n🟦 Подписаться на РИА Новости",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-08T02:25:36+00:00",
+    "source": "Telegram: RIA Novosti",
+    "metadata": {
+      "telegramChannel": "rian_ru",
+      "telegramChannelName": "RIA Novosti",
+      "telegramPostId": "rian_ru/343719",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/rian_ru/343719",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-08-08T03:28:13.346Z",
+    "createdAt": "2026-08-08T03:28:13.346Z"
+  },
+  {
+    "id": "tg-rian_ru-343720",
+    "type": "strike",
+    "title": "Украина больше не способна противостоять успешным ударам российской армии.",
+    "description": "Украина больше не способна противостоять успешным ударам российской армии.\n\nВ Киевской области и в глубине страны российские ракеты нанесли огромный ущерб, сообщает Welt.\n\n🟦 Подписаться на РИА Новости",
+    "location": {
+      "lat": 50.4501,
+      "lng": 30.5234
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-08T02:56:36+00:00",
+    "source": "Telegram: RIA Novosti",
+    "metadata": {
+      "telegramChannel": "rian_ru",
+      "telegramChannelName": "RIA Novosti",
+      "telegramPostId": "rian_ru/343720",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/rian_ru/343720",
+      "region": "Kyiv"
+    },
+    "lastUpdated": "2026-08-08T03:28:13.346Z",
+    "createdAt": "2026-08-08T03:28:13.346Z"
+  },
+  {
+    "id": "tg-boris_rozhin-221319",
+    "type": "strategic",
+    "title": "ZALA «Ланцет»: точно в цель&#33; Июль 2026",
+    "description": "ZALA «Ланцет»: точно в цель&#33; Июль 2026\n\nИюль подтвердил: ZALA «Ланцет» способен уничтожать разнообразные цели. Расчёты разведывательно-ударных комплексов ZALA работали по всей линии фронта и акватории Чёрного моря, нанося удары по системам связи, логистике и энергетической инфраструктуре противника. В числе поражённых объектов — антенны связи, артиллерия, пункты ротации, колонны снабжения и топливные хранилища.\n\nОтдельное внимание операторы уделяли морским угрозам: безэкипажные катера уничто",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-08T02:03:01+00:00",
+    "source": "Telegram: Colonel Cassad",
+    "metadata": {
+      "telegramChannel": "boris_rozhin",
+      "telegramChannelName": "Colonel Cassad",
+      "telegramPostId": "boris_rozhin/221319",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/boris_rozhin/221319",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-08-08T03:28:15.121Z",
+    "createdAt": "2026-08-08T03:28:15.121Z"
+  },
+  {
+    "id": "tg-boris_rozhin-221320",
+    "type": "strike",
+    "title": "В Киеве с утра пачка ракетных прилетов.",
+    "description": "В Киеве с утра пачка ракетных прилетов.",
+    "location": {
+      "lat": 50.4501,
+      "lng": 30.5234
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-08T02:50:12+00:00",
+    "source": "Telegram: Colonel Cassad",
+    "metadata": {
+      "telegramChannel": "boris_rozhin",
+      "telegramChannelName": "Colonel Cassad",
+      "telegramPostId": "boris_rozhin/221320",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/boris_rozhin/221320",
+      "region": "Kyiv"
+    },
+    "lastUpdated": "2026-08-08T03:28:15.121Z",
+    "createdAt": "2026-08-08T03:28:15.121Z"
+  },
+  {
+    "id": "tg-boris_rozhin-221321",
+    "type": "civilian_attack",
+    "title": "Учения «Хань Гуан-42»",
+    "description": "Учения «Хань Гуан-42»\n\nДанные на 15.00 мск 07.08.2026 г.\n\n Оборона объектов\n\nВ международный аэропорт Таоюань 584-я общевойсковая бригада перебросила 4 танка M1A2T «Абрамс», 6 бронемашин CM-32, санитарные и пожарные машины с целью срыва попытки захвата воздушной гавани воздушно-десантными войсками НОАК и последующего использования объекта как плацдарма для переброски войск, техники и снабжения в направлении района Тайбэя. Военнослужащие-инженеры установили стальные ежи, формируя линию заграждени",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-08T03:03:01+00:00",
+    "source": "Telegram: Colonel Cassad",
+    "metadata": {
+      "telegramChannel": "boris_rozhin",
+      "telegramChannelName": "Colonel Cassad",
+      "telegramPostId": "boris_rozhin/221321",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/boris_rozhin/221321",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-08-08T03:28:15.122Z",
+    "createdAt": "2026-08-08T03:28:15.122Z"
+  },
+  {
+    "id": "tg-RVvoenkor-120935",
+    "type": "battle",
+    "title": "‼️🇺🇦🔥В Киеве после атаки пылают резервуары с топливом и неназванный объект",
+    "description": "‼️🇺🇦🔥В Киеве после атаки пылают резервуары с топливом и неназванный объект\n\n▪️Пожар на территории нежилых построек в Голосеевском районе, – заявил Кличко.\n▪️В Оболонском районе поступило сообщение о возгорании резервуаров с топливом.\n⚠️Подписаться на RV: MAX | t.me/RVvoenkor",
+    "location": {
+      "lat": 50.4501,
+      "lng": 30.5234
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-08T03:00:40+00:00",
+    "source": "Telegram: Operation Z (RV)",
+    "metadata": {
+      "telegramChannel": "RVvoenkor",
+      "telegramChannelName": "Operation Z (RV)",
+      "telegramPostId": "RVvoenkor/120935",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/RVvoenkor/120935",
+      "region": "Kyiv"
+    },
+    "lastUpdated": "2026-08-08T03:28:18.794Z",
+    "createdAt": "2026-08-08T03:28:18.794Z"
+  },
+  {
+    "id": "tg-swodki-609524",
+    "type": "strike",
+    "title": "В Совбезе и руководстве спецслужб обсуждают беспрецедентную утечку, которая де-ф",
+    "description": "В Совбезе и руководстве спецслужб обсуждают беспрецедентную утечку, которая де-факто переводит конфликт с НАТО из гибридного формата в прямое столкновение.\n\nПо данным наших высокопоставленных источников, масштабный взлом внутренних переписок СБУ российскими хакерами дал Москве неопровержимые документальные доказательства того, что удары по нефтяным терминалам на северо-западе РФ координировались напрямую западной разведкой.\n\nАрхитектура атак на Ленинградскую и Калининградскую области выстраивала",
+    "location": {
+      "lat": 50.4501,
+      "lng": 30.5234
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-08T02:50:10+00:00",
+    "source": "Telegram: SWODKI",
+    "metadata": {
+      "telegramChannel": "swodki",
+      "telegramChannelName": "SWODKI",
+      "telegramPostId": "swodki/609524",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/swodki/609524",
+      "region": "Kyiv"
+    },
+    "lastUpdated": "2026-08-08T03:28:24.223Z",
+    "createdAt": "2026-08-08T03:28:24.223Z"
+  },
+  {
+    "id": "tg-tassagency_en-90121",
+    "type": "strategic",
+    "title": "Chairman of the US Joint Chiefs of Staff Gen. Dan Caine believes that Washington",
+    "description": "Chairman of the US Joint Chiefs of Staff Gen. Dan Caine believes that Washington needs to find a way to withdraw from the conflict with Iran, because further escalation will only make things worse, CNN reported citing sources.\n\n\"Caine is looking for an off ramp,\" one of the sources told CNN.\n\nAccording to the report, over the past few weeks the US general privately made clear to other top Trump advisers that airstrikes alone will not be enough to achieve the goals set by US President Donald Trum",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-08T02:30:00+00:00",
+    "source": "Telegram: TASS English",
+    "metadata": {
+      "telegramChannel": "tassagency_en",
+      "telegramChannelName": "TASS English",
+      "telegramPostId": "tassagency_en/90121",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/tassagency_en/90121",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-08-08T03:28:51.652Z",
+    "createdAt": "2026-08-08T03:28:51.652Z"
+  },
+  {
+    "id": "tg-tassagency_en-90122",
+    "type": "strategic",
+    "title": "The US Department of Defense has removed from command Lt. Gen. Charles Costanza,",
+    "description": "The US Department of Defense has removed from command Lt. Gen. Charles Costanza, commander of the US Army’s V Corps, ABC News reported. \n\nThe zone of responsibility of the Army’s V Corps includes organizing operations in Europe and maintaining US military presence on NATO’s eastern flank. The importance of the V Corps grew amid the conflict in Ukraine, because it helps coordinate military aid to the Kiev government.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-08T03:00:00+00:00",
+    "source": "Telegram: TASS English",
+    "metadata": {
+      "telegramChannel": "tassagency_en",
+      "telegramChannelName": "TASS English",
+      "telegramPostId": "tassagency_en/90122",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/tassagency_en/90122",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-08-08T03:28:51.652Z",
+    "createdAt": "2026-08-08T03:28:51.652Z"
+  },
+  {
     "id": "tg-intelslava-92270",
     "type": "strategic",
     "title": "A few words on the development of Russian advanced technologies.",
@@ -99750,31 +100025,6 @@
     "createdAt": "2026-08-01T13:27:07.865Z"
   },
   {
-    "id": "tg-sputniklive-119675",
-    "type": "battle",
-    "title": "1 августа 1914 года Германская империя объявила войну Российской империи. Так Ро",
-    "description": "1 августа 1914 года Германская империя объявила войну Российской империи. Так Россия оказалась втянутой в Первую мировую войну.\n\n23 июля австрийцы выдвинули сербам заведомо невыполнимый ультиматум, который фактически был покушением на суверенитет Сербии. Уже 28 июля они объявляют войну и вторгаются в страну.\n\nВ ответ 31 июля Россия начинает мобилизацию. На что Германия направляет ноту — если призыв не прекратится, мы объявляем вам войну.\n\nВзволнованный германский посол Пурталес вручил министру и",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-01T03:02:02+00:00",
-    "source": "Telegram: Sputnik Live",
-    "metadata": {
-      "telegramChannel": "SputnikLive",
-      "telegramChannelName": "Sputnik Live",
-      "telegramPostId": "sputniklive/119675",
-      "bias": "pro-russian",
-      "weight": 1,
-      "telegramUrl": "https://t.me/sputniklive/119675",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-01T13:27:10.109Z",
-    "createdAt": "2026-08-01T13:27:10.109Z"
-  },
-  {
     "id": "tg-sputniklive-119677",
     "type": "battle",
     "title": "🇰🇿 🇺🇸 🇺🇦 Chevron обсуждает с властями США и Казахстана гарантии работы КТК",
@@ -104750,31 +105000,6 @@
     "createdAt": "2026-08-01T06:31:31.584Z"
   },
   {
-    "id": "tg-tassagency_en-89562",
-    "type": "strike",
-    "title": "The Pentagon has requested &#036;18.2 billion to replenish interceptor missile s",
-    "description": "The Pentagon has requested &#036;18.2 billion to replenish interceptor missile stocks, Bloomberg reported.\n\nThe funding is part of a &#036;67 billion emergency spending request for the current fiscal year. According to the news outlet, the proposal “focuses on high-profile weapons that lawmakers, Pentagon officials and analysts have said the US is running dangerously short of.”",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-01T03:14:01+00:00",
-    "source": "Telegram: TASS English",
-    "metadata": {
-      "telegramChannel": "tassagency_en",
-      "telegramChannelName": "TASS English",
-      "telegramPostId": "tassagency_en/89562",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/tassagency_en/89562",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-01T06:31:54.580Z",
-    "createdAt": "2026-08-01T06:31:54.580Z"
-  },
-  {
     "id": "tg-tassagency_en-89564",
     "type": "battle",
     "title": "A tanker has been attacked northeast of Oman’s coast, the United Kingdom Maritim",
@@ -105275,31 +105500,6 @@
     "createdAt": "2026-08-01T06:32:32.545Z"
   },
   {
-    "id": "tg-operativnoZSU-217376",
-    "type": "battle",
-    "title": "🕯9 людей загинули, ще 23 – постраждали внаслідок російської балістичної атаки, ",
-    "description": "🕯9 людей загинули, ще 23 – постраждали внаслідок російської балістичної атаки, — ДСНС \n\nСталися пожежі та руйнування у 5 районах столиці.\n\n🫡https://t.me/operativnoZSU/",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-01T03:19:22+00:00",
-    "source": "Telegram: Operativno ZSU",
-    "metadata": {
-      "telegramChannel": "OperativnoZSU",
-      "telegramChannelName": "Operativno ZSU",
-      "telegramPostId": "operativnoZSU/217376",
-      "bias": "pro-ukrainian",
-      "weight": 1,
-      "telegramUrl": "https://t.me/operativnoZSU/217376",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-01T06:32:34.365Z",
-    "createdAt": "2026-08-01T06:32:34.365Z"
-  },
-  {
     "id": "tg-operativnoZSU-217381",
     "type": "battle",
     "title": "9 загиблих, 28 постраждалих – у Києві фіксують наслідки балістичної атаки рф.",
@@ -105523,280 +105723,5 @@
     },
     "lastUpdated": "2026-08-01T06:32:46.076Z",
     "createdAt": "2026-08-01T06:32:46.076Z"
-  },
-  {
-    "id": "tg-mod_russia-66155",
-    "type": "strike",
-    "title": "🔥  Морская логистика ВСУ под огнем",
-    "description": "🔥  Морская логистика ВСУ под огнем\n\nВчера дроноводы ударили по трем морским судам, участвующим в транспортировке вооружения и имущества военного назначения для ВСУ:\n\n▪️  Три ударных БПЛА «Герань-2 сикер» и «Гербера сикер» обрушились на два сухогруза в Черном море южнее Одессы.\n\n▪️  Барражирующий боеприпас «Ланцет» поразил грузовое судно на рейде порта «Черноморск». \n\n#ВойскаБПС\n🔹 Канал Минобороны России в MAКС – боевая работа 24/7.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-01T02:00:53+00:00",
-    "source": "Telegram: Russian MOD",
-    "metadata": {
-      "telegramChannel": "mod_russia",
-      "telegramChannelName": "Russian MOD",
-      "telegramPostId": "mod_russia/66155",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/mod_russia/66155",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-01T03:12:42.438Z",
-    "createdAt": "2026-08-01T03:12:42.438Z"
-  },
-  {
-    "id": "tg-mod_russia-66156",
-    "type": "strategic",
-    "title": "Выше неба, круче космоса",
-    "description": "Выше неба, круче космоса\n\nСегодня исполнилось 11 лет с момента образования Воздушно-космических сил России.\n\n💪  Наши ВКС − это крутые парни и самое современное вооружение. Они защищают наше небо и покоряют космос. ВКС России играют важную роль в обеспечении безопасности нашей страны.\n\nЗа мужество и героизм в ходе спецоперации более 20 тысяч военнослужащих ВКС удостоены государственных наград, 43 из них удостоены высшего звания «Герой России». 29 воинских частей заслужили почетное наименование «",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-01T03:00:12+00:00",
-    "source": "Telegram: Russian MOD",
-    "metadata": {
-      "telegramChannel": "mod_russia",
-      "telegramChannelName": "Russian MOD",
-      "telegramPostId": "mod_russia/66156",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/mod_russia/66156",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-01T03:12:42.438Z",
-    "createdAt": "2026-08-01T03:12:42.438Z"
-  },
-  {
-    "id": "tg-tass_agency-388154",
-    "type": "strike",
-    "title": "ВС РФ в июле не менее восьми раз поразили на Украине предприятия, связанные с пр",
-    "description": "ВС РФ в июле не менее восьми раз поразили на Украине предприятия, связанные с производством крылатых ракет \"Фламинго\". Об этом свидетельствуют подсчеты ТАСС.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-01T03:03:07+00:00",
-    "source": "Telegram: TASS",
-    "metadata": {
-      "telegramChannel": "tass_agency",
-      "telegramChannelName": "TASS",
-      "telegramPostId": "tass_agency/388154",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/tass_agency/388154",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-01T03:12:49.790Z",
-    "createdAt": "2026-08-01T03:12:49.790Z"
-  },
-  {
-    "id": "tg-boris_rozhin-220495",
-    "type": "strategic",
-    "title": "ZALA «Ланцет» добивает бронетехнику в остановленной колонне ВСУ",
-    "description": "ZALA «Ланцет» добивает бронетехнику в остановленной колонне ВСУ\n\nПосле поражения головной бронемашины, возглавлявшей колонну, расчеты разведывательно-ударных комплексов ZALA «Ланцет» группировки войск «Восток» приступили к уничтожению оставшейся бронетехники противника. Операторы БПЛА ZALA Z-16 продолжали вести объективный контроль, фиксируя каждую цель.\n\nБарражирующие боеприпасы «Ланцет» точными попаданиями добили боевые машины ВСУ и автотранспорт. Вся техника колонны уничтожена. \n\nИсточник вид",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-01T02:03:01+00:00",
-    "source": "Telegram: Colonel Cassad",
-    "metadata": {
-      "telegramChannel": "boris_rozhin",
-      "telegramChannelName": "Colonel Cassad",
-      "telegramPostId": "boris_rozhin/220495",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/boris_rozhin/220495",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-01T03:12:53.457Z",
-    "createdAt": "2026-08-01T03:12:53.457Z"
-  },
-  {
-    "id": "tg-RVvoenkor-120422",
-    "type": "strategic",
-    "title": "‼️🇷🇺💥 Су-34 наносят массированные удары по врагу на фронтах СВО",
-    "description": "‼️🇷🇺💥 Су-34 наносят массированные удары по врагу на фронтах СВО\n\n▪️Тяжёлые авиабомбы ФАБ-1500 были применены по пункту временной дислокации 65-й отдельной механизированной бригады ВСУ в районе Орехова Запорожской области.\n▪️Ещё двумя авиабомбами поражён пункт временной дислокации 30-й мехбригады ВСУ в Славянске Донецкой Народной Республики.\n▪️Пятью авиабомбами ОФАБ-250-270 нанесён удар по опорному пункту украинских подразделений в лесополосе в районе н.п. Ивашкино Харьковской области.\n▪️Кроме",
-    "location": {
-      "lat": 49.9935,
-      "lng": 36.2304
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-01T02:01:10+00:00",
-    "source": "Telegram: Operation Z (RV)",
-    "metadata": {
-      "telegramChannel": "RVvoenkor",
-      "telegramChannelName": "Operation Z (RV)",
-      "telegramPostId": "RVvoenkor/120422",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/RVvoenkor/120422",
-      "region": "Kharkiv Oblast"
-    },
-    "lastUpdated": "2026-08-01T03:12:57.216Z",
-    "createdAt": "2026-08-01T03:12:57.216Z"
-  },
-  {
-    "id": "tg-RVvoenkor-120423",
-    "type": "strike",
-    "title": "‼️🇺🇦🔥Под Киевом атакован и пылает промышленный объект",
-    "description": "‼️🇺🇦🔥Под Киевом атакован и пылает промышленный объект\n\nРакета атаковала промышленный объект в Бучанском районе.\n⚠️Подписаться на RV: MAX | t.me/RVvoenkor",
-    "location": {
-      "lat": 50.4501,
-      "lng": 30.5234
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-01T02:49:01+00:00",
-    "source": "Telegram: Operation Z (RV)",
-    "metadata": {
-      "telegramChannel": "RVvoenkor",
-      "telegramChannelName": "Operation Z (RV)",
-      "telegramPostId": "RVvoenkor/120423",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/RVvoenkor/120423",
-      "region": "Kyiv"
-    },
-    "lastUpdated": "2026-08-01T03:12:57.216Z",
-    "createdAt": "2026-08-01T03:12:57.216Z"
-  },
-  {
-    "id": "tg-swodki-607508",
-    "type": "strategic",
-    "title": "Заметили, что в медиа вообще ни слова, ни репортажа, ни освещения событий в Белг",
-    "description": "Заметили, что в медиа вообще ни слова, ни репортажа, ни освещения событий в Белгородской и Курской областях + Крыма? А там ведь трэш. Антикриз простой: не говорим о проблемах - их нет. Но я вам по секрету скажу из кулуаров Кубани: в регионах денег почти нет, кипиай сейчас стоит простой - выжимать муниципалитеты штрафами и поборами, негласная подать на «особые нужды». И вот этот шаткий карточный домик ретушируют рапортами с мест и отчетами наверх о «наличии денег». То есть по отчетам «деньги есть",
-    "location": {
-      "lat": 44.9521,
-      "lng": 34.1024
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-01T01:50:12+00:00",
-    "source": "Telegram: SWODKI",
-    "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/607508",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/swodki/607508",
-      "region": "Crimea"
-    },
-    "lastUpdated": "2026-08-01T03:13:02.833Z",
-    "createdAt": "2026-08-01T03:13:02.833Z"
-  },
-  {
-    "id": "tg-swodki-607510",
-    "type": "strike",
-    "title": "🇺🇸 США делают рекордный заказ на Patriot.",
-    "description": "🇺🇸 США делают рекордный заказ на Patriot.\n\nLockheed Martin сообщила, что 29 июля правительство США предоставило дополнительное финансирование в размере 53,86 миллиарда &#036; на производство PAC-3 MSE.\n\nЭти средства идут в дополнение к ранее заключенному контракту на 4,7 миллиарда &#036; до 2032 года. Как пишет компания, это позволит увеличить производство зенитных ракет в 3 раза до 2030 года, достигнув отметки 2 000 единиц в год.\n\n#ВПК_США",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-01T02:25:10+00:00",
-    "source": "Telegram: SWODKI",
-    "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/607510",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/swodki/607510",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-01T03:13:02.833Z",
-    "createdAt": "2026-08-01T03:13:02.833Z"
-  },
-  {
-    "id": "tg-swodki-607511",
-    "type": "strike",
-    "title": "Пентагон объявляет срочный конкурс на создание автономных катеров-носителей удар",
-    "description": "Пентагон объявляет срочный конкурс на создание автономных катеров-носителей ударных БПЛА для борьбы с асимметричными угрозами в спорных акваториях (включая Персидский залив). Подразделение оборонных инноваций (DIU) запустило проект SWAP-USV (Suitable Warfighting Adaptive Payloads). МО США рассчитывает получить готовые решения уже через 120 дней.\n\nПрограмма «направлена на перелом катастрофического экономического дисбаланса, при котором США вынуждены тратить многомиллионные зенитные ракеты корабел",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-01T02:35:13+00:00",
-    "source": "Telegram: SWODKI",
-    "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/607511",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/swodki/607511",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-01T03:13:02.833Z",
-    "createdAt": "2026-08-01T03:13:02.833Z"
-  },
-  {
-    "id": "tg-SolovievLive-379378",
-    "type": "strategic",
-    "title": "ВС РФ наносят удары по  объектам противника в Одессе, Харькове и Шостке Сумской ",
-    "description": "ВС РФ наносят удары по  объектам противника в Одессе, Харькове и Шостке Сумской области, сообщают мониторинговые группы.",
-    "location": {
-      "lat": 49.9935,
-      "lng": 36.2304
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-01T02:31:58+00:00",
-    "source": "Telegram: Solovyov Live",
-    "metadata": {
-      "telegramChannel": "SolovievLive",
-      "telegramChannelName": "Solovyov Live",
-      "telegramPostId": "SolovievLive/379378",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/SolovievLive/379378",
-      "region": "Kharkiv Oblast"
-    },
-    "lastUpdated": "2026-08-01T03:13:08.501Z",
-    "createdAt": "2026-08-01T03:13:08.501Z"
-  },
-  {
-    "id": "tg-tassagency_en-89560",
-    "type": "battle",
-    "title": "Yemen’s Ansar Allah, or Houthi, movement has claimed that it forced eight Saudi ",
-    "description": "Yemen’s Ansar Allah, or Houthi, movement has claimed that it forced eight Saudi oil tankers to reroute around Africa via the Cape of Good Hope.\n\n“As part of efforts to enforce the ‘blockade-for-blockade’ formula and following steps taken by our armed forces to tighten the naval blockade of the Saudi enemy’s oil vessels, eight tankers were forced to change their course,” the group said in a statement. \n\nThe Houthis added that they would continue enforcing the naval blockade of Saudi Arabia and at",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-01T02:02:01+00:00",
-    "source": "Telegram: TASS English",
-    "metadata": {
-      "telegramChannel": "tassagency_en",
-      "telegramChannelName": "TASS English",
-      "telegramPostId": "tassagency_en/89560",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/tassagency_en/89560",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-01T03:13:31.899Z",
-    "createdAt": "2026-08-01T03:13:31.899Z"
   }
 ]

@@ -1,5 +1,280 @@
 [
   {
+    "id": "tg-shot_shot-99168",
+    "type": "strategic",
+    "title": "ВС РФ нанесли комбинированный удар по Киеву. Полыхают авиационное и производстве",
+    "description": "ВС РФ нанесли комбинированный удар по Киеву. Полыхают авиационное и производственные предприятия, а также складские помещения.  Как стало известно SHOT, на спутниках NASA отображается сильный пожар в Святошинском районе Киева в районе АT «Антонов» — это предприятие…",
+    "location": {
+      "lat": 50.4501,
+      "lng": 30.5234
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-22T02:15:05+00:00",
+    "source": "Telegram: SHOT",
+    "metadata": {
+      "telegramChannel": "shot_shot",
+      "telegramChannelName": "SHOT",
+      "telegramPostId": "shot_shot/99168",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/shot_shot/99168",
+      "region": "Kyiv"
+    },
+    "lastUpdated": "2026-08-22T02:56:09.422Z",
+    "createdAt": "2026-08-22T02:56:09.422Z"
+  },
+  {
+    "id": "tg-intelslava-92964",
+    "type": "strategic",
+    "title": "🇷🇺🇺🇦⚡️ — Footage shows a series of airstrikes carried out by the Russian Aer",
+    "description": "🇷🇺🇺🇦⚡️ — Footage shows a series of airstrikes carried out by the Russian Aerospace Forces (VKS), as follows:\n\n• Two FAB-1500 bombs against a Ukrainian Armed Forces 6th Mechanized Brigade deployment point in Kramatorsk, Donetsk Oblast;\n• Four FAB-500 bombs against a 117th Territorial Defense Brigade deployment point in Raihorodok, Donetsk Oblast;\n• One FAB-3000 bomb against a Ukrainian Armed Forces 34th Marine Brigade deployment point in Kherson.\n\n@IntelSlava",
+    "location": {
+      "lat": 48.0159,
+      "lng": 37.8028
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-22T01:42:49+00:00",
+    "source": "Telegram: Intel Slava Z",
+    "metadata": {
+      "telegramChannel": "intelslava",
+      "telegramChannelName": "Intel Slava Z",
+      "telegramPostId": "intelslava/92964",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/intelslava/92964",
+      "region": "Donetsk Oblast"
+    },
+    "lastUpdated": "2026-08-22T02:56:11.956Z",
+    "createdAt": "2026-08-22T02:56:11.956Z"
+  },
+  {
+    "id": "tg-tass_agency-391432",
+    "type": "strategic",
+    "title": "▶️ Федорову вряд ли удастся вернуться на пост главы Минобороны Украины. Таким мн",
+    "description": "▶️ Федорову вряд ли удастся вернуться на пост главы Минобороны Украины. Таким мнением с ТАСС поделился Родион Мирошник.  Видео: Алексей Малашенко/Владимир Бондаренко/ТАСС  ✔️ Подпишись на ТАСС в \"Максе\"",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-22T01:50:01+00:00",
+    "source": "Telegram: TASS",
+    "metadata": {
+      "telegramChannel": "tass_agency",
+      "telegramChannelName": "TASS",
+      "telegramPostId": "tass_agency/391432",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/tass_agency/391432",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-08-22T02:56:14.205Z",
+    "createdAt": "2026-08-22T02:56:14.205Z"
+  },
+  {
+    "id": "tg-tass_agency-391433",
+    "type": "strike",
+    "title": "🚨 В Черном море контейнеровоз RMS TEAM подвергся атаке дронов. Он следовал из п",
+    "description": "🚨 В Черном море контейнеровоз RMS TEAM подвергся атаке дронов. Он следовал из порта Гемлик в Новороссийск, сообщила турецкая компания Akkon Lines.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-22T02:03:01+00:00",
+    "source": "Telegram: TASS",
+    "metadata": {
+      "telegramChannel": "tass_agency",
+      "telegramChannelName": "TASS",
+      "telegramPostId": "tass_agency/391433",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/tass_agency/391433",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-08-22T02:56:14.205Z",
+    "createdAt": "2026-08-22T02:56:14.205Z"
+  },
+  {
+    "id": "tg-tass_agency-391436",
+    "type": "strategic",
+    "title": "Украинские порты Большой Одессы уже месяц не принимают крупные торговые суда. Эт",
+    "description": "Украинские порты Большой Одессы уже месяц не принимают крупные торговые суда. Это следует из подсчетов ТАСС.  Потери валютной выручки Украины в результате простоя портов за месяц составляют около &#036;2,17 млрд.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-22T02:25:01+00:00",
+    "source": "Telegram: TASS",
+    "metadata": {
+      "telegramChannel": "tass_agency",
+      "telegramChannelName": "TASS",
+      "telegramPostId": "tass_agency/391436",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/tass_agency/391436",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-08-22T02:56:14.205Z",
+    "createdAt": "2026-08-22T02:56:14.205Z"
+  },
+  {
+    "id": "tg-tass_agency-391438",
+    "type": "strike",
+    "title": "▶️ Дрон с российским триколором пролетел над Добропольем в День флага.",
+    "description": "▶️ Дрон с российским триколором пролетел над Добропольем в День флага.\n\nВидео: Минобороны России/ТАСС\n\n✔️ Подпишись на ТАСС в \"Максе\"",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-22T02:45:08+00:00",
+    "source": "Telegram: TASS",
+    "metadata": {
+      "telegramChannel": "tass_agency",
+      "telegramChannelName": "TASS",
+      "telegramPostId": "tass_agency/391438",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/tass_agency/391438",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-08-22T02:56:14.205Z",
+    "createdAt": "2026-08-22T02:56:14.205Z"
+  },
+  {
+    "id": "tg-boris_rozhin-223031",
+    "type": "strategic",
+    "title": "Турецкая оборонная компания ASELSAN представила автономный беспилотный подводный",
+    "description": "Турецкая оборонная компания ASELSAN представила автономный беспилотный подводный аппарат под названием KILIÇ. Генеральный директор Ахмет Акйоль заявил, что эта система, производство которой осуществляют лишь несколько стран в мире, способна перемещаться под водой и нейтрализовать вражевые цели.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-22T01:35:06+00:00",
+    "source": "Telegram: Colonel Cassad",
+    "metadata": {
+      "telegramChannel": "boris_rozhin",
+      "telegramChannelName": "Colonel Cassad",
+      "telegramPostId": "boris_rozhin/223031",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/boris_rozhin/223031",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-08-22T02:56:18.526Z",
+    "createdAt": "2026-08-22T02:56:18.526Z"
+  },
+  {
+    "id": "tg-SolovievLive-382066",
+    "type": "strike",
+    "title": "🔴🔴🔴🔴🔴 В сети появились новые кадры сегодняшних ракетных ударов по Киеву с и",
+    "description": "🔴🔴🔴🔴🔴 В сети появились новые кадры сегодняшних ракетных ударов по Киеву с использованием баллистических ракет.\n\nРакеты также летят по целям:\n\n🟥в Броварах Киевской области;\n\n🟥в Ильичёвске Одесской области;\n\n🟥по ж/д вокзалу в н.п. Раздельная Одесской области.\n\n🇷🇺Подпишись на Соловьёва&#33;",
+    "location": {
+      "lat": 50.4501,
+      "lng": 30.5234
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-22T01:34:55+00:00",
+    "source": "Telegram: Solovyov Live",
+    "metadata": {
+      "telegramChannel": "SolovievLive",
+      "telegramChannelName": "Solovyov Live",
+      "telegramPostId": "SolovievLive/382066",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/SolovievLive/382066",
+      "region": "Kyiv"
+    },
+    "lastUpdated": "2026-08-22T02:56:36.303Z",
+    "createdAt": "2026-08-22T02:56:36.303Z"
+  },
+  {
+    "id": "tg-SolovievLive-382077",
+    "type": "battle",
+    "title": "🔴🔴🔴🔴🔴 Момент атаки беспилотников по целям в Одессе. Местные каналы сообщают",
+    "description": "🔴🔴🔴🔴🔴 Момент атаки беспилотников по целям в Одессе. Местные каналы сообщают, что на месте попадания произошёл пожар.\n\nУдары также нанесены по целям в Сумах и во временно оккупированном Запорожье. \n\n🇷🇺 Подпишись на Соловьёва&#33;",
+    "location": {
+      "lat": 47.8388,
+      "lng": 35.1396
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-22T02:27:18+00:00",
+    "source": "Telegram: Solovyov Live",
+    "metadata": {
+      "telegramChannel": "SolovievLive",
+      "telegramChannelName": "Solovyov Live",
+      "telegramPostId": "SolovievLive/382077",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/SolovievLive/382077",
+      "region": "Zaporizhia Oblast"
+    },
+    "lastUpdated": "2026-08-22T02:56:36.303Z",
+    "createdAt": "2026-08-22T02:56:36.303Z"
+  },
+  {
+    "id": "tg-voenacher-95691",
+    "type": "strike",
+    "title": "Много ракет Бандероль атакуют объекты в Броварах Киевской области.",
+    "description": "Много ракет Бандероль атакуют объекты в Броварах Киевской области.\n\nВ Киеве после ракетного удара пожары в Дарницком (горит склад) и Голосеевском районах.",
+    "location": {
+      "lat": 50.4501,
+      "lng": 30.5234
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-22T01:27:47+00:00",
+    "source": "Telegram: Turned on Z War",
+    "metadata": {
+      "telegramChannel": "voenacher",
+      "telegramChannelName": "Turned on Z War",
+      "telegramPostId": "voenacher/95691",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/voenacher/95691",
+      "region": "Kyiv"
+    },
+    "lastUpdated": "2026-08-22T02:56:40.184Z",
+    "createdAt": "2026-08-22T02:56:40.184Z"
+  },
+  {
+    "id": "tg-voenacher-95692",
+    "type": "strike",
+    "title": "Также истребительная авиация наносит удары по Ильичевску и прочим близлежащим по",
+    "description": "Также истребительная авиация наносит удары по Ильичевску и прочим близлежащим портовым городам в Одесской области. \n\nПомимо дронов Герань и ракет Х-31/59, пишут о применении крылатых авиабомб.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-22T01:39:54+00:00",
+    "source": "Telegram: Turned on Z War",
+    "metadata": {
+      "telegramChannel": "voenacher",
+      "telegramChannelName": "Turned on Z War",
+      "telegramPostId": "voenacher/95692",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/voenacher/95692",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-08-22T02:56:40.184Z",
+    "createdAt": "2026-08-22T02:56:40.184Z"
+  },
+  {
     "id": "tg-shot_shot-99166",
     "type": "strike",
     "title": "ВС РФ нанесли комбинированный удар по Киеву. Полыхают авиационное и производстве",
@@ -108375,31 +108650,6 @@
     "createdAt": "2026-08-15T04:33:52.489Z"
   },
   {
-    "id": "tg-SolovievLive-381188",
-    "type": "strike",
-    "title": "❗️ Ракетный удар был нанесен по промышленному предприятию в Самарской области, с",
-    "description": "❗️ Ракетный удар был нанесен по промышленному предприятию в Самарской области, сообщил губернатор региона Вячеслав Федорищев",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-15T02:57:39+00:00",
-    "source": "Telegram: Solovyov Live",
-    "metadata": {
-      "telegramChannel": "SolovievLive",
-      "telegramChannelName": "Solovyov Live",
-      "telegramPostId": "SolovievLive/381188",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/SolovievLive/381188",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-15T04:33:57.916Z",
-    "createdAt": "2026-08-15T04:33:57.916Z"
-  },
-  {
     "id": "tg-SolovievLive-381190",
     "type": "strategic",
     "title": "🔴🔴🔴🔴🔴 ВС РФ наносят массированные удары с использованием БПЛА и авиационных",
@@ -108573,180 +108823,5 @@
     },
     "lastUpdated": "2026-08-15T04:35:00.315Z",
     "createdAt": "2026-08-15T04:35:00.315Z"
-  },
-  {
-    "id": "tg-intelslava-92608",
-    "type": "strike",
-    "title": "🇵🇱🇺🇦⚡️ — Ukraine will receive Polish MiG-29s within the coming weeks.",
-    "description": "🇵🇱🇺🇦⚡️ — Ukraine will receive Polish MiG-29s within the coming weeks.\n\nNegotiations on the transfer of fighter jets have entered the final stretch, and the countries have reached an agreement. Ukraine will receive MiG-29s, and Poland will receive various types of drones and Ukrainian technologies.\n\n@IntelSlava",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-15T02:11:02+00:00",
-    "source": "Telegram: Intel Slava Z",
-    "metadata": {
-      "telegramChannel": "intelslava",
-      "telegramChannelName": "Intel Slava Z",
-      "telegramPostId": "intelslava/92608",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/intelslava/92608",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-15T02:53:34.599Z",
-    "createdAt": "2026-08-15T02:53:34.599Z"
-  },
-  {
-    "id": "tg-intelslava-92609",
-    "type": "strike",
-    "title": "🇷🇺🇺🇦⚡️ — UAV operators of the 394th Motor Rifle Regiment, part of the 127th ",
-    "description": "🇷🇺🇺🇦⚡️ — UAV operators of the 394th Motor Rifle Regiment, part of the 127th Motor Rifle Division, 5th Guards Combined Arms Army, Vostok Group of Forces, disrupted Ukrainian drone operations by destroying their ground control stations on the Zaporizhzhia axis.\n\n@IntelSlava",
-    "location": {
-      "lat": 47.8388,
-      "lng": 35.1396
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-15T02:22:56+00:00",
-    "source": "Telegram: Intel Slava Z",
-    "metadata": {
-      "telegramChannel": "intelslava",
-      "telegramChannelName": "Intel Slava Z",
-      "telegramPostId": "intelslava/92609",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/intelslava/92609",
-      "region": "Zaporizhia Oblast"
-    },
-    "lastUpdated": "2026-08-15T02:53:34.599Z",
-    "createdAt": "2026-08-15T02:53:34.599Z"
-  },
-  {
-    "id": "tg-tass_agency-390372",
-    "type": "strategic",
-    "title": "▶️ Артиллеристы \"Севера\" уничтожили сбегающих с позиций солдат ВСУ в Харьковской",
-    "description": "▶️ Артиллеристы \"Севера\" уничтожили сбегающих с позиций солдат ВСУ в Харьковской области.\n\nВидео: Минобороны России/ТАСС\n\n✔ Подпишись на ТАСС в \"Максе\"",
-    "location": {
-      "lat": 49.9935,
-      "lng": 36.2304
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-15T02:25:01+00:00",
-    "source": "Telegram: TASS",
-    "metadata": {
-      "telegramChannel": "tass_agency",
-      "telegramChannelName": "TASS",
-      "telegramPostId": "tass_agency/390372",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/tass_agency/390372",
-      "region": "Kharkiv Oblast"
-    },
-    "lastUpdated": "2026-08-15T02:53:36.279Z",
-    "createdAt": "2026-08-15T02:53:36.279Z"
-  },
-  {
-    "id": "tg-rian_ru-344147",
-    "type": "strategic",
-    "title": "Члены ОДКБ считают Армению союзником по организации, заявил Масадыков.",
-    "description": "Члены ОДКБ считают Армению союзником по организации, заявил Масадыков.\n\nОн напомнил, что представители руководства государств-членов неоднократно подтверждали готовность к обсуждению с Ереваном всех вопросов, касающихся возобновления полноценного участия армянской стороны в совместной работе.\n\n🔹 Подписаться на РИА Новости",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-15T02:36:10+00:00",
-    "source": "Telegram: RIA Novosti",
-    "metadata": {
-      "telegramChannel": "rian_ru",
-      "telegramChannelName": "RIA Novosti",
-      "telegramPostId": "rian_ru/344147",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/rian_ru/344147",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-15T02:53:38.036Z",
-    "createdAt": "2026-08-15T02:53:38.036Z"
-  },
-  {
-    "id": "tg-rian_ru-344148",
-    "type": "strike",
-    "title": "По промпредприятию в Самарской области нанесли ракетный удар, сообщил губернатор",
-    "description": "По промпредприятию в Самарской области нанесли ракетный удар, сообщил губернатор.\n\n🔹 Подписаться на РИА Новости",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-15T02:43:28+00:00",
-    "source": "Telegram: RIA Novosti",
-    "metadata": {
-      "telegramChannel": "rian_ru",
-      "telegramChannelName": "RIA Novosti",
-      "telegramPostId": "rian_ru/344148",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/rian_ru/344148",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-15T02:53:38.036Z",
-    "createdAt": "2026-08-15T02:53:38.036Z"
-  },
-  {
-    "id": "tg-boris_rozhin-222217",
-    "type": "strategic",
-    "title": "Фотографии с северокорейского курорта Калма в городе Вонсан. Сильно напоминают п",
-    "description": "Фотографии с северокорейского курорта Калма в городе Вонсан. Сильно напоминают по стилистике фотографии советских курортов Крыма и Краснодарского края",
-    "location": {
-      "lat": 44.9521,
-      "lng": 34.1024
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-15T02:03:01+00:00",
-    "source": "Telegram: Colonel Cassad",
-    "metadata": {
-      "telegramChannel": "boris_rozhin",
-      "telegramChannelName": "Colonel Cassad",
-      "telegramPostId": "boris_rozhin/222217",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/boris_rozhin/222217",
-      "region": "Crimea"
-    },
-    "lastUpdated": "2026-08-15T02:53:39.804Z",
-    "createdAt": "2026-08-15T02:53:39.804Z"
-  },
-  {
-    "id": "tg-RVvoenkor-121341",
-    "type": "strike",
-    "title": "‼️🇷🇺💥Бои на южном фронте: идёт уничтожение укрепрайонов врага за Днепром",
-    "description": "‼️🇷🇺💥Бои на южном фронте: идёт уничтожение укрепрайонов врага за Днепром\n\n▪️Оператор дронов-камикадзе 4-й военной базы с позывным \"Крюгер\" атакует инженерные и оборонительные позиции врага за рекой Днепр.\n▪️Противник долго строил эти доты и блиндажи, но все теперь зря.\n⚠️Подписаться на RV: MAX | t.me/RVvoenkor",
-    "location": {
-      "lat": 48.4647,
-      "lng": 35.0462
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-15T02:25:13+00:00",
-    "source": "Telegram: Operation Z (RV)",
-    "metadata": {
-      "telegramChannel": "RVvoenkor",
-      "telegramChannelName": "Operation Z (RV)",
-      "telegramPostId": "RVvoenkor/121341",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/RVvoenkor/121341",
-      "region": "Dnipropetrovsk Oblast"
-    },
-    "lastUpdated": "2026-08-15T02:53:43.426Z",
-    "createdAt": "2026-08-15T02:53:43.426Z"
   }
 ]

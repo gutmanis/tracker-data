@@ -1,5 +1,580 @@
 [
   {
+    "id": "tg-mod_russia-66686",
+    "type": "strategic",
+    "title": "Дрожь по грунту после мощного удара Торнадо-С",
+    "description": "Дрожь по грунту после мощного удара Торнадо-С\n\n💥  Расчёт РСЗО «Торнадо-С» группировки «Восток» уничтожил пункты размещения резервов, живую силу, антенны «Starlink» и технику ВСУ в Днепропетровской и Запорожской областях.\n\n🔹 Канал Минобороны России в MAКС – боевая работа 24/7.",
+    "location": {
+      "lat": 47.8388,
+      "lng": 35.1396
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-22T03:57:08+00:00",
+    "source": "Telegram: Russian MOD",
+    "metadata": {
+      "telegramChannel": "mod_russia",
+      "telegramChannelName": "Russian MOD",
+      "telegramPostId": "mod_russia/66686",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/mod_russia/66686",
+      "region": "Zaporizhia Oblast"
+    },
+    "lastUpdated": "2026-08-22T04:34:55.214Z",
+    "createdAt": "2026-08-22T04:34:55.214Z"
+  },
+  {
+    "id": "tg-shot_shot-99169",
+    "type": "battle",
+    "title": "Несколько человек ранены в результате массированной атаки БПЛА ВСУ по Самарской ",
+    "description": "Несколько человек ранены в результате массированной атаки БПЛА ВСУ по Самарской области.\n\nПо словам губернатора Вячеслава Федорищева, сбито и подавлено несколько десятков вражеских беспилотников. Есть повреждения на одном из промышленных предприятий. Зафиксировано попадание на логистический комплекс. Раненым оказывается медицинская помощь.\n\n☺ SHOT MAX: https://max.ru/shot",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-22T04:20:28+00:00",
+    "source": "Telegram: SHOT",
+    "metadata": {
+      "telegramChannel": "shot_shot",
+      "telegramChannelName": "SHOT",
+      "telegramPostId": "shot_shot/99169",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/shot_shot/99169",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-08-22T04:34:59.101Z",
+    "createdAt": "2026-08-22T04:34:59.101Z"
+  },
+  {
+    "id": "tg-intelslava-92965",
+    "type": "strategic",
+    "title": "🇷🇺🇺🇦⚡️ — UAV crews from Russia’s Southern Group of Forces destroyed a Ukrain",
+    "description": "🇷🇺🇺🇦⚡️ — UAV crews from Russia’s Southern Group of Forces destroyed a Ukrainian 122mm D-30 howitzer and a 152mm 2A65 Msta-B howitzer in Druzhkivka, Donetsk Oblast.\n\n@IntelSlava",
+    "location": {
+      "lat": 48.0159,
+      "lng": 37.8028
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-22T03:50:35+00:00",
+    "source": "Telegram: Intel Slava Z",
+    "metadata": {
+      "telegramChannel": "intelslava",
+      "telegramChannelName": "Intel Slava Z",
+      "telegramPostId": "intelslava/92965",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/intelslava/92965",
+      "region": "Donetsk Oblast"
+    },
+    "lastUpdated": "2026-08-22T04:35:01.067Z",
+    "createdAt": "2026-08-22T04:35:01.067Z"
+  },
+  {
+    "id": "tg-tass_agency-391444",
+    "type": "battle",
+    "title": "🚨 Несколько человек пострадало в результате массированной атаки БПЛА на Самарск",
+    "description": "🚨 Несколько человек пострадало в результате массированной атаки БПЛА на Самарскую область, сообщил губернатор.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-22T04:19:18+00:00",
+    "source": "Telegram: TASS",
+    "metadata": {
+      "telegramChannel": "tass_agency",
+      "telegramChannelName": "TASS",
+      "telegramPostId": "tass_agency/391444",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/tass_agency/391444",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-08-22T04:35:03.149Z",
+    "createdAt": "2026-08-22T04:35:03.149Z"
+  },
+  {
+    "id": "tg-tass_agency-391445",
+    "type": "battle",
+    "title": "🚨 Несколько человек пострадало в результате массированной атаки БПЛА на Самарск",
+    "description": "🚨 Несколько человек пострадало в результате массированной атаки БПЛА на Самарскую область, сообщил губернатор.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-22T04:20:07+00:00",
+    "source": "Telegram: TASS",
+    "metadata": {
+      "telegramChannel": "tass_agency",
+      "telegramChannelName": "TASS",
+      "telegramPostId": "tass_agency/391445",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/tass_agency/391445",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-08-22T04:35:03.149Z",
+    "createdAt": "2026-08-22T04:35:03.149Z"
+  },
+  {
+    "id": "tg-tass_agency-391447",
+    "type": "battle",
+    "title": "🚨 Повреждения на промпредприятии и логистическом комплексе Ozon зафиксированы в",
+    "description": "🚨 Повреждения на промпредприятии и логистическом комплексе Ozon зафиксированы в Самарской области после атаки БПЛА, сообщил губернатор.  ✔️ Подпишись на ТАСС в \"Максе\"",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-22T04:31:37+00:00",
+    "source": "Telegram: TASS",
+    "metadata": {
+      "telegramChannel": "tass_agency",
+      "telegramChannelName": "TASS",
+      "telegramPostId": "tass_agency/391447",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/tass_agency/391447",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-08-22T04:35:03.149Z",
+    "createdAt": "2026-08-22T04:35:03.149Z"
+  },
+  {
+    "id": "tg-rian_ru-344580",
+    "type": "strategic",
+    "title": "Артиллеристы «Востока» уничтожили узел обороны ВСУ в Запорожской области, примен",
+    "description": "Артиллеристы «Востока» уничтожили узел обороны ВСУ в Запорожской области, применив высокоточные боеприпасы «Краснополь», сообщили в Минобороны.\n\n🟦 Подписаться на РИА Новости",
+    "location": {
+      "lat": 47.8388,
+      "lng": 35.1396
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-22T03:52:37+00:00",
+    "source": "Telegram: RIA Novosti",
+    "metadata": {
+      "telegramChannel": "rian_ru",
+      "telegramChannelName": "RIA Novosti",
+      "telegramPostId": "rian_ru/344580",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/rian_ru/344580",
+      "region": "Zaporizhia Oblast"
+    },
+    "lastUpdated": "2026-08-22T04:35:05.005Z",
+    "createdAt": "2026-08-22T04:35:05.005Z"
+  },
+  {
+    "id": "tg-rian_ru-344582",
+    "type": "battle",
+    "title": "ВСУ атаковали складской комплекс Ozon в Самарской области, сообщил губернатор Фе",
+    "description": "ВСУ атаковали складской комплекс Ozon в Самарской области, сообщил губернатор Федорищев.\n\n🟦 Подписаться на РИА Новости",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-22T04:31:18+00:00",
+    "source": "Telegram: RIA Novosti",
+    "metadata": {
+      "telegramChannel": "rian_ru",
+      "telegramChannelName": "RIA Novosti",
+      "telegramPostId": "rian_ru/344582",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/rian_ru/344582",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-08-22T04:35:05.005Z",
+    "createdAt": "2026-08-22T04:35:05.005Z"
+  },
+  {
+    "id": "tg-boris_rozhin-223037",
+    "type": "strike",
+    "title": "«Плот-47» — экспериментальная плавучая платформа для защиты портов и военно-морс",
+    "description": "«Плот-47» — экспериментальная плавучая платформа для защиты портов и военно-морских баз от БПЛА и безэкипажных катеров\n\nРазработанная в Ленинградской области система представляет собой плавучую огневую точку с оптико-электронными средствами наблюдения и дистанционно управляемым боевым модулем. Платформу доставляют в заданный район акватории, закрепляют на позиции и подключают к общей системе наблюдения и целеуказания.\n\nОсновная задача «Плота-47» — вынести рубеж обнаружения и поражения угроз даль",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-22T03:03:01+00:00",
+    "source": "Telegram: Colonel Cassad",
+    "metadata": {
+      "telegramChannel": "boris_rozhin",
+      "telegramChannelName": "Colonel Cassad",
+      "telegramPostId": "boris_rozhin/223037",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/boris_rozhin/223037",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-08-22T04:35:08.073Z",
+    "createdAt": "2026-08-22T04:35:08.073Z"
+  },
+  {
+    "id": "tg-boris_rozhin-223040",
+    "type": "strategic",
+    "title": "Пять тысяч ударов РУК ZALA «Ланцет»: непрерывная эволюция",
+    "description": "Пять тысяч ударов РУК ZALA «Ланцет»: непрерывная эволюция\n\nРУК ZALA «Ланцет» преодолел отметку в 5 тысяч ударов в зоне СВО. Данные, которые с начала специальной военной операции фиксирует портал LostArmour, отражают масштаб применения комплекса и подтверждают его востребованность при поражении широкого спектра целей. В числе поражённых объектов: артиллерийские системы, танки и боевые бронированные машины, РЛС, РСЗО, средства разведки, БЭКи и авиационная техника. «Ланцеты» применяются практически",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-22T04:03:01+00:00",
+    "source": "Telegram: Colonel Cassad",
+    "metadata": {
+      "telegramChannel": "boris_rozhin",
+      "telegramChannelName": "Colonel Cassad",
+      "telegramPostId": "boris_rozhin/223040",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/boris_rozhin/223040",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-08-22T04:35:08.073Z",
+    "createdAt": "2026-08-22T04:35:08.073Z"
+  },
+  {
+    "id": "tg-RVvoenkor-121725",
+    "type": "battle",
+    "title": "‼️🇷🇺💥 Кадры боёв: бойцы «Центра» уничтожают пехоту и технику врага в боях за ",
+    "description": "‼️🇷🇺💥 Кадры боёв: бойцы «Центра» уничтожают пехоту и технику врага в боях за Красноармейском и на Днепропетровщине\n\n▪️Подразделения группировки войск «Центр» продолжают атаки за ранее освобожденным г. Покровск (Красноармейск).\n▪️Российские войска атакуют в районах Гришино, Новоалександровки, Родинского и Дорожного.\n▪️Поддержку штурмовым подразделениям группировки \"Центр\" оказывают расчеты БПЛА, активно уничтожающие пехоту и технику ВСУ в районах Красноармейска, Мирнограда (Димитрова) и в Днеп",
+    "location": {
+      "lat": 48.2833,
+      "lng": 37.1833
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-22T04:31:56+00:00",
+    "source": "Telegram: Operation Z (RV)",
+    "metadata": {
+      "telegramChannel": "RVvoenkor",
+      "telegramChannelName": "Operation Z (RV)",
+      "telegramPostId": "RVvoenkor/121725",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/RVvoenkor/121725",
+      "region": "Donetsk Oblast"
+    },
+    "lastUpdated": "2026-08-22T04:35:12.629Z",
+    "createdAt": "2026-08-22T04:35:12.629Z"
+  },
+  {
+    "id": "tg-swodki-613107",
+    "type": "battle",
+    "title": "На юге, в Одесской области, также всю ночь было жарко. ",
+    "description": "На юге, в Одесской области, также всю ночь было жарко. \nНесколько Бандеролей  с севера прилетели на станцию Раздельная Одесской области. \nНа видео поражённое здание местного вокзала.\n\nА затем, на цели в Одесской области обрушились Герани, Х-31/Х-59/Х-69 и УМПК. \nЗафиксированы первые прилеты УМПК Ильичёвск за СВО. \nНа месте ударов возникли пожары. \nПредварительно, в Одессе и Одесской области под ударами была транспортная и энергетическая инфраструктура.\n\nНочью Герани атаковали цели в Харькове и Х",
+    "location": {
+      "lat": 50.4501,
+      "lng": 30.5234
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-22T04:23:38+00:00",
+    "source": "Telegram: SWODKI",
+    "metadata": {
+      "telegramChannel": "swodki",
+      "telegramChannelName": "SWODKI",
+      "telegramPostId": "swodki/613107",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/swodki/613107",
+      "region": "Kyiv"
+    },
+    "lastUpdated": "2026-08-22T04:35:19.144Z",
+    "createdAt": "2026-08-22T04:35:19.144Z"
+  },
+  {
+    "id": "tg-SolovievLive-382080",
+    "type": "battle",
+    "title": "📸 Пресс-секретарь Министерства иностранных дел Ирана Эсмаил Багаи назвал введен",
+    "description": "📸 Пресс-секретарь Министерства иностранных дел Ирана Эсмаил Багаи назвал введение санкций против Ирана утверждением о внетерриториальном суверенитете над каждым независимым членом ООН:\n\n«Заявление Соединенных Штатов о введении новых экономических санкций против Ирана – это не просто продолжение незаконной \"экономической войны\" против одной страны. Это утверждение о внетерриториальном суверенитете над каждым независимым членом Организации Объединенных Наций.\n\nНи одно государство не имеет права з",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-22T03:04:01+00:00",
+    "source": "Telegram: Solovyov Live",
+    "metadata": {
+      "telegramChannel": "SolovievLive",
+      "telegramChannelName": "Solovyov Live",
+      "telegramPostId": "SolovievLive/382080",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/SolovievLive/382080",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-08-22T04:35:25.099Z",
+    "createdAt": "2026-08-22T04:35:25.099Z"
+  },
+  {
+    "id": "tg-SolovievLive-382083",
+    "type": "battle",
+    "title": "🔴🔴🔴🔴🔴 Момент атаки беспилотников по целям в Одессе. Местные каналы сообщают",
+    "description": "🔴🔴🔴🔴🔴 Момент атаки беспилотников по целям в Одессе. Местные каналы сообщают, что на месте попадания произошёл пожар.  Удары также нанесены по целям в Сумах и во временно оккупированном Запорожье.   🇷🇺 Подпишись на Соловьёва&#33;",
+    "location": {
+      "lat": 47.8388,
+      "lng": 35.1396
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-22T03:37:28+00:00",
+    "source": "Telegram: Solovyov Live",
+    "metadata": {
+      "telegramChannel": "SolovievLive",
+      "telegramChannelName": "Solovyov Live",
+      "telegramPostId": "SolovievLive/382083",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/SolovievLive/382083",
+      "region": "Zaporizhia Oblast"
+    },
+    "lastUpdated": "2026-08-22T04:35:25.099Z",
+    "createdAt": "2026-08-22T04:35:25.099Z"
+  },
+  {
+    "id": "tg-tassagency_en-91246",
+    "type": "strike",
+    "title": "▶️ A drone carrying the Russian tricolor flew over Dobropolye on National Flag D",
+    "description": "▶️ A drone carrying the Russian tricolor flew over Dobropolye on National Flag Day.\n\nVideo: Russian Defense Ministry/TASS",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-22T03:05:05+00:00",
+    "source": "Telegram: TASS English",
+    "metadata": {
+      "telegramChannel": "tassagency_en",
+      "telegramChannelName": "TASS English",
+      "telegramPostId": "tassagency_en/91246",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/tassagency_en/91246",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-08-22T04:35:49.325Z",
+    "createdAt": "2026-08-22T04:35:49.325Z"
+  },
+  {
+    "id": "tg-ramzayiegokomanda-50144",
+    "type": "strategic",
+    "title": "Вечером наши ВКС отработали по Запорожью.",
+    "description": "Вечером наши ВКС отработали по Запорожью.\n\n🇷🇺  РАМЗАЙ в МАКС  | ВК | TG",
+    "location": {
+      "lat": 47.8388,
+      "lng": 35.1396
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-22T04:01:17+00:00",
+    "source": "Telegram: Ramzai",
+    "metadata": {
+      "telegramChannel": "ramzayiegokomanda",
+      "telegramChannelName": "Ramzai",
+      "telegramPostId": "ramzayiegokomanda/50144",
+      "bias": "pro-russian",
+      "weight": 1,
+      "telegramUrl": "https://t.me/ramzayiegokomanda/50144",
+      "region": "Zaporizhia Oblast"
+    },
+    "lastUpdated": "2026-08-22T04:36:19.532Z",
+    "createdAt": "2026-08-22T04:36:19.532Z"
+  },
+  {
+    "id": "tg-ramzayiegokomanda-50147",
+    "type": "strike",
+    "title": "🇷🇺🇺🇦Прилет Искандеров по Киеву. Всего было не более десяти ракет",
+    "description": "🇷🇺🇺🇦Прилет Искандеров по Киеву. Всего было не более десяти ракет\n\n🇷🇺  РАМЗАЙ в МАКС  | ВК | TG",
+    "location": {
+      "lat": 50.4501,
+      "lng": 30.5234
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-22T04:07:07+00:00",
+    "source": "Telegram: Ramzai",
+    "metadata": {
+      "telegramChannel": "ramzayiegokomanda",
+      "telegramChannelName": "Ramzai",
+      "telegramPostId": "ramzayiegokomanda/50147",
+      "bias": "pro-russian",
+      "weight": 1,
+      "telegramUrl": "https://t.me/ramzayiegokomanda/50147",
+      "region": "Kyiv"
+    },
+    "lastUpdated": "2026-08-22T04:36:19.532Z",
+    "createdAt": "2026-08-22T04:36:19.532Z"
+  },
+  {
+    "id": "tg-ramzayiegokomanda-50148",
+    "type": "strategic",
+    "title": "🇷🇺🇺🇦 Одесская область. Удары УМПК впервые зафиксированы в Ильичевске.",
+    "description": "🇷🇺🇺🇦 Одесская область. Удары УМПК впервые зафиксированы в Ильичевске.\n\nТакже работали «Герани», Х-31/Х-59/Х-69. На месте ударов возникли пожары. \n\nПредварительно, под ударами была транспортная и энергетическая инфраструктура.\n\nПодписаться на канал\n\n🇷🇺  РАМЗАЙ в МАКС  | ВК | TG",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-22T04:15:07+00:00",
+    "source": "Telegram: Ramzai",
+    "metadata": {
+      "telegramChannel": "ramzayiegokomanda",
+      "telegramChannelName": "Ramzai",
+      "telegramPostId": "ramzayiegokomanda/50148",
+      "bias": "pro-russian",
+      "weight": 1,
+      "telegramUrl": "https://t.me/ramzayiegokomanda/50148",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-08-22T04:36:19.532Z",
+    "createdAt": "2026-08-22T04:36:19.532Z"
+  },
+  {
+    "id": "tg-ramzayiegokomanda-50150",
+    "type": "battle",
+    "title": "🇷🇺🇺🇦Один из взрывов в Черноморске в ходе атаки Бандеролей",
+    "description": "🇷🇺🇺🇦Один из взрывов в Черноморске в ходе атаки Бандеролей\n\n🇷🇺  РАМЗАЙ в МАКС  | ВК | TG",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-22T04:30:31+00:00",
+    "source": "Telegram: Ramzai",
+    "metadata": {
+      "telegramChannel": "ramzayiegokomanda",
+      "telegramChannelName": "Ramzai",
+      "telegramPostId": "ramzayiegokomanda/50150",
+      "bias": "pro-russian",
+      "weight": 1,
+      "telegramUrl": "https://t.me/ramzayiegokomanda/50150",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-08-22T04:36:19.532Z",
+    "createdAt": "2026-08-22T04:36:19.532Z"
+  },
+  {
+    "id": "tg-RtrDonetsk-37827",
+    "type": "strategic",
+    "title": "Обстановка на утро 22 августа 2026 года",
+    "description": "Обстановка на утро 22 августа 2026 года\n\n▪️ВС РФ нанесли удары по Киеву, Кривому Рогу, Чернигову, Николаеву, Запорожью и Сумам\n\n▪️ На Сумском направлении продолжаются бои в Писаревке, Уланово и посёлке Хотень\n\n▪️ На Харьковском направлении ожесточенные бои продолжаются в Казачьей Лопани, стрелковые бои на Волчанском и Великобурлукском участках. В Купянске продолжаются бои в городской застройке\n\n▪️ На Славянском направлении идут у Малиновки и в Николаевке\n\n▪️ На Константиновском направлении ВС РФ",
+    "location": {
+      "lat": 50.4501,
+      "lng": 30.5234
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-22T04:35:00+00:00",
+    "source": "Telegram: Reporter Rudenko",
+    "metadata": {
+      "telegramChannel": "RtrDonetsk",
+      "telegramChannelName": "Reporter Rudenko",
+      "telegramPostId": "RtrDonetsk/37827",
+      "bias": "pro-russian",
+      "weight": 1,
+      "telegramUrl": "https://t.me/RtrDonetsk/37827",
+      "region": "Kyiv"
+    },
+    "lastUpdated": "2026-08-22T04:36:21.387Z",
+    "createdAt": "2026-08-22T04:36:21.387Z"
+  },
+  {
+    "id": "tg-operativnoZSU-218977",
+    "type": "strike",
+    "title": "Один загиблий та поранені: через балістичну атаку у Дарницькому районі Києва ста",
+    "description": "Один загиблий та поранені: через балістичну атаку у Дарницькому районі Києва сталося загоряння складського приміщення, — КМВА\n\nОдна людина загинула, чотири - поранені внаслідок ворожої атаки на Запорізький район, —Федоров\n\nросійський дрон ударив по Кушугуму. Через атаку загинув чоловік, ще четверо отримали поранення.\n\n🫡https://t.me/operativnoZSU/",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-22T04:11:05+00:00",
+    "source": "Telegram: Operativno ZSU",
+    "metadata": {
+      "telegramChannel": "OperativnoZSU",
+      "telegramChannelName": "Operativno ZSU",
+      "telegramPostId": "operativnoZSU/218977",
+      "bias": "pro-ukrainian",
+      "weight": 1,
+      "telegramUrl": "https://t.me/operativnoZSU/218977",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-08-22T04:36:33.362Z",
+    "createdAt": "2026-08-22T04:36:33.362Z"
+  },
+  {
+    "id": "tg-operativnoZSU-218978",
+    "type": "battle",
+    "title": "🔥Вперше успішно атаковано логістичний хаб OZON",
+    "description": "🔥Вперше успішно атаковано логістичний хаб OZON\n\n💥У Чапаєвську Самарської області палає склад OZON площею 135 м.кв. (1-3) \n\n💥Також у Самарській області атаковано Новокуйбишевський НПЗ (4-5)\n\n🫡https://t.me/operativnoZSU/",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-22T04:22:58+00:00",
+    "source": "Telegram: Operativno ZSU",
+    "metadata": {
+      "telegramChannel": "OperativnoZSU",
+      "telegramChannelName": "Operativno ZSU",
+      "telegramPostId": "operativnoZSU/218978",
+      "bias": "pro-ukrainian",
+      "weight": 1,
+      "telegramUrl": "https://t.me/operativnoZSU/218978",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-08-22T04:36:33.362Z",
+    "createdAt": "2026-08-22T04:36:33.362Z"
+  },
+  {
+    "id": "tg-ssternenko-62681",
+    "type": "strike",
+    "title": "🔥 Палає логістичний хаб Ozon у Чапаєвську після атаки Сил оборони (1-7). ",
+    "description": "🔥 Палає логістичний хаб Ozon у Чапаєвську після атаки Сил оборони (1-7). \n\nЦе найбільший високоавтоматизований складський комплекс компанії у Поволжі. Його площа — 135 тис. кв. м. \n\nТакож дрони уразили Новокуйбишевський НПЗ. Його проєктна потужність переробки становить близько 8 млн тонн нафти на рік (8-10). Обидва обʼєкти розташовані в Самарській області. \n\nКрім цього, вибухи лунали й у Саратові.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-22T04:09:37+00:00",
+    "source": "Telegram: Sternenko",
+    "metadata": {
+      "telegramChannel": "ssternenko",
+      "telegramChannelName": "Sternenko",
+      "telegramPostId": "ssternenko/62681",
+      "bias": "pro-ukrainian",
+      "weight": 1,
+      "telegramUrl": "https://t.me/ssternenko/62681",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-08-22T04:36:35.214Z",
+    "createdAt": "2026-08-22T04:36:35.214Z"
+  },
+  {
     "id": "tg-shot_shot-99168",
     "type": "strategic",
     "title": "ВС РФ нанесли комбинированный удар по Киеву. Полыхают авиационное и производстве",
@@ -107550,31 +108125,6 @@
     "createdAt": "2026-08-15T06:41:20.385Z"
   },
   {
-    "id": "tg-milinfolive-177688",
-    "type": "strike",
-    "title": "Пролет ракеты FP-5 \"Фламинго\" на очень малой высоте во время одного из ракетных ",
-    "description": "Пролет ракеты FP-5 \"Фламинго\" на очень малой высоте во время одного из ракетных ударов по России (не недавнего).  Просто пример того, насколько низко теперь данные ракеты способны лететь над землей, что значительно усложняет их обнаружение и поражение классической…",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-15T04:35:12+00:00",
-    "source": "Telegram: Military Informant",
-    "metadata": {
-      "telegramChannel": "milinfolive",
-      "telegramChannelName": "Military Informant",
-      "telegramPostId": "milinfolive/177688",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/milinfolive/177688",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-15T06:41:24.322Z",
-    "createdAt": "2026-08-15T06:41:24.322Z"
-  },
-  {
     "id": "tg-swodki-611275",
     "type": "strategic",
     "title": "❗️ В течение прошедшей ночи перехвачены и уничтожены 598 БПЛА",
@@ -108198,630 +108748,5 @@
     },
     "lastUpdated": "2026-08-15T06:42:40.265Z",
     "createdAt": "2026-08-15T06:42:40.265Z"
-  },
-  {
-    "id": "tg-mod_russia-66513",
-    "type": "battle",
-    "title": "🔥 Врываемся в эти выходные реактивным залпом",
-    "description": "🔥 Врываемся в эти выходные реактивным залпом\n\nРСЗО «Ураган» уничтожил укреплённый опорный пункт ВСУ в Днепропетровской области.\n\n▫️Теперь путь для наших штурмовиков открыт. Работаем, мужики&#33;\n\n⚔️ Канал Минобороны России в MAКС – источник мощных новостей.",
-    "location": {
-      "lat": 48.4647,
-      "lng": 35.0462
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-15T03:05:05+00:00",
-    "source": "Telegram: Russian MOD",
-    "metadata": {
-      "telegramChannel": "mod_russia",
-      "telegramChannelName": "Russian MOD",
-      "telegramPostId": "mod_russia/66513",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/mod_russia/66513",
-      "region": "Dnipropetrovsk Oblast"
-    },
-    "lastUpdated": "2026-08-15T04:33:32.603Z",
-    "createdAt": "2026-08-15T04:33:32.603Z"
-  },
-  {
-    "id": "tg-mod_russia-66514",
-    "type": "battle",
-    "title": "Железная закалка новобранцев – теперь парни готовы побеждать&#33;",
-    "description": "Железная закалка новобранцев – теперь парни готовы побеждать&#33;\n\n🤝 В мотострелковом полку резерва Московского военного округа вовсю идет подготовка новобранцев. За спиной у каждого инструктора – реальные боевые выходы.\n\n▫️ Бойцов учат всему, что спасает жизнь и помогает выполнить задачу: от точной стрельбы и тактической медицины до штурма, обороны и сложной военной инженерии.\n\n🎮 Отдельный упор – на технологии будущего. На полигоне готовят специалистов войск БПС. Управление, технический ремон",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-15T04:31:23+00:00",
-    "source": "Telegram: Russian MOD",
-    "metadata": {
-      "telegramChannel": "mod_russia",
-      "telegramChannelName": "Russian MOD",
-      "telegramPostId": "mod_russia/66514",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/mod_russia/66514",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-15T04:33:32.603Z",
-    "createdAt": "2026-08-15T04:33:32.603Z"
-  },
-  {
-    "id": "tg-intelslava-92610",
-    "type": "battle",
-    "title": "🇺🇦🇷🇺⚡️ — Samara is under a rocket attack.",
-    "description": "🇺🇦🇷🇺⚡️ — Samara is under a rocket attack.\n\nIt is believed that one of the local enterprises was hit.\n\n@Intelslava",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-15T04:06:51+00:00",
-    "source": "Telegram: Intel Slava Z",
-    "metadata": {
-      "telegramChannel": "intelslava",
-      "telegramChannelName": "Intel Slava Z",
-      "telegramPostId": "intelslava/92610",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/intelslava/92610",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-15T04:33:38.054Z",
-    "createdAt": "2026-08-15T04:33:38.054Z"
-  },
-  {
-    "id": "tg-tass_agency-390383",
-    "type": "strike",
-    "title": "🚨 В ходе отражения ночной атаки на Ростовскую область уничтожены около 10 БПЛА ",
-    "description": "🚨 В ходе отражения ночной атаки на Ростовскую область уничтожены около 10 БПЛА и ракет, сообщил губернатор.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-15T04:01:15+00:00",
-    "source": "Telegram: TASS",
-    "metadata": {
-      "telegramChannel": "tass_agency",
-      "telegramChannelName": "TASS",
-      "telegramPostId": "tass_agency/390383",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/tass_agency/390383",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-15T04:33:39.739Z",
-    "createdAt": "2026-08-15T04:33:39.739Z"
-  },
-  {
-    "id": "tg-tass_agency-390384",
-    "type": "strike",
-    "title": "🚨 В ходе отражения ночной атаки на Ростовскую область уничтожены около 10 БПЛА ",
-    "description": "🚨 В ходе отражения ночной атаки на Ростовскую область уничтожены около 10 БПЛА и ракет, сообщил губернатор.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-15T04:01:57+00:00",
-    "source": "Telegram: TASS",
-    "metadata": {
-      "telegramChannel": "tass_agency",
-      "telegramChannelName": "TASS",
-      "telegramPostId": "tass_agency/390384",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/tass_agency/390384",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-15T04:33:39.739Z",
-    "createdAt": "2026-08-15T04:33:39.739Z"
-  },
-  {
-    "id": "tg-tass_agency-390385",
-    "type": "battle",
-    "title": "🚨 Отражена атака семи беспилотников, летевших на Москву, сообщил Собянин.",
-    "description": "🚨 Отражена атака семи беспилотников, летевших на Москву, сообщил Собянин.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-15T04:12:02+00:00",
-    "source": "Telegram: TASS",
-    "metadata": {
-      "telegramChannel": "tass_agency",
-      "telegramChannelName": "TASS",
-      "telegramPostId": "tass_agency/390385",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/tass_agency/390385",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-15T04:33:39.739Z",
-    "createdAt": "2026-08-15T04:33:39.739Z"
-  },
-  {
-    "id": "tg-tass_agency-390386",
-    "type": "strategic",
-    "title": "▶️ Инициатива Украины по прекращению ударов в Черном море появилась потому, что ",
-    "description": "▶️ Инициатива Украины по прекращению ударов в Черном море появилась потому, что блокада морских путей стала убийственным аргументом для Киева. Об этом заявил ТАСС бывший премьер-министр Украины Николай Азаров.\n\n✔ Подпишись на ТАСС в \"Максе\"",
-    "location": {
-      "lat": 50.4501,
-      "lng": 30.5234
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-15T04:19:02+00:00",
-    "source": "Telegram: TASS",
-    "metadata": {
-      "telegramChannel": "tass_agency",
-      "telegramChannelName": "TASS",
-      "telegramPostId": "tass_agency/390386",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/tass_agency/390386",
-      "region": "Kyiv"
-    },
-    "lastUpdated": "2026-08-15T04:33:39.739Z",
-    "createdAt": "2026-08-15T04:33:39.739Z"
-  },
-  {
-    "id": "tg-tass_agency-390389",
-    "type": "strategic",
-    "title": "Сумма заблокированных в Швейцарии российских активов выросла до &#036;10,4 млрд,",
-    "description": "Сумма заблокированных в Швейцарии российских активов выросла до &#036;10,4 млрд, заявил ТАСС официальный представитель Государственного секретариата по экономическим вопросам страны. \n\nГодом ранее эта цифра составляла &#036;8,4 млрд.\n\n✔ Подпишись на ТАСС в \"Максе\"",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-15T04:32:01+00:00",
-    "source": "Telegram: TASS",
-    "metadata": {
-      "telegramChannel": "tass_agency",
-      "telegramChannelName": "TASS",
-      "telegramPostId": "tass_agency/390389",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/tass_agency/390389",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-15T04:33:39.739Z",
-    "createdAt": "2026-08-15T04:33:39.739Z"
-  },
-  {
-    "id": "tg-boris_rozhin-222228",
-    "type": "strike",
-    "title": "ГУР Украины заявляет, что в обломках новой российской авиационной ракеты/БПЛА С-",
-    "description": "ГУР Украины заявляет, что в обломках новой российской авиационной ракеты/БПЛА С-71М «Монохром» обнаружен вычислительный модуль NVIDIA Jetson Orin. Ранее аналогичная платформа была обнаружена в модернизированном ударном БПЛА «Герань-2» MS001.\n\nNVIDIA Jetson Orin — семейство компактных вычислительных модулей, разработанных для автономных систем и выполнения алгоритмов искусственного интеллекта непосредственно на борту устройства (Edge AI). Такая платформа позволяет в реальном времени обрабатывать ",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-15T04:03:01+00:00",
-    "source": "Telegram: Colonel Cassad",
-    "metadata": {
-      "telegramChannel": "boris_rozhin",
-      "telegramChannelName": "Colonel Cassad",
-      "telegramPostId": "boris_rozhin/222228",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/boris_rozhin/222228",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-15T04:33:43.280Z",
-    "createdAt": "2026-08-15T04:33:43.280Z"
-  },
-  {
-    "id": "tg-dva_majors-97518",
-    "type": "strike",
-    "title": "#Сводка на утро 15 августа 2026 года",
-    "description": "#Сводка на утро 15 августа 2026 года\n\n▪️Ночью отражали массированный налет Севастополь, Новороссийск, Ярославская область и иные регионы. Противник распространяет кадры последствий мощного удара по нашему объекту в Самаре.\n\n▪️В течение суток в порту Одесса поражен резервуар с ГСМ, в порту Южный – склад с вооружением, военной техникой и имуществом ВСУ.\n\n▪️В Брянске вчера ВСУ атаковали ракетами жилой дом. Один человек погиб трое госпитализированы.\n\n▪️В Курской области в посёлке Реутчанский при ран",
-    "location": {
-      "lat": 49.9935,
-      "lng": 36.2304
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-15T04:14:37+00:00",
-    "source": "Telegram: Two Majors",
-    "metadata": {
-      "telegramChannel": "dva_majors",
-      "telegramChannelName": "Two Majors",
-      "telegramPostId": "dva_majors/97518",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/dva_majors/97518",
-      "region": "Kharkiv Oblast"
-    },
-    "lastUpdated": "2026-08-15T04:33:45.151Z",
-    "createdAt": "2026-08-15T04:33:45.151Z"
-  },
-  {
-    "id": "tg-RVvoenkor-121342",
-    "type": "battle",
-    "title": "‼️🇷🇺💥 Кадры боёв: бойцы «Центра» уничтожают пехоту и технику врага в боях за ",
-    "description": "‼️🇷🇺💥 Кадры боёв: бойцы «Центра» уничтожают пехоту и технику врага в боях за Красноармейском и на Днепропетровщине\n\n▪️Подразделения группировки войск «Центр» продолжают атаки за ранее освобожденным г. Покровск (Красноармейск).\n▪️Российские войска атакуют в районах Гришино, Новоалександровки, Родинского и Дорожного.\n▪️Поддержку штурмовым подразделениям группировки \"Центр\" оказывают расчеты БПЛА, активно уничтожающие пехоту и технику ВСУ в районах Красноармейска, Мирнограда (Димитрова) и в Днеп",
-    "location": {
-      "lat": 48.2833,
-      "lng": 37.1833
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-15T03:25:11+00:00",
-    "source": "Telegram: Operation Z (RV)",
-    "metadata": {
-      "telegramChannel": "RVvoenkor",
-      "telegramChannelName": "Operation Z (RV)",
-      "telegramPostId": "RVvoenkor/121342",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/RVvoenkor/121342",
-      "region": "Donetsk Oblast"
-    },
-    "lastUpdated": "2026-08-15T04:33:46.955Z",
-    "createdAt": "2026-08-15T04:33:46.955Z"
-  },
-  {
-    "id": "tg-swodki-611238",
-    "type": "strike",
-    "title": "Самара.",
-    "description": "Самара.\n\nПод ударом оказался  ракетно-космический центр \"Прогресс\". \n\nЭто одно из ключевых предприятий российской ракетно-космической промышленности, совмещающее конструкторские разработки и серийное производство ракет и спутников.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-15T04:07:35+00:00",
-    "source": "Telegram: SWODKI",
-    "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/611238",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/swodki/611238",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-15T04:33:52.489Z",
-    "createdAt": "2026-08-15T04:33:52.489Z"
-  },
-  {
-    "id": "tg-swodki-611247",
-    "type": "strategic",
-    "title": "Штилерман выложил видео.",
-    "description": "Штилерман выложил видео.\n\nЭто был удар Фламинго.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-15T04:10:48+00:00",
-    "source": "Telegram: SWODKI",
-    "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/611247",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/swodki/611247",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-15T04:33:52.489Z",
-    "createdAt": "2026-08-15T04:33:52.489Z"
-  },
-  {
-    "id": "tg-swodki-611248",
-    "type": "battle",
-    "title": "Ночью, большая группа Гераней/Гербер 👻 (примерно 30+ штук) атаковала юг Одесско",
-    "description": "Ночью, большая группа Гераней/Гербер 👻 (примерно 30+ штук) атаковала юг Одесской области. \nОни сразу рассыпались над ним, поэтому сложно пока сказать, что было целью ударов.\nВзрывы слышали и в Аккермане и в Арцизе. 🤔\nЧасть Гераней/Гербер👻 Крутилась над Черным морем...",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-15T04:18:54+00:00",
-    "source": "Telegram: SWODKI",
-    "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/611248",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/swodki/611248",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-15T04:33:52.489Z",
-    "createdAt": "2026-08-15T04:33:52.489Z"
-  },
-  {
-    "id": "tg-swodki-611249",
-    "type": "strategic",
-    "title": "Всю ночь и все утро под ударами БПЛА, в том числе и Гераней, было Запорожье. ",
-    "description": "Всю ночь и все утро под ударами БПЛА, в том числе и Гераней, было Запорожье. \nОдним из ударов БПЛА поражен очередной Эпицентр. \nТакже на фото столб дыма от утренних ударов БПЛА в окрестностях Запорожья.",
-    "location": {
-      "lat": 47.8388,
-      "lng": 35.1396
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-15T04:18:54+00:00",
-    "source": "Telegram: SWODKI",
-    "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/611249",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/swodki/611249",
-      "region": "Zaporizhia Oblast"
-    },
-    "lastUpdated": "2026-08-15T04:33:52.489Z",
-    "createdAt": "2026-08-15T04:33:52.489Z"
-  },
-  {
-    "id": "tg-swodki-611252",
-    "type": "battle",
-    "title": "В Днепропетровской области Герани/Герберы👻 продолжали наносить удары на востоке",
-    "description": "В Днепропетровской области Герани/Герберы👻 продолжали наносить удары на востоке области. \nУдары фиксировались в Шахтерском и Дмитровке\n\nТакже ночью Герани/Герберы👻 работали:\n- в Сумской области (Тростянец и окрестности Лебедина);\n- Чернигове;\n- Полтавской области (окрестности города Лубны и Миргорода);\n- Харьковской области. \nПока без деталей.\n\nОсобенность ночи - массированные атаки Молний⚡️\nВ Херсонской области было три волны Молний (~10шт) по цели в Снигирёвке. \nНа Донбассе крупная группа Мо",
-    "location": {
-      "lat": 49.9935,
-      "lng": 36.2304
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-15T04:18:54+00:00",
-    "source": "Telegram: SWODKI",
-    "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/611252",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/swodki/611252",
-      "region": "Kharkiv Oblast"
-    },
-    "lastUpdated": "2026-08-15T04:33:52.489Z",
-    "createdAt": "2026-08-15T04:33:52.489Z"
-  },
-  {
-    "id": "tg-swodki-611253",
-    "type": "strike",
-    "title": "Пожар продолжается на территории ЦСКБ-Прогресс в Самаре после атаки крылатой рак",
-    "description": "Пожар продолжается на территории ЦСКБ-Прогресс в Самаре после атаки крылатой ракетой Фламинго, есть информация что удар пришелся по главному цеху.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-15T04:21:44+00:00",
-    "source": "Telegram: SWODKI",
-    "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/611253",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/swodki/611253",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-15T04:33:52.489Z",
-    "createdAt": "2026-08-15T04:33:52.489Z"
-  },
-  {
-    "id": "tg-swodki-611263",
-    "type": "strike",
-    "title": "Погиб 3-х месячный ребенок и 11 человек ранены в результате попадания украинской",
-    "description": "Погиб 3-х месячный ребенок и 11 человек ранены в результате попадания украинской ракеты ПВО  С-300 по многоквартирному дому в Марганце Днепропетровской области. \n\n«11 человек получили ранения, семеро из них госпитализированы в тяжелом состоянии. Среди раненых двое детей – мальчик 5 лет и девочка 12 лет», — заявил глава Днепропетровской ОВА Александр Ганжа.\n\nУкраинская армия продолжает убивать собственных граждан.",
-    "location": {
-      "lat": 48.4647,
-      "lng": 35.0462
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-15T04:27:51+00:00",
-    "source": "Telegram: SWODKI",
-    "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/611263",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/swodki/611263",
-      "region": "Dnipropetrovsk Oblast"
-    },
-    "lastUpdated": "2026-08-15T04:33:52.489Z",
-    "createdAt": "2026-08-15T04:33:52.489Z"
-  },
-  {
-    "id": "tg-SolovievLive-381190",
-    "type": "strategic",
-    "title": "🔴🔴🔴🔴🔴 ВС РФ наносят массированные удары с использованием БПЛА и авиационных",
-    "description": "🔴🔴🔴🔴🔴 ВС РФ наносят массированные удары с использованием БПЛА и авиационных бомб по военным целям на территории Украины. \n\nВзрывы звучат в:\n\n🟥Днепропетровской области;\n\n🟥Запорожской области;\n\n🟥Одесской области.\n\nВ Запорожье после удара БПЛА загорелся ТЦ «Эпицентр». Ещё один удар пришёлся по территории промышленного предприятия.\n\n🇷🇺Подпишись на Соловьёва&#33;",
-    "location": {
-      "lat": 47.8388,
-      "lng": 35.1396
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-15T03:21:04+00:00",
-    "source": "Telegram: Solovyov Live",
-    "metadata": {
-      "telegramChannel": "SolovievLive",
-      "telegramChannelName": "Solovyov Live",
-      "telegramPostId": "SolovievLive/381190",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/SolovievLive/381190",
-      "region": "Zaporizhia Oblast"
-    },
-    "lastUpdated": "2026-08-15T04:33:57.916Z",
-    "createdAt": "2026-08-15T04:33:57.916Z"
-  },
-  {
-    "id": "tg-SolovievLive-381192",
-    "type": "strategic",
-    "title": "❗️ Пресс-секретарь Белого дома Каролин Левитт назвала «трагичным» тот факт, что ",
-    "description": "❗️ Пресс-секретарь Белого дома Каролин Левитт назвала «трагичным» тот факт, что Байден передал Украине оружие:\n\n«Президент совершенно четко обозначил нашу позицию по вопросу боеприпасов. К сожалению, и это трагично, президент Джо Байден передал огромное количество вооружений Украине и другим странам по всему миру. С первого дня своего пребывания в должности президент сосредоточился на восстановлении наших запасов вооружений.\n\nПри этом, вопреки многочисленным сообщениям в СМИ, у Соединенных Штато",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-15T03:46:48+00:00",
-    "source": "Telegram: Solovyov Live",
-    "metadata": {
-      "telegramChannel": "SolovievLive",
-      "telegramChannelName": "Solovyov Live",
-      "telegramPostId": "SolovievLive/381192",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/SolovievLive/381192",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-15T04:33:57.916Z",
-    "createdAt": "2026-08-15T04:33:57.916Z"
-  },
-  {
-    "id": "tg-tassagency_en-90688",
-    "type": "strategic",
-    "title": "North Korean leader Kim Jong Un has received congratulatory telegrams from Russi",
-    "description": "North Korean leader Kim Jong Un has received congratulatory telegrams from Russian President Vladimir Putin and Deputy Chair of the Russian Security Council Dmitry Medvedev on the occasion of the 81st anniversary of the country’s liberation from the Japanese occupation. \n\n“This holiday is symbolic of heroism and toughness of the Korean patriots and soldiers of the Red Army who fought together to liberate your country from Japan&#39;s colonial tyranny,” the Korean Central News Agency (KCNA) quote",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-15T03:58:00+00:00",
-    "source": "Telegram: TASS English",
-    "metadata": {
-      "telegramChannel": "tassagency_en",
-      "telegramChannelName": "TASS English",
-      "telegramPostId": "tassagency_en/90688",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/tassagency_en/90688",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-15T04:34:20.104Z",
-    "createdAt": "2026-08-15T04:34:20.104Z"
-  },
-  {
-    "id": "tg-ramzayiegokomanda-49642",
-    "type": "strategic",
-    "title": "ВС РФ наносят массированные удары с использованием БПЛА и авиационных бомб по во",
-    "description": "ВС РФ наносят массированные удары с использованием БПЛА и авиационных бомб по военным целям на территории Украины. \n\nВзрывы звучат в:\n\n🟥Днепропетровской области;\n\n🟥Запорожской области;\n\n🟥Одесской области.\n\nВ Запорожье после удара БПЛА загорелся ТЦ «Эпицентр». Ещё один удар пришёлся по территории промышленного предприятия.\n\n🇷🇺Подпишись на Соловьёва&#33;\n\n🇷🇺  РАМЗАЙ в МАКС  | ВК | TG",
-    "location": {
-      "lat": 47.8388,
-      "lng": 35.1396
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-15T04:01:23+00:00",
-    "source": "Telegram: Ramzai",
-    "metadata": {
-      "telegramChannel": "ramzayiegokomanda",
-      "telegramChannelName": "Ramzai",
-      "telegramPostId": "ramzayiegokomanda/49642",
-      "bias": "pro-russian",
-      "weight": 1,
-      "telegramUrl": "https://t.me/ramzayiegokomanda/49642",
-      "region": "Zaporizhia Oblast"
-    },
-    "lastUpdated": "2026-08-15T04:34:45.631Z",
-    "createdAt": "2026-08-15T04:34:45.631Z"
-  },
-  {
-    "id": "tg-ramzayiegokomanda-49644",
-    "type": "battle",
-    "title": "Собянин:",
-    "description": "Собянин:\n\n03:00. Отражена атака 7  беспилотников, летевших на Москву. \n05:06. Ещё 5 вражеских беспилотников, летевших Москву, сбиты силами ПВО Минобороны. Специалисты экстренных служб работают на месте падения обломков.\n\n🇷🇺  РАМЗАЙ в МАКС  | ВК | TG",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-15T04:15:05+00:00",
-    "source": "Telegram: Ramzai",
-    "metadata": {
-      "telegramChannel": "ramzayiegokomanda",
-      "telegramChannelName": "Ramzai",
-      "telegramPostId": "ramzayiegokomanda/49644",
-      "bias": "pro-russian",
-      "weight": 1,
-      "telegramUrl": "https://t.me/ramzayiegokomanda/49644",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-15T04:34:45.631Z",
-    "createdAt": "2026-08-15T04:34:45.631Z"
-  },
-  {
-    "id": "tg-operativnoZSU-218390",
-    "type": "strike",
-    "title": "Вночі Сили добра завдали удару ракетами «Фламінго» по промисловому підприємству ",
-    "description": "Вночі Сили добра завдали удару ракетами «Фламінго» по промисловому підприємству в Самарі\n\nЗа різними даними могли бути уражені розташовані поруч підприємства «Прогрес» або «Авіакор».\n\nРакетно-космічний центр «Прогрес» займається виробництвом та обслуговуванням космічних ракет-носіїв, перш за все серії «Союз-2».\n\n«Авіакор» — підприємство олігарха Дерипаски, яке спеціалізується на виробництві та обслуговування цивільних та військових літаків.\n\nКрім цього вночі було уражено аеродром у «Саваслєйка»(",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-15T04:30:03+00:00",
-    "source": "Telegram: Operativno ZSU",
-    "metadata": {
-      "telegramChannel": "OperativnoZSU",
-      "telegramChannelName": "Operativno ZSU",
-      "telegramPostId": "operativnoZSU/218390",
-      "bias": "pro-ukrainian",
-      "weight": 1,
-      "telegramUrl": "https://t.me/operativnoZSU/218390",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-15T04:34:58.521Z",
-    "createdAt": "2026-08-15T04:34:58.521Z"
-  },
-  {
-    "id": "tg-ssternenko-62345",
-    "type": "strike",
-    "title": "🔥 Ракети «Фламінго» уразили Ракетно-космічний центр «Прогрес» у Самарі. ",
-    "description": "🔥 Ракети «Фламінго» уразили Ракетно-космічний центр «Прогрес» у Самарі. \n\nПідприємство входить до складу державної корпорації «Роскосмос» і є одним із ключових розробників та виробників ракет-носіїв. \n\nТакож пожежу після вибухів спостерігали в районі аеродрому «Саваслєйка», де базуються літаки МіГ-31К (10).",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-15T04:04:31+00:00",
-    "source": "Telegram: Sternenko",
-    "metadata": {
-      "telegramChannel": "ssternenko",
-      "telegramChannelName": "Sternenko",
-      "telegramPostId": "ssternenko/62345",
-      "bias": "pro-ukrainian",
-      "weight": 1,
-      "telegramUrl": "https://t.me/ssternenko/62345",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-15T04:35:00.315Z",
-    "createdAt": "2026-08-15T04:35:00.315Z"
   }
 ]

@@ -1,5 +1,305 @@
 [
   {
+    "id": "tg-mod_russia-66756",
+    "type": "strategic",
+    "title": "Накрыли наглухо",
+    "description": "Накрыли наглухо\n\n💥 Расчет РСЗО «Град» Костромских десантников разнес пункт временной дислокации подразделений ВСУ на правобережье Днепра в Херсонской области.\n\n⚔️ Канал Минобороны России в MAКС – боевая работа 24/7. Присоединяйся&#33;",
+    "location": {
+      "lat": 46.6354,
+      "lng": 32.6169
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-25T02:39:01+00:00",
+    "source": "Telegram: Russian MOD",
+    "metadata": {
+      "telegramChannel": "mod_russia",
+      "telegramChannelName": "Russian MOD",
+      "telegramPostId": "mod_russia/66756",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/mod_russia/66756",
+      "region": "Kherson Oblast"
+    },
+    "lastUpdated": "2026-08-25T03:00:45.456Z",
+    "createdAt": "2026-08-25T03:00:45.456Z"
+  },
+  {
+    "id": "tg-intelslava-93153",
+    "type": "strategic",
+    "title": "🇷🇺🇺🇦⚡️ — A Lancet loitering munition strikes a Ukrainian Armed Forces Humvee",
+    "description": "🇷🇺🇺🇦⚡️ — A Lancet loitering munition strikes a Ukrainian Armed Forces Humvee using the IRRA automated target recognition and guidance system in Novonikolayevka, Zaporizhzhia Oblast.\n\n@IntelSlava",
+    "location": {
+      "lat": 47.8388,
+      "lng": 35.1396
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-25T01:52:07+00:00",
+    "source": "Telegram: Intel Slava Z",
+    "metadata": {
+      "telegramChannel": "intelslava",
+      "telegramChannelName": "Intel Slava Z",
+      "telegramPostId": "intelslava/93153",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/intelslava/93153",
+      "region": "Zaporizhia Oblast"
+    },
+    "lastUpdated": "2026-08-25T03:00:51.104Z",
+    "createdAt": "2026-08-25T03:00:51.104Z"
+  },
+  {
+    "id": "tg-tass_agency-391853",
+    "type": "strategic",
+    "title": "Минобороны Украины готовится ввести радикальные меры для мобилизации, в том числ",
+    "description": "Минобороны Украины готовится ввести радикальные меры для мобилизации, в том числе изменение призывного возраста. Об этом заявил депутат Рады Роман Костенко.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-25T02:14:01+00:00",
+    "source": "Telegram: TASS",
+    "metadata": {
+      "telegramChannel": "tass_agency",
+      "telegramChannelName": "TASS",
+      "telegramPostId": "tass_agency/391853",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/tass_agency/391853",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-08-25T03:00:52.839Z",
+    "createdAt": "2026-08-25T03:00:52.839Z"
+  },
+  {
+    "id": "tg-swodki-613889",
+    "type": "battle",
+    "title": "О возможной мобилизации размышляет автор канала «ПриZрак Новороссии»: ",
+    "description": "О возможной мобилизации размышляет автор канала «ПриZрак Новороссии»: \n\n«Ознакомимся с заявлением председателя комитета Госдумы по обороне Картаполова по поводу мобилизации. Теперь уже бывшего председателя — раз очередной созыв нижней палаты официально прекратил свою работу, а сама она соберется вновь лишь только осенью, да и не факт, что в том же составе.\n\n«Я по поводу этих слухов ничего не думаю. Я слышал, что там Зеленский по этому поводу что-то там сказал, но это могу связать только с тем, ч",
+    "location": {
+      "lat": 50.4501,
+      "lng": 30.5234
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-25T01:33:01+00:00",
+    "source": "Telegram: SWODKI",
+    "metadata": {
+      "telegramChannel": "swodki",
+      "telegramChannelName": "SWODKI",
+      "telegramPostId": "swodki/613889",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/swodki/613889",
+      "region": "Kyiv"
+    },
+    "lastUpdated": "2026-08-25T03:01:06.412Z",
+    "createdAt": "2026-08-25T03:01:06.412Z"
+  },
+  {
+    "id": "tg-swodki-613890",
+    "type": "strike",
+    "title": "Луганщина.",
+    "description": "Луганщина.\n\nДроны ВСУ снуют туда-сюда вдоль дорог.\n\nТеррор нашей логистики набирает обороты.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-25T01:50:13+00:00",
+    "source": "Telegram: SWODKI",
+    "metadata": {
+      "telegramChannel": "swodki",
+      "telegramChannelName": "SWODKI",
+      "telegramPostId": "swodki/613890",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/swodki/613890",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-08-25T03:01:06.412Z",
+    "createdAt": "2026-08-25T03:01:06.412Z"
+  },
+  {
+    "id": "tg-swodki-613892",
+    "type": "strike",
+    "title": "ВВС Швеции сообщили о первом успешном испытании ими крылатой ракеты Taurus KEPD ",
+    "description": "ВВС Швеции сообщили о первом успешном испытании ими крылатой ракеты Taurus KEPD 350 с истребителя Saab JAS-39С Gripen. Несмотря на то, что ракета Taurus была в свое время разработана совместным предприятием Taurus Systems GbmH группы Saab АВ и немецкого отделения MBDA (MBDA Deutschland) и с самого начала предполагалась в том числе для применения истребителями Gripen, однако ВВС Швеции до последнего времени так и не закупали эту ракету. Лишь в начале 2025 г. министерство обороны Швеции утвердило ",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-25T02:01:29+00:00",
+    "source": "Telegram: SWODKI",
+    "metadata": {
+      "telegramChannel": "swodki",
+      "telegramChannelName": "SWODKI",
+      "telegramPostId": "swodki/613892",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/swodki/613892",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-08-25T03:01:06.412Z",
+    "createdAt": "2026-08-25T03:01:06.412Z"
+  },
+  {
+    "id": "tg-swodki-613893",
+    "type": "strategic",
+    "title": "❗️Компания Saab представила концепт боевой беспилотной системы.",
+    "description": "❗️Компания Saab представила концепт боевой беспилотной системы.\n\nМакет нового ударного БЛА компании Saab. Обращают внимание компактные размеры аппарата, сопоставимые с истребителем Gripen.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-25T02:15:13+00:00",
+    "source": "Telegram: SWODKI",
+    "metadata": {
+      "telegramChannel": "swodki",
+      "telegramChannelName": "SWODKI",
+      "telegramPostId": "swodki/613893",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/swodki/613893",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-08-25T03:01:06.412Z",
+    "createdAt": "2026-08-25T03:01:06.412Z"
+  },
+  {
+    "id": "tg-swodki-613896",
+    "type": "strike",
+    "title": "Произведенные серийно украинские дроны-камикадзе средней дальности \"Бегемот\" с м",
+    "description": "Произведенные серийно украинские дроны-камикадзе средней дальности \"Бегемот\" с массой БЧ 75 кг, которыми противник атаковал в том числе мост между Крымом и Херсонской областью.",
+    "location": {
+      "lat": 46.6354,
+      "lng": 32.6169
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-25T02:32:54+00:00",
+    "source": "Telegram: SWODKI",
+    "metadata": {
+      "telegramChannel": "swodki",
+      "telegramChannelName": "SWODKI",
+      "telegramPostId": "swodki/613896",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/swodki/613896",
+      "region": "Kherson Oblast"
+    },
+    "lastUpdated": "2026-08-25T03:01:06.412Z",
+    "createdAt": "2026-08-25T03:01:06.412Z"
+  },
+  {
+    "id": "tg-swodki-613898",
+    "type": "strike",
+    "title": "Украинский Ми-8, адаптированный для запуска дронов-перехватчиков. ",
+    "description": "Украинский Ми-8, адаптированный для запуска дронов-перехватчиков. \n\nРанее аналогичным воздушным носителем зенитных дронов у противника стал выступать самолет PZL M28 Skytruck.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-25T02:45:13+00:00",
+    "source": "Telegram: SWODKI",
+    "metadata": {
+      "telegramChannel": "swodki",
+      "telegramChannelName": "SWODKI",
+      "telegramPostId": "swodki/613898",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/swodki/613898",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-08-25T03:01:06.413Z",
+    "createdAt": "2026-08-25T03:01:06.413Z"
+  },
+  {
+    "id": "tg-SolovievLive-382392",
+    "type": "strike",
+    "title": "Премьер Британии планирует поездку в США для лоббирования поставок Patriot Украи",
+    "description": "Премьер Британии планирует поездку в США для лоббирования поставок Patriot Украине, сообщает Bloomberg.\n\nЭнди Бернем заявил, что в сентябре намерен посетить США вместе с другими европейскими лидерами, чтобы убедить президента Дональда Трампа разрешить Украине доступ к американским запасам ракет для систем ПВО Patriot до наступления зимы.\n\nПоездка, вероятно, будет совмещена с участием в Генассамблее ООН в Нью-Йорке. По словам премьера, детали ещё не подтверждены, но он \"довольно ясно представляет",
+    "location": {
+      "lat": 50.4501,
+      "lng": 30.5234
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-25T02:26:28+00:00",
+    "source": "Telegram: Solovyov Live",
+    "metadata": {
+      "telegramChannel": "SolovievLive",
+      "telegramChannelName": "Solovyov Live",
+      "telegramPostId": "SolovievLive/382392",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/SolovievLive/382392",
+      "region": "Kyiv"
+    },
+    "lastUpdated": "2026-08-25T03:01:12.185Z",
+    "createdAt": "2026-08-25T03:01:12.185Z"
+  },
+  {
+    "id": "tg-tassagency_en-91445",
+    "type": "strategic",
+    "title": "German Foreign Minister Johann Wadephul has acknowledged a funding shortfall for",
+    "description": "German Foreign Minister Johann Wadephul has acknowledged a funding shortfall for military aid to Ukraine.\n\n“There is indeed not enough money, that is true,” Wadephul said on ARD television during a visit to Ukraine. He was responding to a journalist’s question about whether Berlin should increase support amid an acute funding shortage despite being one of Kiev’s key allies.\n\nThe German foreign minister said he had discussed the matter in detail with Ukraine’s new defense minister. “I now need to",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-25T01:43:04+00:00",
+    "source": "Telegram: TASS English",
+    "metadata": {
+      "telegramChannel": "tassagency_en",
+      "telegramChannelName": "TASS English",
+      "telegramPostId": "tassagency_en/91445",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/tassagency_en/91445",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-08-25T03:01:35.376Z",
+    "createdAt": "2026-08-25T03:01:35.376Z"
+  },
+  {
+    "id": "tg-tassagency_en-91446",
+    "type": "battle",
+    "title": "An oil tanker was damaged and disabled in an attack off the coast of Oman, the U",
+    "description": "An oil tanker was damaged and disabled in an attack off the coast of Oman, the United Kingdom Maritime Trade Operations (UKMTO) said.\n\n“UKMTO has received a report of an incident 9NM northeast of Ash Shishah, Oman. The Master of an oil tanker reports the vessel has been struck by an unknown projectile causing damage to the engine room and disabling the vessel,” the organization said.\n\nAccording to UKMTO, the crew are safe and no environmental impact has been reported.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-08-25T02:21:04+00:00",
+    "source": "Telegram: TASS English",
+    "metadata": {
+      "telegramChannel": "tassagency_en",
+      "telegramChannelName": "TASS English",
+      "telegramPostId": "tassagency_en/91446",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/tassagency_en/91446",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-08-25T03:01:35.376Z",
+    "createdAt": "2026-08-25T03:01:35.376Z"
+  },
+  {
     "id": "tg-intelslava-93142",
     "type": "strategic",
     "title": "🇺🇦🇷🇺🇺🇸🇪🇺🇻🇦⚡️ — Zelensky presented a new peace plan, developed jointly ",
@@ -111098,330 +111398,5 @@
     },
     "lastUpdated": "2026-08-18T04:39:16.552Z",
     "createdAt": "2026-08-18T04:39:16.552Z"
-  },
-  {
-    "id": "tg-mod_russia-66581",
-    "type": "strike",
-    "title": "🎯  Вражеские дроны под прицелом – снайперы бьют без промаха",
-    "description": "🎯  Вражеские дроны под прицелом – снайперы бьют без промаха\n\n💥  На Добропольском направлении снайперы группировки «Центр» ликвидируют тяжелые беспилотники ВСУ.\n\n🛡️  Находясь в засаде, они надежно прикрывают наши штурмовые подразделения от ударов с воздуха.\n\nС такой поддержкой наши бойцы уверенно идут вперед&#33; Парни красавцы💪  \n\n🔹 MAКС – территория СВОих",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-18T02:00:31+00:00",
-    "source": "Telegram: Russian MOD",
-    "metadata": {
-      "telegramChannel": "mod_russia",
-      "telegramChannelName": "Russian MOD",
-      "telegramPostId": "mod_russia/66581",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/mod_russia/66581",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-18T02:57:09.417Z",
-    "createdAt": "2026-08-18T02:57:09.417Z"
-  },
-  {
-    "id": "tg-tass_agency-390757",
-    "type": "battle",
-    "title": "Силами ПВО отражена атака еще четырех беспилотников, сообщил мэр Москвы Собянин.",
-    "description": "Силами ПВО отражена атака еще четырех беспилотников, сообщил мэр Москвы Собянин.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-18T02:18:54+00:00",
-    "source": "Telegram: TASS",
-    "metadata": {
-      "telegramChannel": "tass_agency",
-      "telegramChannelName": "TASS",
-      "telegramPostId": "tass_agency/390757",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/tass_agency/390757",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-18T02:57:16.492Z",
-    "createdAt": "2026-08-18T02:57:16.492Z"
-  },
-  {
-    "id": "tg-tass_agency-390760",
-    "type": "strategic",
-    "title": "▶️ ВС РФ уничтожили хорватскую пусковую установку РСЗО на шасси HMMWV в Сумской ",
-    "description": "▶️ ВС РФ уничтожили хорватскую пусковую установку РСЗО на шасси HMMWV в Сумской области.\n\nВидео: Минобороны России/ТАСС\n\n✔️ Подпишись на ТАСС в \"Максе\"",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-18T02:40:01+00:00",
-    "source": "Telegram: TASS",
-    "metadata": {
-      "telegramChannel": "tass_agency",
-      "telegramChannelName": "TASS",
-      "telegramPostId": "tass_agency/390760",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/tass_agency/390760",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-18T02:57:16.493Z",
-    "createdAt": "2026-08-18T02:57:16.493Z"
-  },
-  {
-    "id": "tg-boris_rozhin-222565",
-    "type": "strategic",
-    "title": "#радиоперехват",
-    "description": "#радиоперехват\n🔊⚡️ РАДИОПЕРЕХВАТ с Рубцовского направления, где у 66 омбр ВСУ сложилась тяжелая обстановка в связи с высоким уровнем потерь.\n\nКак следует из перехвата — систематическое поражение ВС РФ пунктов временной дислокации снижает боеспособность 66 омбр ВСУ, а также сказывается на количестве дезертиров и сдающихся в плен.\n\n❗️ Солдаты ВСУ, на фронте Вас ждёт лишь смерть. Если вы хотите избежать гибели - пишите на аккаунт https://t.me/FREE_SOLDIER_2025, там Вам помогут остаться в живых и в",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-18T02:05:05+00:00",
-    "source": "Telegram: Colonel Cassad",
-    "metadata": {
-      "telegramChannel": "boris_rozhin",
-      "telegramChannelName": "Colonel Cassad",
-      "telegramPostId": "boris_rozhin/222565",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/boris_rozhin/222565",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-18T02:57:20.105Z",
-    "createdAt": "2026-08-18T02:57:20.105Z"
-  },
-  {
-    "id": "tg-RVvoenkor-121496",
-    "type": "strike",
-    "title": "‼️🇷🇺🏴‍☠️Враг запустил на Москву более 600 БПЛА",
-    "description": "‼️🇷🇺🏴‍☠️Враг запустил на Москву более 600 БПЛА\n\nС вечера до 5:00 утра сегодня в сторону Московского региона летели 620 БПЛА, из них 180 дронов уничтожены в Московском регионе, сообщил С. Собянин. На местах падения обломков работают экстренные службы.\n⚠️Подписаться на RV: MAX | t.me/RVvoenkor",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-18T02:32:44+00:00",
-    "source": "Telegram: Operation Z (RV)",
-    "metadata": {
-      "telegramChannel": "RVvoenkor",
-      "telegramChannelName": "Operation Z (RV)",
-      "telegramPostId": "RVvoenkor/121496",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/RVvoenkor/121496",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-18T02:57:24.197Z",
-    "createdAt": "2026-08-18T02:57:24.197Z"
-  },
-  {
-    "id": "tg-milinfolive-177806",
-    "type": "strike",
-    "title": "Репортаж о 35-метровой зенитной башне с ЗРПК \"Панцирь-С1М\", которые с 2023 года ",
-    "description": "Репортаж о 35-метровой зенитной башне с ЗРПК \"Панцирь-С1М\", которые с 2023 года строятся в несколько колец вокруг Москвы, составляя основу противодроновой обороны столичного региона.  Недавно аналогичные вышки стали возводиться и в других регионах страны.…",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-18T02:10:41+00:00",
-    "source": "Telegram: Military Informant",
-    "metadata": {
-      "telegramChannel": "milinfolive",
-      "telegramChannelName": "Military Informant",
-      "telegramPostId": "milinfolive/177806",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/milinfolive/177806",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-18T02:57:28.482Z",
-    "createdAt": "2026-08-18T02:57:28.482Z"
-  },
-  {
-    "id": "tg-swodki-611977",
-    "type": "battle",
-    "title": "Друг попросил расшифровать фразу из предыдущего поста",
-    "description": "Друг попросил расшифровать фразу из предыдущего поста\n\nв том, что мы сейчас воюем, нашей вины не меньше, чем их – впрочем, и не больше\n\nНу хорошо. Сейчас будет сильно неортодоксальная с точки зрения официального агитпропа моя личная позиция по вопросу. \n\nЯ работал как сотрудник ФЭП Павловского на кампании Януковича в 2004-м; создавал отделения российских молодёжных движений в Крыму в (по собственной инициативе, мне никто не поручал) в 2005-м, консультировал в Тирасполе приднестровский «Прорыв» в",
-    "location": {
-      "lat": 50.4501,
-      "lng": 30.5234
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-18T01:31:01+00:00",
-    "source": "Telegram: SWODKI",
-    "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/611977",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/swodki/611977",
-      "region": "Kyiv"
-    },
-    "lastUpdated": "2026-08-18T02:57:30.295Z",
-    "createdAt": "2026-08-18T02:57:30.295Z"
-  },
-  {
-    "id": "tg-swodki-611979",
-    "type": "strike",
-    "title": "Жуткая зарисовка о реалиях войны от канала «БЧ3»: ",
-    "description": "Жуткая зарисовка о реалиях войны от канала «БЧ3»: \n\n«Видел в некоторых частях свежее пополнение. Пустые, без искры, глаза, молодых мало, мотивации никакой. На наш взгляд, заманивание людей деньгами - это тупиковый путь. Большие зарплаты - хорошо, выплаты за ранение и смерть - очень правильно, но наем за разовые выплаты при бесрочном контракте - это кабала. Человек превращается в функцию. \"Мотивация не нужна\" - говорят отцы командиры. - \"Нужна только дисциплина.\" Но человек - это не функция, не р",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-18T01:50:15+00:00",
-    "source": "Telegram: SWODKI",
-    "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/611979",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/swodki/611979",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-18T02:57:30.295Z",
-    "createdAt": "2026-08-18T02:57:30.295Z"
-  },
-  {
-    "id": "tg-swodki-611980",
-    "type": "strike",
-    "title": "Американская компания BlackSea Technologies (Балтимор), наладившая крупносерийны",
-    "description": "Американская компания BlackSea Technologies (Балтимор), наладившая крупносерийный выпуск безэкипажных катеров GARC (Global Autonomous Reconnaissance Craft), масштабирует украинский опыт применения морских дронов на нужды Пентагона. Поставляемые ВМС США (в том числе в дивизион USVRON 3 и для учений RIMPAC) 16-футовые платформы GARC отрабатывают не только роль камикадзе с 450-килограммовой боевой частью, но и функции «маток»-носителей. В рамках спецпроектов (модули Marionette) компания исследует д",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-18T02:01:02+00:00",
-    "source": "Telegram: SWODKI",
-    "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/611980",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/swodki/611980",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-18T02:57:30.295Z",
-    "createdAt": "2026-08-18T02:57:30.295Z"
-  },
-  {
-    "id": "tg-swodki-611982",
-    "type": "strategic",
-    "title": "В конце июля 2026 года командование сухутных войск США официально подтвердило за",
-    "description": "В конце июля 2026 года командование сухутных войск США официально подтвердило завершение начального цикла наных огневых испытаний гиперзвукового артиллерийского боеприпаса на полигоне Юма в штате Аризона. Работы велись в кооперации с Центром вооружений DEVCOM и Национальной лабораторией Лоуренса Ливермора с использованием экспериментальной платформы Heavy Artillery Test System (HATS), созданной на технологическом заделе свернутой программы Strategic Long Range Cannon. \n\nСистема HATS изначально р",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-18T02:20:11+00:00",
-    "source": "Telegram: SWODKI",
-    "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/611982",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/swodki/611982",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-18T02:57:30.295Z",
-    "createdAt": "2026-08-18T02:57:30.295Z"
-  },
-  {
-    "id": "tg-swodki-611983",
-    "type": "strike",
-    "title": "На фоне активного развития высокоточных артиллерийских систем большой дальности ",
-    "description": "На фоне активного развития высокоточных артиллерийских систем большой дальности обращает на себя внимание американский 155-мм снаряд Sceptre (TRBM 155HG) компании Tiberius Aerospace, вышедший на этап натурных испытаний. Данный боеприпас оснащён прямоточным воздушно-реактивным двигателем на жидком топливе, совместимым со стандартными авиационными керосинами JP-4 и JP-8, что обеспечивает стартовую массу 47,5 кг при длине 1,55 м и калибре 155 мм. Полезная нагрузка составляет 5,2 кг осколочно-фугасн",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-18T02:40:08+00:00",
-    "source": "Telegram: SWODKI",
-    "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/611983",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/swodki/611983",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-18T02:57:30.296Z",
-    "createdAt": "2026-08-18T02:57:30.296Z"
-  },
-  {
-    "id": "tg-swodki-611989",
-    "type": "strike",
-    "title": "Оптоволоконный дрон с повышенным могуществом боевой части «Упырь 18» (не так дав",
-    "description": "Оптоволоконный дрон с повышенным могуществом боевой части «Упырь 18» (не так давно появившийся на фронте), а также ударный самолет производства Уралдронзавода, продолжают уничтожать технику и живую силу врага в промышленных масштабах. \n\nНекоторые думают, что размер не имеет значения, это ошибка. Залетевший в опорник 6 или 10 килограммовый фугас, а равно тяжелая кумулятивна бч в технику, доставляет противнику гораздо больше острых ощущений, чем маленькая бч. \n\nВраг будет разбит, унижен и уничтоже",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-18T02:51:02+00:00",
-    "source": "Telegram: SWODKI",
-    "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/611989",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/swodki/611989",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-18T02:57:30.296Z",
-    "createdAt": "2026-08-18T02:57:30.296Z"
-  },
-  {
-    "id": "tg-SolovievLive-381518",
-    "type": "battle",
-    "title": "The Washington Post сообщает, что ИИ может упростить создание смертельно опасных",
-    "description": "The Washington Post сообщает, что ИИ может упростить создание смертельно опасных вирусов и биологического оружия.\n\nВласти США опасаются, что развитие ИИ позволит создавать новые патогены и даже поможет людям без серьёзной подготовки проводить биологические атаки. При этом эксперты расходятся во мнениях, насколько близка такая угроза.\n&nbsp;\nПо данным источников, недавно прошла серия закрытых брифингов по биорискам между OpenAI, Белым домом и несколькими правительственными ведомствами, а сам Белы",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-08-18T02:57:00+00:00",
-    "source": "Telegram: Solovyov Live",
-    "metadata": {
-      "telegramChannel": "SolovievLive",
-      "telegramChannelName": "Solovyov Live",
-      "telegramPostId": "SolovievLive/381518",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/SolovievLive/381518",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-08-18T02:57:35.785Z",
-    "createdAt": "2026-08-18T02:57:35.785Z"
   }
 ]

@@ -1,5 +1,880 @@
 [
   {
+    "id": "tg-mod_russia-67314",
+    "type": "strategic",
+    "title": "В щепки на марше",
+    "description": "В щепки на марше\n\n🔥 Операторы ударных БПЛА группировки «Восток» разобрали технику ВСУ на маршрутах движения в Запорожской области, сорвав ротацию подразделений противника.\n\n#ВойскаБПС\n🎮 Канал Минобороны России в MAКС – боевая работа 24/7. Присоединяйся&#33;",
+    "location": {
+      "lat": 47.8388,
+      "lng": 35.1396
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-09-14T03:33:01+00:00",
+    "source": "Telegram: Russian MOD",
+    "metadata": {
+      "telegramChannel": "mod_russia",
+      "telegramChannelName": "Russian MOD",
+      "telegramPostId": "mod_russia/67314",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/mod_russia/67314",
+      "region": "Zaporizhia Oblast"
+    },
+    "lastUpdated": "2026-09-14T03:57:46.775Z",
+    "createdAt": "2026-09-14T03:57:46.775Z"
+  },
+  {
+    "id": "tg-intelslava-94544",
+    "type": "battle",
+    "title": "🇮🇶🇮🇷❌🇸🇦 — High-resolution satellite image shows significant damage at one ",
+    "description": "🇮🇶🇮🇷❌🇸🇦 — High-resolution satellite image shows significant damage at one of the East–West oil pipeline pumping stations in Saudi Arabia after an alleged attack by the Islamic Resistance in Iraq.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-09-13T23:20:14+00:00",
+    "source": "Telegram: Intel Slava Z",
+    "metadata": {
+      "telegramChannel": "intelslava",
+      "telegramChannelName": "Intel Slava Z",
+      "telegramPostId": "intelslava/94544",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/intelslava/94544",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-09-14T03:57:52.242Z",
+    "createdAt": "2026-09-14T03:57:52.242Z"
+  },
+  {
+    "id": "tg-intelslava-94546",
+    "type": "strike",
+    "title": "🇾🇪❌🇸🇦 — Sirens activated in Abha and Khamis Mushait due to a combined Houthi",
+    "description": "🇾🇪❌🇸🇦 — Sirens activated in Abha and Khamis Mushait due to a combined Houthi missile and drone attack.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-09-13T23:33:03+00:00",
+    "source": "Telegram: Intel Slava Z",
+    "metadata": {
+      "telegramChannel": "intelslava",
+      "telegramChannelName": "Intel Slava Z",
+      "telegramPostId": "intelslava/94546",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/intelslava/94546",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-09-14T03:57:52.242Z",
+    "createdAt": "2026-09-14T03:57:52.242Z"
+  },
+  {
+    "id": "tg-intelslava-94547",
+    "type": "battle",
+    "title": "🇾🇪❌🇸🇦 — More Alert in Najran and Jazan.",
+    "description": "🇾🇪❌🇸🇦 — More Alert in Najran and Jazan.\n\nPossible large attack.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-09-13T23:35:03+00:00",
+    "source": "Telegram: Intel Slava Z",
+    "metadata": {
+      "telegramChannel": "intelslava",
+      "telegramChannelName": "Intel Slava Z",
+      "telegramPostId": "intelslava/94547",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/intelslava/94547",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-09-14T03:57:52.242Z",
+    "createdAt": "2026-09-14T03:57:52.242Z"
+  },
+  {
+    "id": "tg-intelslava-94550",
+    "type": "battle",
+    "title": "🇾🇪❌🇸🇦 — All clear, alerts ended. It was a larger attack than the previous at",
+    "description": "🇾🇪❌🇸🇦 — All clear, alerts ended. It was a larger attack than the previous attack last week, probably impacting oil refineries.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-09-13T23:51:26+00:00",
+    "source": "Telegram: Intel Slava Z",
+    "metadata": {
+      "telegramChannel": "intelslava",
+      "telegramChannelName": "Intel Slava Z",
+      "telegramPostId": "intelslava/94550",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/intelslava/94550",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-09-14T03:57:52.242Z",
+    "createdAt": "2026-09-14T03:57:52.242Z"
+  },
+  {
+    "id": "tg-intelslava-94552",
+    "type": "strategic",
+    "title": "🇮🇷❌🇦🇪🇺🇸 — NEW: An Emirati tanker was hit by Iranian projectiles in the Str",
+    "description": "🇮🇷❌🇦🇪🇺🇸 — NEW: An Emirati tanker was hit by Iranian projectiles in the Strait of Hormuz.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-09-14T00:12:49+00:00",
+    "source": "Telegram: Intel Slava Z",
+    "metadata": {
+      "telegramChannel": "intelslava",
+      "telegramChannelName": "Intel Slava Z",
+      "telegramPostId": "intelslava/94552",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/intelslava/94552",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-09-14T03:57:52.243Z",
+    "createdAt": "2026-09-14T03:57:52.243Z"
+  },
+  {
+    "id": "tg-intelslava-94553",
+    "type": "strike",
+    "title": "🇮🇷❌🌞🇮🇶 — NOW: Iran is conducting a drone attack on Kurdish separatist posit",
+    "description": "🇮🇷❌🌞🇮🇶 — NOW: Iran is conducting a drone attack on Kurdish separatist positions in Sulaymaniyah, according to Kurdish local sources.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-09-14T00:16:50+00:00",
+    "source": "Telegram: Intel Slava Z",
+    "metadata": {
+      "telegramChannel": "intelslava",
+      "telegramChannelName": "Intel Slava Z",
+      "telegramPostId": "intelslava/94553",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/intelslava/94553",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-09-14T03:57:52.243Z",
+    "createdAt": "2026-09-14T03:57:52.243Z"
+  },
+  {
+    "id": "tg-intelslava-94554",
+    "type": "battle",
+    "title": "⚡️ — Admin Note: It looks like lately only the Axis of Resistance is fighting in",
+    "description": "⚡️ — Admin Note: It looks like lately only the Axis of Resistance is fighting in the Middle East and maintaining an offensive posture, while the US and its proxies have remained in embarrassing silence.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-09-14T00:19:18+00:00",
+    "source": "Telegram: Intel Slava Z",
+    "metadata": {
+      "telegramChannel": "intelslava",
+      "telegramChannelName": "Intel Slava Z",
+      "telegramPostId": "intelslava/94554",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/intelslava/94554",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-09-14T03:57:52.243Z",
+    "createdAt": "2026-09-14T03:57:52.243Z"
+  },
+  {
+    "id": "tg-intelslava-94556",
+    "type": "strike",
+    "title": "🇮🇷❌🌞🇮🇶 — NOW: Missile sightings reported over the Sulaimaniyah border area,",
+    "description": "🇮🇷❌🌞🇮🇶 — NOW: Missile sightings reported over the Sulaimaniyah border area, with multiple loud explosions heard in Halabja, Sharazur, and Zar Gwez, local sources report.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-09-14T00:38:30+00:00",
+    "source": "Telegram: Intel Slava Z",
+    "metadata": {
+      "telegramChannel": "intelslava",
+      "telegramChannelName": "Intel Slava Z",
+      "telegramPostId": "intelslava/94556",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/intelslava/94556",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-09-14T03:57:52.243Z",
+    "createdAt": "2026-09-14T03:57:52.243Z"
+  },
+  {
+    "id": "tg-intelslava-94557",
+    "type": "strategic",
+    "title": "🇮🇷❌🌞🇮🇶 — Fires and smoke rise from separatist militant positions in Sulaima",
+    "description": "🇮🇷❌🌞🇮🇶 — Fires and smoke rise from separatist militant positions in Sulaimaniyah province in northern Iraq.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-09-14T00:46:46+00:00",
+    "source": "Telegram: Intel Slava Z",
+    "metadata": {
+      "telegramChannel": "intelslava",
+      "telegramChannelName": "Intel Slava Z",
+      "telegramPostId": "intelslava/94557",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/intelslava/94557",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-09-14T03:57:52.243Z",
+    "createdAt": "2026-09-14T03:57:52.243Z"
+  },
+  {
+    "id": "tg-tass_agency-395235",
+    "type": "strategic",
+    "title": "📹 На ЗАЭС считают полезным присутствие МАГАТЭ как источника информации о состоя",
+    "description": "📹 На ЗАЭС считают полезным присутствие МАГАТЭ как источника информации о состоянии станции, заявил ТАСС директор Запорожской АЭС Черничук.  Видео: Марина Осокина/ТАСС  ✔ Подпишись на ТАСС в \"Максе\"",
+    "location": {
+      "lat": 47.8388,
+      "lng": 35.1396
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-09-14T00:33:49+00:00",
+    "source": "Telegram: TASS",
+    "metadata": {
+      "telegramChannel": "tass_agency",
+      "telegramChannelName": "TASS",
+      "telegramPostId": "tass_agency/395235",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/tass_agency/395235",
+      "region": "Zaporizhia Oblast"
+    },
+    "lastUpdated": "2026-09-14T03:57:53.988Z",
+    "createdAt": "2026-09-14T03:57:53.988Z"
+  },
+  {
+    "id": "tg-tass_agency-395236",
+    "type": "strike",
+    "title": "Украина исчерпала почти все ракеты для Patriot. У этой проблемы нет решения в кр",
+    "description": "Украина исчерпала почти все ракеты для Patriot. У этой проблемы нет решения в краткосрочной перспективе, пишет The Economist.  Как говорится в статье, в результате войны США против Ирана американские запасы ракет-перехватчиков для Patriot истощены, и никто…",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-09-14T00:49:08+00:00",
+    "source": "Telegram: TASS",
+    "metadata": {
+      "telegramChannel": "tass_agency",
+      "telegramChannelName": "TASS",
+      "telegramPostId": "tass_agency/395236",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/tass_agency/395236",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-09-14T03:57:53.988Z",
+    "createdAt": "2026-09-14T03:57:53.988Z"
+  },
+  {
+    "id": "tg-tass_agency-395241",
+    "type": "strategic",
+    "title": "▶️ Эксперты МАГАТЭ на ЗАЭС явно видят, что именно ВСУ бьют по станции и Энергода",
+    "description": "▶️ Эксперты МАГАТЭ на ЗАЭС явно видят, что именно ВСУ бьют по станции и Энергодару, особенно после обострения ситуации. Об этом заявил ТАСС директор Запорожской АЭС Черничук.  Видео: Марина Осокина/ТАСС  ✔ Подпишись на ТАСС в \"Максе\"",
+    "location": {
+      "lat": 47.8388,
+      "lng": 35.1396
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-09-14T01:39:01+00:00",
+    "source": "Telegram: TASS",
+    "metadata": {
+      "telegramChannel": "tass_agency",
+      "telegramChannelName": "TASS",
+      "telegramPostId": "tass_agency/395241",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/tass_agency/395241",
+      "region": "Zaporizhia Oblast"
+    },
+    "lastUpdated": "2026-09-14T03:57:53.988Z",
+    "createdAt": "2026-09-14T03:57:53.988Z"
+  },
+  {
+    "id": "tg-tass_agency-395243",
+    "type": "strike",
+    "title": "▶️ Бойцы РФ в Запорожской области сбивают дроны ВСУ, исключая риск для мирных жи",
+    "description": "▶️ Бойцы РФ в Запорожской области сбивают дроны ВСУ, исключая риск для мирных жителей, рассказал ТАСС боец \"БАРС-Сармат\" группировки \"Днепр\" с позывным Довод.\n\nВидео: Виктор Антонюк/ТАСС\n\n✔ Подпишись на ТАСС в \"Максе\"",
+    "location": {
+      "lat": 47.8388,
+      "lng": 35.1396
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-09-14T01:54:01+00:00",
+    "source": "Telegram: TASS",
+    "metadata": {
+      "telegramChannel": "tass_agency",
+      "telegramChannelName": "TASS",
+      "telegramPostId": "tass_agency/395243",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/tass_agency/395243",
+      "region": "Zaporizhia Oblast"
+    },
+    "lastUpdated": "2026-09-14T03:57:53.988Z",
+    "createdAt": "2026-09-14T03:57:53.988Z"
+  },
+  {
+    "id": "tg-tass_agency-395245",
+    "type": "strategic",
+    "title": "📹 ВС РФ организовали учения военных инженеров для стран АСЕАН и \"СМОА плюс\", со",
+    "description": "📹 ВС РФ организовали учения военных инженеров для стран АСЕАН и \"СМОА плюс\", сообщили в МО РФ.\n\nВидео: Минобороны России/ТАСС\n\n✔ Подпишись на ТАСС в \"Максе\"",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-09-14T02:18:02+00:00",
+    "source": "Telegram: TASS",
+    "metadata": {
+      "telegramChannel": "tass_agency",
+      "telegramChannelName": "TASS",
+      "telegramPostId": "tass_agency/395245",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/tass_agency/395245",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-09-14T03:57:53.989Z",
+    "createdAt": "2026-09-14T03:57:53.989Z"
+  },
+  {
+    "id": "tg-tass_agency-395246",
+    "type": "battle",
+    "title": "Мошенники стали использовать комбинированные атаки на россиян, следует из матери",
+    "description": "Мошенники стали использовать комбинированные атаки на россиян, следует из материалов МВД РФ, с которыми ознакомился ТАСС.\n\nТак, аферисты могут позвонить человеку от лица работника банка и предупредить о якобы подозрительной активности со счетами. Спустя время в мессенджере направляется поддельная ссылка на страницу, которая имитирует официальный портал банка и запрашивает пароль и логин.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-09-14T02:32:02+00:00",
+    "source": "Telegram: TASS",
+    "metadata": {
+      "telegramChannel": "tass_agency",
+      "telegramChannelName": "TASS",
+      "telegramPostId": "tass_agency/395246",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/tass_agency/395246",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-09-14T03:57:53.989Z",
+    "createdAt": "2026-09-14T03:57:53.989Z"
+  },
+  {
+    "id": "tg-tass_agency-395253",
+    "type": "battle",
+    "title": "▶️ Украина сорвала визит главы МАГАТЭ Рафаэля Гросси на ЗАЭС, поскольку боится п",
+    "description": "▶️ Украина сорвала визит главы МАГАТЭ Рафаэля Гросси на ЗАЭС, поскольку боится правды об атаках ВСУ, заявил ТАСС директор станции Черничук.  Видео: Марина Осокина/ТАСС  ✔ Подпишись на ТАСС в \"Максе\"",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-09-14T03:47:44+00:00",
+    "source": "Telegram: TASS",
+    "metadata": {
+      "telegramChannel": "tass_agency",
+      "telegramChannelName": "TASS",
+      "telegramPostId": "tass_agency/395253",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/tass_agency/395253",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-09-14T03:57:53.989Z",
+    "createdAt": "2026-09-14T03:57:53.989Z"
+  },
+  {
+    "id": "tg-tass_agency-395254",
+    "type": "strike",
+    "title": "Россия опережает Украину и США в производстве дешевых технологичных вооружений, ",
+    "description": "Россия опережает Украину и США в производстве дешевых технологичных вооружений, пишет The Wall Street Journal.\n\nПо ее сведениям, новые беспилотники \"Герань\" и крылатые ракеты \"Бандероль\" являются \"смертельным напоминанием того, что РФ обладает как ресурсами, так и цепочками поставок для борьбы с новыми угрозами\". При этом новые вооружения оснащены продвинутой электроникой, которая \"позволяет точно находить цели и избегать перехвата\".",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-09-14T03:52:01+00:00",
+    "source": "Telegram: TASS",
+    "metadata": {
+      "telegramChannel": "tass_agency",
+      "telegramChannelName": "TASS",
+      "telegramPostId": "tass_agency/395254",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/tass_agency/395254",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-09-14T03:57:53.989Z",
+    "createdAt": "2026-09-14T03:57:53.989Z"
+  },
+  {
+    "id": "tg-rian_ru-346099",
+    "type": "strategic",
+    "title": "Эта зима может стать последней для Зеленского во главе режима, считает бывший по",
+    "description": "Эта зима может стать последней для Зеленского во главе режима, считает бывший подполковник СБУ Прозоров.\n\nЕго начали качать свои же... Федоров его кинул, послал и уехал сам договариваться с иностранцами... \n\nВерховная Рада откровенно против него выступает. НАБУ и САП начали давить его окружение… Директор САП в открытую гонит на СБУ, что СБУ занимается преступной деятельностью... Это разброд. И он (Зеленский) потерял свой вес.\n\n🔹 Подписаться / Мы в \"Максе\"",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-09-13T23:56:03+00:00",
+    "source": "Telegram: RIA Novosti",
+    "metadata": {
+      "telegramChannel": "rian_ru",
+      "telegramChannelName": "RIA Novosti",
+      "telegramPostId": "rian_ru/346099",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/rian_ru/346099",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-09-14T03:57:55.769Z",
+    "createdAt": "2026-09-14T03:57:55.769Z"
+  },
+  {
+    "id": "tg-boris_rozhin-225813",
+    "type": "strategic",
+    "title": "Более 300 участников, два города и одна большая история: в Донецке и Макеевке пр",
+    "description": "Более 300 участников, два города и одна большая история: в Донецке и Макеевке прошли мастер-классы проекта «Кубок Героя имени Владимира Жога»\n\nВ рамках  Открытого фестиваля по бальным танцам «Кубок Героя имени Владимира Жога» участники занимались танцевальным спортом, общались с лекторами и экспертами из Москвы, Челябинска, Донецка и Макеевки, говорили о дисциплине, творчестве и развитии.\n\nВажной частью программы стали просмотр фильма о Владимире Жога, выставочная экспозиция, тематические стенды",
+    "location": {
+      "lat": 48.0159,
+      "lng": 37.8028
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-09-13T23:03:54+00:00",
+    "source": "Telegram: Colonel Cassad",
+    "metadata": {
+      "telegramChannel": "boris_rozhin",
+      "telegramChannelName": "Colonel Cassad",
+      "telegramPostId": "boris_rozhin/225813",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/boris_rozhin/225813",
+      "region": "Donetsk Oblast"
+    },
+    "lastUpdated": "2026-09-14T03:57:57.602Z",
+    "createdAt": "2026-09-14T03:57:57.602Z"
+  },
+  {
+    "id": "tg-boris_rozhin-225823",
+    "type": "strike",
+    "title": "У артиллеристов «Севера» новый вид рыбалки — ловят украинские дроны на верёвку",
+    "description": "У артиллеристов «Севера» новый вид рыбалки — ловят украинские дроны на верёвку\n\nБойцы показали необычный способ сбивать «птиц» ВСУ без оружия. Российский дрон подлетает к чужому сверху и сбрасывает верёвку прямо на лопасти.\n\nОна наматывается на винты, дрон теряет управление и камнем летит вниз.\n\nклёв сегодня хороший\n\n@anna_news",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-09-14T00:04:01+00:00",
+    "source": "Telegram: Colonel Cassad",
+    "metadata": {
+      "telegramChannel": "boris_rozhin",
+      "telegramChannelName": "Colonel Cassad",
+      "telegramPostId": "boris_rozhin/225823",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/boris_rozhin/225823",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-09-14T03:57:57.602Z",
+    "createdAt": "2026-09-14T03:57:57.602Z"
+  },
+  {
+    "id": "tg-boris_rozhin-225824",
+    "type": "strike",
+    "title": "⠀",
+    "description": "⠀\n🔴  Интервью на фронте с добровольцами - участниками СВО.\n\nНаш Центр истории СВО (директор - М. С. Григорьев) продолжает сбор воспоминаний участников специальной военной операции в рамках проекта \"Хранить вечно\".\n\nСмотреть на Rutube\n\nСмотреть предыдущее интервью\n\nДоброволец с позывным \"Кеку\", добровольческий отряд БАРС-23 \"Орёл\": \n\n00:00 \"Сейчас у меня второй контракт. До этого боевого опыта не было. Работал в строительстве, потом на заводе, а потом ушёл сюда. \n\n01:18 Когда решил идти добровол",
+    "location": {
+      "lat": 50.4501,
+      "lng": 30.5234
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-09-14T01:03:01+00:00",
+    "source": "Telegram: Colonel Cassad",
+    "metadata": {
+      "telegramChannel": "boris_rozhin",
+      "telegramChannelName": "Colonel Cassad",
+      "telegramPostId": "boris_rozhin/225824",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/boris_rozhin/225824",
+      "region": "Kyiv"
+    },
+    "lastUpdated": "2026-09-14T03:57:57.602Z",
+    "createdAt": "2026-09-14T03:57:57.602Z"
+  },
+  {
+    "id": "tg-boris_rozhin-225826",
+    "type": "strike",
+    "title": "Расчёты дронов-перехватчиков «Сокол-И» группировки войск «Центр» выполняют задач",
+    "description": "Расчёты дронов-перехватчиков «Сокол-И» группировки войск «Центр» выполняют задачи по воздушному прикрытию маршрутов выдвижения подразделений на Добропольском направлении\n&nbsp;\nО боевой работе рассказала оператор Юлия Серебреникова.\n\n@RtrDonetsk",
+    "location": {
+      "lat": 48.0159,
+      "lng": 37.8028
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-09-14T03:05:10+00:00",
+    "source": "Telegram: Colonel Cassad",
+    "metadata": {
+      "telegramChannel": "boris_rozhin",
+      "telegramChannelName": "Colonel Cassad",
+      "telegramPostId": "boris_rozhin/225826",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/boris_rozhin/225826",
+      "region": "Donetsk Oblast"
+    },
+    "lastUpdated": "2026-09-14T03:57:57.603Z",
+    "createdAt": "2026-09-14T03:57:57.603Z"
+  },
+  {
+    "id": "tg-RVvoenkor-123246",
+    "type": "strategic",
+    "title": "‼️🇺🇸🇺🇦 ",
+    "description": "‼️🇺🇸🇺🇦 \n\n➖\"Значительная часть дизельного топлива поступает из России. Украинские войска наносят удары по российским заводам. Я попросил Зеленского не наносить удары по заводам по производству дизельного топлива и нефтеперерабатывающим заводам\", - заявил президент США.\n⚠️Подписаться на RV: MAX | t.me/RVvoenkor",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-09-14T00:41:02+00:00",
+    "source": "Telegram: Operation Z (RV)",
+    "metadata": {
+      "telegramChannel": "RVvoenkor",
+      "telegramChannelName": "Operation Z (RV)",
+      "telegramPostId": "RVvoenkor/123246",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/RVvoenkor/123246",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-09-14T03:58:01.425Z",
+    "createdAt": "2026-09-14T03:58:01.425Z"
+  },
+  {
+    "id": "tg-swodki-619525",
+    "type": "strategic",
+    "title": "Мобилизовали товарища по повестке.",
+    "description": "Мобилизовали товарища по повестке.\n\n37 лет, 3 ребёнка (но Госуслуги видят только одного от последнего брака), в армии не служил – военно–учётной специальности не имеет, зрение минус 3. \n\n– Абсолютно годен и здоров…\n\nПравда, удалось поменяться со статуса мобилизованного на контракт и часть поменять с героической на негероическую. По классике обещали службу в тылу в Крыму, но в части ожидаемо выяснилось, что служить придётся за ленточкой.\n\nТаковы реалии. – Частичную мобилизацию никто не отменял. Т",
+    "location": {
+      "lat": 44.9521,
+      "lng": 34.1024
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-09-13T22:15:14+00:00",
+    "source": "Telegram: SWODKI",
+    "metadata": {
+      "telegramChannel": "swodki",
+      "telegramChannelName": "SWODKI",
+      "telegramPostId": "swodki/619525",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/swodki/619525",
+      "region": "Crimea"
+    },
+    "lastUpdated": "2026-09-14T03:58:06.912Z",
+    "createdAt": "2026-09-14T03:58:06.912Z"
+  },
+  {
+    "id": "tg-swodki-619527",
+    "type": "strategic",
+    "title": "В России действует два механизма для компенсации цены топлива: демпфер и обратны",
+    "description": "В России действует два механизма для компенсации цены топлива: демпфер и обратный акциз. В технические детали можно не вдаваться, главное понять принцип: если продавать топливо в России выгоднее, чем на мировом рынке, то разницу производители платят государству, а если наоборот, то государство компенсирует недополученную прибыль производителям. Благодаря этому бензин в России никогда не дешевеет и только дорожает, но в то же время, дорожает он в коридоре инфляции, а не в соответствии с изменение",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-09-13T23:34:25+00:00",
+    "source": "Telegram: SWODKI",
+    "metadata": {
+      "telegramChannel": "swodki",
+      "telegramChannelName": "SWODKI",
+      "telegramPostId": "swodki/619527",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/swodki/619527",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-09-14T03:58:06.912Z",
+    "createdAt": "2026-09-14T03:58:06.912Z"
+  },
+  {
+    "id": "tg-SolovievLive-384989",
+    "type": "strategic",
+    "title": "🖥️ «Это вредит всему миру»: Трамп запретил Зеленскому бить по российским объект",
+    "description": "🖥️ «Это вредит всему миру»: Трамп запретил Зеленскому бить по российским объектам, связанным с дизельным топливом  «Мистер Зеленский должен сделать одну вещь. Подождите минуту. Можно я скажу? Мистер Зеленский должен прекратить наносить удары по дизельному…",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-09-13T23:47:35+00:00",
+    "source": "Telegram: Solovyov Live",
+    "metadata": {
+      "telegramChannel": "SolovievLive",
+      "telegramChannelName": "Solovyov Live",
+      "telegramPostId": "SolovievLive/384989",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/SolovievLive/384989",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-09-14T03:58:12.444Z",
+    "createdAt": "2026-09-14T03:58:12.444Z"
+  },
+  {
+    "id": "tg-SolovievLive-384990",
+    "type": "strategic",
+    "title": "🖥️ Трамп заявил, что попросил Зеленского не наносить удары по российским нефтеп",
+    "description": "🖥️ Трамп заявил, что попросил Зеленского не наносить удары по российским нефтеперерабатывающим заводам.  «Проблема, которая есть с Украиной и Россией, заключается в том, что большая дизельного топлива поступает, и как раз из-за этого происходит резкий скачок…",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-09-13T23:59:58+00:00",
+    "source": "Telegram: Solovyov Live",
+    "metadata": {
+      "telegramChannel": "SolovievLive",
+      "telegramChannelName": "Solovyov Live",
+      "telegramPostId": "SolovievLive/384990",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/SolovievLive/384990",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-09-14T03:58:12.444Z",
+    "createdAt": "2026-09-14T03:58:12.444Z"
+  },
+  {
+    "id": "tg-SolovievLive-384991",
+    "type": "strategic",
+    "title": "Зеленский теряет власть над режимом, а зима станет для него последней на посту, ",
+    "description": "Зеленский теряет власть над режимом, а зима станет для него последней на посту, прогнозирует экс-подполковник СБУ Василий Прозоров. Главный признак потери контроля — открытый демарш со стороны «своих»:\n\n«Его начали качать свои же. Раньше Зеленский был безоговорочный лидер  – он над схваткой, он всем рулил, всех разруливал, он Верховную Раду строил, силовиков строил, армию националистов строил, церковь строил, с западными партнерами (договаривался) сам. А теперь - Федоров его кинул, послал и уеха",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-09-14T00:48:01+00:00",
+    "source": "Telegram: Solovyov Live",
+    "metadata": {
+      "telegramChannel": "SolovievLive",
+      "telegramChannelName": "Solovyov Live",
+      "telegramPostId": "SolovievLive/384991",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/SolovievLive/384991",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-09-14T03:58:12.444Z",
+    "createdAt": "2026-09-14T03:58:12.444Z"
+  },
+  {
+    "id": "tg-SolovievLive-384994",
+    "type": "strategic",
+    "title": "Российская нефть Urals поднялась выше отметки &#036;105 за баррель, сообщают СМИ",
+    "description": "Российская нефть Urals поднялась выше отметки &#036;105 за баррель, сообщают СМИ.\n\nКотировки российского экспортного сорта Urals продолжили рост, следуя за общемировой динамикой. По данным на 10 сентября, цена Urals достигла 103,70 долларов за баррель, прибавив почти 8 долларов за сутки. Эталонный Brent торгуется в диапазоне 107–109 долларов за баррель.\n\nТопливо дорожает на фоне очередного витка напряжённости на Ближнем Востоке. После ударов был остановлен стратегический саудовский нефтепровод «",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-09-14T02:55:15+00:00",
+    "source": "Telegram: Solovyov Live",
+    "metadata": {
+      "telegramChannel": "SolovievLive",
+      "telegramChannelName": "Solovyov Live",
+      "telegramPostId": "SolovievLive/384994",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/SolovievLive/384994",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-09-14T03:58:12.444Z",
+    "createdAt": "2026-09-14T03:58:12.444Z"
+  },
+  {
+    "id": "tg-tassagency_en-93203",
+    "type": "strike",
+    "title": "The Korean People’s Army conducted joint drills involving long-range artillery a",
+    "description": "The Korean People’s Army conducted joint drills involving long-range artillery and missile forces, using strategic cruise missiles and tactical ballistic missiles, the Korean Central News Agency reported.\n\nThe exercises took place on September 12. Five North Korean artillery and missile units participated. Strike drones and large-caliber multiple-launch rocket systems equipped with thermobaric munitions were also deployed.\n\nAccording to the Korean Central News Agency, all strike systems involved",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-09-13T22:18:01+00:00",
+    "source": "Telegram: TASS English",
+    "metadata": {
+      "telegramChannel": "tassagency_en",
+      "telegramChannelName": "TASS English",
+      "telegramPostId": "tassagency_en/93203",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/tassagency_en/93203",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-09-14T03:58:34.877Z",
+    "createdAt": "2026-09-14T03:58:34.877Z"
+  },
+  {
+    "id": "tg-tassagency_en-93211",
+    "type": "strike",
+    "title": "The Korean People’s Army conducted joint drills involving long-range artillery a",
+    "description": "The Korean People’s Army conducted joint drills involving long-range artillery and missile forces, using strategic cruise missiles and tactical ballistic missiles, the Korean Central News Agency reported.  The exercises took place on September 12. Five North…",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-09-14T01:44:01+00:00",
+    "source": "Telegram: TASS English",
+    "metadata": {
+      "telegramChannel": "tassagency_en",
+      "telegramChannelName": "TASS English",
+      "telegramPostId": "tassagency_en/93211",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/tassagency_en/93211",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-09-14T03:58:34.877Z",
+    "createdAt": "2026-09-14T03:58:34.877Z"
+  },
+  {
+    "id": "tg-tassagency_en-93212",
+    "type": "strategic",
+    "title": "Residents of the Odessa metropolitan area are providing the Russian side with th",
+    "description": "Residents of the Odessa metropolitan area are providing the Russian side with the coordinates of warehouses containing dual-use cargo, pro-Russian underground resistance told TASS.\n\n“They&#39;re keeping a close eye on fuel tanks, docks, and warehouses at terminals across the Odessa metropolitan area - places through which dual-use cargo could be received again. Officially, Kiev will blame it all on ‘FSB agents.’ But in reality, some of the information comes from ordinary people who are tired of ",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-09-14T02:05:17+00:00",
+    "source": "Telegram: TASS English",
+    "metadata": {
+      "telegramChannel": "tassagency_en",
+      "telegramChannelName": "TASS English",
+      "telegramPostId": "tassagency_en/93212",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/tassagency_en/93212",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-09-14T03:58:34.877Z",
+    "createdAt": "2026-09-14T03:58:34.877Z"
+  },
+  {
+    "id": "tg-tassagency_en-93214",
+    "type": "strike",
+    "title": "The US is discussing with Ukraine the possibility of granting Kiev a license to ",
+    "description": "The US is discussing with Ukraine the possibility of granting Kiev a license to produce obsolete versions of ammunition for Patriot air defense missile systems, President Donald Trump told reporters.\n\nWhen asked about the possibility of granting Ukraine a license to produce Patriot ammunition, the US leader said that Washington and Kiev “have been talking about it.” He explained that the air defenses in question are “less sophisticated versions” of the interceptors.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-09-14T02:47:01+00:00",
+    "source": "Telegram: TASS English",
+    "metadata": {
+      "telegramChannel": "tassagency_en",
+      "telegramChannelName": "TASS English",
+      "telegramPostId": "tassagency_en/93214",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/tassagency_en/93214",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-09-14T03:58:34.877Z",
+    "createdAt": "2026-09-14T03:58:34.877Z"
+  },
+  {
+    "id": "tg-tassagency_en-93217",
+    "type": "strategic",
+    "title": "The Russian Armed Forces organized military engineering exercises for ASEAN and ",
+    "description": "The Russian Armed Forces organized military engineering exercises for ASEAN and ADMM-Plus countries, the Defense Ministry reported.\n\nVideo: Russian Defense Ministry/TASS",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-09-14T03:55:19+00:00",
+    "source": "Telegram: TASS English",
+    "metadata": {
+      "telegramChannel": "tassagency_en",
+      "telegramChannelName": "TASS English",
+      "telegramPostId": "tassagency_en/93217",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/tassagency_en/93217",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-09-14T03:58:34.877Z",
+    "createdAt": "2026-09-14T03:58:34.877Z"
+  },
+  {
     "id": "tg-rybar-83134",
     "type": "strategic",
     "title": "▶Итоги 13 сентября",
@@ -90925,31 +91800,6 @@
     "createdAt": "2026-09-07T09:04:37.322Z"
   },
   {
-    "id": "tg-yurasumy-29237",
-    "type": "strategic",
-    "title": "Исторические выборы в Саксонии-Анхельт: первая победа «Альтернативы для Германии",
-    "description": "Исторические выборы в Саксонии-Анхельт: первая победа «Альтернативы для Германии»…\n\nВчера состоялись выборы в региональный парламент земли Саксонии-Анхальт. Их ждали. Многие ждали. Одни с надеждой, другие с опаской. Традиционные немецкие партии, обанкротившиеся на старой повестке по всем опросам должны были впервые разгромно проиграть консервативной правой «Альтернативе для Германии» (АдГ). Но оставалась интрига – сумеет ли последняя единолично сформировать правительство или нет.\n\nПочему это так",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-09-07T03:53:48+00:00",
-    "source": "Telegram: Yuriy Podolyaka",
-    "metadata": {
-      "telegramChannel": "yurasumy",
-      "telegramChannelName": "Yuriy Podolyaka",
-      "telegramPostId": "yurasumy/29237",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/yurasumy/29237",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-09-07T09:04:39.170Z",
-    "createdAt": "2026-09-07T09:04:39.170Z"
-  },
-  {
     "id": "tg-yurasumy-29239",
     "type": "strategic",
     "title": "СВЕЖИЙ ОБЗОР ОБСТАНОВКИ НА ФРОНТАХ | ВИЗИТЫ УИТКОФФА И КУШНЕРА | ВОЙНА СБУ И ГУР",
@@ -92750,31 +93600,6 @@
     "createdAt": "2026-09-07T09:05:10.384Z"
   },
   {
-    "id": "tg-tassagency_en-92612",
-    "type": "strategic",
-    "title": "The Korean People&#39;s Navy commissioned the new Kang Gon destroyer, with North",
-    "description": "The Korean People&#39;s Navy commissioned the new Kang Gon destroyer, with North Korean leader Kim Jong Un personally attending the ceremony, the Korean Central News Agency reported.\n\n“As a component of the state’s nuclear response system, this new-generation destroyer must deliver a crushing blow to the enemy if ordered,” the North Korean leader said while boarding the ship before its maiden voyage with his daughter, known in the Western press as Kim Ju Ae.\n\nKim Jong Un assured that Pyongyang w",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-09-07T03:41:01+00:00",
-    "source": "Telegram: TASS English",
-    "metadata": {
-      "telegramChannel": "tassagency_en",
-      "telegramChannelName": "TASS English",
-      "telegramPostId": "tassagency_en/92612",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/tassagency_en/92612",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-09-07T09:05:25.297Z",
-    "createdAt": "2026-09-07T09:05:25.297Z"
-  },
-  {
     "id": "tg-tassagency_en-92615",
     "type": "strategic",
     "title": "South Korea, the US, and Japan have begun the trilateral Freedom Edge naval dril",
@@ -94298,530 +95123,5 @@
     },
     "lastUpdated": "2026-09-07T09:06:15.034Z",
     "createdAt": "2026-09-07T09:06:15.034Z"
-  },
-  {
-    "id": "tg-mod_russia-67109",
-    "type": "strategic",
-    "title": "🌩 Гром среди ясного неба",
-    "description": "🌩 Гром среди ясного неба\n\nЭкипаж сверхзвукового истребителя-бомбардировщика Су-34 нанес удар по личному составу и пункту временной дислокации подразделений ВСУ в зоне ответственности группировки «Восток».\n\n🔹 Канал Минобороны России в MAКС – боевая работа 24/7",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-09-07T03:04:48+00:00",
-    "source": "Telegram: Russian MOD",
-    "metadata": {
-      "telegramChannel": "mod_russia",
-      "telegramChannelName": "Russian MOD",
-      "telegramPostId": "mod_russia/67109",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/mod_russia/67109",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-09-07T03:32:38.716Z",
-    "createdAt": "2026-09-07T03:32:38.716Z"
-  },
-  {
-    "id": "tg-intelslava-94101",
-    "type": "strategic",
-    "title": "🇷🇺🇺🇦⚡️ — Guardsmen of the 14th Guards Spetsnaz Brigade of the Vostok (East) ",
-    "description": "🇷🇺🇺🇦⚡️ — Guardsmen of the 14th Guards Spetsnaz Brigade of the Vostok (East) Group of Forces thwarted a Ukrainian rotation in the Zaporizhzhia direction.\n\n@IntelSlava",
-    "location": {
-      "lat": 47.8388,
-      "lng": 35.1396
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-09-07T00:25:36+00:00",
-    "source": "Telegram: Intel Slava Z",
-    "metadata": {
-      "telegramChannel": "intelslava",
-      "telegramChannelName": "Intel Slava Z",
-      "telegramPostId": "intelslava/94101",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/intelslava/94101",
-      "region": "Zaporizhia Oblast"
-    },
-    "lastUpdated": "2026-09-07T03:32:44.158Z",
-    "createdAt": "2026-09-07T03:32:44.158Z"
-  },
-  {
-    "id": "tg-tass_agency-394101",
-    "type": "strategic",
-    "title": "Украина из-за коррупции в сфере вооружений в 2024 году потеряла &#036;1,2 млрд, ",
-    "description": "Украина из-за коррупции в сфере вооружений в 2024 году потеряла &#036;1,2 млрд, сообщила газета The New York Times.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-09-07T00:05:16+00:00",
-    "source": "Telegram: TASS",
-    "metadata": {
-      "telegramChannel": "tass_agency",
-      "telegramChannelName": "TASS",
-      "telegramPostId": "tass_agency/394101",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/tass_agency/394101",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-09-07T03:32:45.842Z",
-    "createdAt": "2026-09-07T03:32:45.843Z"
-  },
-  {
-    "id": "tg-tass_agency-394113",
-    "type": "strike",
-    "title": "▶️ ВСУ в Красноармейске били дронами и стреляли по ногам гражданских, рассказала",
-    "description": "▶️ ВСУ в Красноармейске били дронами и стреляли по ногам гражданских, рассказала жительница города.\n\nВидео: Минобороны России/ТАСС\n\n✔️ Подпишись на ТАСС в \"Максе\"",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-09-07T02:33:01+00:00",
-    "source": "Telegram: TASS",
-    "metadata": {
-      "telegramChannel": "tass_agency",
-      "telegramChannelName": "TASS",
-      "telegramPostId": "tass_agency/394113",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/tass_agency/394113",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-09-07T03:32:45.843Z",
-    "createdAt": "2026-09-07T03:32:45.843Z"
-  },
-  {
-    "id": "tg-tass_agency-394116",
-    "type": "battle",
-    "title": "Цены на российских маркетплейсах после атак на логистическую инфраструктуру не р",
-    "description": "Цены на российских маркетплейсах после атак на логистическую инфраструктуру не растут, а в последнее время даже снижаются. Таким мнением с ТАСС поделился президент Ассоциации цифровых платформ Ораз Дурдыев.\n\n✔️ Подпишись на ТАСС в \"Максе\"",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-09-07T03:21:01+00:00",
-    "source": "Telegram: TASS",
-    "metadata": {
-      "telegramChannel": "tass_agency",
-      "telegramChannelName": "TASS",
-      "telegramPostId": "tass_agency/394116",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/tass_agency/394116",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-09-07T03:32:45.843Z",
-    "createdAt": "2026-09-07T03:32:45.843Z"
-  },
-  {
-    "id": "tg-boris_rozhin-224930",
-    "type": "strike",
-    "title": "Замена солдат и офицеров",
-    "description": "Замена солдат и офицеров\nПланы южнокорейцев на современные технологии\n\nТренд на военные системы искусственного интеллекта не обошел стороной и Южную Корею — правда, в отличие от соседей, пока здесь больше говорят о планах и стратегиях. Но все же и в Сеуле предлагают конкретные проекты, так как подобные платформы рассматриваются чуть ли не панацей от демографических проблем, влияющих на численность армии. \n\nЮжнокорейцы запустили программу Defense AX Sprint — ускоренное внедрение гражданских ИИ-ре",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-09-07T00:03:01+00:00",
-    "source": "Telegram: Colonel Cassad",
-    "metadata": {
-      "telegramChannel": "boris_rozhin",
-      "telegramChannelName": "Colonel Cassad",
-      "telegramPostId": "boris_rozhin/224930",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/boris_rozhin/224930",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-09-07T03:32:49.397Z",
-    "createdAt": "2026-09-07T03:32:49.397Z"
-  },
-  {
-    "id": "tg-boris_rozhin-224931",
-    "type": "strike",
-    "title": "Китайская компания Shengying Technology заявила о запуске в серийное производств",
-    "description": "Китайская компания Shengying Technology заявила о запуске в серийное производство дрона-перехватчика H-07. По заявлению производителя, аппарат способен развивать максимальную скорость 320 км/ч и имеет дальность полёта 15 км, а также оснащён ИИ-модулем для обнаружения и перехвата дронов.\n\n@theaterVD",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-09-07T02:03:01+00:00",
-    "source": "Telegram: Colonel Cassad",
-    "metadata": {
-      "telegramChannel": "boris_rozhin",
-      "telegramChannelName": "Colonel Cassad",
-      "telegramPostId": "boris_rozhin/224931",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/boris_rozhin/224931",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-09-07T03:32:49.397Z",
-    "createdAt": "2026-09-07T03:32:49.397Z"
-  },
-  {
-    "id": "tg-RVvoenkor-122784",
-    "type": "battle",
-    "title": "‼️🇷🇺☦ Это момент нашего «я» как русских православных людей, хранителей цивилиз",
-    "description": "‼️🇷🇺☦ Это момент нашего «я» как русских православных людей, хранителей цивилизации и культурного кода России, - Холмогоров\n\n▪️Некоторые либеральные СМИ уже испугались возрождения православных традиций и единства русских, начав сильно занижать количество участников состоявшегося в Москве крестного хода, в котором приняли участие сотни тысяч.\n▪️Известный публицист-патриот Егор Холмогоров прокомментировал репортёрам возрожденную традицию Общемосковского крестного хода:\n➖«Москва основана как русск",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-09-07T01:47:50+00:00",
-    "source": "Telegram: Operation Z (RV)",
-    "metadata": {
-      "telegramChannel": "RVvoenkor",
-      "telegramChannelName": "Operation Z (RV)",
-      "telegramPostId": "RVvoenkor/122784",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/RVvoenkor/122784",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-09-07T03:32:52.876Z",
-    "createdAt": "2026-09-07T03:32:52.876Z"
-  },
-  {
-    "id": "tg-RVvoenkor-122792",
-    "type": "battle",
-    "title": "‼️🇷🇺💥 Кадры боёв: бойцы «Центра» уничтожают пехоту и технику врага в боях за ",
-    "description": "‼️🇷🇺💥 Кадры боёв: бойцы «Центра» уничтожают пехоту и технику врага в боях за Красноармейском и на Днепропетровщине\n\n▪️Подразделения группировки войск «Центр» продолжают атаки за ранее освобожденным г. Покровск (Красноармейск).\n▪️Российские войска атакуют в районах Гришино, Новоалександровки, Родинского и Дорожного.\n▪️Поддержку штурмовым подразделениям группировки \"Центр\" оказывают расчеты БПЛА, активно уничтожающие пехоту и технику ВСУ в районах Красноармейска, Мирнограда (Димитрова) и в Днеп",
-    "location": {
-      "lat": 48.2833,
-      "lng": 37.1833
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-09-07T03:29:01+00:00",
-    "source": "Telegram: Operation Z (RV)",
-    "metadata": {
-      "telegramChannel": "RVvoenkor",
-      "telegramChannelName": "Operation Z (RV)",
-      "telegramPostId": "RVvoenkor/122792",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/RVvoenkor/122792",
-      "region": "Donetsk Oblast"
-    },
-    "lastUpdated": "2026-09-07T03:32:52.877Z",
-    "createdAt": "2026-09-07T03:32:52.877Z"
-  },
-  {
-    "id": "tg-swodki-617497",
-    "type": "strategic",
-    "title": "Jane&#39;s сообщает, что ВСУ за три месяца лета применили более 10 тысяч барражи",
-    "description": "Jane&#39;s сообщает, что ВСУ за три месяца лета применили более 10 тысяч барражирующих боеприпасов Hornet класса \"миддлстрайк\" производства американской компании Perennial Autonomy. Согласно источнику в министерстве обороны Украины, большинство ударов аппаратов Hornet осуществлялись с использованием автономной системы наведения и захвата цели на основе искусственного интеллекта. Она использует оптический канал для автономного обнаружения, сопровождения и поражения цели.\nДальность действия Hornet",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-09-07T01:50:10+00:00",
-    "source": "Telegram: SWODKI",
-    "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/617497",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/swodki/617497",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-09-07T03:32:58.142Z",
-    "createdAt": "2026-09-07T03:32:58.142Z"
-  },
-  {
-    "id": "tg-swodki-617498",
-    "type": "strike",
-    "title": "Первомайск в ЛНР. До фронта 45 км. Однако благодаря дронам на ИИ понятия тыла те",
-    "description": "Первомайск в ЛНР. До фронта 45 км. Однако благодаря дронам на ИИ понятия тыла теперь не существует.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-09-07T02:02:38+00:00",
-    "source": "Telegram: SWODKI",
-    "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/617498",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/swodki/617498",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-09-07T03:32:58.143Z",
-    "createdAt": "2026-09-07T03:32:58.143Z"
-  },
-  {
-    "id": "tg-swodki-617505",
-    "type": "civilian_attack",
-    "title": "Недавно Владимир Владимирович Путин заявил, что нужно готовиться к возвращению в",
-    "description": "Недавно Владимир Владимирович Путин заявил, что нужно готовиться к возвращению ветеранов СВО и адаптировать их к мирной жизни. \n\nСиловики, в свою очередь, на бывших участников СВО смотрят уже как на субъекты правонарушений. Были случаи, когда ветераны формировались в пока небольшие преступные сообщества (что естественно на войне без быстрой яркой победы, но с тягомотиной и рабством). Из-за того, что люди научились выживать и получили боевой опыт, они действуют нестандартно. \n\nСо слов наших друзе",
-    "location": {
-      "lat": 48.0159,
-      "lng": 37.8028
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-09-07T02:20:12+00:00",
-    "source": "Telegram: SWODKI",
-    "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/617505",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/swodki/617505",
-      "region": "Donetsk Oblast"
-    },
-    "lastUpdated": "2026-09-07T03:32:58.143Z",
-    "createdAt": "2026-09-07T03:32:58.143Z"
-  },
-  {
-    "id": "tg-swodki-617506",
-    "type": "battle",
-    "title": "Отправку на СВО хотят официально сделать новым видом уголовного наказания",
-    "description": "Отправку на СВО хотят официально сделать новым видом уголовного наказания\n\nВ России рассматривают радикальную реформу механизма отправки осуждённых и обвиняемых на СВО, утверждает источник, знакомый с предварительным обсуждением.\n\nПо его словам, власти хотят постепенно отказаться от модели, при которой контракт воспринимается прежде всего как возможность добиться освобождения от уголовной ответственности или погашения судимости. В новом варианте служба в зоне боевых действий сама станет отдельны",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-09-07T02:30:22+00:00",
-    "source": "Telegram: SWODKI",
-    "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/617506",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/swodki/617506",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-09-07T03:32:58.143Z",
-    "createdAt": "2026-09-07T03:32:58.143Z"
-  },
-  {
-    "id": "tg-swodki-617507",
-    "type": "battle",
-    "title": "Собака лаяла на дядю фраера.",
-    "description": "Собака лаяла на дядю фраера.\n\nМы же все прекрасно понимаем, что нарколыга живет и дышит до тех пор, пока идут боевые действия. Как только наступит мир, он больше не нужен. Его или сметут или прикончат свои же хозяева.\n\nС чем бы не приехали Лелик и Болик в Куев, зеля не примет и не согласится. Ни на какие уступки он не пойдет. Эта тварь готова топить свою страну в крови до конца. Надо будет, он и женщин и 18ти летних в окопы закинет, лишь бы продержаться еще какое-то время.\n\nА это время как раз н",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-09-07T02:40:13+00:00",
-    "source": "Telegram: SWODKI",
-    "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/617507",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/swodki/617507",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-09-07T03:32:58.143Z",
-    "createdAt": "2026-09-07T03:32:58.143Z"
-  },
-  {
-    "id": "tg-swodki-617508",
-    "type": "strategic",
-    "title": "И если мы не разнесем парочку заводов в Европе, например в Польше или Дании, кот",
-    "description": "И если мы не разнесем парочку заводов в Европе, например в Польше или Дании, которые работают на оборонку Украины, не выщипаем им перья на жопе, то они так и будут продолжать точить на нас шашки. С ними нужно говорить только с позиции силы, слова они не понимают.\n\nКак говорил Кольт:\n- доброе слово и пистолет у виска всегда работают лучше, чем просто доброе слово.\n\nНужно осадить их пыл. Эскалация должна быть неизбежной. Иначе эти твари настроят заводов в 2030 году, перевооружат армию и начнется е",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-09-07T02:45:12+00:00",
-    "source": "Telegram: SWODKI",
-    "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/617508",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/swodki/617508",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-09-07T03:32:58.144Z",
-    "createdAt": "2026-09-07T03:32:58.144Z"
-  },
-  {
-    "id": "tg-SolovievLive-384124",
-    "type": "strategic",
-    "title": "🖥️ Кандидат в президенты Франции Жан-Люк Меленшон заявил, что решения о поддерж",
-    "description": "🖥️ Кандидат в президенты Франции Жан-Люк Меленшон заявил, что решения о поддержке  Украины бьют по французскому народу:\n\n«Так вот, те самые люди, которые блокируют поставки, теперь жалуются, что это приводит к росту цен. И те самые люди, которые законно решили поддержать Украину в борьбе против ее агрессии, – это те же люди, которые, принимая это решение, ничего не подготовили, ничего не организовали и не осознали, что их собственный план, в первую очередь, ударит по собственному населению. И т",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-09-07T01:11:01+00:00",
-    "source": "Telegram: Solovyov Live",
-    "metadata": {
-      "telegramChannel": "SolovievLive",
-      "telegramChannelName": "Solovyov Live",
-      "telegramPostId": "SolovievLive/384124",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/SolovievLive/384124",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-09-07T03:33:03.540Z",
-    "createdAt": "2026-09-07T03:33:03.540Z"
-  },
-  {
-    "id": "tg-tassagency_en-92601",
-    "type": "strategic",
-    "title": "The UK has intercepted a boat with 140 undocumented migrants in the English Chan",
-    "description": "The UK has intercepted a boat with 140 undocumented migrants in the English Channel, Sky News reported.  According to the TV channel, the vessel was heading toward the coast of the English county of Hampshire from the town of Jobourg in northwestern France.…",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-09-06T23:37:01+00:00",
-    "source": "Telegram: TASS English",
-    "metadata": {
-      "telegramChannel": "tassagency_en",
-      "telegramChannelName": "TASS English",
-      "telegramPostId": "tassagency_en/92601",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/tassagency_en/92601",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-09-07T03:33:25.161Z",
-    "createdAt": "2026-09-07T03:33:25.161Z"
-  },
-  {
-    "id": "tg-tassagency_en-92609",
-    "type": "battle",
-    "title": "An armed man attempted to attack Amy Acton, the Democratic Party’s candidate for",
-    "description": "An armed man attempted to attack Amy Acton, the Democratic Party’s candidate for governor of Ohio, CNBC reported.\n\nAccording to the TV channel, the incident occurred at a fair in the city of Canfield in Ohio. The assailant rushed toward Acton and injured several people at the event. The politician was not harmed in the incident. The attacker was detained, and several weapons were found in his possession.\n\nNo information has been provided about the man’s identity or the reasons behind the attack.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-09-07T02:32:01+00:00",
-    "source": "Telegram: TASS English",
-    "metadata": {
-      "telegramChannel": "tassagency_en",
-      "telegramChannelName": "TASS English",
-      "telegramPostId": "tassagency_en/92609",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/tassagency_en/92609",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-09-07T03:33:25.161Z",
-    "createdAt": "2026-09-07T03:33:25.161Z"
-  },
-  {
-    "id": "tg-swodki-617493",
-    "type": "strike",
-    "title": "Вьетнамская армия показала примечательный способ продлить жизнь старым 37-мм зен",
-    "description": "Вьетнамская армия показала примечательный способ продлить жизнь старым 37-мм зенитным установкам Type 65. Вместо списания их модернизируют за счёт новой системы управления огнём, радиолокационного сопровождения и электромеханических приводов, которые позволяют значительно сократить участие расчёта в наведении.\n\nType 65 представляет собой китайскую двухствольную 37-мм зенитную пушку, созданную на базе советской 61-К. Такие системы давно находятся на вооружении Вьетнама, а часть парка модернизиров",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-09-06T22:51:42+00:00",
-    "source": "Telegram: SWODKI",
-    "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/617493",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/swodki/617493",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-09-06T23:36:15.355Z",
-    "createdAt": "2026-09-06T23:36:15.355Z"
-  },
-  {
-    "id": "tg-swodki-617494",
-    "type": "strike",
-    "title": "Бывший глава MI6 Джон Соуэрс, годы службы которого как раз и выпали на 2009-2014",
-    "description": "Бывший глава MI6 Джон Соуэрс, годы службы которого как раз и выпали на 2009-2014 годы в интервью FT Weekend Festival заявил, что мирные переговоры между Россией и Украиной могут начаться в следующем году, а прочный мир практически немыслим, пока Путин остается у власти. Украине и России предстоит тяжелая зима, но накопленный ущерб с обеих сторон может открыть путь к мирным переговорам к концу 2027 года. Требования Пыпы нелепы, и они остаются такими. Возвращение к уровню боевых действий, существо",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-09-06T23:01:01+00:00",
-    "source": "Telegram: SWODKI",
-    "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/617494",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/swodki/617494",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-09-06T23:36:15.355Z",
-    "createdAt": "2026-09-06T23:36:15.355Z"
-  },
-  {
-    "id": "tg-tassagency_en-92599",
-    "type": "strategic",
-    "title": "The UK has intercepted a boat with 140 undocumented migrants in the English Chan",
-    "description": "The UK has intercepted a boat with 140 undocumented migrants in the English Channel, Sky News reported.\n\nAccording to the TV channel, the vessel was heading toward the coast of the English county of Hampshire from the town of Jobourg in northwestern France. \n\nThe migrants were transferred to Royal National Lifeboat Institution boats and taken to Portsmouth. They are expected to be transported from there to Manston, where a migrant detention center is located.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-09-06T22:43:01+00:00",
-    "source": "Telegram: TASS English",
-    "metadata": {
-      "telegramChannel": "tassagency_en",
-      "telegramChannelName": "TASS English",
-      "telegramPostId": "tassagency_en/92599",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/tassagency_en/92599",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-09-06T23:36:42.693Z",
-    "createdAt": "2026-09-06T23:36:42.693Z"
   }
 ]

@@ -1,5 +1,530 @@
 [
   {
+    "id": "tg-intelslava-97329",
+    "type": "civilian_attack",
+    "title": "⚡🇷🇺 Evacuated residents of the settlement of Alyoshki have been transported to",
+    "description": "⚡🇷🇺 Evacuated residents of the settlement of Alyoshki have been transported to Simferopol to temporary accommodation facilities.\n\nA humanitarian mission to support the civilian population was carried out in the settlement of Alyoshki. A temporary ceasefire regime in the Kherson Region is in effect from 04:00 a.m. Moscow time on October 27 to 22:59 p.m. Moscow time on November 1, 2026. A voluntary evacuation has been organized for everyone who wishes to leave. Those who decided to stay in Alyos",
+    "location": {
+      "lat": 46.6354,
+      "lng": 32.6169
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-10-31T23:48:15+00:00",
+    "source": "Telegram: Intel Slava Z",
+    "metadata": {
+      "telegramChannel": "intelslava",
+      "telegramChannelName": "Intel Slava Z",
+      "telegramPostId": "intelslava/97329",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/intelslava/97329",
+      "region": "Kherson Oblast"
+    },
+    "lastUpdated": "2026-11-01T00:46:51.920Z",
+    "createdAt": "2026-11-01T00:46:51.920Z"
+  },
+  {
+    "id": "tg-tass_agency-403403",
+    "type": "battle",
+    "title": "Binance возместила 90% убытков от суммы, украденной при хакерской атаке. Активы ",
+    "description": "Binance возместила 90% убытков от суммы, украденной при хакерской атаке. Активы в биткойне, Ethereum, Solana и XRP обеспечены в полном объеме, сообщает площадка.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-10-31T22:32:01+00:00",
+    "source": "Telegram: TASS",
+    "metadata": {
+      "telegramChannel": "tass_agency",
+      "telegramChannelName": "TASS",
+      "telegramPostId": "tass_agency/403403",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/tass_agency/403403",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-11-01T00:46:53.652Z",
+    "createdAt": "2026-11-01T00:46:53.652Z"
+  },
+  {
+    "id": "tg-rian_ru-349000",
+    "type": "strategic",
+    "title": "Российские войска за октябрь освободили 39 населенных пунктов в зоне СВО, подсчи",
+    "description": "Российские войска за октябрь освободили 39 населенных пунктов в зоне СВО, подсчитало РИА Новости по данным Минобороны.\n\nС 1 по 31 октября под контроль России перешли 18 населенных пунктов в Харьковской области, 10 — в Запорожской области, семь — в ДНР, три — в Сумской области и один — в Днепропетровской области.\n\n🔹 Подписаться / Мы в \"Максе\"",
+    "location": {
+      "lat": 49.9935,
+      "lng": 36.2304
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-10-31T21:26:01+00:00",
+    "source": "Telegram: RIA Novosti",
+    "metadata": {
+      "telegramChannel": "rian_ru",
+      "telegramChannelName": "RIA Novosti",
+      "telegramPostId": "rian_ru/349000",
+      "bias": "pro-russian",
+      "weight": 3,
+      "telegramUrl": "https://t.me/rian_ru/349000",
+      "region": "Kharkiv Oblast"
+    },
+    "lastUpdated": "2026-11-01T00:46:55.412Z",
+    "createdAt": "2026-11-01T00:46:55.412Z"
+  },
+  {
+    "id": "tg-boris_rozhin-231706",
+    "type": "strategic",
+    "title": "📝Редакция на выход📝",
+    "description": "📝Редакция на выход📝\nчто последует за закрытием «Новой газеты»\n\n«Новая газета»* объявила, что 9 ноября выключает серверы и гасит свет в своей московской редакции. Тридцать лет этот медийный орган функционировал как инструмент мягкой силы и вредительства внутри страны.\n\nПод вывеской «честной журналистики» и защиты прав человека там методично отрабатывали западную повестку, системно дискредитировали армию, смаковали любые государственные трудности и продвигали антироссийские нарративы. То, что в ",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-10-31T21:15:07+00:00",
+    "source": "Telegram: Colonel Cassad",
+    "metadata": {
+      "telegramChannel": "boris_rozhin",
+      "telegramChannelName": "Colonel Cassad",
+      "telegramPostId": "boris_rozhin/231706",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/boris_rozhin/231706",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-11-01T00:46:57.203Z",
+    "createdAt": "2026-11-01T00:46:57.203Z"
+  },
+  {
+    "id": "tg-boris_rozhin-231708",
+    "type": "strategic",
+    "title": "Примечательный удар по специализированному составу из 5-ти вагонов для перевозки",
+    "description": "Примечательный удар по специализированному составу из 5-ти вагонов для перевозки шлака. Данный тип вагонов предназначен для приема шлака из сталеплавильного агрегата, транспортировки и разгрузки его в отвал или грануляционную установку. \n\nТепловая сигнатура красноречиво свидетельствует об активном использовании шлаковозов по прямому назначению, а, следовательно, несмотря на удары по комбинату, металлургическое производство на \"Запорожстали\" продолжается. \n\n@lost_armour",
+    "location": {
+      "lat": 47.8388,
+      "lng": 35.1396
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-10-31T21:45:04+00:00",
+    "source": "Telegram: Colonel Cassad",
+    "metadata": {
+      "telegramChannel": "boris_rozhin",
+      "telegramChannelName": "Colonel Cassad",
+      "telegramPostId": "boris_rozhin/231708",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/boris_rozhin/231708",
+      "region": "Zaporizhia Oblast"
+    },
+    "lastUpdated": "2026-11-01T00:46:57.203Z",
+    "createdAt": "2026-11-01T00:46:57.203Z"
+  },
+  {
+    "id": "tg-boris_rozhin-231715",
+    "type": "strike",
+    "title": "Эвакуация под ударом: танк, САУ и другие цели ВСУ&#33;",
+    "description": "Эвакуация под ударом: танк, САУ и другие цели ВСУ&#33;\n\n Операторы БпЛА группировки войск «Центр» нанесли серию ударов по выявленным объектам противника.\n\n В кадре — удары FPV-дронов по технике, задействованной в эвакуации танка и самоходной артиллерийской установки (САУ).\n\n Также под удар попали пункт управления беспилотниками и наземный робототехнический комплекс (НРТК).\n\n@btr80",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-10-31T22:35:02+00:00",
+    "source": "Telegram: Colonel Cassad",
+    "metadata": {
+      "telegramChannel": "boris_rozhin",
+      "telegramChannelName": "Colonel Cassad",
+      "telegramPostId": "boris_rozhin/231715",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/boris_rozhin/231715",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-11-01T00:46:57.203Z",
+    "createdAt": "2026-11-01T00:46:57.203Z"
+  },
+  {
+    "id": "tg-boris_rozhin-231718",
+    "type": "strategic",
+    "title": "5 бригада уничтожила пикап и НРТК ВСУ",
+    "description": "5 бригада уничтожила пикап и НРТК ВСУ\n\nВоеннослужащие 5 отдельной мотострелковой бригады 51 гвардейской общевойсковой армии уничтожили пикап и наземный робототехнический комплекс противника в районах Зеленовки и Спасско-Михайловки. Потеря транспорта и роботизированной платформы снижает возможности ВСУ по перевозке грузов и выполнению задач на данном участке.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-10-31T23:33:01+00:00",
+    "source": "Telegram: Colonel Cassad",
+    "metadata": {
+      "telegramChannel": "boris_rozhin",
+      "telegramChannelName": "Colonel Cassad",
+      "telegramPostId": "boris_rozhin/231718",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/boris_rozhin/231718",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-11-01T00:46:57.203Z",
+    "createdAt": "2026-11-01T00:46:57.203Z"
+  },
+  {
+    "id": "tg-boris_rozhin-231719",
+    "type": "strike",
+    "title": "⠀",
+    "description": "⠀\n🔴  Доказательства зверств киевского режима в г. Константиновка (ДНР). \n\nСмотреть на Rutube\n\nСмотреть предыдущие свидетельства\n\nНаш Международный общественный трибунал по преступлениям украинских неонацистов (председатель — М. С. Григорьев) из представителей гражданского общества 35 стран мира продолжает сбор свидетельств преступлений киевского режима.\n\nЧасть 1\n\nЧасть 2. Житель г. Константиновка (ДНР) Олег Шарпов: \n\n00:05 \"Мы сидели в подвале. Сначала ударил дрон, двери повылетали. Пришли трое",
+    "location": {
+      "lat": 50.4501,
+      "lng": 30.5234
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-11-01T00:03:01+00:00",
+    "source": "Telegram: Colonel Cassad",
+    "metadata": {
+      "telegramChannel": "boris_rozhin",
+      "telegramChannelName": "Colonel Cassad",
+      "telegramPostId": "boris_rozhin/231719",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/boris_rozhin/231719",
+      "region": "Kyiv"
+    },
+    "lastUpdated": "2026-11-01T00:46:57.203Z",
+    "createdAt": "2026-11-01T00:46:57.203Z"
+  },
+  {
+    "id": "tg-RVvoenkor-126183",
+    "type": "strike",
+    "title": "‼️🇷🇺🇺🇦Россия использует густую облачность над Украиной для массированной ата",
+    "description": "‼️🇷🇺🇺🇦Россия использует густую облачность над Украиной для массированной атаки, – советник Зеленского \n\n▪️ Россия запустила десятки обычных бензиновых \"Гераней\", рассчитывая на сложность их обнаружения из-за погодных условий, — заявил Сергей Бескрестнов (Флеш).\n▪️Сейчас почти вся территория Украины покрыта сплошной облачностью. Из-за этого экипажам дронов-перехватчиков будет сложнее замечать и уничтожать российские беспилотники, добавил советник Зеленского.\n▪️Напомним, в последние месяцы рос",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-10-31T21:25:39+00:00",
+    "source": "Telegram: Operation Z (RV)",
+    "metadata": {
+      "telegramChannel": "RVvoenkor",
+      "telegramChannelName": "Operation Z (RV)",
+      "telegramPostId": "RVvoenkor/126183",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/RVvoenkor/126183",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-11-01T00:47:00.754Z",
+    "createdAt": "2026-11-01T00:47:00.754Z"
+  },
+  {
+    "id": "tg-RVvoenkor-126184",
+    "type": "battle",
+    "title": "‼️🇺🇸🇰🇵Binance взломали хакеры из КНДР — заявление ФБР",
+    "description": "‼️🇺🇸🇰🇵Binance взломали хакеры из КНДР — заявление ФБР\n\n▪️ФБР заявило, что за взломом крупнейшей в мире криптобиржи Binance 29 октября стоит северокорейская хакерская группировка TraderTraitor. \n▪️Это крупнейшая кража криптовалюты за всю историю. Хакеры из Северной Кореи похитили более &#036;6 миллиардов, это почти четверть (&#33;) ВВП КНДР.\n▪️В Binance сообщили, что атака была связана в том числе со взломом ноутбука сотрудника и использованием вредоносного ПО, полностью уничтожавшего следы п",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-10-31T22:06:05+00:00",
+    "source": "Telegram: Operation Z (RV)",
+    "metadata": {
+      "telegramChannel": "RVvoenkor",
+      "telegramChannelName": "Operation Z (RV)",
+      "telegramPostId": "RVvoenkor/126184",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/RVvoenkor/126184",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-11-01T00:47:00.754Z",
+    "createdAt": "2026-11-01T00:47:00.754Z"
+  },
+  {
+    "id": "tg-voenkorKotenok-77205",
+    "type": "strike",
+    "title": "Советник душегуба Зеленского заявил Сергей Бескрестнов (позывной «Флеш») заявил,",
+    "description": "Советник душегуба Зеленского заявил Сергей Бескрестнов (позывной «Флеш») заявил, что Россия запустила десятки обычных бензиновых \"Гераней\", рассчитывая на сложность их обнаружения из-за погодных условий.\n\nСейчас почти вся территория Украины покрыта сплошной облачностью. Из-за этого экипажам дронов-перехватчиков будет сложнее замечать и уничтожать русские беспилотники. \n\nЕщё Бескрестнов отметил, что в последние месяцы русские преимущественно применяли реактивные модификации БпЛА, тогда как в мину",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-10-31T21:49:53+00:00",
+    "source": "Telegram: Voenkor Kotenok",
+    "metadata": {
+      "telegramChannel": "voenkorKotenok",
+      "telegramChannelName": "Voenkor Kotenok",
+      "telegramPostId": "voenkorKotenok/77205",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/voenkorKotenok/77205",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-11-01T00:47:02.497Z",
+    "createdAt": "2026-11-01T00:47:02.497Z"
+  },
+  {
+    "id": "tg-swodki-631123",
+    "type": "battle",
+    "title": "❗️Туск обвинил Навроцкого в уничтожении верховенства права.",
+    "description": "❗️Туск обвинил Навроцкого в уничтожении верховенства права.\n\nПремьер Польши выступил с обращением к нации после волнений у Конституционного трибунала в Варшаве. Он обвинил президента республики в атаке на судей. Также досталось предшественнику Навроцкого – Анджею Дуде.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-10-31T21:21:01+00:00",
+    "source": "Telegram: SWODKI",
+    "metadata": {
+      "telegramChannel": "swodki",
+      "telegramChannelName": "SWODKI",
+      "telegramPostId": "swodki/631123",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/swodki/631123",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-11-01T00:47:06.060Z",
+    "createdAt": "2026-11-01T00:47:06.060Z"
+  },
+  {
+    "id": "tg-swodki-631125",
+    "type": "strategic",
+    "title": "❗️Мы готовы немедленно и навсегда прекратить огонь на всех участках фронта. Алеш",
+    "description": "❗️Мы готовы немедленно и навсегда прекратить огонь на всех участках фронта. Алешки должны стать примером — МИД украины",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-10-31T22:30:02+00:00",
+    "source": "Telegram: SWODKI",
+    "metadata": {
+      "telegramChannel": "swodki",
+      "telegramChannelName": "SWODKI",
+      "telegramPostId": "swodki/631125",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/swodki/631125",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-11-01T00:47:06.060Z",
+    "createdAt": "2026-11-01T00:47:06.060Z"
+  },
+  {
+    "id": "tg-SolovievLive-390909",
+    "type": "battle",
+    "title": "ФБР официально обвинило северокорейскую группировку TraderTraitor в крупнейшей в",
+    "description": "ФБР официально обвинило северокорейскую группировку TraderTraitor в крупнейшей в истории краже криптовалюты с биржи Binance. По данным ведомства, 29 октября хакеры вывели более 6 миллиардов долларов, причём основную часть — примерно за 20 минут.\n\nФБР вместе с Секретной службой и Налоговой службой США отслеживает перемещение средств: активы переводят преимущественно в Ethereum, вероятно, для отмывания через децентрализованные сервисы. Опубликованы адреса связанных с хакерами кошельков, к их блоки",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-10-31T22:00:58+00:00",
+    "source": "Telegram: Solovyov Live",
+    "metadata": {
+      "telegramChannel": "SolovievLive",
+      "telegramChannelName": "Solovyov Live",
+      "telegramPostId": "SolovievLive/390909",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/SolovievLive/390909",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-11-01T00:47:11.370Z",
+    "createdAt": "2026-11-01T00:47:11.370Z"
+  },
+  {
+    "id": "tg-SolovievLive-390911",
+    "type": "strategic",
+    "title": "The Wall Street Journal: Трамп созвонился с Нетаньяху перед возобновлением ударо",
+    "description": "The Wall Street Journal: Трамп созвонился с Нетаньяху перед возобновлением ударов по Ирану\n\nПрезидент США Дональд Трамп в субботу утром провёл телефонный разговор с премьер-министром Израиля Биньямином Нетаньяху. Как сообщает The Wall Street Journal, звонок состоялся на фоне подготовки Вашингтона к возобновлению бомбардировок Ирана.\n\n«Президент Трамп в субботу утром поговорил по телефону с израильским лидером Биньямином Нетаньяху, сообщают люди, знакомые с разговором. Звонок состоялся на фоне по",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-10-31T22:58:51+00:00",
+    "source": "Telegram: Solovyov Live",
+    "metadata": {
+      "telegramChannel": "SolovievLive",
+      "telegramChannelName": "Solovyov Live",
+      "telegramPostId": "SolovievLive/390911",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/SolovievLive/390911",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-11-01T00:47:11.370Z",
+    "createdAt": "2026-11-01T00:47:11.370Z"
+  },
+  {
+    "id": "tg-SolovievLive-390916",
+    "type": "strike",
+    "title": "КНДР провела испытание для оценки боевых возможностей ракетных систем, сообщает ",
+    "description": "КНДР провела испытание для оценки боевых возможностей ракетных систем, сообщает ЦТАК. В ходе проверки изучалась эффективность разбросной боеголовки тактической баллистической ракеты — по данным агентства, один из её стандартных типов способен поражать цели на площади 12–13 гектаров.\n\nВ Северной Корее также заявили о планах применять боеголовки разных типов в зависимости от поставленных задач и характеристик целей.\n\n🇷🇺 Подпишись на Соловьёва&#33;",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-11-01T00:01:26+00:00",
+    "source": "Telegram: Solovyov Live",
+    "metadata": {
+      "telegramChannel": "SolovievLive",
+      "telegramChannelName": "Solovyov Live",
+      "telegramPostId": "SolovievLive/390916",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/SolovievLive/390916",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-11-01T00:47:11.370Z",
+    "createdAt": "2026-11-01T00:47:11.370Z"
+  },
+  {
+    "id": "tg-tassagency_en-97442",
+    "type": "battle",
+    "title": "The FBI accuses North Korea of hacking Binance cryptoexchange, which could have ",
+    "description": "The FBI accuses North Korea of hacking Binance cryptoexchange, which could have led to losses of &#036;6.3 bln.\n\nThe attack was organized by the TraderTraitor hacker group from North Korea, the FBI press office claimed in a statement. However, no evidence of this is provided.",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-10-31T23:02:00+00:00",
+    "source": "Telegram: TASS English",
+    "metadata": {
+      "telegramChannel": "tassagency_en",
+      "telegramChannelName": "TASS English",
+      "telegramPostId": "tassagency_en/97442",
+      "bias": "pro-russian",
+      "weight": 2,
+      "telegramUrl": "https://t.me/tassagency_en/97442",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-11-01T00:47:33.404Z",
+    "createdAt": "2026-11-01T00:47:33.404Z"
+  },
+  {
+    "id": "tg-anna_news-95781",
+    "type": "battle",
+    "title": "✅ Государственные награды Российской Федерации вручили бойцам «Дикой дивизии Дон",
+    "description": "✅ Государственные награды Российской Федерации вручили бойцам «Дикой дивизии Донбасса» \n\nБойцы бригады «Дикая дивизия Донбасса» Добровольческого корпуса, за мужество и отвагу, проявленные при выполнении боевых задач, получили Государственные награды. \n\nОрдена Мужества и медали «За Отвагу», «За храбрость» и «За спасение погибавших» добровольцам вручил заместитель командира Добровольческого корпуса по военно-политической работе «Сармат».\n\n#добровольцы #дк #госнаграды #сво #орденмужества #дикаядиви",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-10-31T22:17:06+00:00",
+    "source": "Telegram: Anna News",
+    "metadata": {
+      "telegramChannel": "anna_news",
+      "telegramChannelName": "Anna News",
+      "telegramPostId": "anna_news/95781",
+      "bias": "pro-russian",
+      "weight": 1,
+      "telegramUrl": "https://t.me/anna_news/95781",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-11-01T00:47:37.014Z",
+    "createdAt": "2026-11-01T00:47:37.014Z"
+  },
+  {
+    "id": "tg-southfronteng-65077",
+    "type": "battle",
+    "title": "Dobropolye Cleared, Russian Army Shifts Forces North",
+    "description": "Dobropolye Cleared, Russian Army Shifts Forces North\n\nIn the Dobropolye direction Russian forces have completely cleared the city and shifted the main fighting to Bilozerske, freeing reserves for further offensive operations. \n\nIn the Sumy direction Russian assault units of the “North” grouping continue to press Ukrainian defenses on the approaches to Sumy, delivering precision strikes against reserves. \n\nIn the Kharkiv direction Russian units are developing their advance in the Velykyi Burluk–K",
+    "location": {
+      "lat": 49.9935,
+      "lng": 36.2304
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-10-31T21:13:45+00:00",
+    "source": "Telegram: SouthFront",
+    "metadata": {
+      "telegramChannel": "southfronteng",
+      "telegramChannelName": "SouthFront",
+      "telegramPostId": "southfronteng/65077",
+      "bias": "pro-russian",
+      "weight": 1,
+      "telegramUrl": "https://t.me/southfronteng/65077",
+      "region": "Kharkiv Oblast"
+    },
+    "lastUpdated": "2026-11-01T00:48:04.380Z",
+    "createdAt": "2026-11-01T00:48:04.380Z"
+  },
+  {
+    "id": "tg-operativnoZSU-225038",
+    "type": "strategic",
+    "title": "Через політику Трампа США ризикують втратити статус технологічного лідера та над",
+    "description": "Через політику Трампа США ризикують втратити статус технологічного лідера та наддержави, — дослідження NYT\n\n📌Система федерально фінансованої науки, яка допомогла перетворити Сполучені Штати на глобальну наддержаву, зазнає величезного тиску через політику Трампа, що ставить під загрозу переваги країни в галузі оборони, медицини та технологій, як показало розслідування The New York Times.\n\n📌Білий дім регулярно заявляє, що просуває американські інтереси. Проте його дії підривають наукову перевагу",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-10-31T21:57:01+00:00",
+    "source": "Telegram: Operativno ZSU",
+    "metadata": {
+      "telegramChannel": "OperativnoZSU",
+      "telegramChannelName": "Operativno ZSU",
+      "telegramPostId": "operativnoZSU/225038",
+      "bias": "pro-ukrainian",
+      "weight": 1,
+      "telegramUrl": "https://t.me/operativnoZSU/225038",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-11-01T00:48:12.213Z",
+    "createdAt": "2026-11-01T00:48:12.213Z"
+  },
+  {
+    "id": "tg-operativnoZSU-225039",
+    "type": "battle",
+    "title": "ФБР підтвердило: хакери з КНДР вкрали з Binance рекордні &#036;6 млрд.",
+    "description": "ФБР підтвердило: хакери з КНДР вкрали з Binance рекордні &#036;6 млрд.\n\nЗа атакою стоїть північнокорейська група TraderTraitor. Посіпаки Кім Чин Ина вже почали відмивати вкрадену крипту.\n\nМасштаб крадіжки порівнянний з чвертю річного ВВП КНДР.\n---------------\n\nТрамп має зробити термінову заяву, щоб захистити одного зі своїх найкращих друзів: це все фейкові новини та повний наклеп від радикальних ліваків і продажних ЗМІ, які заздрять його дружнім стосункам з Кімом\n\nhttps://t.me/operativnoZSU/",
+    "location": {
+      "lat": 48.5,
+      "lng": 37
+    },
+    "status": "developing",
+    "severity": 5,
+    "startDate": "2026-10-31T23:24:56+00:00",
+    "source": "Telegram: Operativno ZSU",
+    "metadata": {
+      "telegramChannel": "OperativnoZSU",
+      "telegramChannelName": "Operativno ZSU",
+      "telegramPostId": "operativnoZSU/225039",
+      "bias": "pro-ukrainian",
+      "weight": 1,
+      "telegramUrl": "https://t.me/operativnoZSU/225039",
+      "region": "Unspecified"
+    },
+    "lastUpdated": "2026-11-01T00:48:12.213Z",
+    "createdAt": "2026-11-01T00:48:12.213Z"
+  },
+  {
     "id": "tg-rybar-84318",
     "type": "battle",
     "title": "📝Трещина в польской коалиции📝",
@@ -80375,31 +80900,6 @@
     "createdAt": "2026-10-25T07:22:58.228Z"
   },
   {
-    "id": "tg-epoddubny-29623",
-    "type": "battle",
-    "title": "Белгород подвергся массированной атаке БПЛА.   По данным регионального оперштаба",
-    "description": "Белгород подвергся массированной атаке БПЛА.   По данным регионального оперштаба – есть последствия на земле. Информация о пострадавших уточняется.  Подпишись ТГ / Подпишись МАХ",
-    "location": {
-      "lat": 50.5945,
-      "lng": 36.5872
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-10-25T00:26:05+00:00",
-    "source": "Telegram: Poddubny ZOV",
-    "metadata": {
-      "telegramChannel": "epoddubny",
-      "telegramChannelName": "Poddubny ZOV",
-      "telegramPostId": "epoddubny/29623",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/epoddubny/29623",
-      "region": "Belgorod Oblast"
-    },
-    "lastUpdated": "2026-10-25T07:23:01.679Z",
-    "createdAt": "2026-10-25T07:23:01.679Z"
-  },
-  {
     "id": "tg-SolovievLive-390075",
     "type": "strike",
     "title": "Более 50 БПЛА отразила ПВО минувшей ночью в Ростовской области, сообщил губернат",
@@ -81573,805 +82073,5 @@
     },
     "lastUpdated": "2026-10-25T07:24:12.786Z",
     "createdAt": "2026-10-25T07:24:12.786Z"
-  },
-  {
-    "id": "tg-intelslava-96934",
-    "type": "strike",
-    "title": "🇷🇺🇺🇦⚡️ — The \"Epicenter\" logistics warehouse in Kharkov was completely destr",
-    "description": "🇷🇺🇺🇦⚡️ — The \"Epicenter\" logistics warehouse in Kharkov was completely destroyed by a strike using Geran-4 drones.\n\n@IntelSlava",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-10-24T21:15:06+00:00",
-    "source": "Telegram: Intel Slava Z",
-    "metadata": {
-      "telegramChannel": "intelslava",
-      "telegramChannelName": "Intel Slava Z",
-      "telegramPostId": "intelslava/96934",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/intelslava/96934",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-10-25T00:04:39.803Z",
-    "createdAt": "2026-10-25T00:04:39.803Z"
-  },
-  {
-    "id": "tg-intelslava-96943",
-    "type": "strike",
-    "title": "🇺🇦🇷🇺⚡️ — Ukraine subjected Russia&#39;s Belgorod to a massive drone attack, ",
-    "description": "🇺🇦🇷🇺⚡️ — Ukraine subjected Russia&#39;s Belgorod to a massive drone attack, resulting in casualties, the regional emergency headquarters reported.\n\nAccording to its statement, emergency services have been dispatched to the scene.\n\n@IntelSlava",
-    "location": {
-      "lat": 50.5945,
-      "lng": 36.5872
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-10-24T22:48:13+00:00",
-    "source": "Telegram: Intel Slava Z",
-    "metadata": {
-      "telegramChannel": "intelslava",
-      "telegramChannelName": "Intel Slava Z",
-      "telegramPostId": "intelslava/96943",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/intelslava/96943",
-      "region": "Belgorod Oblast"
-    },
-    "lastUpdated": "2026-10-25T00:04:39.803Z",
-    "createdAt": "2026-10-25T00:04:39.803Z"
-  },
-  {
-    "id": "tg-intelslava-96945",
-    "type": "strategic",
-    "title": "🇮🇹⚡️ — Italy had several protests in several Italian cities over the cost of l",
-    "description": "🇮🇹⚡️ — Italy had several protests in several Italian cities over the cost of living which escalted into confrontations between the protestors and the police.\n\nConfrontations were reported in Bologna, Rome, Turin and Florence, while the demonstration in Milan remained largely peaceful.\n\n@IntelSlava",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-10-24T23:19:21+00:00",
-    "source": "Telegram: Intel Slava Z",
-    "metadata": {
-      "telegramChannel": "intelslava",
-      "telegramChannelName": "Intel Slava Z",
-      "telegramPostId": "intelslava/96945",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/intelslava/96945",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-10-25T00:04:39.803Z",
-    "createdAt": "2026-10-25T00:04:39.803Z"
-  },
-  {
-    "id": "tg-tass_agency-402187",
-    "type": "battle",
-    "title": "🚨 Белгород подвергся массированной атаке БПЛА, есть пострадавшие, сообщили в оп",
-    "description": "🚨 Белгород подвергся массированной атаке БПЛА, есть пострадавшие, сообщили в оперштабе.\n\n✔️ Подпишись на ТАСС в \"Максе\"",
-    "location": {
-      "lat": 50.5945,
-      "lng": 36.5872
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-10-24T22:27:57+00:00",
-    "source": "Telegram: TASS",
-    "metadata": {
-      "telegramChannel": "tass_agency",
-      "telegramChannelName": "TASS",
-      "telegramPostId": "tass_agency/402187",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/tass_agency/402187",
-      "region": "Belgorod Oblast"
-    },
-    "lastUpdated": "2026-10-25T00:04:41.523Z",
-    "createdAt": "2026-10-25T00:04:41.523Z"
-  },
-  {
-    "id": "tg-tass_agency-402194",
-    "type": "battle",
-    "title": "🚨 Белгород подвергся массированной атаке БПЛА, есть пострадавшие, сообщили в оп",
-    "description": "🚨 Белгород подвергся массированной атаке БПЛА, есть пострадавшие, сообщили в оперштабе.  ✔️ Подпишись на ТАСС в \"Максе\"",
-    "location": {
-      "lat": 50.5945,
-      "lng": 36.5872
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-10-24T23:37:15+00:00",
-    "source": "Telegram: TASS",
-    "metadata": {
-      "telegramChannel": "tass_agency",
-      "telegramChannelName": "TASS",
-      "telegramPostId": "tass_agency/402194",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/tass_agency/402194",
-      "region": "Belgorod Oblast"
-    },
-    "lastUpdated": "2026-10-25T00:04:41.523Z",
-    "createdAt": "2026-10-25T00:04:41.523Z"
-  },
-  {
-    "id": "tg-tass_agency-402195",
-    "type": "civilian_attack",
-    "title": "🚨 В результате массированного удара по мирным кварталам в центре Белгорода есть",
-    "description": "🚨 В результате массированного удара по мирным кварталам в центре Белгорода есть пострадавшие и значительные разрушения, сообщил мэр города.  ✔️ Подпишись на ТАСС в \"Максе\"",
-    "location": {
-      "lat": 50.5945,
-      "lng": 36.5872
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-10-24T23:47:22+00:00",
-    "source": "Telegram: TASS",
-    "metadata": {
-      "telegramChannel": "tass_agency",
-      "telegramChannelName": "TASS",
-      "telegramPostId": "tass_agency/402195",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/tass_agency/402195",
-      "region": "Belgorod Oblast"
-    },
-    "lastUpdated": "2026-10-25T00:04:41.523Z",
-    "createdAt": "2026-10-25T00:04:41.523Z"
-  },
-  {
-    "id": "tg-rian_ru-348563",
-    "type": "battle",
-    "title": "Белгород подвергся массированной атаке БПЛА, есть пострадавшие, сообщил оперштаб",
-    "description": "Белгород подвергся массированной атаке БПЛА, есть пострадавшие, сообщил оперштаб региона.\n\n🔹 Подписаться на РИА Новости",
-    "location": {
-      "lat": 50.5945,
-      "lng": 36.5872
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-10-24T22:26:33+00:00",
-    "source": "Telegram: RIA Novosti",
-    "metadata": {
-      "telegramChannel": "rian_ru",
-      "telegramChannelName": "RIA Novosti",
-      "telegramPostId": "rian_ru/348563",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/rian_ru/348563",
-      "region": "Belgorod Oblast"
-    },
-    "lastUpdated": "2026-10-25T00:04:43.273Z",
-    "createdAt": "2026-10-25T00:04:43.273Z"
-  },
-  {
-    "id": "tg-rian_ru-348565",
-    "type": "battle",
-    "title": "Белгород подвергся массированной атаке БПЛА, есть пострадавшие, сообщил оперштаб",
-    "description": "Белгород подвергся массированной атаке БПЛА, есть пострадавшие, сообщил оперштаб региона.  🔹 Подписаться на РИА Новости",
-    "location": {
-      "lat": 50.5945,
-      "lng": 36.5872
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-10-24T23:49:56+00:00",
-    "source": "Telegram: RIA Novosti",
-    "metadata": {
-      "telegramChannel": "rian_ru",
-      "telegramChannelName": "RIA Novosti",
-      "telegramPostId": "rian_ru/348565",
-      "bias": "pro-russian",
-      "weight": 3,
-      "telegramUrl": "https://t.me/rian_ru/348565",
-      "region": "Belgorod Oblast"
-    },
-    "lastUpdated": "2026-10-25T00:04:43.273Z",
-    "createdAt": "2026-10-25T00:04:43.273Z"
-  },
-  {
-    "id": "tg-boris_rozhin-230890",
-    "type": "strategic",
-    "title": "«Эпицентр» — в эпицентре событий.",
-    "description": "«Эпицентр» — в эпицентре событий.\n\nСгорел дотла логистический склад «Эпицентра» в Харькове — по нему нанесли удар реактивными «Геранями».",
-    "location": {
-      "lat": 49.9935,
-      "lng": 36.2304
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-10-24T21:15:01+00:00",
-    "source": "Telegram: Colonel Cassad",
-    "metadata": {
-      "telegramChannel": "boris_rozhin",
-      "telegramChannelName": "Colonel Cassad",
-      "telegramPostId": "boris_rozhin/230890",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/boris_rozhin/230890",
-      "region": "Kharkiv Oblast"
-    },
-    "lastUpdated": "2026-10-25T00:04:45.037Z",
-    "createdAt": "2026-10-25T00:04:45.037Z"
-  },
-  {
-    "id": "tg-boris_rozhin-230893",
-    "type": "battle",
-    "title": "Боевая работа операторов Центра \"Рубикон\" за 24 октября 2026 года",
-    "description": "Боевая работа операторов Центра \"Рубикон\" за 24 октября 2026 года\n\n00:05 - Донбасс\n05:13 - Дистанционное минирование логистических маршрутов ВСУ\n06:07 - Доставка снабжения союзным подразделениям\n06:32 - Сбросы и удары по целям ВСУ\n07:13 - Боевая работа дневных расчетов FPV-ПВО по БПЛА ВСУ\n08:42 - Боевая работа ночных расчетов FPV-ПВО по БПЛА ВСУ\n09:08 - Боевая работа расчетов перехватчиков \"Молния-ПВО\" по БПЛА ВСУ\n09:46 - Боевая работа расчетов FPV-ПВО по дальнобойным БПЛА ВСУ\n\nОпубликовано эпиз",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-10-24T21:33:01+00:00",
-    "source": "Telegram: Colonel Cassad",
-    "metadata": {
-      "telegramChannel": "boris_rozhin",
-      "telegramChannelName": "Colonel Cassad",
-      "telegramPostId": "boris_rozhin/230893",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/boris_rozhin/230893",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-10-25T00:04:45.037Z",
-    "createdAt": "2026-10-25T00:04:45.037Z"
-  },
-  {
-    "id": "tg-boris_rozhin-230895",
-    "type": "strike",
-    "title": "«Абрамсы» вооружат дронами",
-    "description": "«Абрамсы» вооружат дронами\n\nАмериканская компания General Dynamics Land Systems представила систему PERCH 2.0, позволяющую запускать ударные дроны Switchblade с танков M1A2 Abrams SEPv3 и бронемашин Stryker.\n\nСистема разработана в сотрудничестве с компанией AeroVironment. \n\nМодуль устанавливается на стандартные точки крепления машины без сварки, резки или существенных конструктивных изменений. На танке «Абрамс» он заменяет внешний ящик для хранения, расположенный сбоку башни рядом с местом заряж",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-10-24T22:03:01+00:00",
-    "source": "Telegram: Colonel Cassad",
-    "metadata": {
-      "telegramChannel": "boris_rozhin",
-      "telegramChannelName": "Colonel Cassad",
-      "telegramPostId": "boris_rozhin/230895",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/boris_rozhin/230895",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-10-25T00:04:45.037Z",
-    "createdAt": "2026-10-25T00:04:45.037Z"
-  },
-  {
-    "id": "tg-boris_rozhin-230903",
-    "type": "strategic",
-    "title": "Всплыла новая потеря чешской 152-мм колёсной САУ DANA-M2 в зоне СВО. Кадры со ст",
-    "description": "Всплыла новая потеря чешской 152-мм колёсной САУ DANA-M2 в зоне СВО. Кадры со стороны врага.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-10-24T23:03:01+00:00",
-    "source": "Telegram: Colonel Cassad",
-    "metadata": {
-      "telegramChannel": "boris_rozhin",
-      "telegramChannelName": "Colonel Cassad",
-      "telegramPostId": "boris_rozhin/230903",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/boris_rozhin/230903",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-10-25T00:04:45.037Z",
-    "createdAt": "2026-10-25T00:04:45.037Z"
-  },
-  {
-    "id": "tg-boris_rozhin-230905",
-    "type": "strategic",
-    "title": "⠀",
-    "description": "⠀\n🔴  Интервью на фронте с добровольцами - участниками СВО.\n\nНаш Центр истории СВО (директор - М. С. Григорьев) продолжает сбор воспоминаний участников специальной военной операции в рамках проекта \"Хранить вечно\".\n\nСмотреть на Rutube\n\nСмотреть предыдущее интервью\n\nЧасть 1\n\nЧасть&nbsp;2. Доброволец с позывным \"Волк\", добровольческий отряд \"БАРС-Сармат\":\n \n00:00 \"В армии не служил. Когда началась мобилизация, многие ребята пошли, многих призвали, кому-то пришли повестки. Я тогда подумал, что пойд",
-    "location": {
-      "lat": 50.4501,
-      "lng": 30.5234
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-10-25T00:03:01+00:00",
-    "source": "Telegram: Colonel Cassad",
-    "metadata": {
-      "telegramChannel": "boris_rozhin",
-      "telegramChannelName": "Colonel Cassad",
-      "telegramPostId": "boris_rozhin/230905",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/boris_rozhin/230905",
-      "region": "Kyiv"
-    },
-    "lastUpdated": "2026-10-25T00:04:45.037Z",
-    "createdAt": "2026-10-25T00:04:45.037Z"
-  },
-  {
-    "id": "tg-RVvoenkor-125654",
-    "type": "battle",
-    "title": "‼️🇷🇺🏴‍☠️Жуткие кадры: враг атакует Белгород",
-    "description": "‼️🇷🇺🏴‍☠️Жуткие кадры: враг атакует Белгород\n\n▪️Продолжается налёт БПЛА, в городе серия прилетов по мирным объектам.\n➖Белгород подвергся массированной атаке БПЛА. По предварительной информации, есть пострадавшие, сообщает Оперштаб Белгородской области.\n⚠️Подписаться на RV: MAX | t.me/RVvoenkor",
-    "location": {
-      "lat": 50.5945,
-      "lng": 36.5872
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-10-24T22:20:36+00:00",
-    "source": "Telegram: Operation Z (RV)",
-    "metadata": {
-      "telegramChannel": "RVvoenkor",
-      "telegramChannelName": "Operation Z (RV)",
-      "telegramPostId": "RVvoenkor/125654",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/RVvoenkor/125654",
-      "region": "Belgorod Oblast"
-    },
-    "lastUpdated": "2026-10-25T00:04:48.567Z",
-    "createdAt": "2026-10-25T00:04:48.567Z"
-  },
-  {
-    "id": "tg-voenkorKotenok-76894",
-    "type": "strike",
-    "title": "Украинские СМИ цитируют мнение \"старшего лейтенанта\" ВСУ с позывным \"Алекс\", кот",
-    "description": "Украинские СМИ цитируют мнение \"старшего лейтенанта\" ВСУ с позывным \"Алекс\", который признался, что русские нашли, как противостоять ударным БпЛА \"Hornet\", которым противник пытался терроризировать оперативные тылы нашей армии, сухопутный коридор в Крым и регионы, вернувшиеся в состав России.\n\nБандеровец написал, что минувшим летом вокруг дронов \"Hornet\", которые были на пике популярности, возникли \"неадекватный ажиотаж и мания\".\n\n\"В войне, где все тренды меняются каждые несколько месяцев, не ст",
-    "location": {
-      "lat": 44.9521,
-      "lng": 34.1024
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-10-24T21:38:32+00:00",
-    "source": "Telegram: Voenkor Kotenok",
-    "metadata": {
-      "telegramChannel": "voenkorKotenok",
-      "telegramChannelName": "Voenkor Kotenok",
-      "telegramPostId": "voenkorKotenok/76894",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/voenkorKotenok/76894",
-      "region": "Crimea"
-    },
-    "lastUpdated": "2026-10-25T00:04:50.301Z",
-    "createdAt": "2026-10-25T00:04:50.301Z"
-  },
-  {
-    "id": "tg-voenkorKotenok-76896",
-    "type": "battle",
-    "title": "Противник атакует Белгород.",
-    "description": "Противник атакует Белгород.\n\nЕсть раненые среди мирных жителей.\n\nРаботает ПВО. Много сбитых целей.\n\nПодпишись в MAX\n@voenkorKotenok",
-    "location": {
-      "lat": 50.5945,
-      "lng": 36.5872
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-10-24T22:36:18+00:00",
-    "source": "Telegram: Voenkor Kotenok",
-    "metadata": {
-      "telegramChannel": "voenkorKotenok",
-      "telegramChannelName": "Voenkor Kotenok",
-      "telegramPostId": "voenkorKotenok/76896",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/voenkorKotenok/76896",
-      "region": "Belgorod Oblast"
-    },
-    "lastUpdated": "2026-10-25T00:04:50.301Z",
-    "createdAt": "2026-10-25T00:04:50.301Z"
-  },
-  {
-    "id": "tg-swodki-629502",
-    "type": "battle",
-    "title": "Один человек погиб, еще пять мирных жителей Донецкой Республики пострадали сегод",
-    "description": "Один человек погиб, еще пять мирных жителей Донецкой Республики пострадали сегодня из-за атак ударных БПЛА ВФУ\n\n📍На автодороге вблизи Старомихайловки городского округа Донецк при атаке на легковой автомобиль погиб мужчина 1986 г.р.\n\n📍В Зуевке городского округа Харцызск в результате атаки на жилой дом тяжело ранен мужчина 1983 г.р.\n\n📍 В Горняцком районе Макеевки во время атаки на жилой дом пострадала супружеская пара: женщина 1961 г.р. и мужчина 1954 г.р. \n\n📍В Васильевке Старобешевского муниц",
-    "location": {
-      "lat": 48.0159,
-      "lng": 37.8028
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-10-24T21:20:22+00:00",
-    "source": "Telegram: SWODKI",
-    "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/629502",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/swodki/629502",
-      "region": "Donetsk Oblast"
-    },
-    "lastUpdated": "2026-10-25T00:04:53.843Z",
-    "createdAt": "2026-10-25T00:04:53.843Z"
-  },
-  {
-    "id": "tg-swodki-629503",
-    "type": "strategic",
-    "title": "Ещё одно косвенное подтверждение вероятных скорых ударов по Ирану",
-    "description": "Ещё одно косвенное подтверждение вероятных скорых ударов по Ирану\n\nВ социальных сетях утверждают: видео, опубликованное Центральным командованием США, на котором видно, как взлетает истребитель F-35, было снято на базе Овда на юге Израиля.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-10-24T21:31:22+00:00",
-    "source": "Telegram: SWODKI",
-    "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/629503",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/swodki/629503",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-10-25T00:04:53.843Z",
-    "createdAt": "2026-10-25T00:04:53.843Z"
-  },
-  {
-    "id": "tg-swodki-629505",
-    "type": "strike",
-    "title": "Статистика официальных поставок на Украину ракет-перехватчиков для систем Patrio",
-    "description": "Статистика официальных поставок на Украину ракет-перехватчиков для систем Patriot демонстрирует явную тенденцию к снижению: \n\n2023 год  - 675 ракет, \n2025 год— 364 ракеты, \n2026 год - предусмотрена и запланирована поставка всего 264 ракет (модификаций PAC-2 и PAC-3).",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-10-24T21:40:16+00:00",
-    "source": "Telegram: SWODKI",
-    "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/629505",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/swodki/629505",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-10-25T00:04:53.843Z",
-    "createdAt": "2026-10-25T00:04:53.843Z"
-  },
-  {
-    "id": "tg-swodki-629507",
-    "type": "battle",
-    "title": "❗️Противник атакует Белгород.",
-    "description": "❗️Противник атакует Белгород.\n\nЕсть раненые среди мирных жителей.\n\nРаботает ПВО. Много сбитых целей.",
-    "location": {
-      "lat": 50.5945,
-      "lng": 36.5872
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-10-24T22:41:04+00:00",
-    "source": "Telegram: SWODKI",
-    "metadata": {
-      "telegramChannel": "swodki",
-      "telegramChannelName": "SWODKI",
-      "telegramPostId": "swodki/629507",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/swodki/629507",
-      "region": "Belgorod Oblast"
-    },
-    "lastUpdated": "2026-10-25T00:04:53.843Z",
-    "createdAt": "2026-10-25T00:04:53.843Z"
-  },
-  {
-    "id": "tg-epoddubny-29622",
-    "type": "battle",
-    "title": "Белгород подвергся массированной атаке БПЛА. ",
-    "description": "Белгород подвергся массированной атаке БПЛА. \n\nПо данным регионального оперштаба – есть последствия на земле. Информация о пострадавших уточняется.\n\nПодпишись ТГ / Подпишись МАХ",
-    "location": {
-      "lat": 50.5945,
-      "lng": 36.5872
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-10-24T22:44:36+00:00",
-    "source": "Telegram: Poddubny ZOV",
-    "metadata": {
-      "telegramChannel": "epoddubny",
-      "telegramChannelName": "Poddubny ZOV",
-      "telegramPostId": "epoddubny/29622",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/epoddubny/29622",
-      "region": "Belgorod Oblast"
-    },
-    "lastUpdated": "2026-10-25T00:04:57.463Z",
-    "createdAt": "2026-10-25T00:04:57.463Z"
-  },
-  {
-    "id": "tg-SolovievLive-390058",
-    "type": "strategic",
-    "title": "🖥️ «Возможно, даже завтра», — заявил Трамп, отвечая на вопрос журналиста о возм",
-    "description": "🖥️ «Возможно, даже завтра», — заявил Трамп, отвечая на вопрос журналиста о возможных сроках удара США по Ирану. Сам вопрос он назвал глупым, отметив, что Вашингтон рассматривает и силовой сценарий, и вероятность заключения сделки с Тегераном.\n\n– Насколько близок возможный удар по Ирану?\n\n– Вы правда думаете, что я вам это скажу? Спрашивать, конечно, можно. Я понимаю. Но неужели кто-нибудь из The Wall Street Journal может задать настолько глупый вопрос? Насколько я близок? Скажу вам так: мы обду",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-10-24T21:38:01+00:00",
-    "source": "Telegram: Solovyov Live",
-    "metadata": {
-      "telegramChannel": "SolovievLive",
-      "telegramChannelName": "Solovyov Live",
-      "telegramPostId": "SolovievLive/390058",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/SolovievLive/390058",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-10-25T00:04:59.232Z",
-    "createdAt": "2026-10-25T00:04:59.232Z"
-  },
-  {
-    "id": "tg-SolovievLive-390060",
-    "type": "battle",
-    "title": "❗️ Белгород подвергся массированной атаке БПЛА, предварительно, есть пострадавши",
-    "description": "❗️ Белгород подвергся массированной атаке БПЛА, предварительно, есть пострадавшие, сообщил оперштаб Белгородской области.",
-    "location": {
-      "lat": 50.5945,
-      "lng": 36.5872
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-10-24T22:41:02+00:00",
-    "source": "Telegram: Solovyov Live",
-    "metadata": {
-      "telegramChannel": "SolovievLive",
-      "telegramChannelName": "Solovyov Live",
-      "telegramPostId": "SolovievLive/390060",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/SolovievLive/390060",
-      "region": "Belgorod Oblast"
-    },
-    "lastUpdated": "2026-10-25T00:04:59.233Z",
-    "createdAt": "2026-10-25T00:04:59.233Z"
-  },
-  {
-    "id": "tg-SolovievLive-390062",
-    "type": "strategic",
-    "title": "🖥️ Ким Чен Ын совершил неожиданный визит в Китай, перейдя границу по новому мос",
-    "description": "🖥️ Ким Чен Ын совершил неожиданный визит в Китай, перейдя границу по новому мосту через Ялу\n\nСеверокорейский лидер в субботу, 24 октября, совершил незапланированную поездку в китайский приграничный город Даньдун. Для этого он пересек реку Ялу по новому мосту, который был официально открыт неделю назад. Об этом сообщили китайские государственные СМИ.\n\nПо данным  Синьхуа, высокопоставленный китайский чиновник Ван Хунин, занимающий четвёртую строчку в партийной иерархии КНР, сопровождал Ким Чен Ын",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-10-24T23:28:28+00:00",
-    "source": "Telegram: Solovyov Live",
-    "metadata": {
-      "telegramChannel": "SolovievLive",
-      "telegramChannelName": "Solovyov Live",
-      "telegramPostId": "SolovievLive/390062",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/SolovievLive/390062",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-10-25T00:04:59.233Z",
-    "createdAt": "2026-10-25T00:04:59.233Z"
-  },
-  {
-    "id": "tg-SolovievLive-390063",
-    "type": "battle",
-    "title": "❗️Центр Белгорода подвергся массированной атаке БПЛА,  сообщил мэр города Валент",
-    "description": "❗️Центр Белгорода подвергся массированной атаке БПЛА,  сообщил мэр города Валентин Демидов. По данным  оперштаба Белгородской области, один человек погиб, еще десять ранены, среди них сотрудник скорой помощи.\n \n«Зафиксированы значительные разрушения жилого фонда, повреждены автомобили, социальные и коммерческие объекты, – сообщил Демидов.\n\nФото: Telegram-канал ДЕМИДОВ\n\n🇷🇺 Подпишись на Соловьёва&#33;",
-    "location": {
-      "lat": 50.5945,
-      "lng": 36.5872
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-10-24T23:58:21+00:00",
-    "source": "Telegram: Solovyov Live",
-    "metadata": {
-      "telegramChannel": "SolovievLive",
-      "telegramChannelName": "Solovyov Live",
-      "telegramPostId": "SolovievLive/390063",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/SolovievLive/390063",
-      "region": "Belgorod Oblast"
-    },
-    "lastUpdated": "2026-10-25T00:04:59.233Z",
-    "createdAt": "2026-10-25T00:04:59.233Z"
-  },
-  {
-    "id": "tg-voenacher-98053",
-    "type": "battle",
-    "title": "Оперштаб Белгородской области:",
-    "description": "Оперштаб Белгородской области:\nБелгород подвергся массированной атаке БПЛА. По предварительной информации, есть пострадавшие.",
-    "location": {
-      "lat": 50.5945,
-      "lng": 36.5872
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-10-24T22:28:05+00:00",
-    "source": "Telegram: Turned on Z War",
-    "metadata": {
-      "telegramChannel": "voenacher",
-      "telegramChannelName": "Turned on Z War",
-      "telegramPostId": "voenacher/98053",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/voenacher/98053",
-      "region": "Belgorod Oblast"
-    },
-    "lastUpdated": "2026-10-25T00:05:02.968Z",
-    "createdAt": "2026-10-25T00:05:02.968Z"
-  },
-  {
-    "id": "tg-tassagency_en-96756",
-    "type": "strike",
-    "title": "❗️Conflict Overview: Day 238",
-    "description": "❗️Conflict Overview: Day 238\n&nbsp;\n▪️Egypt, Pakistan, Saudi Arabia and Turkey have called for an&nbsp;urgent and full resumption of&nbsp;shipping in&nbsp;the Strait of&nbsp;Hormuz, they said in&nbsp;a&nbsp;joint statement of&nbsp;the foreign ministers after a&nbsp;meeting in&nbsp;Istanbul\n&nbsp;\n▪️Iran has proposed reopening shipping in&nbsp;the Strait of&nbsp;Hormuz to&nbsp;the United States in&nbsp;exchange for lifting the US&nbsp;blockade on&nbsp;the Islamic Republic’s ports, Al&nbsp;Arabiya",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-10-24T21:47:01+00:00",
-    "source": "Telegram: TASS English",
-    "metadata": {
-      "telegramChannel": "tassagency_en",
-      "telegramChannelName": "TASS English",
-      "telegramPostId": "tassagency_en/96756",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/tassagency_en/96756",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-10-25T00:05:21.497Z",
-    "createdAt": "2026-10-25T00:05:21.497Z"
-  },
-  {
-    "id": "tg-tassagency_en-96758",
-    "type": "strategic",
-    "title": "US President Donald Trump admitted that he might decide to launch new strikes ag",
-    "description": "US President Donald Trump admitted that he might decide to launch new strikes against Iran if Washington and Tehran fail to reach a deal.\n\n“There’s a possibility I will. There&#39;s also a possibility we&#39;ll have a nice, big, beautiful agreement,” the US leader told reporters.\n\n“I may have to finish Iran off, or maybe they&#39;ll make a deal. But I&#39;m not sure. Either way, we win,” he emphasized.",
-    "location": {
-      "lat": 48.5,
-      "lng": 37
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-10-24T22:35:19+00:00",
-    "source": "Telegram: TASS English",
-    "metadata": {
-      "telegramChannel": "tassagency_en",
-      "telegramChannelName": "TASS English",
-      "telegramPostId": "tassagency_en/96758",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/tassagency_en/96758",
-      "region": "Unspecified"
-    },
-    "lastUpdated": "2026-10-25T00:05:21.497Z",
-    "createdAt": "2026-10-25T00:05:21.497Z"
-  },
-  {
-    "id": "tg-tassagency_en-96759",
-    "type": "strike",
-    "title": "❗️️️️️️️Ukraine subjected Russia&#39;s Belgorod to a massive drone attack, resul",
-    "description": "❗️️️️️️️Ukraine subjected Russia&#39;s Belgorod to a massive drone attack, resulting in casualties, the regional emergency headquarters reported.\n\nAccording to its statement, emergency services have been dispatched to the scene.",
-    "location": {
-      "lat": 50.5945,
-      "lng": 36.5872
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-10-24T22:44:57+00:00",
-    "source": "Telegram: TASS English",
-    "metadata": {
-      "telegramChannel": "tassagency_en",
-      "telegramChannelName": "TASS English",
-      "telegramPostId": "tassagency_en/96759",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/tassagency_en/96759",
-      "region": "Belgorod Oblast"
-    },
-    "lastUpdated": "2026-10-25T00:05:21.497Z",
-    "createdAt": "2026-10-25T00:05:21.497Z"
-  },
-  {
-    "id": "tg-tassagency_en-96763",
-    "type": "strike",
-    "title": "❗️️️️️️️Ukraine subjected Russia&#39;s Belgorod to a massive drone attack, resul",
-    "description": "❗️️️️️️️Ukraine subjected Russia&#39;s Belgorod to a massive drone attack, resulting in casualties, the regional emergency headquarters reported.  According to its statement, emergency services have been dispatched to the scene.",
-    "location": {
-      "lat": 50.5945,
-      "lng": 36.5872
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-10-24T23:48:24+00:00",
-    "source": "Telegram: TASS English",
-    "metadata": {
-      "telegramChannel": "tassagency_en",
-      "telegramChannelName": "TASS English",
-      "telegramPostId": "tassagency_en/96763",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/tassagency_en/96763",
-      "region": "Belgorod Oblast"
-    },
-    "lastUpdated": "2026-10-25T00:05:21.497Z",
-    "createdAt": "2026-10-25T00:05:21.497Z"
-  },
-  {
-    "id": "tg-tassagency_en-96764",
-    "type": "strike",
-    "title": "❗️️️️️️️The center of Belgorod in western Russia came under a massive Ukrainian ",
-    "description": "❗️️️️️️️The center of Belgorod in western Russia came under a massive Ukrainian drone strike, which caused significant damage and casualties, Mayor Valentin Demidov reported.  “The enemy launched a massive drone strike on residential neighborhoods in the city…",
-    "location": {
-      "lat": 50.5945,
-      "lng": 36.5872
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-10-25T00:04:21+00:00",
-    "source": "Telegram: TASS English",
-    "metadata": {
-      "telegramChannel": "tassagency_en",
-      "telegramChannelName": "TASS English",
-      "telegramPostId": "tassagency_en/96764",
-      "bias": "pro-russian",
-      "weight": 2,
-      "telegramUrl": "https://t.me/tassagency_en/96764",
-      "region": "Belgorod Oblast"
-    },
-    "lastUpdated": "2026-10-25T00:05:21.497Z",
-    "createdAt": "2026-10-25T00:05:21.497Z"
-  },
-  {
-    "id": "tg-anna_news-95609",
-    "type": "strategic",
-    "title": "Харьковский ТЦКшник вооружился ветеринарным ружьем для ловли мобилизованных",
-    "description": "Харьковский ТЦКшник вооружился ветеринарным ружьем для ловли мобилизованных\n\nВетеринарное ружье предназначено для стрельбы усыпляющими дротиками по диким животным. Но на глаза харьковчанам попал местный военком, вооружившийся таким ружьем. По всей видимости, он рассчитывает добыть с помощью него как минимум «водителя Абрамса».\n\nЛайвхiк",
-    "location": {
-      "lat": 49.9935,
-      "lng": 36.2304
-    },
-    "status": "developing",
-    "severity": 5,
-    "startDate": "2026-10-24T22:43:36+00:00",
-    "source": "Telegram: Anna News",
-    "metadata": {
-      "telegramChannel": "anna_news",
-      "telegramChannelName": "Anna News",
-      "telegramPostId": "anna_news/95609",
-      "bias": "pro-russian",
-      "weight": 1,
-      "telegramUrl": "https://t.me/anna_news/95609",
-      "region": "Kharkiv Oblast"
-    },
-    "lastUpdated": "2026-10-25T00:05:25.052Z",
-    "createdAt": "2026-10-25T00:05:25.052Z"
   }
 ]
